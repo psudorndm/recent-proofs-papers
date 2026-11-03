@@ -1,0 +1,1 @@
+Abstract. We present a fast and secure mental poker protocol. It is twice as fast as Barnett-Smart's and Castellà-Roca's protocols. This protocol is provably secure under DDH assumption.

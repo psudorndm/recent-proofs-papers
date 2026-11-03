@@ -1,0 +1,1 @@
+A revised version will be uploaded later. In this Letter, it is shown that the one-time-pad key in the Vernam cipher can be repeatedly used with unconditional security using quantum media. The security proof is given with two explicit protocols, and the error rate threshold is analyzed.

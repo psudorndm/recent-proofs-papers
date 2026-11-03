@@ -1,0 +1,1 @@
+We present a new encoder for hiding parameters in an interval membership function. As an application, we design a simple and efficient virtual black-box obfuscator for evasive decision trees. The security of our construction is proved in the random oracle model. Our goal is to increase the class of programs that have practical and cryptographically secure obfuscators.

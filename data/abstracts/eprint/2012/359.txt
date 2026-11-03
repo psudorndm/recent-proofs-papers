@@ -1,0 +1,1 @@
+We argue that it is unnatural and undesirable to use the non-uniform model of complexity for practice-oriented security reductions in cryptography.

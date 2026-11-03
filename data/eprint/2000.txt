@@ -4,11 +4,11 @@ How to Encrypt Long Messages without Large Size Symmetric/Asymmetric Encryption 
 RSA-OAEP is Secure under the RSA Assumption;;;Eiichiro Fujisaki, Tatsuaki Okamoto, David Pointcheval, Jacques Stern;;;2000/061;;;none;;;2000-11-27;;;security
 OAEP Reconsidered;;;Victor Shoup;;;2000/060;;;none;;;2000-11-18;;;security
 A Complete Problem for Statistical Zero Knowledge;;;Amit Sahai, Salil Vadhan;;;2000/056;;;none;;;2000-10-31;;;proofs
-Efficient Zero-Knowledge Proofs of Knowledge Without Intractability Assumptions;;;Ronald Cramer, Ivan Damgård, Philip MacKenzie;;;2000/045;;;none;;;2000-09-12;;;proofs
+Efficient Zero-Knowledge Proofs of Knowledge Without Intractability Assumptions;;;Ronald Cramer, Ivan Damgård, Philip MacKenzie;;;2000/045;;;none;;;2000-09-12;;;proofs/zk-protocols/group
 Provably Secure Password-Authenticated Key Exchange Using Diffie-Hellman;;;Victor Boyko, Philip MacKenzie, Sarvar Patel;;;2000/044;;;none;;;2000-09-12;;;security
 Random Oracles in Constantinople: Practical Asynchronous Byzantine Agreement using Cryptography;;;Christian Cachin, Klaus Kursawe, Victor Shoup;;;2000/034;;;none;;;2000-07-16;;;security
 Authentication and Key Agreement via Memorable Password;;;Taekyoung Kwon;;;2000/026;;;none;;;2000-06-05;;;proofs
 Authenticated Encryption: Relations among notions and analysis of the generic composition paradigm;;;Mihir Bellare, Chanathip Namprempre;;;2000/025;;;none;;;2000-05-29;;;security
 Concurrent Zero-Knowledge in Poly-logarithmic Rounds;;;Joe Kilian, Erez Petrank;;;2000/013;;;none;;;2000-04-24;;;proofs
-Efficient Protocols based on Probabilistic Encryption using Composite Degree Residue Classes;;;Ivan Damgård, Mads Jurik;;;2000/008;;;none;;;2000-03-23;;;proofs
+Efficient Protocols based on Probabilistic Encryption using Composite Degree Residue Classes;;;Ivan Damgård, Mads Jurik;;;2000/008;;;none;;;2000-03-23;;;proofs/applications
 A New Forward-Secure Digital Signature Scheme;;;Michel Abdalla, Leonid Reyzin;;;2000/002;;;none;;;2000-03-07;;;security

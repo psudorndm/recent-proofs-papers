@@ -1,0 +1,1 @@
+We describe a one-time signature scheme based on the hardness of the syndrome decoding problem, and prove it secure in the random oracle model. Our proposal can be instantiated on general linear error correcting codes, rather than restricted families like alternant codes for which a decoding trapdoor is known to exist.

@@ -1,0 +1,1 @@
+We give the first construction of statistical Zaps. Our construction satisfies computational soundness and relies on the quasi-polynomial hardness of learning with errors assumption.

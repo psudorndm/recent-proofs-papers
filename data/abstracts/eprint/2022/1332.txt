@@ -1,0 +1,1 @@
+In this paper, we prove that the classic three-round protocol for MPC Schnorr Signatures is fully-adaptive UC-secure. Furthermore, we show that a simple variant of the Classic protocol achieves tight security, i.e.~the security of the resulting, modified, protocol tightly reduces to the security of the underlying non-MPC scheme.

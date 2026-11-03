@@ -1,0 +1,1 @@
+This note contains a security reduction to demonstrate that Langley's composition of Bernstein's ChaCha20 and Poly1305, as proposed for use in IETF protocols, is a secure authenticated encryption scheme. The reduction assumes that ChaCha20 is a PRF, that Poly1305 is epsilon-almost-Delta-universal, and that the adversary is nonce respecting.

@@ -37,7 +37,7 @@ Physically Observable Cryptography;;;Silvio Micali, Leonid Reyzin;;;2003/120;;;n
 Accumulating Composites and Improved Group Signing;;;Gene Tsudik, Shouhuai Xu;;;2003/112;;;none;;;2003-06-03;;;security
 Fujisaki-Okamoto IND-CCA hybrid encryption revisited;;;David Galindo, Sebastià Mart\'ın, Paz Morillo, Jorge L. Villar;;;2003/107;;;none;;;2003-05-29;;;security
 CWC: A high-performance conventional authenticated encryption mode;;;Tadayoshi Kohno, John Viega, Doug Whiting;;;2003/106;;;none;;;2003-05-29;;;security
-On Diophantine Complexity and Statistical Zero-Knowledge Arguments;;;Helger Lipmaa;;;2003/105;;;none;;;2003-05-29;;;proofs
+On Diophantine Complexity and Statistical Zero-Knowledge Arguments;;;Helger Lipmaa;;;2003/105;;;none;;;2003-05-29;;;proofs/applications
 Secure Proxy Signature Schemes for Delegation of Signing Rights;;;Alexandra Boldyreva, Adriana Palacio, Bogdan Warinschi;;;2003/096;;;none;;;2003-05-21;;;security
 A Practical Elliptic Curve Public Key Encryption Scheme Provably Secure Against Adaptive Chosen-message Attack;;;huafei zhu;;;2003/087;;;none;;;2003-05-07;;;security
 A Forward-Secure Public-Key Encryption Scheme;;;Ran Canetti, Shai Halevi, Jonathan Katz;;;2003/083;;;none;;;2003-05-01;;;security

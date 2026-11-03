@@ -1,0 +1,1 @@
+We show that the Double Coset Membership problem for permutation groups possesses perfect zero-knowledge proofs.

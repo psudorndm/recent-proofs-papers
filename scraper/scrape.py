@@ -17,10 +17,16 @@ line, newest first, plus data/index.json listing the files:
   - id          arXiv id (e.g. 2501.01234) or ePrint id (e.g. 2026/0421)
   - repo        source-code URL if we could find one, else "none"
   - date        YYYY-MM-DD (announced / submitted date)
-  - categories  comma-separated subset of {proofs, security, formal}
+  - categories  comma-separated topic paths from taxonomy.toml, deepest
+                matches only, e.g. proofs/pcs/lattice,security
+
+Abstracts are kept one per file: data/abstracts/<source>/<id>.txt (an arXiv id
+2611.02819 is stored as 2611/02819.txt). data/taxonomy.json is the topic tree
+for the page. Every run re-tags all stored papers with taxonomy.toml.
 
 Run:  python scrape.py            # merge the last 30 days into data/
       python scrape.py --full     # re-harvest everything and replace data/
+      python scrape.py --no-fetch # only re-tag stored papers (after editing taxonomy.toml)
 """
 
 import argparse
@@ -53,161 +59,30 @@ USER_AGENT = "proofs-papers/1.0 (recent proof systems, security proofs & formal 
 DEFAULT_LOOKBACK_DAYS = 30
 
 # --------------------------------------------------------------------------
-# Keyword / topic matching
+# Topic matching: the hierarchy and its keywords live in taxonomy.toml
+# (loaded and applied by scraper/taxonomy.py).
 # --------------------------------------------------------------------------
-#
-# Each entry is a compiled regular expression. A paper is tagged with a
-# category if ANY of that category's patterns match its title or abstract.
-# Formal-verification tools (Coq, Isabelle, ...) also appear in work that has
-# nothing to do with cryptography, so that category additionally requires a
-# cryptographic context phrase.
 
-def _ci(*words):
-    """Case-insensitive patterns: safe for descriptive multi-word phrases."""
-    return [re.compile(w, re.IGNORECASE) for w in words]
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import taxonomy  # noqa: E402
+
+_TOPICS = None
 
 
-def _cs(*words):
-    """Case-sensitive patterns: for acronyms / tool names that would
-    otherwise collide with ordinary words (e.g. STARK vs. 'stark',
-    Lean vs. 'lean', Squirrel vs. 'squirrel')."""
-    return [re.compile(w) for w in words]
-
-
-# Proof systems: zero knowledge, succinct arguments, IOPs/PCPs, commitments,
-# folding/recursion, and proving infrastructure.
-PROOFS_CI = _ci(
-    r"zero[- ]?knowledge",
-    r"zk[- ]?snarks?",
-    r"\bsnarks?\b",
-    r"\bsnargs?\b",
-    r"succinct (non[- ]interactive )?arguments?",
-    r"(proofs?|arguments?) of knowledge",
-    r"interactive oracle proofs?",
-    r"interactive proofs?",
-    r"probabilistically[- ]checkable proofs?",
-    r"polynomial commitments?",
-    r"inner[- ]product arguments?",
-    r"sum[- ]?check",
-    r"folding schemes?",
-    r"accumulation schemes?",
-    r"recursive (proofs?|snarks?|arguments?|proof composition)",
-    r"proof[- ]carrying data",
-    r"incrementally verifiable computation",
-    r"(mpc|vole)[- ]in[- ]the[- ]head",
-    r"sigma[- ]protocols?",
-    r"lookup arguments?",
-    r"verifiable computation",
-    r"zk[- ]?vms?",
-    r"zk[- ]?rollups?",
-)
-
-PROOFS_CS = _cs(
-    r"\b(zk-?)?STARKs?\b",
-    r"\bNIZKs?\b",
-    r"\bPLONK(ish)?\b",
-    r"\bGroth16\b",
-    r"\bBulletproofs?\b",
-    r"\bGKR\b",
-    r"\bFRI\b",
-    r"\bR1CS\b",
-    r"\bHalo2\b",
-)
-
-# Security proofs and protocol analysis: reductions, security models, and
-# provable security of schemes and protocols.
-SECURITY_CI = _ci(
-    r"security proofs?",
-    r"proofs? of security",
-    r"provabl[ey] secur",
-    r"provable security",
-    r"security reductions?",
-    r"tight(ly)?[- ]secure",
-    r"tight (security|reductions?)",
-    r"random[- ]oracle model",
-    r"quantum random[- ]oracle",
-    r"universal(ly)? composab",
-    r"simulation[- ]based security",
-    r"game[- ]based (security|proofs?)",
-    r"standard model",
-    r"generic group model",
-    r"algebraic group model",
-    r"computational soundness",
-    r"security (model|definitions?|notions?) for",
-    r"formal security analysis",
-)
-
-SECURITY_CS = _cs(
-    r"\bIND-(CCA2?|CPA)\b",
-    r"\b(s?EUF|SUF)-CMA\b",
-    r"\bQROM\b",
-    r"\bUC[- ]secure\b",
-)
-
-# Formal verification of cryptographic designs, protocols, and implementations.
-FORMAL_CI = _ci(
-    r"formal(ly)? verif",
-    r"mechani[sz]ed (security )?(proofs?|verification)",
-    r"machine[- ]checked",
-    r"proof assistants?",
-    r"verified implementations?",
-    r"verified compil",
-    r"symbolic (protocol )?(analysis|model|verification|security)",
-    r"dolev[- ]yao",
-    r"computationally sound",
-    r"formal (analysis|methods?)",
-)
-
-FORMAL_CS = _cs(
-    r"\bTamarin\b",
-    r"\bProVerif\b",
-    r"\bCryptoVerif\b",
-    r"\bEasyCrypt\b",
-    r"\bCoq\b",
-    r"\bRocq\b",
-    r"\bIsabelle\b",
-    r"\bSSProve\b",
-    r"\bSquirrel\b",
-    r"\bDeepSec\b",
-    r"\bJasmin\b",
-    r"\bHACL\*",
-    r"\bF\*",
-    r"\bLean 4\b",
-)
-
-# Required alongside a formal-verification match.
-CRYPTO_CONTEXT = _ci(
-    r"crypt",
-    r"protocols?",
-    r"secur",
-    r"authenticat",
-    r"signatures?",
-    r"encrypt",
-    r"key (exchange|agreement|encapsulation)",
-    r"zero[- ]?knowledge",
-)
-# Protocol names also count as cryptographic context (case-sensitive).
-CRYPTO_CONTEXT_CS = [re.compile(r"\b(TLS|SSH|QUIC|IPsec|WireGuard|Kerberos|MLS|EMV)\b")]
-
-GITHUB_RE = re.compile(r"https?://(?:www\.)?(?:github\.com|gitlab\.com|bitbucket\.org)/[^\s)\]\}<>\"']+",
-                       re.IGNORECASE)
-
-
-def _matches(text, ci_patterns, cs_patterns=()):
-    return (any(p.search(text) for p in ci_patterns) or
-            any(p.search(text) for p in cs_patterns))
+def topics():
+    global _TOPICS
+    if _TOPICS is None:
+        _TOPICS = taxonomy.load()
+    return _TOPICS
 
 
 def classify(text):
-    """Return the set of categories ({'proofs','security','formal'}) matched by text."""
-    cats = set()
-    if _matches(text, PROOFS_CI, PROOFS_CS):
-        cats.add("proofs")
-    if _matches(text, SECURITY_CI, SECURITY_CS):
-        cats.add("security")
-    if _matches(text, FORMAL_CI, FORMAL_CS) and _matches(text, CRYPTO_CONTEXT, CRYPTO_CONTEXT_CS):
-        cats.add("formal")
-    return cats
+    """Deepest matching topic paths, e.g. {"proofs/pcs/lattice", "security"}."""
+    return taxonomy.classify(topics(), text)
+
+
+GITHUB_RE = re.compile(r"https?://(?:www\.)?(?:github\.com|gitlab\.com|bitbucket\.org)/[^\s)\]\}<>\"']+",
+                       re.IGNORECASE)
 
 
 def find_repo(text):
@@ -256,18 +131,9 @@ OS_NS = {"os": "http://a9.com/-/spec/opensearch/1.1/"}
 
 def arxiv_query_string():
     """Build the OR-joined keyword query, scoped to relevant categories."""
-    # Phrase-level terms arXiv can match server-side. We keep this list a
-    # touch broader than the regexes; the regexes re-filter afterwards.
-    terms = [
-        "zero-knowledge", "zero knowledge", "SNARK", "STARK", "succinct argument",
-        "proof of knowledge", "interactive oracle proof", "interactive proof",
-        "probabilistically checkable proof", "polynomial commitment", "sumcheck",
-        "folding scheme", "proof-carrying data", "verifiable computation", "zkVM",
-        "security proof", "provably secure", "provable security", "security reduction",
-        "random oracle model", "universal composability", "simulation-based security",
-        "formal verification", "mechanized proof", "verified implementation",
-        "symbolic analysis", "Tamarin", "ProVerif", "CryptoVerif", "EasyCrypt",
-    ]
+    # Phrases arXiv matches server-side (arxiv_terms in taxonomy.toml). They are
+    # a little broader than the patterns, which re-filter the results.
+    terms = [t for topic in topics() for t in topic.arxiv_terms]
     abs_q = " OR ".join(f'abs:"{t}"' for t in terms)
     cat_q = " OR ".join(f"cat:{c}" for c in ARXIV_CATEGORIES)
     return f"({cat_q}) AND ({abs_q})"
@@ -333,7 +199,7 @@ def _fetch_arxiv_query(search, cutoff):
 
             raw_id = e.findtext("a:id", default="", namespaces=ATOM_NS)
             # e.g. http://arxiv.org/abs/2501.01234v2  ->  2501.01234
-            m = re.search(r"abs/([^v]+?)(v\d+)?$", raw_id)
+            m = re.search(r"abs/(.+?)(v\d+)?$", raw_id)
             if not m:
                 continue
             aid = m.group(1)
@@ -357,6 +223,7 @@ def _fetch_arxiv_query(search, cutoff):
                 "repo": repo,
                 "date": pdate,
                 "cats": cats,
+                "abstract": summary,
             }
 
         start += page
@@ -432,6 +299,7 @@ def fetch_eprint(now, lookback_days=None):
                 "repo": repo,
                 "date": pdate,
                 "cats": cats,
+                "abstract": abstract,
             }
 
         token_el = root.find(".//oai:resumptionToken", OAI_NS)
@@ -503,6 +371,44 @@ def save_store(source_dir, papers):
     return counts
 
 
+def abstract_path(data_dir, source, pid):
+    """data/abstracts/eprint/2026/2683.txt, data/abstracts/arxiv/2611/02819.txt
+    (old-style arXiv ids such as cs/0101001 already contain a slash)."""
+    rel = pid if "/" in pid else pid.replace(".", "/", 1)
+    return data_dir / "abstracts" / source / (rel + ".txt")
+
+
+def read_abstract(data_dir, source, pid):
+    """The stored abstract ("" if the paper has none), or None if not stored."""
+    try:
+        return abstract_path(data_dir, source, pid).read_text(encoding="utf-8").strip()
+    except FileNotFoundError:
+        return None
+
+
+def write_abstract(data_dir, source, pid, text):
+    path = abstract_path(data_dir, source, pid)
+    content = text + "\n"
+    if path.exists() and path.read_text(encoding="utf-8") == content:
+        return
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(content, encoding="utf-8")
+
+
+def prune_abstracts(data_dir, source, keep_ids):
+    """Delete abstracts of papers that are no longer stored."""
+    base = data_dir / "abstracts" / source
+    if not base.exists():
+        return
+    keep = {abstract_path(data_dir, source, pid) for pid in keep_ids}
+    for f in base.rglob("*.txt"):
+        if f not in keep:
+            f.unlink()
+    for d in sorted((d for d in base.rglob("*") if d.is_dir()), reverse=True):
+        if not any(d.iterdir()):
+            d.rmdir()
+
+
 def write_index(data_dir, now):
     """data/index.json lists the year files of each source and their sizes."""
     index = {"updated": now.isoformat()}
@@ -515,6 +421,26 @@ def write_index(data_dir, now):
 SOURCES = ("eprint", "arxiv")
 
 
+def retag(data_dir, source, papers):
+    """Apply the current taxonomy to every paper. Returns (kept, dropped ids).
+    Papers whose abstract was never stored keep their current topics."""
+    kept, dropped = {}, []
+    for pid, p in papers.items():
+        abstract = p.get("abstract")
+        if abstract is None:
+            abstract = read_abstract(data_dir, source, pid)
+        if abstract is None:
+            kept[pid] = p
+            continue
+        cats = classify(p["title"] + " " + abstract)
+        if cats:
+            p["cats"] = cats
+            kept[pid] = p
+        else:
+            dropped.append(pid)
+    return kept, dropped
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -522,31 +448,57 @@ def main():
                     help="update window in days (default: %(default)s)")
     ap.add_argument("--full", action="store_true",
                     help="harvest the whole history and replace the stored data")
+    ap.add_argument("--no-fetch", action="store_true",
+                    help="harvest nothing; only re-tag stored papers with taxonomy.toml")
+    ap.add_argument("--allow-drop", action="store_true",
+                    help="allow a re-tag to drop more than 20%% of a source's papers")
     ap.add_argument("--data-dir", default="data", type=pathlib.Path)
     ap.add_argument("--skip-arxiv", action="store_true")
     ap.add_argument("--skip-eprint", action="store_true")
     args = ap.parse_args()
+
+    try:
+        topics()
+    except taxonomy.TaxonomyError as e:
+        sys.exit(f"taxonomy.toml: {e}")
 
     now = dt.date.today()
     window = None if args.full else args.days
     fetchers = {"eprint": ("IACR ePrint (OAI-PMH)", fetch_eprint),
                 "arxiv": ("arXiv (Atom API)", fetch_arxiv)}
 
+    # Work out every source's result first, so a bad taxonomy edit writes nothing.
+    results = {}
     for source in SOURCES:
-        if getattr(args, f"skip_{source}"):
-            continue
-        label, fetch = fetchers[source]
-        print(f"Harvesting {label}{' - full history' if args.full else ''}...", file=sys.stderr)
-        fetched = {p["id"]: p for p in fetch(now, window)}
-        source_dir = args.data_dir / source
-        papers = {} if args.full else load_store(source_dir)
-        before = len(papers)
+        stored = load_store(args.data_dir / source)
+        fetched = {}
+        harvest = not args.no_fetch and not getattr(args, f"skip_{source}")
+        if harvest:
+            label, fetch = fetchers[source]
+            print(f"Harvesting {label}{' - full history' if args.full else ''}...", file=sys.stderr)
+            fetched = {p["id"]: p for p in fetch(now, window)}
+        papers = {} if (args.full and harvest) else dict(stored)
         papers.update(fetched)
-        counts = save_store(source_dir, papers)
-        print(f"  fetched {len(fetched)}, stored {sum(counts.values())} "
-              f"({sum(counts.values()) - before:+d}) in {len(counts)} year files", file=sys.stderr)
+        kept, dropped = retag(args.data_dir, source, papers)
+        if dropped and not args.full and not args.allow_drop and len(dropped) > 0.2 * len(papers):
+            sys.exit(f"{source}: the current taxonomy.toml would drop {len(dropped)} of {len(papers)} "
+                     "stored papers (they match no topic). Nothing was written. If that is intended, "
+                     "re-run with --allow-drop.")
+        results[source] = (stored, fetched, kept, dropped)
+
+    for source, (stored, fetched, kept, dropped) in results.items():
+        for pid, p in fetched.items():
+            if pid in kept:
+                write_abstract(args.data_dir, source, pid, p["abstract"])
+        counts = save_store(args.data_dir / source, kept)
+        prune_abstracts(args.data_dir, source, kept)
+        print(f"  {source}: fetched {len(fetched)}, stored {sum(counts.values())} "
+              f"({sum(counts.values()) - len(stored):+d}), dropped {len(dropped)} "
+              f"that match no topic", file=sys.stderr)
 
     write_index(args.data_dir, now)
+    (args.data_dir / "taxonomy.json").write_text(
+        json.dumps({"topics": taxonomy.export(topics())}, indent=1) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":

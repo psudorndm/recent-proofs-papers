@@ -1,0 +1,1 @@
+In this paper, facts existing in different domains are explored, which are comparable by their end result. Properties of various domains and the facts that are part of such a unit are also presented, examples of comparison and methods of usage as means of zero-knowledge protocols are given, finally a zero-knowledge protocol based on afore-mentioned concept is given.

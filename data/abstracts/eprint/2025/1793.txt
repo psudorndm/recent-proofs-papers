@@ -1,0 +1,1 @@
+We give a formal analysis of the optimized variant of the $\mathsf{gemini}$ polynomial commitment scheme [BCHO22] used by the $\href{https://github.com/AztecProtocol/aztec-packages}{\text{Aztec Network}}$. Our work is motivated by an attack on a previous implementation [GL25].

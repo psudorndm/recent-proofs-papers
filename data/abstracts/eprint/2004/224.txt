@@ -1,0 +1,1 @@
+Let n be an RSA modulus and let P,Q in (Z/nZ)[X]. This paper explores the following problem: Given polynomials Q and Q(P), find polynomial P. We shed light on the connections between the above problem and the RSA problem and derive from it new zero-knowledge protocols suited to smart-card applications.

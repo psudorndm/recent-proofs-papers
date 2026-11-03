@@ -1,0 +1,1 @@
+Duc et al. proposed a forward-secure blind signature scheme in [1]. They claimed that the scheme is constructed from the provably secure Okamoto-Guilou-Quisquater blind signature scheme. But we recently found that their scheme is insecure. In the paper, we show the scheme is universally forgeable by a simple and direct attack.

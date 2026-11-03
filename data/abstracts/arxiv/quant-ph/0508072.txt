@@ -1,0 +1,1 @@
+Recently, a Quantum Key Exchange protocol that uses squeezed states was presented by Gottesman and Preskill. In this paper we give a generic security proof for this protocol. The method used for this generic security proof is based on recent work by Christiandl, Renner and Ekert.

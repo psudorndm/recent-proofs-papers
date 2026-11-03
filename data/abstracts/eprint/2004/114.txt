@@ -1,0 +1,1 @@
+We present an identity-based signcryption scheme that we believe is the most efficient proposed to date. We provide random oracle model~\cite{ROP} proofs of security under the definitions proposed in~\cite{MIBS}

@@ -1,0 +1,1 @@
+We show a deterministic secure direct communication protocol using single qubit in mixed state. The security of this protocol is based on the security proof of BB84 protocol. It can be realized with current technologies.

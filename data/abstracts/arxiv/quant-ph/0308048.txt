@@ -1,0 +1,1 @@
+We show that the security proof of the Bennett 1992 protocol over loss-free channel in (K. Tamaki, M. Koashi, and N. Imoto, Phys. Rev. Lett. 90, 167904 (2003)) can be adapted to accommodate loss. We assumed that Bob's detectors discriminate between single photon states on one hand and vacuum state or multi-photon states on the other hand.

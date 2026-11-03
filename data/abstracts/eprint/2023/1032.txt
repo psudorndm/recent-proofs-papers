@@ -1,0 +1,1 @@
+This paper's primary purpose is to provide a source of introductory information into building a zero knowledge proof system for general computation. We review how to build such a system with a polynomial commitment scheme, and how to implement a fully functional command set in terms of zero knowledge primitives.

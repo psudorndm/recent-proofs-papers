@@ -1,0 +1,22 @@
+name: check taxonomy
+
+# Runs on pull requests that edit the topic hierarchy, so a broken pattern or a
+# typo is caught before it reaches main. The log shows how many stored papers
+# each topic would get with the proposed file.
+
+on:
+  pull_request:
+    paths: [taxonomy.toml, scraper/taxonomy.py]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate taxonomy.toml and count papers per topic
+        run: python3 scraper/taxonomy.py --check

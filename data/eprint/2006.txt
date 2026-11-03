@@ -17,12 +17,12 @@ A New Type of Group Signature Scheme;;;Jun Zhong Dake He;;;2006/440;;;none;;;200
 A New Type of Group Blind Signature Scheme Based on Bilinear Pairings;;;Jun Zhong Dake He;;;2006/439;;;none;;;2006-12-04;;;security
 Universally Composable Security with Global Setup;;;Ran Canetti, Yevgeniy Dodis, Rafael Pass, Shabsi Walfish;;;2006/432;;;none;;;2006-11-21;;;proofs,security
 Security Analysis of Voice-over-IP Protocols;;;Prateek Gupta, Vitaly Shmatikov;;;2006/424;;;none;;;2006-11-19;;;formal
-Perfect NIZK with Adaptive Soundness;;;Masayuki Abe, Serge Fehr;;;2006/423;;;none;;;2006-11-19;;;proofs
+Perfect NIZK with Adaptive Soundness;;;Masayuki Abe, Serge Fehr;;;2006/423;;;none;;;2006-11-19;;;proofs/zk-protocols/group
 Long-term Security and Universal Composability;;;Joern Mueller-Quade, Dominique Unruh;;;2006/422;;;none;;;2006-11-19;;;proofs,security
 Universally Composable Three-Party Key Distribution;;;Jin Zhou, TingMao Chang, YaJuan Zhang, YueFei Zhu;;;2006/421;;;none;;;2006-11-19;;;security
 Zero Knowledge and Soundness are Symmetric;;;Shien Jin Ong, Salil Vadhan;;;2006/414;;;none;;;2006-11-14;;;proofs
-A Generic Construction of CCA-Secure Cryptosystems without NIZKP for a Bounded Number of Decryption Queries;;;Goichiro Hanaoka, Hideki Imai;;;2006/408;;;none;;;2006-11-13;;;proofs
-Cryptography in the Multi-string Model;;;Jens Groth, Rafail Ostrovsky;;;2006/407;;;none;;;2006-11-13;;;proofs,security
+A Generic Construction of CCA-Secure Cryptosystems without NIZKP for a Bounded Number of Decryption Queries;;;Goichiro Hanaoka, Hideki Imai;;;2006/408;;;none;;;2006-11-13;;;proofs/zk-protocols
+Cryptography in the Multi-string Model;;;Jens Groth, Rafail Ostrovsky;;;2006/407;;;none;;;2006-11-13;;;proofs/zk-protocols,security
 Universally Composable Blind Signatures in the Plain Model;;;Aslak Bakke Buan, Kristian Gøsteen, Lillian Kråkmo;;;2006/405;;;none;;;2006-11-12;;;security
 Concurrent Statistical Zero-Knowledge Arguments for NP from One Way Functions;;;Vipul Goyal, Ryan Moriarty, Rafail Ostrovsky, Amit Sahai;;;2006/400;;;none;;;2006-11-12;;;proofs
 Revisiting the Efficiency of Malicious Two-Party Computation;;;David P. Woodruff;;;2006/397;;;none;;;2006-11-12;;;proofs
@@ -67,7 +67,7 @@ Some (in)sufficient conditions for secure hybrid encryption.;;;Javier Herranz, D
 A Simple and Unified Method of Proving Unpredictability;;;Mridul Nandi;;;2006/264;;;none;;;2006-08-08;;;security
 Simplified Submission of Inputs to Protocols;;;Douglas Wikstrom;;;2006/259;;;none;;;2006-08-02;;;security
 Constant-Round Concurrent NMWI and its relation to NMZK;;;Rafail Ostrovsky, Giuseppe Persiano, Ivan Visconti;;;2006/256;;;none;;;2006-08-02;;;proofs,security
-A Stronger Definition for Anonymous Electronic Cash;;;Marten Trolin;;;2006/241;;;none;;;2006-07-14;;;proofs,security
+A Stronger Definition for Anonymous Electronic Cash;;;Marten Trolin;;;2006/241;;;none;;;2006-07-14;;;proofs/zk-protocols,security
 Resettable Zero Knowledge in the Bare Public-Key Model under Standard Assumption;;;Yi Deng, Dongdai Lin;;;2006/239;;;none;;;2006-07-14;;;proofs
 Online/Offline Signatures and Multisignatures for AODV and DSR Routing Security;;;Shidi Xu, Yi Mu, Willy Susilo, Xiaofeng Chen, Xinyi Huang, Fangguo Zhang;;;2006/236;;;none;;;2006-07-13;;;security
 A handy multi-coupon system;;;Sebastien Canard, Aline Gouget, Emeline Hufschmitt;;;2006/231;;;none;;;2006-07-13;;;security
@@ -109,7 +109,7 @@ On the Feasibility of Consistent Computations;;;Sven Laur, Helger Lipmaa;;;2006/
 Anonymous Hierarchical Identity-Based Encryption (Without Random Oracles);;;Xavier Boyen, Brent Waters;;;2006/085;;;none;;;2006-03-06;;;security
 Efficient Identity-based Signatures Secure in the Standard Model;;;Kenneth G. Paterson, Jacob C. N. Schuldt;;;2006/080;;;none;;;2006-03-01;;;security
 Towards Provably Secure Group Key Agreement Building on Group Theory;;;Jens-Matthias Bohli, Benjamin Glas, Rainer Steinwandt;;;2006/079;;;none;;;2006-03-01;;;security
-Verifiable Random Permutations;;;Yevgeniy Dodis, Prashant Puniya;;;2006/078;;;none;;;2006-02-28;;;proofs
+Verifiable Random Permutations;;;Yevgeniy Dodis, Prashant Puniya;;;2006/078;;;none;;;2006-02-28;;;proofs/zk-protocols
 Stronger Security of Authenticated Key Exchange;;;Brian LaMacchia, Kristin Lauter, Anton Mityagin;;;2006/073;;;none;;;2006-02-24;;;security
 A Fast and Key-Efficient Reduction of Chosen- Ciphertext to Known-Plaintext Security;;;Ueli Maurer, Johan Sjödin;;;2006/071;;;none;;;2006-02-24;;;security
 Automated Security Proofs with Sequences of Games;;;Bruno Blanchet, David Pointcheval;;;2006/069;;;none;;;2006-02-23;;;formal,security
@@ -128,4 +128,4 @@ Certificate-Based Encryption Without Random Oracles;;;Paz Morillo, Carla Ràfols
 Formal Proof for the Correctness of RSA-PSS;;;Christina Lindenberg, Kai Wirt, Johannes Buchmann;;;2006/011;;;none;;;2006-01-10;;;formal
 Breaking and Fixing Public-Key Kerberos;;;Iliano Cervesato, Aaron D. Jaggard, Andre Scedrov, Joe-Kay Tsay, Christopher Walstad;;;2006/009;;;none;;;2006-01-10;;;formal
 Provably Secure Subsitution of Cryptographic Tools;;;Lea Kissner, David Molnar;;;2006/004;;;none;;;2006-01-04;;;security
-Homomorphic Cryptosystems and their Applications;;;Doerte K. Rappe;;;2006/001;;;none;;;2006-01-03;;;proofs
+Homomorphic Cryptosystems and their Applications;;;Doerte K. Rappe;;;2006/001;;;none;;;2006-01-03;;;proofs/applications,proofs/zk-protocols/group

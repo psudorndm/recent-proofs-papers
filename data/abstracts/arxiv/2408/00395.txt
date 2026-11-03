@@ -1,0 +1,1 @@
+In this study, we introduce a novel zero-knowledge identification scheme based on the hardness of the subgroup distance problem in the Hamming metric. The proposed protocol, named Subgroup Distance Zero Knowledge Proof (SDZKP), employs a cryptographically secure pseudorandom number generator to mask secrets and utilizes a Stern-type algorithm to ensure robust security properties.

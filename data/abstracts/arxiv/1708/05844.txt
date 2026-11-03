@@ -1,0 +1,1 @@
+Capture the Flag (CTF) competitions are increasingly important for the Brazilian cybersecurity community as education and professional tools. Unfortunately, CTF platforms may suffer from security issues, giving an unfair advantage to competitors. To mitigate this, we propose NIZKCTF, the first open-audit CTF platform based on non-interactive zero-knowledge proofs.

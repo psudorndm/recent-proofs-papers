@@ -1,0 +1,1 @@
+We show that the recently introduced notion of round-by-round soundness for interactive proofs (Canetti et al.; STOC 2019) is equivalent to the notion of soundness against state restoration attacks (Ben-Sasson, Chiesa, and Spooner; TCC 2016). We also observe that neither notion is implied by the random-oracle security of the Fiat-Shamir transform.

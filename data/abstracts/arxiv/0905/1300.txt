@@ -1,0 +1,1 @@
+We prove that QIP(2), the class of problems having two-message quantum interactive proof systems, is a subset of PSPACE. This relationship is obtained by means of an efficient parallel algorithm, based on the multiplicative weights update method, for approximately solving a certain class of semidefinite programs.

@@ -1,0 +1,1 @@
+In this paper, a new identity-based identification scheme based on error-correcting codes is proposed. Two well known code-based schemes are combined : the signature scheme by Courtois, Finiasz and Sendrier and an identification scheme by Stern. A proof of security for the scheme in the Random Oracle Model is given.

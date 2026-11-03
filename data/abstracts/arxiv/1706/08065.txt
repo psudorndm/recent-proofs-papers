@@ -1,0 +1,1 @@
+There is a serious problem with one of the assumptions made in the security proof of the SURF scheme. This problem turns out to be easy in the regime of parameters needed for the SURF scheme to work. We give afterwards the old version of the paper for the reader's convenience.

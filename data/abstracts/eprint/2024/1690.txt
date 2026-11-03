@@ -1,0 +1,1 @@
+Bartusek and Raizes (CRYPTO 2024) proposed two security definitions for secret sharing, no-signaling certified deletion and adaptive certified deletion. We prove that adaptive certified deletion does not imply no-signaling certified deletion.

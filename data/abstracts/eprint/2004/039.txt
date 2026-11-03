@@ -1,0 +1,1 @@
+We present an adaptive chosen-plaintext cryptanalysis of Boneh, et al.'s bilinear spontaneous anonymous ad hoc group signature. Then we present a patch, and an extension to a threshold version complete with a security proof in the random oracle model (ROM).

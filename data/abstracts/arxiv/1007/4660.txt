@@ -1,0 +1,1 @@
+This paper argues an existence of a class of functions where function own input makes function description. That fact have impact to the wide spectrum of phenomena such as negative findings of Random Oracle Model in cryptography, complexity in some rules of cellular automata (Wolfram rule 30) and determinism in the true randomness to name just a few.

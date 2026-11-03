@@ -1,0 +1,1 @@
+This paper considers a weak variant on the notion of zero-knowledge. The weak notion is compatible with the chosen ciphertext security. In fact, arguments of knowledge based on IND-CCA encryption schemes are shown to be statistical zero-knowledge in that sense.

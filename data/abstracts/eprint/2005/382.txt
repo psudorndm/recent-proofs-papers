@@ -1,0 +1,1 @@
+This paper shows the first practical semantically secure public-key encryption scheme such that its one-wayness is equivalent to {\it general} factoring in the {\it standard} model (in the sense of IND-CPA). Next our proof technique is applied to Rabin-Paillier encryption scheme and a variant of RSA-Paillier encryption scheme to prove their exactly tight one-wayness.

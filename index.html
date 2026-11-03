@@ -351,6 +351,73 @@
             vertical-align: 1px;
         }
 
+        /* long topic paths may wrap between their parts, never inside one */
+        .tag {
+            white-space: normal;
+            -webkit-box-decoration-break: clone;
+            box-decoration-break: clone;
+            line-height: 1.9;
+        }
+
+        .tag .seg {
+            cursor: pointer;
+            white-space: nowrap;
+        }
+
+        .tag .seg:hover {
+            text-decoration: underline;
+        }
+
+        .tag .sep {
+            opacity: 0.6;
+        }
+
+        .tag-other {
+            background: rgba(90, 80, 120, 0.12);
+            color: #4f4670;
+        }
+
+        /* ---- topic drill-down rows ---- */
+        #topic-rows {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5em;
+        }
+
+        /* ---- abstracts (click a title) ---- */
+        .paper-title {
+            cursor: pointer;
+        }
+
+        .paper-title:hover,
+        .paper-title:focus-visible {
+            color: #5a33b0;
+            outline: none;
+        }
+
+        .caret {
+            color: #a79bc4;
+            font-size: 0.8em;
+            font-weight: 400;
+        }
+
+        .abstract {
+            clear: both;
+            margin: 0.7em 0 0.1em;
+            padding-top: 0.6em;
+            border-top: 1px dashed rgba(103, 65, 217, 0.22);
+            font-size: 0.9em;
+            line-height: 1.6;
+            color: #3b3156;
+            overflow-wrap: anywhere;
+        }
+
+        .abstract.muted {
+            color: #8f84a6;
+            font-style: italic;
+        }
+
         .tag-proofs {
             background: rgba(103, 65, 217, 0.14);
             color: #5133b8;
@@ -412,13 +479,9 @@
         </div>
 
         <div class="filters-wrap">
-            <div class="filter-group" id="category-filters">
-                <span class="filter-label">topic:</span>
-                <span class="filter" data-cat="proofs">proof systems</span>
-                <span class="filter" data-cat="security">security proofs</span>
-                <span class="filter" data-cat="formal">formal verification</span>
-                <span class="filter active" data-cat="all">all</span>
-            </div>
+            <div id="topic-rows"></div>
+        </div>
+        <div class="filters-wrap">
             <div class="filter-group" id="source-filters">
                 <span class="filter-label">source:</span>
                 <span class="filter" data-source="eprint">ePrint</span>
@@ -460,11 +523,144 @@
         </footer>
 
         <script>
-            var activeCategory = "all";
+            var activePath = [];      // chosen topic path, e.g. ["proofs", "pcs", "lattice"]; [] = all
+            var activeTopic = "";     // the same, joined with "/"
             var activeSource = "both";
             var searchTerms = [];
             var allItems = [];   // the last 365 days: {el, paper}
-            var TAG_LABELS = { proofs: "proof systems", security: "security proofs", formal: "formal verification" };
+            // topic tree from data/taxonomy.json (built from taxonomy.toml); this is the fallback
+            var TOPICS = [{ id: "proofs", label: "proof systems" }, { id: "security", label: "security proofs" },
+                          { id: "formal", label: "formal verification" }];
+            var LABELS = {};          // "proofs/pcs" -> "PCS"
+            var KNOWN_ROOTS = { proofs: 1, security: 1, formal: 1 };   // roots with their own colours
+
+            function indexTopics(nodes, prefix) {
+                (nodes || []).forEach(function (n) {
+                    var path = prefix ? prefix + "/" + n.id : n.id;
+                    LABELS[path] = n.label;
+                    indexTopics(n.children, path);
+                });
+            }
+            indexTopics(TOPICS, "");
+
+            function setTopic(path) {
+                activePath = path ? path.split("/") : [];
+                activeTopic = activePath.join("/");
+                renderTopicRows();
+                applyFilters();
+            }
+
+            // One row per level: TOPIC: roots; then the chosen topic's sub-topics, and so on.
+            function renderTopicRows() {
+                var wrap = document.getElementById('topic-rows');
+                wrap.textContent = "";
+                var level = TOPICS, prefix = [];
+                for (var depth = 0; level && level.length; depth++) {
+                    var group = document.createElement('div');
+                    group.className = "filter-group";
+                    var label = document.createElement('span');
+                    label.className = "filter-label";
+                    label.textContent = depth === 0 ? "topic:" : LABELS[prefix.join("/")] + " \u203a";
+                    group.appendChild(label);
+                    var chosen = activePath[depth], next = null;
+                    level.forEach(function (node) {
+                        var path = prefix.concat(node.id).join("/");
+                        group.appendChild(topicButton(node.label, chosen === node.id, path));
+                        if (chosen === node.id) { next = node; }
+                    });
+                    group.appendChild(topicButton(depth === 0 ? "all" : "any", !chosen, prefix.join("/")));
+                    wrap.appendChild(group);
+                    if (!next) { break; }
+                    prefix.push(next.id);
+                    level = next.children;
+                }
+            }
+
+            function topicButton(text, active, path) {
+                var b = document.createElement('span');
+                b.className = "filter" + (active ? " active" : "");
+                b.textContent = text;
+                b.addEventListener('click', function () { setTopic(path); });
+                return b;
+            }
+
+            function abstractUrl(paper) {
+                var rel = paper.id.indexOf("/") !== -1 ? paper.id : paper.id.replace(".", "/");
+                return "data/abstracts/" + paper.source + "/" + rel + ".txt";
+            }
+
+            // Click a title: load its abstract once and show it under the entry.
+            function toggleAbstract(li, paper, title) {
+                var box = li.querySelector('.abstract');
+                if (box) {
+                    box.remove();
+                    title.setAttribute('aria-expanded', 'false');
+                    return;
+                }
+                box = document.createElement('div');
+                box.className = "abstract muted";
+                box.textContent = "loading abstract\u2026";
+                li.appendChild(box);
+                title.setAttribute('aria-expanded', 'true');
+                var shown = paper.abstract !== undefined ? Promise.resolve(paper.abstract) :
+                    fetch(abstractUrl(paper))
+                        .then(function (r) { return r.ok ? r.text() : ""; })
+                        .catch(function () { return ""; })
+                        .then(function (t) { paper.abstract = t.trim(); return paper.abstract; });
+                shown.then(function (text) {
+                    box.className = text ? "abstract" : "abstract muted";
+                    box.textContent = text || "no abstract available";
+                });
+            }
+
+            // Tags: one per group of sibling topics, e.g. "proof systems › PCS › hash-based / lattice-based".
+            // Every part is clickable and selects that topic.
+            function appendTags(li, paper) {
+                var groups = {}, order = [];
+                paper.cats.forEach(function (path) {
+                    var cut = path.lastIndexOf("/");
+                    var parent = cut === -1 ? "" : path.slice(0, cut);
+                    if (!groups[parent]) { groups[parent] = []; order.push(parent); }
+                    groups[parent].push(path);
+                });
+                order.sort();
+                order.forEach(function (parent) {
+                    var tag = document.createElement('span');
+                    var root = (parent || groups[parent][0]).split("/")[0];
+                    tag.className = "tag tag-" + (KNOWN_ROOTS[root] ? root : "other");
+                    var parts = parent ? parent.split("/") : [];
+                    parts.forEach(function (part, i) {
+                        tag.appendChild(topicSegment(parts.slice(0, i + 1).join("/")));
+                        tag.appendChild(separator(" \u203a "));
+                    });
+                    groups[parent].sort().forEach(function (path, i) {
+                        if (i) { tag.appendChild(separator(" / ")); }
+                        tag.appendChild(topicSegment(path));
+                    });
+                    li.appendChild(document.createTextNode(' ')); // lets tags wrap on narrow screens
+                    li.appendChild(tag);
+                });
+            }
+
+            function topicSegment(path) {
+                var seg = document.createElement('span');
+                seg.className = "seg";
+                seg.textContent = LABELS[path] || path.split("/").pop();
+                seg.title = "show only this topic";
+                seg.addEventListener('click', function (e) {
+                    e.stopPropagation();
+                    setTopic(path);
+                    window.scrollTo({ top: document.getElementById('topic-rows').offsetTop - 80, behavior: 'smooth' });
+                });
+                return seg;
+            }
+
+            function separator(text) {
+                var s = document.createElement('span');
+                s.className = "sep";
+                s.textContent = text;
+                return s;
+            }
 
             // decorative "digest" strip under the title for a crypto feel
             (function () {
@@ -491,8 +687,10 @@
 
             function makePaperItem(paper) {
                 var li = document.createElement('li');
-                li.className = paper.source + " " + paper.cats.map(function (c) {
-                    return "cat-" + c;
+                var roots = {};
+                paper.cats.forEach(function (c) { roots[c.split("/")[0]] = 1; });
+                li.className = paper.source + " " + Object.keys(roots).map(function (r) {
+                    return "cat-" + r;
                 }).join(" ");
 
                 var meta = document.createElement('span');
@@ -519,6 +717,18 @@
                 var title = document.createElement('span');
                 title.className = "paper-title";
                 title.textContent = paper.title + ". ";
+                title.setAttribute('role', 'button');
+                title.setAttribute('tabindex', '0');
+                title.setAttribute('aria-expanded', 'false');
+                title.title = "show abstract";
+                var caret = document.createElement('span');
+                caret.className = "caret";
+                caret.textContent = "\u25BE ";
+                title.appendChild(caret);
+                title.addEventListener('click', function () { toggleAbstract(li, paper, title); });
+                title.addEventListener('keydown', function (e) {
+                    if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggleAbstract(li, paper, title); }
+                });
                 li.appendChild(title);
 
                 var authors = document.createElement('span');
@@ -526,13 +736,7 @@
                 authors.textContent = formatAuthors(paper.authorlist);
                 li.appendChild(authors);
 
-                paper.cats.forEach(function (c) {
-                    var tag = document.createElement('span');
-                    tag.className = "tag tag-" + c;
-                    tag.textContent = TAG_LABELS[c] || c;
-                    li.appendChild(document.createTextNode(' ')); // lets tags wrap on narrow screens
-                    li.appendChild(tag);
-                });
+                appendTags(li, paper);
 
                 return li;
             }
@@ -631,7 +835,9 @@
             }
 
             function matches(paper) {
-                var catOk = activeCategory === "all" || paper.cats.indexOf(activeCategory) !== -1;
+                var catOk = !activeTopic || paper.cats.some(function (c) {
+                    return c === activeTopic || c.indexOf(activeTopic + "/") === 0;
+                });
                 var srcOk = activeSource === "both" || paper.source === activeSource;
                 if (yearRange) {
                     var y = +paper.date.slice(0, 4);
@@ -743,7 +949,7 @@
                 });
                 if (!olderLoaded) {
                     setStatus("loading older papers…");
-                } else if (searching || activeCategory !== "all" || activeSource !== "both") {
+                } else if (searching || activeTopic || activeSource !== "both") {
                     setStatus(shown.toLocaleString() + " of " + total.toLocaleString() + " papers match");
                 } else {
                     var first = olderSections.length ? olderSections[olderSections.length - 1].year : now.getUTCFullYear();
@@ -806,7 +1012,18 @@
 
             // Load the last year first so the page shows up quickly, then
             // everything older in the background (search covers it once loaded).
-            fetch('data/index.json')
+            renderTopicRows();
+            fetch('data/taxonomy.json')
+                .then(function (r) { return r.ok ? r.json() : null; })
+                .catch(function () { return null; })
+                .then(function (tax) {
+                    if (tax && tax.topics && tax.topics.length) {
+                        TOPICS = tax.topics;
+                        indexTopics(TOPICS, "");
+                        renderTopicRows();
+                    }
+                    return fetch('data/index.json');
+                })
                 .then(function (r) { return r.json(); })
                 .then(function (index) {
                     var firstRecentYear = new Date(todayUTC - 365 * DAY).getUTCFullYear();
@@ -851,16 +1068,6 @@
                     });
                     applyFilters();
                 }, 150);
-            });
-            document.querySelectorAll('#category-filters .filter').forEach(function (f) {
-                f.addEventListener('click', function () {
-                    document.querySelectorAll('#category-filters .filter').forEach(function (x) {
-                        x.classList.remove('active');
-                    });
-                    f.classList.add('active');
-                    activeCategory = f.dataset.cat;
-                    applyFilters();
-                });
             });
             document.querySelectorAll('#source-filters .filter').forEach(function (f) {
                 f.addEventListener('click', function () {

@@ -1,0 +1,1 @@
+We study security of digital signature schemes in tamper-proof device model. In this model each participant of the protocol has access to a tamper-proof device to encrypt hash values. This substitutes commonly used random oracle. In the tamper-proof device model we demonstrate security of a modified version of the GOST signature scheme.

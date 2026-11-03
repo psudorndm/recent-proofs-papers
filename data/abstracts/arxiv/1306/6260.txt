@@ -1,0 +1,1 @@
+We combine interactive zero-knowledge protocols and weak physical layer randomness properties to construct a protocol which allows bootstrapping an IT-secure and PF-secure channel from a memorizable shared secret. The protocol also tolerates failures of its components, still preserving most of its security properties, which makes it accessible to regular users.

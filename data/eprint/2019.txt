@@ -1,26 +1,26 @@
 Tight Security of Cascaded LRW2;;;Ashwin Jha, Mridul Nandi;;;2019/1495;;;none;;;2019-12-30;;;security
-Scaling Verifiable Computation Using Efficient Set Accumulators;;;Alex Ozdemir, Riad S. Wahby, Barry Whitehat, Dan Boneh;;;2019/1494;;;none;;;2019-12-30;;;proofs
+Scaling Verifiable Computation Using Efficient Set Accumulators;;;Alex Ozdemir, Riad S. Wahby, Barry Whitehat, Dan Boneh;;;2019/1494;;;none;;;2019-12-30;;;proofs/applications,proofs/snark/hash
 Keep the Dirt: Tainted TreeKEM, Adaptively and Actively Secure Continuous Group Key Agreement;;;Joël Alwen, Margarita Capretto, Miguel Cueto, Chethan Kamath, Karen Klein, Ilia Markov, Guillermo Pascual-Perez, Krzysztof Pietrzak, Michael Walter, Michelle Yeo;;;2019/1489;;;none;;;2019-12-30;;;security
-RLWE-based Zero-Knowledge Proofs for linear and multiplicative relations;;;Ramiro Martínez, Paz Morillo;;;2019/1486;;;none;;;2019-12-30;;;proofs
-Transparent Polynomial Delegation and Its Applications to Zero Knowledge Proof;;;Jiaheng Zhang, Tiancheng Xie, Yupeng Zhang, Dawn Song;;;2019/1482;;;none;;;2019-12-24;;;proofs
+RLWE-based Zero-Knowledge Proofs for linear and multiplicative relations;;;Ramiro Martínez, Paz Morillo;;;2019/1486;;;none;;;2019-12-30;;;proofs/zk-protocols/lattice
+Transparent Polynomial Delegation and Its Applications to Zero Knowledge Proof;;;Jiaheng Zhang, Tiancheng Xie, Yupeng Zhang, Dawn Song;;;2019/1482;;;none;;;2019-12-24;;;proofs/iop/hash
 On the Security of Sponge-type Authenticated Encryption Modes;;;Bishwajit Chakraborty, Ashwin Jha, Mridul Nandi;;;2019/1475;;;none;;;2019-12-23;;;security
 Efficient Fully Secure Leakage-Deterring Encryption;;;Jan Camenisch, Maria Dubovitskaya, Patrick Towa;;;2019/1472;;;none;;;2019-12-23;;;security
 A Note on the Instantiability of the Quantum Random Oracle;;;Edward Eaton, Fang Song;;;2019/1466;;;none;;;2019-12-23;;;security
-New Techniques for Zero-Knowledge: Leveraging Inefficient Provers to Reduce Assumptions and Interaction;;;Marshall Ball, Dana Dachman-Soled, Mukul Kulkarni;;;2019/1464;;;none;;;2019-12-18;;;proofs,security
+New Techniques for Zero-Knowledge: Leveraging Inefficient Provers to Reduce Assumptions and Interaction;;;Marshall Ball, Dana Dachman-Soled, Mukul Kulkarni;;;2019/1464;;;none;;;2019-12-18;;;proofs/zk-protocols,security
 Practical Relativistic Zero-Knowledge for NP;;;Claude Crépeau, Arnaud Massenet, Louis Salvail, Lucas Stinchcombe, Nan Yang;;;2019/1454;;;none;;;2019-12-18;;;proofs
 Leakage-Resilient Lattice-Based Partially Blind Signatures;;;D. Papachristoudis, D. Hristu-Varsakelis, F. Baldimtsi, G. Stephanides;;;2019/1452;;;none;;;2019-12-16;;;security
 Formalising Oblivious Transfer in the Semi-Honest and Malicious Model in CryptHOL;;;David Butler, David Aspinall, Adria Gascon;;;2019/1449;;;none;;;2019-12-16;;;security
-Compact Storage of Superblocks for NIPoPoW Applications;;;Kostis Karantias, Aggelos Kiayias, Nikos Leonardos, Dionysis Zindros;;;2019/1444;;;none;;;2019-12-12;;;proofs
+Compact Storage of Superblocks for NIPoPoW Applications;;;Kostis Karantias, Aggelos Kiayias, Nikos Leonardos, Dionysis Zindros;;;2019/1444;;;none;;;2019-12-12;;;proofs/applications
 A Code-specific Conservative Model for the Failure Rate of Bit-flipping Decoding of LDPC Codes with Cryptographic Applications;;;Paolo Santini, Alessandro Barenghi, Gerardo Pelosi, Marco Baldi, Franco Chiaraluce;;;2019/1441;;;none;;;2019-12-12;;;security
 About Low DFR for QC-MDPC Decoding;;;Nicolas Sendrier, Valentin Vasseur;;;2019/1434;;;none;;;2019-12-10;;;security
 A Generic View on the Unified Zero-Knowledge Protocol and its Applications;;;Diana Maimut, George Teseleanu;;;2019/1432;;;none;;;2019-12-10;;;proofs
 Efficient Side-Channel Secure Message Authentication with Better Bounds;;;Chun Guo, François-Xavier Standaert, Weijia Wang, Yu Yu;;;2019/1424;;;none;;;2019-12-10;;;security
 IPDL: A Probabilistic Dataflow Logic for Cryptography;;;Xiong Fan, Joshua Gancher, Greg Morrisett, Elaine Shi, Kristina Sojakova;;;2019/1422;;;none;;;2019-12-10;;;formal,security
 A Non-Interactive Shuffle Argument With Low Trust Assumptions;;;Antonis Aggelakis, Prastudy Fauzi, Georgios Korfiatis, Panos Louridas, Foteinos Mergoupis-Anagnou, Janno Siim, Michal Zajac;;;2019/1420;;;none;;;2019-12-10;;;proofs,security
-The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption;;;Melissa Chase, Trevor Perrin, Greg Zaverucha;;;2019/1416;;;none;;;2019-12-09;;;proofs
+The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption;;;Melissa Chase, Trevor Perrin, Greg Zaverucha;;;2019/1416;;;none;;;2019-12-09;;;proofs/applications
 Isochronous Gaussian Sampling: From Inception to Implementation;;;James Howe, Thomas Prest, Thomas Ricosset, Mélissa Rossi;;;2019/1411;;;none;;;2019-12-06;;;security
-Incrementally Verifiable Computation via Incremental PCPs;;;Moni Naor, Omer Paneth, Guy N. Rothblum;;;2019/1407;;;none;;;2019-12-05;;;proofs
-RedShift: Transparent SNARKs from List Polynomial Commitments;;;Assimakis Kattis, Konstantin Panarin, Alexander Vlasov;;;2019/1400;;;none;;;2019-12-04;;;proofs
+Incrementally Verifiable Computation via Incremental PCPs;;;Moni Naor, Omer Paneth, Guy N. Rothblum;;;2019/1407;;;none;;;2019-12-05;;;proofs/iop/lattice,proofs/snark/lattice
+RedShift: Transparent SNARKs from List Polynomial Commitments;;;Assimakis Kattis, Konstantin Panarin, Alexander Vlasov;;;2019/1400;;;none;;;2019-12-04;;;proofs/iop,proofs/pcs,proofs/snark
 How to Construct Rational Protocols with Nash Equilibrium Consistency in the UC framework;;;Xiaoxia Jiang, Youliang Tian;;;2019/1398;;;none;;;2019-12-04;;;security
 SoK: Computer-Aided Cryptography;;;Manuel Barbosa, Gilles Barthe, Karthik Bhargavan, Bruno Blanchet, Cas Cremers, Kevin Liao, Bryan Parno;;;2019/1393;;;none;;;2019-12-04;;;formal
 Practical Fully Secure Three-Party Computation via Sublinear Distributed Zero-Knowledge Proofs;;;Elette Boyle, Niv Gilboa, Yuval Ishai, Ariel Nof;;;2019/1390;;;none;;;2019-12-04;;;proofs
@@ -28,39 +28,39 @@ Generic Attack on Iterated Tweakable FX Constructions;;;Ferdinand Sibleyras;;;20
 Secure Key Encapsulation Mechanism with Compact Ciphertext and Public Key from Generalized Srivastava code;;;Jayashree Dey, Ratna Dutta;;;2019/1388;;;none;;;2019-12-04;;;security
 Provably Secure Three-party Password-based Authenticated Key Exchange from RLWE (Full Version);;;Chao Liu, Zhongxiang Zheng, Keting Jia, Qidi You;;;2019/1386;;;none;;;2019-12-04;;;security
 New ideas to build noise-free homomorphic cryptosystems;;;Gérald Gavin, Sandrine Tainturier;;;2019/1375;;;none;;;2019-12-01;;;security
-Efficient FPGA Implementations of LowMC and Picnic;;;Daniel Kales, Sebastian Ramacher, Christian Rechberger, Roman Walch, Mario Werner;;;2019/1368;;;none;;;2019-11-28;;;proofs
+Efficient FPGA Implementations of LowMC and Picnic;;;Daniel Kales, Sebastian Ramacher, Christian Rechberger, Roman Walch, Mario Werner;;;2019/1368;;;none;;;2019-11-28;;;proofs/zk-protocols
 Tight reduction for generic construction of certificateless signature and its instantiation from DDH assumption;;;Keitaro Hashimoto, Wakaha Ogata, Toi Tomita;;;2019/1367;;;none;;;2019-11-27;;;security
 A Lattice-based Enhanced Privacy ID;;;Nada EL Kassem, Luis Fiolhais, Paulo Martins, Liqun Chen, Leonel Sousa;;;2019/1366;;;none;;;2019-11-27;;;security
-BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs;;;Zhangshuang Guan, Zhiguo Wan, Yang Yang, Yan Zhou, Butian Huang;;;2019/1354;;;none;;;2019-11-27;;;proofs
+BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs;;;Zhangshuang Guan, Zhiguo Wan, Yang Yang, Yan Zhou, Butian Huang;;;2019/1354;;;none;;;2019-11-27;;;proofs/applications,proofs/snark
 Laconic Conditional Disclosure of Secrets and Applications;;;Nico Döttling, Sanjam Garg, Vipul Goyal, Giulio Malavolta;;;2019/1353;;;none;;;2019-11-27;;;security
 Network Time with a Consensus on Clock;;;Handan Kilinc Alper;;;2019/1348;;;none;;;2019-11-22;;;security
-Succinct Non-Interactive Secure Computation;;;Andrew Morgan, Rafael Pass, Antigoni Polychroniadou;;;2019/1341;;;none;;;2019-11-22;;;proofs,security
+Succinct Non-Interactive Secure Computation;;;Andrew Morgan, Rafael Pass, Antigoni Polychroniadou;;;2019/1341;;;none;;;2019-11-22;;;proofs/snark/group,proofs/snark/lattice,security
 Offline Witness Encryption with Semi-Adaptive Security;;;Peter Chvojka, Tibor Jager, Saqib A. Kakvi;;;2019/1337;;;none;;;2019-11-22;;;security
 Critical Perspectives on Provable Security: Fifteen Years of "Another Look" Papers;;;Neal Koblitz, Alfred Menezes;;;2019/1336;;;none;;;2019-11-22;;;security
 On the Real-World Instantiability of Admissible Hash Functions and Efficient Verifiable Random Functions;;;Tibor Jager, David Niehues;;;2019/1335;;;none;;;2019-11-20;;;security
 Efficient Attribute-based Proxy Re-Encryption with Constant Size Ciphertexts;;;Arinjita Paul, S. Sharmila Deva Selvi, C. Pandu Rangan;;;2019/1325;;;none;;;2019-11-19;;;security
 Secure Quantum Extraction Protocols;;;Prabhanjan Ananth, Rolando L. La Placa;;;2019/1323;;;none;;;2019-11-17;;;proofs
-Reverse Firewalls for Actively Secure MPCs;;;Suvradip Chakraborty, Stefan Dziembowski, Jesper Buus Nielsen;;;2019/1317;;;none;;;2019-11-17;;;proofs
+Reverse Firewalls for Actively Secure MPCs;;;Suvradip Chakraborty, Stefan Dziembowski, Jesper Buus Nielsen;;;2019/1317;;;none;;;2019-11-17;;;proofs/zk-protocols
 BESTIE: Broadcast Encryption Scheme for Tiny IoT Equipments;;;Jiwon Lee, Jihye Kim, Hyunok Oh;;;2019/1311;;;none;;;2019-11-13;;;security
 SÉTA: Supersingular Encryption from Torsion Attacks;;;Luca De Feo, Cyprien Delpech de Saint Guilhem, Tako Boris Fouotsa, Péter Kutas, Antonin Leroux, Christophe Petit, Javier Silva, Benjamin Wesolowski;;;2019/1291;;;none;;;2019-11-07;;;security
 On constant-time QC-MDPC decoding with negligible failure rate;;;Nir Drucker, Shay Gueron, Dusan Kostic;;;2019/1289;;;none;;;2019-11-07;;;security
-MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol;;;Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu;;;2019/1287;;;none;;;2019-11-07;;;proofs
-Shorter QA-NIZK and SPS with Tighter Security;;;Masayuki Abe, Charanjit S. Jutla, Miyako Ohkubo, Jiaxin Pan, Arnab Roy, Yuyu Wang;;;2019/1284;;;none;;;2019-11-07;;;proofs,security
+MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol;;;Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu;;;2019/1287;;;none;;;2019-11-07;;;proofs/applications
+Shorter QA-NIZK and SPS with Tighter Security;;;Masayuki Abe, Charanjit S. Jutla, Miyako Ohkubo, Jiaxin Pan, Arnab Roy, Yuyu Wang;;;2019/1284;;;none;;;2019-11-07;;;proofs/zk-protocols/group,security
 Partially-Fair Computation from Timed-Release Encryption and Oblivious Transfer;;;Geoffroy Couteau, Bill Roscoe, Peter Ryan;;;2019/1281;;;none;;;2019-11-05;;;security
 Post-quantum Zero Knowledge in Constant Rounds;;;Nir Bitansky, Omri Shmueli;;;2019/1279;;;none;;;2019-11-05;;;proofs
 An IND-CCA-Secure Code-Based EncryptionScheme Using Rank Metric;;;Hamad Al Shehhi, Emanuele Bellini, Filipe Borba, Florian Caullery, Marc Manzano, Victor Mateu;;;2019/1278;;;none;;;2019-11-05;;;security
-Round-optimal Verifiable Oblivious Pseudorandom Functions From Ideal Lattices;;;Martin R. Albrecht, Alex Davidson, Amit Deo, Nigel P. Smart;;;2019/1271;;;none;;;2019-11-05;;;proofs,security
-SAVER: SNARK-friendly, Additively-homomorphic, and Verifiable Encryption and decryption with Rerandomization;;;Jiwon Lee, Jaekyoung Choi, Jihye Kim, Hyunok Oh;;;2019/1270;;;none;;;2019-11-05;;;proofs
+Round-optimal Verifiable Oblivious Pseudorandom Functions From Ideal Lattices;;;Martin R. Albrecht, Alex Davidson, Amit Deo, Nigel P. Smart;;;2019/1271;;;none;;;2019-11-05;;;proofs/zk-protocols/lattice,security
+SAVER: SNARK-friendly, Additively-homomorphic, and Verifiable Encryption and decryption with Rerandomization;;;Jiwon Lee, Jaekyoung Choi, Jihye Kim, Hyunok Oh;;;2019/1270;;;none;;;2019-11-05;;;proofs/applications,proofs/snark/group
 Repudiable Ring Signature: Stronger Security and Logarithmic-Size;;;Hao Lin, Mingqiang Wang;;;2019/1269;;;none;;;2019-11-05;;;security
 On the Security of RSA-PSS in the Wild;;;Saqib A. Kakvi;;;2019/1268;;;none;;;2019-11-05;;;security
-On Round-By-Round Soundness and State Restoration Attacks;;;Justin Holmgren;;;2019/1261;;;none;;;2019-11-05;;;proofs
+On Round-By-Round Soundness and State Restoration Attacks;;;Justin Holmgren;;;2019/1261;;;none;;;2019-11-05;;;proofs/zk-protocols
 Permuted Puzzles and Cryptographic Hardness;;;Elette Boyle, Justin Holmgren, Mor Weiss;;;2019/1256;;;none;;;2019-10-28;;;security
-Zero-Knowledge Proofs for Set Membership: Efficient, Succinct, Modular;;;Daniel Benarroch, Matteo Campanelli, Dario Fiore, Kobi Gurkan, Dimitris Kolonelos;;;2019/1255;;;none;;;2019-10-28;;;proofs
-Lattice-based Zero-knowledge SNARGs for Arithmetic Circuits;;;Anca Nitulescu;;;2019/1251;;;none;;;2019-10-28;;;proofs
-SIMS : Self Sovereign Identity Management System with Preserving Privacy in Blockchain;;;Jeonghyuk Lee, Jungyeon Hwang, Jaekyung Choi, Hyunok Oh, Jihye Kim;;;2019/1241;;;none;;;2019-10-23;;;proofs
+Zero-Knowledge Proofs for Set Membership: Efficient, Succinct, Modular;;;Daniel Benarroch, Matteo Campanelli, Dario Fiore, Kobi Gurkan, Dimitris Kolonelos;;;2019/1255;;;none;;;2019-10-28;;;proofs/applications,proofs/snark/group,proofs/snark/hash
+Lattice-based Zero-knowledge SNARGs for Arithmetic Circuits;;;Anca Nitulescu;;;2019/1251;;;none;;;2019-10-28;;;proofs/snark/lattice
+SIMS : Self Sovereign Identity Management System with Preserving Privacy in Blockchain;;;Jeonghyuk Lee, Jungyeon Hwang, Jaekyung Choi, Hyunok Oh, Jihye Kim;;;2019/1241;;;none;;;2019-10-23;;;proofs/applications,proofs/snark
 Efficient Construction of Nominative Signature Secure under Symmetric Key Primitives and Standard Assumptions on Lattice;;;Meenakshi Kansal, Ratna Dutta, Sourav Mukhopadhyay;;;2019/1232;;;none;;;2019-10-21;;;proofs,security
-Linear-Size Constant-Query IOPs for Delegating Computation;;;Eli Ben-Sasson, Alessandro Chiesa, Lior Goldberg, Tom Gur, Michael Riabzev, Nicholas Spooner;;;2019/1230;;;none;;;2019-10-21;;;proofs
-Transparent SNARKs from DARK Compilers;;;Benedikt Bünz, Ben Fisch, Alan Szepieniec;;;2019/1229;;;none;;;2019-10-21;;;proofs,security
+Linear-Size Constant-Query IOPs for Delegating Computation;;;Eli Ben-Sasson, Alessandro Chiesa, Lior Goldberg, Tom Gur, Michael Riabzev, Nicholas Spooner;;;2019/1230;;;none;;;2019-10-21;;;proofs/iop,proofs/snark
+Transparent SNARKs from DARK Compilers;;;Benedikt Bünz, Ben Fisch, Alan Szepieniec;;;2019/1229;;;none;;;2019-10-21;;;proofs/iop/group,proofs/pcs/group,proofs/snark/group,proofs/zk-protocols/group,security
 Probabilistic Data Structures in Adversarial Environments;;;David Clayton, Christopher Patton, Thomas Shrimpton;;;2019/1221;;;none;;;2019-10-21;;;security
 A New Secure and Efficient Ownership Transfer Protocol based on Quadric Residue and Homomorphic Encryption;;;Farokhlagha Moazami, Masoumeh Safkhani;;;2019/1214;;;none;;;2019-10-17;;;formal,security
 Topology-Hiding Computation for Networks with Unknown Delays;;;Rio LaVigne, Chen-Da Liu-Zhang, Ueli Maurer, Tal Moran, Marta Mularczyk, Daniel Tschudi;;;2019/1211;;;none;;;2019-10-16;;;security
@@ -71,14 +71,14 @@ Perfect Forward Security of SPAKE2;;;Michel Abdalla, Manuel Barbosa;;;2019/1194;
 Formalising $\Sigma$-Protocols and Commitment Schemes using CryptHOL;;;David Butler, Andreas Lochbihler, David Aspinall, Adria Gascon;;;2019/1185;;;none;;;2019-10-15;;;formal,security
 A concrete instantiation of Bulletproof zero-knowledge proof;;;Andrey Jivsov;;;2019/1184;;;none;;;2019-10-15;;;proofs
 Practical MP-LWE-based encryption balancing security-risk vs. efficiency;;;Ron Steinfeld, Amin Sakzad, Raymond K. Zhao;;;2019/1179;;;none;;;2019-10-10;;;security
-Proofs for Inner Pairing Products and Applications;;;Benedikt Bünz, Mary Maller, Pratyush Mishra, Nirvan Tyagi, Psi Vesely;;;2019/1177;;;none;;;2019-10-10;;;proofs
+Proofs for Inner Pairing Products and Applications;;;Benedikt Bünz, Mary Maller, Pratyush Mishra, Nirvan Tyagi, Psi Vesely;;;2019/1177;;;none;;;2019-10-10;;;proofs/pcs/group,proofs/snark/group
 Identity-Concealed Authenticated Encryption from Ring Learning With Errors (Full version);;;Chao Liu, Zhongxiang Zheng, Keting Jia, Limin Tao;;;2019/1164;;;none;;;2019-10-08;;;security
-Subversion-Resistant Simulation (Knowledge) Sound NIZKs;;;Karim Baghery;;;2019/1162;;;none;;;2019-10-07;;;proofs
+Subversion-Resistant Simulation (Knowledge) Sound NIZKs;;;Karim Baghery;;;2019/1162;;;none;;;2019-10-07;;;proofs/snark,proofs/zk-protocols
 Efficient Two-Round OT Extension and Silent Non-Interactive Secure Computation;;;Elette Boyle, Geoffroy Couteau, Niv Gilboa, Yuval Ishai, Lisa Kohl, Peter Rindal, Peter Scholl;;;2019/1159;;;none;;;2019-10-07;;;security
 Machine-Checked Proofs for Cryptographic Standards;;;José Bacelar Almeida, Cécile Baritel-Ruet, Manuel Barbosa, Gilles Barthe, François Dupressoir, Benjamin Grégoire, Vincent Laporte, Tiago Oliveira, Alley Stoughton, Pierre-Yves Strub;;;2019/1155;;;none;;;2019-10-07;;;formal,security
-Stronger Security and Constructions of Multi-Designated Verifier Signatures;;;Ivan Damgård, Helene Haagh, Rebekah Mercer, Anca Nițulescu, Claudio Orlandi, Sophia Yakoubov;;;2019/1153;;;none;;;2019-10-07;;;proofs
+Stronger Security and Constructions of Multi-Designated Verifier Signatures;;;Ivan Damgård, Helene Haagh, Rebekah Mercer, Anca Nițulescu, Claudio Orlandi, Sophia Yakoubov;;;2019/1153;;;none;;;2019-10-07;;;proofs/zk-protocols
 The Bitcoin Backbone Protocol Against Quantum Adversaries;;;Alexandru Cojocaru, Juan Garay, Aggelos Kiayias, Fang Song, Petros Wallden;;;2019/1150;;;none;;;2019-10-07;;;security
-Batching non-membership proofs with bilinear accumulators;;;Steve Thakur;;;2019/1147;;;none;;;2019-10-07;;;proofs
+Batching non-membership proofs with bilinear accumulators;;;Steve Thakur;;;2019/1147;;;none;;;2019-10-07;;;proofs/pcs/group,proofs/snark/group,proofs/zk-protocols/group
 Auditable Compressed Storage;;;Iraklis Leontiadis, Reza Curtmola;;;2019/1143;;;none;;;2019-10-03;;;security
 A Provably Secure Conditional Proxy Re-Encryption Scheme without Pairing;;;Arinjita Paul, S. Sharmila Deva Selvi, C. Pandu Rangan;;;2019/1135;;;none;;;2019-10-03;;;security
 Symmetric-key Corruption Detection : When XOR-MACs Meet Combinatorial Group Testing;;;Kazuhiko Minematsu, Norifumi Kamiya;;;2019/1127;;;none;;;2019-10-02;;;security
@@ -90,90 +90,90 @@ Proof-of-Burn;;;Kostis Karantias, Aggelos Kiayias, Dionysis Zindros;;;2019/1096;
 Quantum Random Oracle Model with Auxiliary Input;;;Minki Hhan, Keita Xagawa, Takashi Yamakawa;;;2019/1093;;;none;;;2019-09-29;;;security
 KRNC: New Foundations for Permissionless Byzantine Consensus and Global Monetary Stability;;;Clinton Ehrlich, Anna Guzova;;;2019/1088;;;none;;;2019-09-29;;;formal
 The SPHINCS+ Signature Framework;;;Daniel J. Bernstein, Andreas Hülsing, Stefan Kölbl, Ruben Niederhagen, Joost Rijneveld, Peter Schwabe;;;2019/1086;;;none;;;2019-09-25;;;security
-OCEAN: A Built-In Replacement for Mining Pools;;;Raymond Chee, Kartik Chitturi, Edouard Dufour-Sans, Kyle Soska;;;2019/1081;;;none;;;2019-09-24;;;proofs
+OCEAN: A Built-In Replacement for Mining Pools;;;Raymond Chee, Kartik Chitturi, Edouard Dufour-Sans, Kyle Soska;;;2019/1081;;;none;;;2019-09-24;;;proofs/applications,proofs/snark
 Puncturable Proxy Re-Encryption supporting to Group Messaging Service;;;Tran Viet Xuan Phuong, Willy Susilo, Jongkil Kim, Guomin Yang, Dongxi Liu;;;2019/1078;;;none;;;2019-09-23;;;security
-Fractal: Post-Quantum and Transparent Recursive Proofs from Holography;;;Alessandro Chiesa, Dev Ojha, Nicholas Spooner;;;2019/1076;;;none;;;2019-09-23;;;proofs,security
+Fractal: Post-Quantum and Transparent Recursive Proofs from Holography;;;Alessandro Chiesa, Dev Ojha, Nicholas Spooner;;;2019/1076;;;none;;;2019-09-23;;;proofs/snark/group,proofs/snark/hash,security
 iUC: Flexible Universal Composability Made Simple;;;Jan Camenisch, Stephan Krenn, Ralf Kuesters, Daniel Rausch;;;2019/1073;;;none;;;2019-09-23;;;security
 Secure Delegation of Isogeny Computations and Cryptographic Applications;;;Robi Pedersen, Osmanbey Uzunkol;;;2019/1070;;;none;;;2019-09-23;;;proofs
 Lattice Trapdoors and IBE from Middle-Product LWE;;;Alex Lombardi, Vinod Vaikuntanathan, Thuy Duong Vuong;;;2019/1067;;;none;;;2019-09-23;;;security
 Separating Symmetric and Asymmetric Password-Authenticated Key Exchange;;;Julia Hesse;;;2019/1064;;;none;;;2019-09-21;;;security
-A Framework for UC-Secure Commitments from Publicly Computable Smooth Projective Hashing;;;Behzad Abdolmaleki, Hamidreza Khoshakhlagh, Daniel Slamanig;;;2019/1063;;;none;;;2019-09-21;;;proofs,security
-Local Proofs Approaching the Witness Length;;;Noga Ron-Zewi, Ron D. Rothblum;;;2019/1062;;;none;;;2019-09-21;;;proofs
+A Framework for UC-Secure Commitments from Publicly Computable Smooth Projective Hashing;;;Behzad Abdolmaleki, Hamidreza Khoshakhlagh, Daniel Slamanig;;;2019/1063;;;none;;;2019-09-21;;;proofs/applications,security
+Local Proofs Approaching the Witness Length;;;Noga Ron-Zewi, Ron D. Rothblum;;;2019/1062;;;none;;;2019-09-21;;;proofs/iop/code
 Privacy-preserving auditable token payments in a permissioned blockchain system;;;Elli Androulaki, Jan Camenisch, Angelo De Caro, Maria Dubovitskaya, Kaoutar Elkhiyaoui, Björn Tackmann;;;2019/1058;;;none;;;2019-09-18;;;security
 Dynamic Searchable Symmetric Encryption with Forward and Stronger Backward Privacy;;;Cong Zuo, Shi-Feng Sun, Joseph K. Liu, Jun Shao, Josef Pieprzyk;;;2019/1055;;;none;;;2019-09-18;;;security
-Truthful and Faithful Monetary Policy for a Stablecoin Conducted by a Decentralised, Encrypted Artificial Intelligence;;;David Cerezo Sánchez;;;2019/1054;;;none;;;2019-09-18;;;proofs,security
+Truthful and Faithful Monetary Policy for a Stablecoin Conducted by a Decentralised, Encrypted Artificial Intelligence;;;David Cerezo Sánchez;;;2019/1054;;;none;;;2019-09-18;;;proofs/applications,security
 Modeling Memory Faults in Signature and Authenticated Encryption Schemes;;;Marc Fischlin, Felix Günther;;;2019/1053;;;none;;;2019-09-18;;;security
-Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS;;;Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Psi Vesely, Nicholas Ward;;;2019/1047;;;none;;;2019-09-18;;;proofs,security
+Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS;;;Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Psi Vesely, Nicholas Ward;;;2019/1047;;;none;;;2019-09-18;;;proofs/snark/group,security
 A Machine-Checked Proof of Security for AWS Key Management Service;;;José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, Matthew Campagna, Ernie Cohen, Benjamin Gregoire, Vitor Pereira, Bernardo Portela, Pierre-Yves Strub, Serdar Tasiran;;;2019/1042;;;none;;;2019-09-18;;;formal,security
 A Conditional Privacy Preserving Authentication and Multi Party Group Key Establishment Scheme for Real-Time Application in VANETs;;;Swapnil Paliwal, Anvita Chandrakar;;;2019/1041;;;none;;;2019-09-18;;;formal,security
 Card-based Cryptography Meets Formal Verification;;;Alexander Koch, Michael Schrempp, Michael Kirsten;;;2019/1037;;;none;;;2019-09-16;;;formal
 An efficient and secure ID-based multi-proxy multi-signature scheme based on lattice;;;Rahim Toluee, Taraneh Eghlidos;;;2019/1031;;;none;;;2019-09-11;;;security
 Approximate Trapdoors for Lattices and Smaller Hash-and-Sign Signatures;;;Yilei Chen, Nicholas Genise, Pratyay Mukherjee;;;2019/1029;;;none;;;2019-09-11;;;security
-Recursive Proof Composition without a Trusted Setup;;;Sean Bowe, Jack Grigg, Daira Hopwood;;;2019/1021;;;none;;;2019-09-11;;;proofs
-Transparent Polynomial Commitment Scheme with Polylogarithmic Communication Complexity;;;Alexander Vlasov, Konstantin Panarin;;;2019/1020;;;none;;;2019-09-11;;;proofs
-Towards Instantiating the Algebraic Group Model;;;Julia Kastner, Jiaxin Pan;;;2019/1018;;;none;;;2019-09-10;;;proofs,security
+Recursive Proof Composition without a Trusted Setup;;;Sean Bowe, Jack Grigg, Daira Hopwood;;;2019/1021;;;none;;;2019-09-11;;;proofs/snark/group
+Transparent Polynomial Commitment Scheme with Polylogarithmic Communication Complexity;;;Alexander Vlasov, Konstantin Panarin;;;2019/1020;;;none;;;2019-09-11;;;proofs/pcs
+Towards Instantiating the Algebraic Group Model;;;Julia Kastner, Jiaxin Pan;;;2019/1018;;;none;;;2019-09-10;;;proofs/zk-protocols/group,security
 Security Reductions for White-Box Key-Storage in Mobile Payments;;;Estuardo Alpirez Bock, Chris Brzuska, Marc Fischlin, Christian Janson, Wil Michiels;;;2019/1014;;;none;;;2019-09-10;;;security
 Simple and Efficient KDM-CCA Secure Public Key Encryption;;;Fuyuki Kitagawa, Takahiro Matsuda, Keisuke Tanaka;;;2019/1012;;;none;;;2019-09-10;;;security
 On Perfect Correctness in (Lockable) Obfuscation;;;Rishab Goyal, Venkata Koppula, Satyanarayana Vusirikala, Brent Waters;;;2019/1010;;;none;;;2019-09-09;;;security
-On the (In)security of Kilian-Based SNARGs;;;James Bartusek, Liron Bronfman, Justin Holmgren, Fermi Ma, Ron Rothblum;;;2019/997;;;none;;;2019-09-05;;;proofs
+On the (In)security of Kilian-Based SNARGs;;;James Bartusek, Liron Bronfman, Justin Holmgren, Fermi Ma, Ron Rothblum;;;2019/997;;;none;;;2019-09-05;;;proofs/iop/hash,proofs/snark/hash,proofs/zk-protocols/hash
 Security of Symmetric Primitives against Key-Correlated Attacks;;;Aisling Connolly, Pooya Farshim, Georg Fuchsbauer;;;2019/1000;;;none;;;2019-09-05;;;security
 Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms;;;Tetsu Iwata, Mustafa Khairallah, Kazuhiko Minematsu, Thomas Peyrin;;;2019/992;;;none;;;2019-09-02;;;security
 Non-malleable Zero-Knowledge Arguments with Lower Round Complexity;;;Zhenbin Yan, Yi Deng;;;2019/977;;;none;;;2019-08-29;;;proofs
 On the Non-Existence of Short Vectors in Random Module Lattices;;;Ngoc Khanh Nguyen;;;2019/973;;;none;;;2019-08-29;;;security
-Noninteractive Zero Knowledge Proof System for NP from Ring LWE;;;Wenping MA;;;2019/972;;;none;;;2019-08-29;;;formal,proofs
+Noninteractive Zero Knowledge Proof System for NP from Ring LWE;;;Wenping MA;;;2019/972;;;none;;;2019-08-29;;;formal,proofs/zk-protocols/lattice
 Verifpal: Cryptographic Protocol Analysis for the Real World;;;Nadim Kobeissi, Georgio Nicolas, Mukesh Tiwari;;;2019/971;;;none;;;2019-08-29;;;formal
-Succinct Arguments for Bilinear Group Arithmetic: Practical Structure-Preserving Cryptography;;;Russell W. F. Lai, Giulio Malavolta, Viktoria Ronge;;;2019/969;;;none;;;2019-08-29;;;proofs,security
-There Are 10 Types of Vectors (and Polynomials): Efficient Zero-Knowledge Proofs of "One-Hotness" via Polynomials with One Zero;;;William Black, Ryan Henry;;;2019/968;;;none;;;2019-08-29;;;proofs
-WI Is Not Enough: Zero-Knowledge Contingent (Service) Payments Revisited;;;Georg Fuchsbauer;;;2019/964;;;none;;;2019-08-26;;;proofs
+Succinct Arguments for Bilinear Group Arithmetic: Practical Structure-Preserving Cryptography;;;Russell W. F. Lai, Giulio Malavolta, Viktoria Ronge;;;2019/969;;;none;;;2019-08-29;;;proofs/snark/group,proofs/zk-protocols/group,security
+There Are 10 Types of Vectors (and Polynomials): Efficient Zero-Knowledge Proofs of "One-Hotness" via Polynomials with One Zero;;;William Black, Ryan Henry;;;2019/968;;;none;;;2019-08-29;;;proofs/applications,proofs/zk-protocols
+WI Is Not Enough: Zero-Knowledge Contingent (Service) Payments Revisited;;;Georg Fuchsbauer;;;2019/964;;;none;;;2019-08-26;;;proofs/applications
 New Constructions of Hinting PRGs, OWFs with Encryption, and more;;;Rishab Goyal, Satyanarayana Vusirikala, Brent Waters;;;2019/962;;;none;;;2019-08-26;;;proofs
 Security of Hedged Fiat-Shamir Signatures under Fault Attacks;;;Diego F. Aranha, Claudio Orlandi, Akira Takahashi, Greg Zaverucha;;;2019/956;;;none;;;2019-08-22;;;security
-Structure-Preserving and Re-randomizable RCCA-secure Public Key Encryption and its Applications;;;Antonio Faonio, Dario Fiore, Javier Herranz, Carla Ràfols;;;2019/955;;;none;;;2019-08-22;;;proofs,security
-PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge;;;Ariel Gabizon, Zachary J. Williamson, Oana Ciobotaru;;;2019/953;;;none;;;2019-08-21;;;proofs
-Non-Interactive Zero Knowledge Proofs in the Random Oracle Model;;;Vincenzo Iovino, Ivan Visconti;;;2019/952;;;none;;;2019-08-21;;;proofs,security
+Structure-Preserving and Re-randomizable RCCA-secure Public Key Encryption and its Applications;;;Antonio Faonio, Dario Fiore, Javier Herranz, Carla Ràfols;;;2019/955;;;none;;;2019-08-22;;;proofs/zk-protocols/group,security
+PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge;;;Ariel Gabizon, Zachary J. Williamson, Oana Ciobotaru;;;2019/953;;;none;;;2019-08-21;;;proofs/snark
+Non-Interactive Zero Knowledge Proofs in the Random Oracle Model;;;Vincenzo Iovino, Ivan Visconti;;;2019/952;;;none;;;2019-08-21;;;proofs/zk-protocols,security
 Another look at some isogeny hardness assumptions;;;Simon-Philipp Merz, Romy Minko, Christophe Petit;;;2019/950;;;none;;;2019-08-21;;;security
 Generic Side-channel attacks on CCA-secure lattice-based PKE and KEM schemes;;;Prasanna Ravi, Sujoy Sinha Roy, Anupam Chattopadhyay, Shivam Bhasin;;;2019/948;;;none;;;2019-08-20;;;security
-Efficient zero-knowledge arguments in the discrete log setting, revisited;;;Max Hoffmann, Michael Klooß, Andy Rupp;;;2019/944;;;none;;;2019-08-19;;;proofs
+Efficient zero-knowledge arguments in the discrete log setting, revisited;;;Max Hoffmann, Michael Klooß, Andy Rupp;;;2019/944;;;none;;;2019-08-19;;;proofs/applications,proofs/snark/group
 Ouroboros Clepsydra: Ouroboros Praos in the Universally Composable Relative Time Model;;;Handan Kılınç Alper;;;2019/942;;;none;;;2019-08-18;;;security
 Low-Memory Attacks against Two-Round Even-Mansour using the 3-XOR Problem;;;Gaëtan Leurent, Ferdinand Sibleyras;;;2019/938;;;none;;;2019-08-18;;;security
 On the Degree-Insensitive SI-GDH problem and assumption;;;Samuel Dobson, Steven D. Galbraith;;;2019/929;;;none;;;2019-08-18;;;security
 Formal Verification of a Constant-Time Preserving C Compiler;;;Gilles Barthe, Sandrine Blazy, Benjamin Grégoire, Rémi Hutin, Vincent Laporte, David Pichardie, Alix Trieu;;;2019/926;;;none;;;2019-08-18;;;formal
-Fully Auditable Privacy-preserving Cryptocurrency Against Malicious Auditors;;;Wulu Li, Yongcan Wang, Lei Chen, Xin Lai, Xiao Zhang, Jiajun Xin;;;2019/925;;;none;;;2019-08-18;;;proofs,security
+Fully Auditable Privacy-preserving Cryptocurrency Against Malicious Auditors;;;Wulu Li, Yongcan Wang, Lei Chen, Xin Lai, Xiao Zhang, Jiajun Xin;;;2019/925;;;none;;;2019-08-18;;;proofs/applications,security
 Your Money or Your Life---Modeling and Analyzing the Security of Electronic Payment in the UC Framework;;;Dirk Achenbach, Roland Gröll, Timon Hackenjos, Alexander Koch, Bernhard Löwe, Jeremias Mechler, Jörn Müller-Quade, Jochen Rill;;;2019/924;;;none;;;2019-08-18;;;security
 A High-Assurance Evaluator for Machine-Checked Secure Multiparty Computation;;;Karim Eldefrawy, Vitor Pereira;;;2019/922;;;none;;;2019-08-13;;;formal,security
 Simplified Revocable Hierarchical Identity-Based Encryption from Lattices;;;Shixiong Wang, Juanyang Zhang, Jingnan He, Huaxiong Wang, Chao Li;;;2019/917;;;none;;;2019-08-13;;;security
 Efficiently Masking Binomial Sampling at Arbitrary Orders for Lattice-Based Crypto;;;Tobias Schneider, Clara Paglialonga, Tobias Oder, Tim Güneysu;;;2019/910;;;none;;;2019-08-08;;;security
-Simulation-Sound Arguments for LWE and Applications to KDM-CCA2 Security;;;Benoît Libert, Khoa Nguyen, Alain Passelègue, Radu Titiu;;;2019/908;;;none;;;2019-08-08;;;proofs,security
+Simulation-Sound Arguments for LWE and Applications to KDM-CCA2 Security;;;Benoît Libert, Khoa Nguyen, Alain Passelègue, Radu Titiu;;;2019/908;;;none;;;2019-08-08;;;proofs/zk-protocols/lattice,security
 Timed-Release Encryption With Master Time Bound Key (Full Version);;;Gwangbae Choi, Serge Vaudenay;;;2019/904;;;none;;;2019-08-08;;;security
-Improvements in Everlasting Privacy: Efficient and Secure Zero Knowledge Proofs;;;Thomas Haines, Clementine Gritti;;;2019/901;;;none;;;2019-08-08;;;proofs
+Improvements in Everlasting Privacy: Efficient and Secure Zero Knowledge Proofs;;;Thomas Haines, Clementine Gritti;;;2019/901;;;none;;;2019-08-08;;;proofs/applications
 CCM-SIV: Single-PRF Nonce-Misuse-Resistant Authenticated Encryption;;;Patrick Kresmer, Alexander Zeh;;;2019/892;;;none;;;2019-08-05;;;security
 Shielded Computations in Smart Contracts Overcoming Forks;;;Vincenzo Botta, Daniele Friolo, Daniele Venturi, Ivan Visconti;;;2019/891;;;none;;;2019-08-05;;;security
 Algebraically Structured LWE, Revisited;;;Chris Peikert, Zachary Pepin;;;2019/878;;;none;;;2019-08-01;;;security
 Blind Schnorr Signatures and Signed ElGamal Encryption in the Algebraic Group Model;;;Georg Fuchsbauer, Antoine Plouviez, Yannick Seurin;;;2019/877;;;none;;;2019-08-01;;;security
 Quantum Alice and Silent Bob: Qubit-based Quantum Key Recycling with almost no classical communication;;;Daan Leermakers, Boris Skoric;;;2019/875;;;none;;;2019-08-01;;;security
 Non-Locality and Zero-Knowledge MIPs;;;Claude Crépeau, Nan Yang;;;2019/871;;;none;;;2019-07-30;;;proofs
-A Coin-Free Oracle-Based Augmented Black Box Framework;;;Kyosuke Yamashita, Mehdi Tibouchi, Masayuki Abe;;;2019/859;;;none;;;2019-07-24;;;proofs
+A Coin-Free Oracle-Based Augmented Black Box Framework;;;Kyosuke Yamashita, Mehdi Tibouchi, Masayuki Abe;;;2019/859;;;none;;;2019-07-24;;;proofs/zk-protocols
 On Designing Lightweight RFID Security Protocols for Medical IoT;;;Masoumeh Safkhani, Ygal Bendavid, Samad Rostampour, Nasour Bagheri;;;2019/851;;;none;;;2019-07-22;;;security
 Statistical Zap Arguments from Quasi-Polynomial LWE;;;Abhishek Jain, Zhengzhong Jin;;;2019/839;;;none;;;2019-07-19;;;security
-Succinct Arguments in the Quantum Random Oracle Model;;;Alessandro Chiesa, Peter Manohar, Nicholas Spooner;;;2019/834;;;none;;;2019-07-19;;;proofs,security
-2-Message Publicly Verifiable WI from (Subexponential) LWE;;;Alex Lombardi, Vinod Vaikuntanathan, Daniel Wichs;;;2019/808;;;none;;;2019-07-14;;;proofs,security
+Succinct Arguments in the Quantum Random Oracle Model;;;Alessandro Chiesa, Peter Manohar, Nicholas Spooner;;;2019/834;;;none;;;2019-07-19;;;proofs/iop,proofs/snark,security
+2-Message Publicly Verifiable WI from (Subexponential) LWE;;;Alex Lombardi, Vinod Vaikuntanathan, Daniel Wichs;;;2019/808;;;none;;;2019-07-14;;;proofs/zk-protocols/lattice,security
 Provable Security for PKI Schemes;;;Sara Wrótniak, Hemi Leibowitz, Ewa Syta, Amir Herzberg;;;2019/807;;;none;;;2019-07-14;;;security
 Seems Legit: Automated Analysis of Subtle Attacks on Protocols that Use Signatures;;;Dennis Jackson, Cas Cremers, Katriel Cohn-Gordon, Ralf Sasse;;;2019/779;;;none;;;2019-07-09;;;formal
 A Reduction-Based Proof for Authentication and Session Key Security in 3-Party Kerberos;;;Jörg Schwenk, Douglas Stebila;;;2019/777;;;none;;;2019-07-09;;;security
-Verifiable Computing for Approximate Computation;;;Shuo Chen, Jung Hee Cheon, Dongwoo Kim, Daejun Park;;;2019/762;;;none;;;2019-07-02;;;proofs
+Verifiable Computing for Approximate Computation;;;Shuo Chen, Jung Hee Cheon, Dongwoo Kim, Daejun Park;;;2019/762;;;none;;;2019-07-02;;;proofs/iop
 EverCrypt: A Fast, Verified, Cross-Platform Cryptographic Provider;;;Jonathan Protzenko, Bryan Parno, Aymeric Fromherz, Chris Hawblitzel, Marina Polubelova, Karthikeyan Bhargavan, Benjamin Beurdouche, Joonwon Choi, Antoine Delignat-Lavaud, Cedric Fournet, Natalia Kulatova, Tahina Ramananandro, Aseem Rastogi, Nikhil Swamy, Christoph Wintersteiger, Santiago Zanella-Beguelin;;;2019/757;;;none;;;2019-07-02;;;formal
 Efficient Lattice-Based Zero-Knowledge Arguments with Standard Soundness: Construction and Applications;;;Rupeng Yang, Man Ho Au, Zhenfei Zhang, Qiuliang Xu, Zuoxia Yu, William Whyte;;;2019/747;;;none;;;2019-06-25;;;proofs
 Efficient Perfectly Sound One-message Zero-Knowledge Proofs via Oracle-aided Simulation;;;Vincenzo Iovino;;;2019/745;;;none;;;2019-06-25;;;proofs
 Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation: An Application to Hate-Speech Detection;;;Devin Reich, Ariel Todoki, Rafael Dowsley, Martine De Cock, Anderson C. A. Nascimento;;;2019/744;;;none;;;2019-06-25;;;security
 Highly Efficient Key Exchange Protocols with Optimal Tightness -- Enabling real-world deployments with theoretically sound parameters;;;Katriel Cohn-Gordon, Cas Cremers, Kristian Gjøsteen, Håkon Jacobsen, Tibor Jager;;;2019/737;;;none;;;2019-06-21;;;security
-Fully Homomorphic NIZK and NIWI Proofs;;;Prabhanjan Ananth, Apoorvaa Deshpande, Yael Tauman Kalai, Anna Lysyanskaya;;;2019/732;;;none;;;2019-06-20;;;proofs
+Fully Homomorphic NIZK and NIWI Proofs;;;Prabhanjan Ananth, Apoorvaa Deshpande, Yael Tauman Kalai, Anna Lysyanskaya;;;2019/732;;;none;;;2019-06-20;;;proofs/zk-protocols/group
 A Framework for Universally Composable Oblivious Transfer from One-Round Key-Exchange;;;Pedro Branco, Jintai Ding, Manuel Goulão, Paulo Mateus;;;2019/726;;;none;;;2019-06-20;;;security
 SIKE'd Up: Fast and Secure Hardware Architectures for Supersingular Isogeny Key Encapsulation;;;Brian Koziel, A-Bon Ackie, Rami El Khatib, Reza Azarderakhsh, Mehran Mozaffari-Kermani;;;2019/711;;;none;;;2019-06-18;;;security
 Post-Quantum UC-Secure Oblivious Transfer in the Standard Model with Adaptive Corruptions;;;Olivier Blazy, Céline Chevalier, Quoc Huy Vu;;;2019/707;;;none;;;2019-06-18;;;security
 Endemic Oblivious Transfer;;;Daniel Masny, Peter Rindal;;;2019/706;;;none;;;2019-06-18;;;security
 Arcula: A Secure Hierarchical Deterministic Wallet for Multi-asset Blockchains;;;Adriano Di Luzio, Danilo Francati, Giuseppe Ateniese;;;2019/704;;;none;;;2019-06-18;;;security
-Decentralized Multi-authority Anonymous Authentication for Global Identities with Non-interactive Proofs;;;Hiroaki Anada;;;2019/701;;;none;;;2019-06-13;;;proofs,security
+Decentralized Multi-authority Anonymous Authentication for Global Identities with Non-interactive Proofs;;;Hiroaki Anada;;;2019/701;;;none;;;2019-06-13;;;proofs/applications,security
 A Formal Treatment of Deterministic Wallets;;;Poulami Das, Sebastian Faust, Julian Loss;;;2019/698;;;none;;;2019-06-13;;;security
-Black-Box Language Extension of Non-Interactive Zero-Knowledge Arguments;;;Masayuki Abe, Miguel Ambrona, Miyako Ohkubo;;;2019/696;;;none;;;2019-06-12;;;proofs
+Black-Box Language Extension of Non-Interactive Zero-Knowledge Arguments;;;Masayuki Abe, Miguel Ambrona, Miyako Ohkubo;;;2019/696;;;none;;;2019-06-12;;;proofs/zk-protocols
 A Unified and Composable Take on Ratcheting;;;Daniel Jost, Ueli Maurer, Marta Mularczyk;;;2019/694;;;none;;;2019-06-12;;;security
 Comparing proofs of security for lattice-based encryption;;;Daniel J. Bernstein;;;2019/691;;;none;;;2019-06-12;;;security
 On the Complexity of Collision Resistant Hash Functions: New and Old Black-Box Separations;;;Nir Bitansky, Akshay Degwekar;;;2019/686;;;none;;;2019-06-11;;;proofs
@@ -182,41 +182,41 @@ Robust and Scalable Consensus for Sharded Distributed Ledgers;;;Eleftherios Koko
 Key Exchange and Authenticated Key Exchange with Reusable Keys Based on RLWE Assumption;;;Jintai Ding, Pedro Branco, Kevin Schmitt;;;2019/665;;;none;;;2019-06-06;;;security
 Can Verifiable Delay Functions be Based on Random Oracles?;;;Mohammad Mahmoody, Caleb Smith, David J. Wu;;;2019/663;;;none;;;2019-06-05;;;security
 Generalized Proofs of Knowledge with Fully Dynamic Setup;;;Christian Badertscher, Daniel Jost, Ueli Maurer;;;2019/662;;;none;;;2019-06-04;;;proofs
-Tight Verifiable Delay Functions;;;Nico Döttling, Sanjam Garg, Giulio Malavolta, Prashant Nalini Vasudevan;;;2019/659;;;none;;;2019-06-04;;;proofs
+Tight Verifiable Delay Functions;;;Nico Döttling, Sanjam Garg, Giulio Malavolta, Prashant Nalini Vasudevan;;;2019/659;;;none;;;2019-06-04;;;proofs/snark
 Efficient Invisible and Unlinkable Sanitizable Signatures;;;Xavier Bultel, Pascal Lafourcade, Russell W. F. Lai, Giulio Malavolta, Dominique Schröder, Sri Aravinda Krishnan Thyagarajan;;;2019/648;;;none;;;2019-06-04;;;security
 Strong Asymmetric PAKE based on Trapdoor CKEM;;;Tatiana Bradley, Stanislaw Jarecki, Jiayu Xu;;;2019/647;;;none;;;2019-06-04;;;security
-Timed Signatures and Zero-Knowledge Proofs -Timestamping in the Blockchain Era-;;;Aydin Abadi, Michele Ciampi, Aggelos Kiayias, Vassilis Zikas;;;2019/644;;;none;;;2019-06-04;;;proofs
-Algebraic Techniques for Short(er) Exact Lattice-Based Zero-Knowledge Proofs;;;Jonathan Bootle, Vadim Lyubashevsky, Gregor Seiler;;;2019/642;;;none;;;2019-06-03;;;proofs
-Simulation Extractability in Groth's zk-SNARK;;;Shahla Atapoor, Karim Baghery;;;2019/641;;;none;;;2019-06-03;;;proofs
+Timed Signatures and Zero-Knowledge Proofs -Timestamping in the Blockchain Era-;;;Aydin Abadi, Michele Ciampi, Aggelos Kiayias, Vassilis Zikas;;;2019/644;;;none;;;2019-06-04;;;proofs/applications,proofs/zk-protocols
+Algebraic Techniques for Short(er) Exact Lattice-Based Zero-Knowledge Proofs;;;Jonathan Bootle, Vadim Lyubashevsky, Gregor Seiler;;;2019/642;;;none;;;2019-06-03;;;proofs/zk-protocols/lattice
+Simulation Extractability in Groth's zk-SNARK;;;Shahla Atapoor, Karim Baghery;;;2019/641;;;none;;;2019-06-03;;;proofs/applications,proofs/snark/group
 On Round Optimal Statistical Zero Knowledge Arguments;;;Nir Bitansky, Omer Paneth;;;2019/640;;;none;;;2019-06-03;;;proofs
 Non-Uniformly Sound Certificates with Applications to Concurrent Zero-Knowledge;;;Cody Freitag, Ilan Komargodski, Rafael Pass;;;2019/631;;;none;;;2019-06-03;;;proofs,security
-Simultaneous Amplification: The Case of Non-Interactive Zero-Knowledge;;;Vipul Goyal, Aayush Jain, Amit Sahai;;;2019/626;;;none;;;2019-06-03;;;formal,proofs
-Exploring Constructions of Compact NIZKs from Various Assumptions;;;Shuichi Katsumata, Ryo Nishimaki, Shota Yamada, Takashi Yamakawa;;;2019/623;;;none;;;2019-06-03;;;proofs,security
-CPA-to-CCA Transformation for KDM Security;;;Fuyuki Kitagawa, Takahiro Matsuda;;;2019/609;;;none;;;2019-06-02;;;proofs,security
+Simultaneous Amplification: The Case of Non-Interactive Zero-Knowledge;;;Vipul Goyal, Aayush Jain, Amit Sahai;;;2019/626;;;none;;;2019-06-03;;;formal,proofs/zk-protocols
+Exploring Constructions of Compact NIZKs from Various Assumptions;;;Shuichi Katsumata, Ryo Nishimaki, Shota Yamada, Takashi Yamakawa;;;2019/623;;;none;;;2019-06-03;;;proofs/zk-protocols/group,proofs/zk-protocols/lattice,security
+CPA-to-CCA Transformation for KDM Security;;;Fuyuki Kitagawa, Takahiro Matsuda;;;2019/609;;;none;;;2019-06-02;;;proofs/zk-protocols/group,security
 How to Delegate Computations Publicly;;;Yael Kalai, Omer Paneth, Lisa Yang;;;2019/603;;;none;;;2019-06-02;;;security
-AuroraLight: Improved prover efficiency and SRS size in a Sonic-like system;;;Ariel Gabizon;;;2019/601;;;none;;;2019-06-02;;;proofs
+AuroraLight: Improved prover efficiency and SRS size in a Sonic-like system;;;Ariel Gabizon;;;2019/601;;;none;;;2019-06-02;;;proofs/snark/hash
 ZOCB and ZOTR: Tweakable Blockcipher Modes for Authenticated Encryption with Full Absorption;;;Zhenzhen Bao, Jian Guo, Tetsu Iwata, Kazuhiko Minematsu;;;2019/600;;;none;;;2019-06-02;;;security
 Tighter proofs of CCA security in the quantum random oracle model;;;Nina Bindel, Mike Hamburg, Kathrin Hövelmanns, Andreas Hülsing, Edoardo Persichetti;;;2019/590;;;none;;;2019-05-30;;;security
 A${^2}$L: Anonymous Atomic Locks for Scalability in Payment Channel Hubs;;;Erkan Tairi, Pedro Moreno-Sanchez, Matteo Maffei;;;2019/589;;;none;;;2019-05-30;;;security
-Simulation-Extractable zk-SNARK with a Single Verification;;;Jihye Kim, Jiwon Lee, Hyunok Oh;;;2019/586;;;none;;;2019-05-30;;;proofs
+Simulation-Extractable zk-SNARK with a Single Verification;;;Jihye Kim, Jiwon Lee, Hyunok Oh;;;2019/586;;;none;;;2019-05-30;;;proofs/snark/group,proofs/snark/hash
 Atomic Multi-Channel Updates with Constant Collateral in Bitcoin-Compatible Payment-Channel Networks;;;Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei;;;2019/583;;;none;;;2019-05-30;;;security
 EasyUC: Using EasyCrypt to Mechanize Proofs of Universally Composable Security;;;Ran Canetti, Alley Stoughton, Mayank Varia;;;2019/582;;;none;;;2019-05-30;;;formal,security
-Omniring: Scaling Up Private Payments Without Trusted Setup - Formal Foundations and Constructions of Ring Confidential Transactions with Log-size Proofs;;;Russell W. F. Lai, Viktoria Ronge, Tim Ruffing, Dominique Schröder, Sri Aravinda Krishnan Thyagarajan, Jiafan Wang;;;2019/580;;;none;;;2019-05-30;;;proofs
+Omniring: Scaling Up Private Payments Without Trusted Setup - Formal Foundations and Constructions of Ring Confidential Transactions with Log-size Proofs;;;Russell W. F. Lai, Viktoria Ronge, Tim Ruffing, Dominique Schröder, Sri Aravinda Krishnan Thyagarajan, Jiafan Wang;;;2019/580;;;none;;;2019-05-30;;;proofs/applications
 On Group-Characterizability of Homomorphic Secret Sharing Schemes;;;Reza Kaboli, Shahram Khazaei, Maghsoud Parviz;;;2019/576;;;none;;;2019-05-28;;;security
 Security of the Suffix Keyed Sponge;;;Christoph Dobraunig, Bart Mennink;;;2019/573;;;none;;;2019-05-27;;;security
-Lattice RingCT v2.0 with Multiple Input and Output Wallets;;;Wilson Alberto Torres, Veronika Kuchta, Ron Steinfeld, Amin Sakzad, Joseph K. Liu, Jacob Cheng;;;2019/569;;;none;;;2019-05-27;;;proofs
+Lattice RingCT v2.0 with Multiple Input and Output Wallets;;;Wilson Alberto Torres, Veronika Kuchta, Ron Steinfeld, Amin Sakzad, Joseph K. Liu, Jacob Cheng;;;2019/569;;;none;;;2019-05-27;;;proofs/applications
 Asymmetric Message Franking: Content Moderation for Metadata-Private End-to-End Encryption;;;Nirvan Tyagi, Paul Grubbs, Julia Len, Ian Miers, Thomas Ristenpart;;;2019/565;;;none;;;2019-05-27;;;security
 Towards More Secure Constructions of Adjustable Join Schemes;;;Shahram Khazaei, Mojtaba Rafiee;;;2019/562;;;none;;;2019-05-27;;;security
 Continuous Space-Bounded Non-Malleable Codes from Stronger Proofs-of-Space;;;Binyi Chen, Yilei Chen, Kristina Hostáková, Pratyay Mukherjee;;;2019/552;;;none;;;2019-05-24;;;proofs,security
-Spartan: Efficient and general-purpose zkSNARKs without trusted setup;;;Srinath Setty;;;2019/550;;;https://github.com/Microsoft/Spartan;;;2019-05-23;;;proofs,security
-Finding a Nash Equilibrium Is No Easier Than Breaking Fiat-Shamir;;;Arka Rai Choudhuri, Pavel Hubacek, Chethan Kamath, Krzysztof Pietrzak, Alon Rosen, Guy N. Rothblum;;;2019/549;;;none;;;2019-05-23;;;proofs
+Spartan: Efficient and general-purpose zkSNARKs without trusted setup;;;Srinath Setty;;;2019/550;;;https://github.com/Microsoft/Spartan;;;2019-05-23;;;proofs/iop/group,proofs/pcs/group,proofs/snark/group,security
+Finding a Nash Equilibrium Is No Easier Than Breaking Fiat-Shamir;;;Arka Rai Choudhuri, Pavel Hubacek, Chethan Kamath, Krzysztof Pietrzak, Alon Rosen, Guy N. Rothblum;;;2019/549;;;none;;;2019-05-23;;;proofs/iop,proofs/zk-protocols
 About Wave Implementation and its Leakage Immunity;;;Thomas Debris-Alazard, Nicolas Sendrier, Jean-Pierre Tillich;;;2019/548;;;none;;;2019-05-23;;;security
-Linearly-Homomorphic Signatures and Scalable Mix-Nets;;;Chloé Hébant, Duong Hieu Phan, David Pointcheval;;;2019/547;;;none;;;2019-05-23;;;proofs
-Zero-Knowledge Proof-of-Identity: Sybil-Resistant, Anonymous Authentication on Permissionless Blockchains and Incentive Compatible, Strictly Dominant Cryptocurrencies;;;David Cerezo Sánchez;;;2019/546;;;none;;;2019-05-22;;;proofs
-Evaluation of Code-based Signature Schemes;;;Partha Sarathi Roy, Kirill Morozov, Kazuhide Fukushima, Shinsaku Kiyomoto;;;2019/544;;;none;;;2019-05-22;;;proofs
+Linearly-Homomorphic Signatures and Scalable Mix-Nets;;;Chloé Hébant, Duong Hieu Phan, David Pointcheval;;;2019/547;;;none;;;2019-05-23;;;proofs/applications
+Zero-Knowledge Proof-of-Identity: Sybil-Resistant, Anonymous Authentication on Permissionless Blockchains and Incentive Compatible, Strictly Dominant Cryptocurrencies;;;David Cerezo Sánchez;;;2019/546;;;none;;;2019-05-22;;;proofs/applications
+Evaluation of Code-based Signature Schemes;;;Partha Sarathi Roy, Kirill Morozov, Kazuhide Fukushima, Shinsaku Kiyomoto;;;2019/544;;;none;;;2019-05-22;;;proofs/zk-protocols/code
 TMPS: Ticket-Mediated Password Strengthening;;;John Kelsey, Dana Dachman-Soled, Sweta Mishra, Meltem Sonmez Turan;;;2019/543;;;none;;;2019-05-22;;;security
 Formally Verified Cryptographic Web Applications in WebAssembly;;;Jonathan Protzenko, Benjamin Beurdouche, Denis Merigoux, Karthikeyan Bhargavan;;;2019/542;;;none;;;2019-05-22;;;formal
-Concretely-Efficient Zero-Knowledge Arguments for Arithmetic Circuits and Their Application to Lattice-Based Cryptography;;;Carsten Baum, Ariel Nof;;;2019/532;;;none;;;2019-05-22;;;proofs
+Concretely-Efficient Zero-Knowledge Arguments for Arithmetic Circuits and Their Application to Lattice-Based Cryptography;;;Carsten Baum, Ariel Nof;;;2019/532;;;none;;;2019-05-22;;;proofs/zk-protocols/lattice
 UC-Commitment Schemes with Phase-Adaptive Security from Trapdoor Functions;;;Pedro Branco, Manuel Goulão, Paulo Mateus;;;2019/529;;;none;;;2019-05-20;;;security
 Prime, Order Please! Revisiting Small Subgroup and Invalid Curve Attacks on Protocols using Diffie-Hellman;;;Cas Cremers, Dennis Jackson;;;2019/526;;;none;;;2019-05-20;;;formal
 Threshold ECDSA from ECDSA Assumptions: The Multiparty Case;;;Jack Doerner, Yashvanth Kondi, Eysa Lee, abhi shelat;;;2019/523;;;none;;;2019-05-20;;;security
@@ -227,34 +227,34 @@ Simple Schemes in the Bounded Storage Model;;;Jiaxin Guan, Mark Zhandry;;;2019/5
 Two-Party ECDSA from Hash Proof Systems and Efficient Instantiations;;;Guilhem Castagnos, Dario Catalano, Fabien Laguillaumie, Federico Savasta, Ida Tucker;;;2019/503;;;none;;;2019-05-20;;;proofs,security
 On the non-tightness of measurement-based reductions for key encapsulation mechanism in the quantum random oracle model;;;Haodong Jiang, Zhenfeng Zhang, Zhi Ma;;;2019/494;;;none;;;2019-05-20;;;security
 Decisional second-preimage resistance: When does SPR imply PRE?;;;Daniel J. Bernstein, Andreas Hülsing;;;2019/492;;;none;;;2019-05-20;;;security
-Sigma protocols for MQ, PKP and SIS, and fishy signature schemes;;;Ward Beullens;;;2019/490;;;none;;;2019-05-20;;;proofs,security
+Sigma protocols for MQ, PKP and SIS, and fishy signature schemes;;;Ward Beullens;;;2019/490;;;none;;;2019-05-20;;;proofs/zk-protocols/lattice,security
 From Single-Input to Multi-Client Inner-Product Functional Encryption;;;Michel Abdalla, Fabrice Benhamouda, Romain Gay;;;2019/487;;;none;;;2019-05-19;;;security
-On the Efficiency of Privacy-Preserving Smart Contract Systems;;;Karim Baghery;;;2019/480;;;none;;;2019-05-13;;;proofs,security
+On the Efficiency of Privacy-Preserving Smart Contract Systems;;;Karim Baghery;;;2019/480;;;none;;;2019-05-13;;;proofs/applications,proofs/snark,proofs/zk-protocols,security
 Extended 3-Party ACCE and Application to LoRaWAN 1.1;;;Sébastien Canard, Loïc Ferreira;;;2019/479;;;none;;;2019-05-13;;;security
 The Complexities of Healing in Secure Group Messaging: Why Cross-Group Effects Matter;;;Cas Cremers, Britta Hale, Konrad Kohbrok;;;2019/477;;;none;;;2019-05-10;;;security
-Dual-Mode NIZKs from Obfuscation;;;Dennis Hofheinz, Bogdan Ursu;;;2019/475;;;none;;;2019-05-10;;;proofs
-UC-Secure CRS Generation for SNARKs;;;Behzad Abdolmaleki, Karim Baghery, Helger Lipmaa, Janno Siim, Michal Zajac;;;2019/471;;;none;;;2019-05-10;;;proofs,security
+Dual-Mode NIZKs from Obfuscation;;;Dennis Hofheinz, Bogdan Ursu;;;2019/475;;;none;;;2019-05-10;;;proofs/zk-protocols/group
+UC-Secure CRS Generation for SNARKs;;;Behzad Abdolmaleki, Karim Baghery, Helger Lipmaa, Janno Siim, Michal Zajac;;;2019/471;;;none;;;2019-05-10;;;proofs/applications,proofs/snark,security
 How to wrap it up - A formally verified proposal for the use of authenticated wrapping in PKCS\#11;;;Alexander Dax, Robert Künnemann, Sven Tangermann, Michael Backes;;;2019/462;;;none;;;2019-05-10;;;formal
 From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1;;;Gaëtan Leurent, Thomas Peyrin;;;2019/459;;;none;;;2019-05-10;;;security
-Poseidon: A New Hash Function for Zero-Knowledge Proof Systems;;;Lorenzo Grassi, Dmitry Khovratovich, Christian Rechberger, Arnab Roy, Markus Schofnegger;;;2019/458;;;none;;;2019-05-10;;;proofs
+Poseidon: A New Hash Function for Zero-Knowledge Proof Systems;;;Lorenzo Grassi, Dmitry Khovratovich, Christian Rechberger, Arnab Roy, Markus Schofnegger;;;2019/458;;;none;;;2019-05-10;;;proofs/applications,proofs/snark/group,proofs/snark/hash
 UniqueChain: A Fast, Provably Secure Proof-of-Stake Based Blockchain Protocol in the Open Setting;;;Peifang Ni, Hongda Li, Xianning Meng, Dongxue Pan;;;2019/456;;;none;;;2019-05-10;;;security
-FloodXMR: Low-cost transaction flooding attack with Monero’s bulletproof protocol;;;João Otávio Massari Chervinski, Diego Kreutz, Jiangshan Yu;;;2019/455;;;none;;;2019-05-10;;;proofs
+FloodXMR: Low-cost transaction flooding attack with Monero’s bulletproof protocol;;;João Otávio Massari Chervinski, Diego Kreutz, Jiangshan Yu;;;2019/455;;;none;;;2019-05-10;;;proofs/applications
 Non-Interactive MPC with Trusted Hardware Secure Against Residual Function Attacks;;;Ryan Karl, Timothy Burchfield, Jonathan Takeshita, Taeho Jung;;;2019/454;;;none;;;2019-05-08;;;security
 HMAKE: Legacy-Compliant Multi-factor Authenticated Key Exchange from Historical Data;;;Chenglu Jin, Zheng Yang, Sridhar Adepu, Jianying Zhou;;;2019/450;;;none;;;2019-05-08;;;security
-Efficient Pseudorandom Correlation Generators: Silent OT Extension and More;;;Elette Boyle, Geoffroy Couteau, Niv Gilboa, Yuval Ishai, Lisa Kohl, Peter Scholl;;;2019/448;;;none;;;2019-05-08;;;proofs,security
-Lattice-based Zero-Knowledge Proofs: New Techniques for Shorter and Faster Constructions and Applications;;;Muhammed F. Esgin, Ron Steinfeld, Joseph K. Liu, Dongxi Liu;;;2019/445;;;none;;;2019-05-08;;;proofs
+Efficient Pseudorandom Correlation Generators: Silent OT Extension and More;;;Elette Boyle, Geoffroy Couteau, Niv Gilboa, Yuval Ishai, Lisa Kohl, Peter Scholl;;;2019/448;;;none;;;2019-05-08;;;proofs/zk-protocols,security
+Lattice-based Zero-Knowledge Proofs: New Techniques for Shorter and Faster Constructions and Applications;;;Muhammed F. Esgin, Ron Steinfeld, Joseph K. Liu, Dongxi Liu;;;2019/445;;;none;;;2019-05-08;;;proofs/applications
 Symmetric-key Authenticated Key Exchange (SAKE) with Perfect Forward Secrecy;;;Gildas Avoine, Sébastien Canard, Loïc Ferreira;;;2019/444;;;none;;;2019-05-08;;;security
-Contingent payments on a public ledger: models and reductions for automated verification;;;Sergiu Bursuc, Steve Kremer;;;2019/443;;;none;;;2019-05-08;;;formal,proofs
+Contingent payments on a public ledger: models and reductions for automated verification;;;Sergiu Bursuc, Steve Kremer;;;2019/443;;;none;;;2019-05-08;;;formal,proofs/applications
 Oblivious PRF on Committed Vector Inputs and Application to Deduplication of Encrypted Data;;;Jan Camenisch, Angelo De Caro, Esha Ghosh, Alessandro Sorniotti;;;2019/438;;;none;;;2019-05-03;;;proofs,security
 Flexible Authenticated and Confidential Channel Establishment (fACCE): Analyzing the Noise Protocol Framework;;;Benjamin Dowling, Paul Rösler, Jörg Schwenk;;;2019/436;;;none;;;2019-05-03;;;security
-Design of Symmetric-Key Primitives for Advanced Cryptographic Protocols;;;Abdelrahaman Aly, Tomer Ashur, Eli Ben-Sasson, Siemen Dhooghe, Alan Szepieniec;;;2019/426;;;none;;;2019-04-27;;;proofs
+Design of Symmetric-Key Primitives for Advanced Cryptographic Protocols;;;Abdelrahaman Aly, Tomer Ashur, Eli Ben-Sasson, Siemen Dhooghe, Alan Szepieniec;;;2019/426;;;none;;;2019-04-27;;;proofs/snark/hash
 Continuing to reflect on TLS 1.3 with external PSK;;;Liliya Akhmetzyanova, Evgeny Alekseev, Ekaterina Smyshlyaeva, Alexandr Sokolov;;;2019/421;;;none;;;2019-04-27;;;security
-Algebraic Cryptanalysis of STARK-Friendly Designs: Application to MARVELlous and MiMC;;;Martin R. Albrecht, Carlos Cid, Lorenzo Grassi, Dmitry Khovratovich, Reinhard Lüftenegger, Christian Rechberger, Markus Schofnegger;;;2019/419;;;none;;;2019-04-24;;;proofs
+Algebraic Cryptanalysis of STARK-Friendly Designs: Application to MARVELlous and MiMC;;;Martin R. Albrecht, Carlos Cid, Lorenzo Grassi, Dmitry Khovratovich, Reinhard Lüftenegger, Christian Rechberger, Markus Schofnegger;;;2019/419;;;none;;;2019-04-24;;;proofs/snark/hash
 Refinement and Verification of CBC Casper;;;Ryuya Nakamura, Takayuki Jimba, Dominik Harz;;;2019/415;;;none;;;2019-04-24;;;formal
 Two-Round Oblivious Transfer from CDH or LPN;;;Nico Döttling, Sanjam Garg, Mohammad Hajiabadi, Daniel Masny, Daniel Wichs;;;2019/414;;;none;;;2019-04-22;;;security
-On the complexity of the Permuted Kernel Problem;;;Eliane KOUSSA, Gilles MACARIO-RAT, Jacques PATARIN;;;2019/412;;;none;;;2019-04-22;;;proofs,security
+On the complexity of the Permuted Kernel Problem;;;Eliane KOUSSA, Gilles MACARIO-RAT, Jacques PATARIN;;;2019/412;;;none;;;2019-04-22;;;proofs/zk-protocols,security
 ILC: A Calculus for Composable, Computational Cryptography;;;Kevin Liao, Matthew A. Hammer, Andrew Miller;;;2019/402;;;none;;;2019-04-22;;;formal,security
-Feistel Structures for MPC, and More;;;Martin R. Albrecht, Lorenzo Grassi, Leo Perrin, Sebastian Ramacher, Christian Rechberger, Dragos Rotaru, Arnab Roy, Markus Schofnegger;;;2019/397;;;none;;;2019-04-18;;;proofs
+Feistel Structures for MPC, and More;;;Martin R. Albrecht, Lorenzo Grassi, Leo Perrin, Sebastian Ramacher, Christian Rechberger, Dragos Rotaru, Arnab Roy, Markus Schofnegger;;;2019/397;;;none;;;2019-04-18;;;proofs/snark
 Masking Dilithium: Efficient Implementation and Side-Channel Evaluation;;;Vincent Migliore, Benoit Gérard, Mehdi Tibouchi, Pierre-Alain Fouque;;;2019/394;;;none;;;2019-04-18;;;security
 Achieving secure and efficient lattice-based public-key encryption: the impact of the secret-key distribution;;;Sauvik Bhattacharya, Oscar Garcia-Morchon, Rachel Player, Ludo Tolhuizen;;;2019/389;;;none;;;2019-04-18;;;security
 Secure Trick-Taking Game Protocols: How to Play Online Spades with Cheaters;;;Xavier Bultel, Pascal Lafourcade;;;2019/375;;;none;;;2019-04-14;;;security
@@ -264,39 +264,39 @@ Indifferentiability for Public Key Cryptosystems;;;Mark Zhandry, Cong Zhang;;;20
 Everybody's a Target: Scalability in Public-Key Encryption;;;Benedikt Auerbach, Federico Giacon, Eike Kiltz;;;2019/364;;;none;;;2019-04-10;;;security
 Efficient Attribute-Based Signatures for Unbounded Arithmetic Branching Programs;;;Pratish Datta, Tatsuaki Okamoto, Katsuyuki Takashima;;;2019/363;;;none;;;2019-04-10;;;security
 Selfie: reflections on TLS 1.3 with PSK;;;Nir Drucker, Shay Gueron;;;2019/347;;;none;;;2019-04-03;;;security
-DEEP-FRI: Sampling Outside the Box Improves Soundness;;;Eli Ben-Sasson, Lior Goldberg, Swastik Kopparty, Shubhangi Saraf;;;2019/336;;;none;;;2019-04-03;;;proofs
-Key-and-Argument-Updatable QA-NIZKs;;;Helger Lipmaa;;;2019/333;;;none;;;2019-04-03;;;proofs
+DEEP-FRI: Sampling Outside the Box Improves Soundness;;;Eli Ben-Sasson, Lior Goldberg, Swastik Kopparty, Shubhangi Saraf;;;2019/336;;;none;;;2019-04-03;;;proofs/iop/code,proofs/iop/hash,proofs/snark/code,proofs/snark/hash
+Key-and-Argument-Updatable QA-NIZKs;;;Helger Lipmaa;;;2019/333;;;none;;;2019-04-03;;;proofs/snark/group,proofs/zk-protocols/group
 Practical Supersingular Isogeny Group Key Agreement;;;Reza Azarderakhsh, Amir Jalali, David Jao, Vladimir Soukharev;;;2019/330;;;none;;;2019-04-03;;;security
-Shorter Pairing-based Arguments under Standard Assumptions;;;Alonso Gonzalez, Carla Rafols;;;2019/326;;;none;;;2019-03-29;;;proofs
+Shorter Pairing-based Arguments under Standard Assumptions;;;Alonso Gonzalez, Carla Rafols;;;2019/326;;;none;;;2019-03-29;;;proofs/snark/group,proofs/zk-protocols/group
 A Traceable Ring Signature Scheme based on Coding Theory;;;Pedro Branco, Paulo Mateus;;;2019/324;;;none;;;2019-03-29;;;security
 Theory and application of computationally independent one-way functions: Interactive proof of ability - Revisited;;;Sabyasachi Dutta, Kouichi Sakurai;;;2019/323;;;none;;;2019-03-29;;;proofs
-PGC: Pretty Good Decentralized Confidential Payment System with Auditability;;;Yu Chen, Xuecheng Ma, Cong Tang, Man Ho Au;;;2019/319;;;none;;;2019-03-29;;;proofs
-Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation;;;Tiancheng Xie, Jiaheng Zhang, Yupeng Zhang, Charalampos Papamanthou, Dawn Song;;;2019/317;;;none;;;2019-03-29;;;proofs
+PGC: Pretty Good Decentralized Confidential Payment System with Auditability;;;Yu Chen, Xuecheng Ma, Cong Tang, Man Ho Au;;;2019/319;;;none;;;2019-03-29;;;proofs/applications,proofs/zk-protocols/group
+Libra: Succinct Zero-Knowledge Proofs with Optimal Prover Computation;;;Tiancheng Xie, Jiaheng Zhang, Yupeng Zhang, Charalampos Papamanthou, Dawn Song;;;2019/317;;;none;;;2019-03-29;;;proofs/iop/hash
 Blockchains from Non-Idealized Hash Functions;;;Juan A. Garay, Aggelos Kiayias, Giorgos Panagiotakos;;;2019/315;;;none;;;2019-03-29;;;security
 A Formal Approach to Secure Speculation;;;Kevin Cheang, Cameron Rasmussen, Sanjit Seshia, Pramod Subramanyan;;;2019/310;;;none;;;2019-03-20;;;formal,security
 Balancing Image Privacy and Usability with Thumbnail-Preserving Encryption;;;Kimia Tajik, Akshith Gunasekaran, Rhea Dutta, Brandon Ellis, Rakesh B. Bobba, Mike Rosulek, Charles V. Wright, Wu-chi Feng;;;2019/295;;;none;;;2019-03-20;;;security
 Timing attacks on Error Correcting Codes in Post-Quantum Schemes;;;Jan-Pieter D'Anvers, Marcel Tiepelt, Frederik Vercauteren, Ingrid Verbauwhede;;;2019/292;;;none;;;2019-03-19;;;security
 CCA Security and Trapdoor Functions via Key-Dependent-Message Security;;;Fuyuki Kitagawa, Takahiro Matsuda, Keisuke Tanaka;;;2019/291;;;none;;;2019-03-19;;;security
 Security Evaluation for Snow 2.0-like Stream Ciphers Against Correlation Attacks over Extension Fields;;;A. N. Alekseychuk, S. M. Koniushok, M. V. Poremskyi;;;2019/287;;;none;;;2019-03-19;;;security
-BOREALIS: Building Block for Sealed Bid Auctions on Blockchains;;;Erik-Oliver Blass, Florian Kerschbaum;;;2019/276;;;none;;;2019-03-12;;;proofs
-Compressing Vector OLE;;;Elette Boyle, Geoffroy Couteau, Niv Gilboa, Yuval Ishai;;;2019/273;;;none;;;2019-03-12;;;proofs
+BOREALIS: Building Block for Sealed Bid Auctions on Blockchains;;;Erik-Oliver Blass, Florian Kerschbaum;;;2019/276;;;none;;;2019-03-12;;;proofs/applications
+Compressing Vector OLE;;;Elette Boyle, Geoffroy Couteau, Niv Gilboa, Yuval Ishai;;;2019/273;;;none;;;2019-03-12;;;proofs/zk-protocols/code
 Revisiting Post-Quantum Fiat-Shamir;;;Qipeng Liu, Mark Zhandry;;;2019/262;;;none;;;2019-03-06;;;security
 Forward-Secure Multi-Signatures;;;Manu Drijvers, Gregory Neven;;;2019/261;;;none;;;2019-03-06;;;security
 A Modular Treatment of Blind Signatures from Identification Schemes;;;Eduard Hauck, Eike Kiltz, Julian Loss;;;2019/260;;;none;;;2019-03-06;;;security
 Tight Time-Memory Trade-offs for Symmetric Encryption;;;Joseph Jaeger, Stefano Tessaro;;;2019/258;;;none;;;2019-03-06;;;security
-Designated Verifier/Prover and Preprocessing NIZKs from Diffie-Hellman Assumptions;;;Shuichi Katsumata, Ryo Nishimaki, Shota Yamada, Takashi Yamakawa;;;2019/255;;;none;;;2019-02-28;;;proofs
-Founding Secure Computation on Blockchains;;;Arka Rai Choudhuri, Vipul Goyal, Abhishek Jain;;;2019/253;;;none;;;2019-02-28;;;proofs,security
+Designated Verifier/Prover and Preprocessing NIZKs from Diffie-Hellman Assumptions;;;Shuichi Katsumata, Ryo Nishimaki, Shota Yamada, Takashi Yamakawa;;;2019/255;;;none;;;2019-02-28;;;proofs/zk-protocols/group,proofs/zk-protocols/lattice
+Founding Secure Computation on Blockchains;;;Arka Rai Choudhuri, Vipul Goyal, Abhishek Jain;;;2019/253;;;none;;;2019-02-28;;;proofs/applications,security
 Revisiting Variable Output Length XOR Pseudorandom Function;;;Srimanta Bhattacharya, Mridul Nandi;;;2019/249;;;none;;;2019-02-28;;;security
 4-Round Luby-Rackoff Construction is a qPRP: Tight Quantum Security Bound;;;Akinori Hosoyamada, Tetsu Iwata;;;2019/243;;;none;;;2019-02-28;;;security
-New Constructions of Reusable Designated-Verifier NIZKs;;;Alex Lombardi, Willy Quach, Ron D. Rothblum, Daniel Wichs, David J. Wu;;;2019/242;;;none;;;2019-02-28;;;proofs
+New Constructions of Reusable Designated-Verifier NIZKs;;;Alex Lombardi, Willy Quach, Ron D. Rothblum, Daniel Wichs, David J. Wu;;;2019/242;;;none;;;2019-02-28;;;proofs/zk-protocols/group,proofs/zk-protocols/lattice
 Correlated-Source Extractors and Cryptography with Correlated-Random Tapes;;;Vipul Goyal, Yifan Song;;;2019/240;;;none;;;2019-02-28;;;proofs
 Cheaper Private Set Intersection via Differentially Private Leakage;;;Adam Groce, Peter Rindal, Mike Rosulek;;;2019/239;;;none;;;2019-02-28;;;security
-Designated-verifier pseudorandom generators, and their applications;;;Geoffroy Couteau, Dennis Hofheinz;;;2019/236;;;none;;;2019-02-28;;;proofs
-Reusable Designated-Verifier NIZKs for all NP from CDH;;;Willy Quach, Ron D. Rothblum, Daniel Wichs;;;2019/235;;;none;;;2019-02-28;;;proofs
+Designated-verifier pseudorandom generators, and their applications;;;Geoffroy Couteau, Dennis Hofheinz;;;2019/236;;;none;;;2019-02-28;;;proofs/zk-protocols/group,proofs/zk-protocols/lattice
+Reusable Designated-Verifier NIZKs for all NP from CDH;;;Willy Quach, Ron D. Rothblum, Daniel Wichs;;;2019/235;;;none;;;2019-02-28;;;proofs/zk-protocols/group
 Securing Update Propagation with Homomorphic Hashing;;;Kevin Lewi, Wonho Kim, Ilya Maykov, Stephen Weis;;;2019/227;;;none;;;2019-02-28;;;security
-Flyclient: Super-Light Clients for Cryptocurrencies;;;Benedikt Bünz, Lucianna Kiffer, Loi Luu, Mahdi Zamani;;;2019/226;;;none;;;2019-02-28;;;proofs
+Flyclient: Super-Light Clients for Cryptocurrencies;;;Benedikt Bünz, Lucianna Kiffer, Loi Luu, Mahdi Zamani;;;2019/226;;;none;;;2019-02-28;;;proofs/applications
 (R)CCA Secure Updatable Encryption with Integrity Protection;;;Michael Klooß, Anja Lehmann, Andy Rupp;;;2019/222;;;none;;;2019-02-27;;;security
-Group Signatures without NIZK: From Lattices in the Standard Model;;;Shuichi Katsumata, Shota Yamada;;;2019/221;;;none;;;2019-02-27;;;proofs,security
+Group Signatures without NIZK: From Lattices in the Standard Model;;;Shuichi Katsumata, Shota Yamada;;;2019/221;;;none;;;2019-02-27;;;proofs/zk-protocols/lattice,security
 Communication Lower Bounds for Statistically Secure MPC, with or without Preprocessing;;;Ivan Damgård, Kasper Green Larsen, Jesper Buus Nielsen;;;2019/220;;;none;;;2019-02-27;;;security
 A New Variant of the Winternitz One Time Signature Scheme Based on Graded Encoding Schemes;;;Hossein Oraei, Massoud Hadian Dehkordi;;;2019/212;;;none;;;2019-02-27;;;security
 Versatile ABS: Usage Limited, Revocable, Threshold Traceable, Authority Hiding, Decentralized Attribute Based Signatures;;;Osman Bicer, Alptekin Kupcu;;;2019/203;;;none;;;2019-02-27;;;security
@@ -306,15 +306,15 @@ Password-Authenticated Public-Key Encryption;;;Tatiana Bradley, Jan Camenisch, S
 Seedless Fruit is the Sweetest: Random Number Generation, Revisited;;;Sandro Coretti, Yevgeniy Dodis, Harish Karthikeyan, Stefano Tessaro;;;2019/198;;;none;;;2019-02-27;;;security
 Non-interactive Cryptographic Timestamping based on Verifiable Delay Functions;;;Esteban Landerreche, Marc Stevens, Christian Schaffner;;;2019/197;;;none;;;2019-02-27;;;security
 Classical zero-knowledge arguments for quantum computations;;;Thomas Vidick, Tina Zhang;;;2019/194;;;none;;;2019-02-27;;;proofs
-Zether: Towards Privacy in a Smart Contract World;;;Benedikt Bünz, Shashank Agrawal, Mahdi Zamani, Dan Boneh;;;2019/191;;;none;;;2019-02-26;;;proofs
-Security of the Fiat-Shamir Transformation in the Quantum Random-Oracle Model;;;Jelle Don, Serge Fehr, Christian Majenz, Christian Schaffner;;;2019/190;;;none;;;2019-02-26;;;proofs,security
-Zero-Knowledge Proofs on Secret-Shared Data via Fully Linear PCPs;;;Dan Boneh, Elette Boyle, Henry Corrigan-Gibbs, Niv Gilboa, Yuval Ishai;;;2019/188;;;none;;;2019-02-26;;;proofs
+Zether: Towards Privacy in a Smart Contract World;;;Benedikt Bünz, Shashank Agrawal, Mahdi Zamani, Dan Boneh;;;2019/191;;;none;;;2019-02-26;;;proofs/applications,proofs/zk-protocols/group
+Security of the Fiat-Shamir Transformation in the Quantum Random-Oracle Model;;;Jelle Don, Serge Fehr, Christian Majenz, Christian Schaffner;;;2019/190;;;none;;;2019-02-26;;;proofs/zk-protocols,security
+Zero-Knowledge Proofs on Secret-Shared Data via Fully Linear PCPs;;;Dan Boneh, Elette Boyle, Henry Corrigan-Gibbs, Niv Gilboa, Yuval Ishai;;;2019/188;;;none;;;2019-02-26;;;proofs/iop
 Lower Bounds for Leakage-Resilient Secret Sharing;;;Jesper Buus Nielsen, Mark Simkin;;;2019/181;;;none;;;2019-02-26;;;security
-Shorter Quadratic QA-NIZK Proofs;;;Vanesa Daza, Alonso González, Zaira Pindado, Carla Ràfols, Javier Silva;;;2019/173;;;none;;;2019-02-26;;;proofs
-Noninteractive Zero Knowledge for NP from (Plain) Learning With Errors;;;Chris Peikert, Sina Shiehian;;;2019/158;;;none;;;2019-02-20;;;formal,proofs
+Shorter Quadratic QA-NIZK Proofs;;;Vanesa Daza, Alonso González, Zaira Pindado, Carla Ràfols, Javier Silva;;;2019/173;;;none;;;2019-02-26;;;proofs/snark/group,proofs/zk-protocols/group
+Noninteractive Zero Knowledge for NP from (Plain) Learning With Errors;;;Chris Peikert, Sina Shiehian;;;2019/158;;;none;;;2019-02-20;;;formal,proofs/zk-protocols/lattice
 Improved Lattice-based CCA2-Secure PKE in the Standard Model;;;Jiang Zhang, Yu Yu, Shuqin Fan, Zhenfeng Zhang;;;2019/149;;;none;;;2019-02-20;;;security
-On the efficiency of pairing-based proofs under the d-PKE;;;Ariel Gabizon;;;2019/148;;;none;;;2019-02-20;;;proofs
-LegoSNARK: Modular Design and Composition of Succinct Zero-Knowledge Proofs;;;Matteo Campanelli, Dario Fiore, Anaïs Querol;;;2019/142;;;https://github.com/imdea-software/legosnark;;;2019-02-14;;;proofs
+On the efficiency of pairing-based proofs under the d-PKE;;;Ariel Gabizon;;;2019/148;;;none;;;2019-02-20;;;proofs/snark/group
+LegoSNARK: Modular Design and Composition of Succinct Zero-Knowledge Proofs;;;Matteo Campanelli, Dario Fiore, Anaïs Querol;;;2019/142;;;https://github.com/imdea-software/legosnark;;;2019-02-14;;;proofs/iop/group,proofs/snark/group
 Vulnerability and Remedy of Stripped Function Logic Locking;;;Hai Zhou, Yuanqi Shen, Amin Rezaei;;;2019/139;;;none;;;2019-02-14;;;security
 Unifying Leakage Models on a Rényi Day;;;Thomas Prest, Dahmun Goudarzi, Ange Martinelli, Alain Passelègue;;;2019/138;;;none;;;2019-02-14;;;security
 Divisible E-Cash from Constrained Pseudo-Random Functions;;;Florian Bourse, David Pointcheval, Olivier Sanders;;;2019/136;;;none;;;2019-02-13;;;security
@@ -324,18 +324,18 @@ Tightly Secure Inner Product Functional Encryption: Multi-Input and Function-Hid
 Anomalous Look at Provable Security;;;Douglas Wikström;;;2019/124;;;none;;;2019-02-13;;;security
 Security of Multilinear Galois Mode (MGM);;;Liliya Akhmetzyanova, Evgeny Alekseev, Grigory Karpunin, Vladislav Nozdrunov;;;2019/123;;;none;;;2019-02-13;;;security
 Cryptanalysis of a New Code-based Signature Scheme with Shorter Public Key in PKC 2019;;;Keita Xagawa;;;2019/120;;;none;;;2019-02-13;;;security
-On the security of the BCTV Pinocchio zk-SNARK variant;;;Ariel Gabizon;;;2019/119;;;none;;;2019-02-13;;;proofs,security
-Non-Interactive Keyed-Verification Anonymous Credentials;;;Geoffroy Couteau, Michael Reichle;;;2019/117;;;none;;;2019-02-07;;;proofs,security
-Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updateable Structured Reference Strings;;;Mary Maller, Sean Bowe, Markulf Kohlweiss, Sarah Meiklejohn;;;2019/099;;;none;;;2019-01-31;;;proofs
+On the security of the BCTV Pinocchio zk-SNARK variant;;;Ariel Gabizon;;;2019/119;;;none;;;2019-02-13;;;proofs/snark/group,security
+Non-Interactive Keyed-Verification Anonymous Credentials;;;Geoffroy Couteau, Michael Reichle;;;2019/117;;;none;;;2019-02-07;;;proofs/applications,proofs/zk-protocols/group,security
+Sonic: Zero-Knowledge SNARKs from Linear-Size Universal and Updateable Structured Reference Strings;;;Mary Maller, Sean Bowe, Markulf Kohlweiss, Sarah Meiklejohn;;;2019/099;;;none;;;2019-01-31;;;proofs/applications,proofs/snark/group
 A Post-Quantum UC-Commitment Scheme in the Global Random Oracle Model from Code-Based Assumptions;;;Pedro Branco;;;2019/098;;;none;;;2019-01-31;;;security
-Efficient Zero-Knowledge for NP from Secure Two-Party Computation;;;Li Hongda, Pan Dongxue, Ni Peifang;;;2019/091;;;none;;;2019-01-29;;;proofs
+Efficient Zero-Knowledge for NP from Secure Two-Party Computation;;;Li Hongda, Pan Dongxue, Ni Peifang;;;2019/091;;;none;;;2019-01-29;;;proofs/zk-protocols
 Round5: Compact and Fast Post-Quantum Public-Key Encryption;;;Hayo Baan, Sauvik Bhattacharya, Scott Fluhrer, Oscar Garcia-Morchon, Thijs Laarhoven, Ronald Rietman, Markku-Juhani O. Saarinen, Ludo Tolhuizen, Zhenfei Zhang;;;2019/090;;;none;;;2019-01-28;;;security
 Practical Group-Signatures with Privacy-Friendly Openings;;;Stephan Krenn, Kai Samelin, Christoph Striecks;;;2019/081;;;none;;;2019-01-28;;;security
 Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers;;;Chun Guo, Jonathan Katz, Xiao Wang, Yu Yu;;;2019/074;;;none;;;2019-01-25;;;security
-Publicly Verifiable Proofs from Blockchains;;;Alessandra Scafuro, Luisa Siniscalchi, Ivan Visconti;;;2019/066;;;none;;;2019-01-25;;;proofs,security
+Publicly Verifiable Proofs from Blockchains;;;Alessandra Scafuro, Luisa Siniscalchi, Ivan Visconti;;;2019/066;;;none;;;2019-01-25;;;proofs/applications,proofs/zk-protocols/group,security
 Multi-Protocol UC and its Use for Building Modular and Efficient Protocols;;;Jan Camenisch, Manu Drijvers, Björn Tackmann;;;2019/065;;;none;;;2019-01-25;;;proofs,security
 A Revocable Group Signature Scheme with Scalability from Simple Assumptions and Its Application to Identity Management;;;Keita Emura, Takuya Hayashi;;;2019/064;;;none;;;2019-01-25;;;security
-Efficient Non-Interactive Zero-Knowledge Proofs in Cross-Domains without Trusted Setup;;;Michael Backes, Lucjan Hanzlik, Amir Herzberg, Aniket Kate, Ivan Pryvalov;;;2019/063;;;none;;;2019-01-25;;;proofs
+Efficient Non-Interactive Zero-Knowledge Proofs in Cross-Domains without Trusted Setup;;;Michael Backes, Lucjan Hanzlik, Amir Herzberg, Aniket Kate, Ivan Pryvalov;;;2019/063;;;none;;;2019-01-25;;;proofs/snark/group,proofs/zk-protocols/group
 Additively Homomorphic IBE from Higher Residuosity;;;Michael Clear, Ciaran McGoldrick;;;2019/062;;;none;;;2019-01-25;;;security
 Tightly secure hierarchical identity-based encryption;;;Roman Langrehr, Jiaxin Pan;;;2019/058;;;none;;;2019-01-25;;;security
 Short Discrete Log Proofs for FHE and Ring-LWE Ciphertexts;;;Rafael del Pino, Vadim Lyubashevsky, Gregor Seiler;;;2019/057;;;none;;;2019-01-25;;;proofs
@@ -349,11 +349,11 @@ Using TopGear in Overdrive: A more efficient ZKPoK for SPDZ;;;Carsten Baum, Dani
 A Formal Treatment of Hardware Wallets;;;Myrto Arapinis, Andriana Gkaniatsou, Dimitris Karakostas, Aggelos Kiayias;;;2019/034;;;none;;;2019-01-17;;;formal
 Non-malleable encryption with proofs of plaintext knowledge and applications to voting;;;Ben Smyth, Yoshikazu Hanatani;;;2019/026;;;none;;;2019-01-15;;;security
 Decentralizing Inner-Product Functional Encryption;;;Michel Abdalla, Fabrice Benhamouda, Markulf Kolhweiss, Hendrik Waldner;;;2019/020;;;none;;;2019-01-09;;;security
-CHURP: Dynamic-Committee Proactive Secret Sharing;;;Sai Krishna Deepak Maram, Fan Zhang, Lun Wang, Andrew Low, Yupeng Zhang, Ari Juels, Dawn Song;;;2019/017;;;none;;;2019-01-09;;;proofs
+CHURP: Dynamic-Committee Proactive Secret Sharing;;;Sai Krishna Deepak Maram, Fan Zhang, Lun Wang, Andrew Low, Yupeng Zhang, Ari Juels, Dawn Song;;;2019/017;;;none;;;2019-01-09;;;proofs/applications,proofs/pcs
 BlAnC: Blockchain-based Anonymous and Decentralized Credit Networks;;;Gaurav Panwar, Satyajayant Misra, Roopa Vishwanathan;;;2019/014;;;none;;;2019-01-09;;;security
 Tight Security Bounds for Generic Stream Cipher Constructions;;;Matthias Hamann, Matthias Krause;;;2019/007;;;none;;;2019-01-09;;;security
 Minimizing Trust in Hardware Wallets with Two Factor Signatures;;;Antonio Marcedone, Rafael Pass, abhi shelat;;;2019/006;;;none;;;2019-01-09;;;security
 Leakage-Resilient Group Signature: Definitions and Constructions;;;Jianye Huang, Qiong Huang;;;2019/002;;;none;;;2019-01-09;;;security
 Sanctorum: A lightweight security monitor for secure enclaves;;;Ilia Lebedev, Kyle Hogan, Jules Drean, David Kohlbrenner, Dayeol Lee, Krste Asanović, Dawn Song, Srinivas Devadas;;;2019/001;;;none;;;2019-01-09;;;formal
 Accountable Tracing Signatures from Lattices;;;San Ling, Khoa Nguyen, Huaxiong Wang, Yanhong Xu;;;2018/1251;;;none;;;2019-01-03;;;proofs
-Fiat-Shamir: From Practice to Theory, Part II (NIZK and Correlation Intractability from Circular-Secure FHE);;;Ran Canetti, Alex Lombardi, Daniel Wichs;;;2018/1248;;;none;;;2019-01-03;;;proofs
+Fiat-Shamir: From Practice to Theory, Part II (NIZK and Correlation Intractability from Circular-Secure FHE);;;Ran Canetti, Alex Lombardi, Daniel Wichs;;;2018/1248;;;none;;;2019-01-03;;;proofs/zk-protocols/lattice

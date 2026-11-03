@@ -1,0 +1,1 @@
+We show that the authentication key agreement scheme [IEEE Trans. Smart Grid, 2023, 14(5), 3816-3827] is flawed due to its inconsistent computations. We also show that the scheme fails to keep anonymity, not as claimed.

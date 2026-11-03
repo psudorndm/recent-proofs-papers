@@ -1,0 +1,1 @@
+We describe an efficient and secure decryption protocol to the Norwegian Internet voting project. We first adapt Groth’s shuffle-decryption from 2010 to our purpose, and we prove all security properties in the random oracle model. We then describe the complete decryption algorithm, and prove that it maintains the security of the rest of the protocol.

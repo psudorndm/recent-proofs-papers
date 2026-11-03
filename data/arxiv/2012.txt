@@ -1,6 +1,6 @@
 Interactive verification of Markov chains: Two distributed protocol case studies;;;Johannes Hölzl, Tobias Nipkow;;;1212.3870;;;none;;;2012-12-17;;;formal,proofs
 Machine Learning in Proof General: Interfacing Interfaces;;;Ekaterina Komendantskaya, Jónathan Heras, Gudmund Grov;;;1212.3618;;;none;;;2012-12-14;;;proofs
-An Information Theoretic Algorithm for Finding Periodicities in Stellar Light Curves;;;Pablo Huijse, Pablo A. Estevez, Pavlos Protopapas, Pablo Zegers, Jose C. Principe;;;1212.2398;;;none;;;2012-12-11;;;proofs
+An Information Theoretic Algorithm for Finding Periodicities in Stellar Light Curves;;;Pablo Huijse, Pablo A. Estevez, Pavlos Protopapas, Pablo Zegers, Jose C. Principe;;;1212.2398;;;none;;;2012-12-11;;;proofs/snark
 Checking generalized debates with small space and randomness;;;H. Gökalp Demirci, A. C. Cem Say;;;1211.7346;;;none;;;2012-11-30;;;proofs
 Two-message quantum interactive proofs and the quantum separability problem;;;Patrick Hayden, Kevin Milner, Mark M. Wilde;;;1211.6120;;;none;;;2012-11-26;;;proofs
 Preserving privacy for secure and outsourcing for Linear Programming in cloud computing;;;G. Vidhisha, C. Surekha, S. Sanjeeva Rayudu, U. Seshadri;;;1211.1457;;;none;;;2012-11-07;;;security

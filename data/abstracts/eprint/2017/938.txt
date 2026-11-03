@@ -1,0 +1,1 @@
+We identify a flaw in the security proof and a flaw in the concrete security analysis of the WOTS-PRF variant of the Winternitz one-time signature scheme, and discuss the implications to its concrete security.

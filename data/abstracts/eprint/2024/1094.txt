@@ -1,0 +1,1 @@
+Lattice cryptography has many exciting applications, from homomorphic encryption to zero knowledge proofs. We explore the algebra of cyclotomic polynomials underlying many practical lattice cryptography constructions, and we explore algorithms for multiplying cyclotomic polynomials on a GPU.

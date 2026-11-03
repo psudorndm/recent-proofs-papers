@@ -1,4 +1,4 @@
-Delegateable Signature Using Witness Indistinguishable and Witness Hiding Proofs;;;Chunming Tang, Dingyi Pei, Zhuojun Liu;;;2004/373;;;none;;;2004-12-29;;;proofs
+Delegateable Signature Using Witness Indistinguishable and Witness Hiding Proofs;;;Chunming Tang, Dingyi Pei, Zhuojun Liu;;;2004/373;;;none;;;2004-12-29;;;proofs/zk-protocols
 A new security proof for Damgård's ElGamal;;;Kristian Gjøsteen;;;2004/362;;;none;;;2004-12-20;;;security
 On Session Identifiers in Provably Secure Protocols: The Bellare-Rogaway Three-Party Key Distribution Protocol Revisited;;;Kim-Kwang Raymond Choo, Colin Boyd, Yvonne Hitchcock, Greg Maitland;;;2004/345;;;none;;;2004-12-11;;;security
 Revisit Of McCullagh--Barreto Two-Party ID-Based Authenticated Key Agreement Protocols;;;Kim-Kwang Raymond Choo;;;2004/343;;;none;;;2004-12-07;;;security
@@ -18,7 +18,7 @@ Designs of Efficient Secure Large Hash Values;;;Mridul Nandi;;;2004/296;;;none;;
 An Access Control Scheme for Partially Ordered Set Hierarchy with Provable Security;;;Jiang Wu, Ruizhong Wei;;;2004/295;;;none;;;2004-11-12;;;security
 Provably Secure Authentication of Digital Media Through Invertible Watermarks;;;Jana Dittmann, Stefan Katzenbeisser, Christian Schallhart, Helmut Veith;;;2004/293;;;none;;;2004-11-12;;;security
 Asynchronous Proactive RSA;;;Ruishan Zhang, Kefei Chen;;;2004/292;;;none;;;2004-11-12;;;security
-The Security of the FDH Variant of Chaum's Undeniable Signature Scheme;;;Wakaha Ogata, Kaoru Kurosawa, Swee-Huay Heng;;;2004/290;;;none;;;2004-11-05;;;proofs
+The Security of the FDH Variant of Chaum's Undeniable Signature Scheme;;;Wakaha Ogata, Kaoru Kurosawa, Swee-Huay Heng;;;2004/290;;;none;;;2004-11-05;;;proofs/zk-protocols/group
 Generalized compact knapsacks, cyclic lattices, and efficient one-way functions from worst-case complexity assumptions;;;Daniele Micciancio;;;2004/286;;;none;;;2004-11-03;;;security
 Universal Forgeability of a Forward-Secure Blind Signature Scheme Proposed by Duc et al.;;;Lihua Liu, Zhengjun Cao;;;2004/262;;;none;;;2004-10-14;;;security
 Improved Efficiency for CCA-Secure Cryptosystems Built Using Identity-Based Encryption;;;Dan Boneh, Jonathan Katz;;;2004/261;;;none;;;2004-10-14;;;security
@@ -38,7 +38,7 @@ Hybrid Cryptography;;;Alexander W. Dent;;;2004/210;;;none;;;2004-08-26;;;securit
 ID-Based Proxy Signature Using Bilinear Pairings;;;Jing Xu, Zhenfeng Zhang, Dengguo Feng;;;2004/206;;;none;;;2004-08-21;;;security
 Direct Anonymous Attestation;;;Ernie Brickell, Jan Camenisch, Liqun Chen;;;2004/205;;;none;;;2004-08-21;;;security
 Authenticated tree parity machine key exchange;;;Markus Volkmer, Andre Schaumburg;;;2004/204;;;none;;;2004-08-21;;;proofs
-Non-Interactive and Information-Theoretic Secure Publicly Verifiable Secret Sharing;;;Chunming Tang, Dingyi Pei, Zhuojun Liu, Yong He;;;2004/201;;;none;;;2004-08-17;;;proofs
+Non-Interactive and Information-Theoretic Secure Publicly Verifiable Secret Sharing;;;Chunming Tang, Dingyi Pei, Zhuojun Liu, Yong He;;;2004/201;;;none;;;2004-08-17;;;proofs/zk-protocols
 Password Based Key Exchange with Mutual Authentication;;;Shaoquan Jiang, Guang Gong;;;2004/196;;;none;;;2004-08-12;;;security
 A Note on An Encryption Scheme of Kurosawa and Desmedt;;;Rosario Gennaro, Victor Shoup;;;2004/194;;;none;;;2004-08-10;;;security
 The Security and Performance of the Galois/Counter Mode of Operation (Full Version);;;David A. McGrew, John Viega;;;2004/193;;;none;;;2004-08-10;;;security

@@ -1,0 +1,1 @@
+We design a SNARKs/STARKs-optimized AEAD scheme based on the $\texttt{MonkeySpongeWrap}$ (ToSC 2023(2)) and the RPO permutation (ePrint 2022/1577).

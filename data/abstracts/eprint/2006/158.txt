@@ -1,0 +1,1 @@
+This paper proposes a new ID-based proxy signature scheme based on the bilinear pairings. The number of paring operation involved in the verification procedure of our scheme is only one, so our scheme is more efficient comparatively. The new scheme can be proved secure with the hardness assumption of the k-Bilinear Diffie-Hellman Inverse problem, in the random oracle model.

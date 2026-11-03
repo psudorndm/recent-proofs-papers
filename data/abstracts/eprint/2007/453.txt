@@ -1,0 +1,1 @@
+We investigate the relationships between identity-based non-interactive key distribution and identity-based encryption. We provide constructions for these schemes that make use of general trapdoor discrete log groups. We then investigate the schemes that result in two concrete settings, obtaining new, provably secure, near-practical identity-based encryption schemes.

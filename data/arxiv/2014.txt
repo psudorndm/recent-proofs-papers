@@ -10,7 +10,7 @@ Discrete-phase-randomized coherent state source and its application in quantum k
 Joint measurability, steering and entropic uncertainty;;;H. S. Karthik, A. R. Usha Devi, A. K. Rajagopal;;;1410.1148;;;none;;;2014-10-05;;;security
 Adversary Model: Adaptive Chosen Ciphertext Attack with Timing Attack;;;Mohd Anuar Mat Isa, Habibah Hashim;;;1409.6556;;;none;;;2014-09-23;;;security
 A Note on Quantum Security for Post-Quantum Cryptography;;;Fang Song;;;1409.2187;;;none;;;2014-09-08;;;security
-A multiprover interactive proof system for the local Hamiltonian problem;;;Joseph Fitzsimons, Thomas Vidick;;;1409.0260;;;none;;;2014-08-31;;;proofs
+A multiprover interactive proof system for the local Hamiltonian problem;;;Joseph Fitzsimons, Thomas Vidick;;;1409.0260;;;none;;;2014-08-31;;;proofs/iop/code
 Quantum Error Correcting Codes and the Security Proof of the BB84 Protocol;;;Ramesh Bhandari;;;1409.1452;;;none;;;2014-08-30;;;security
 A Secure TFTP Protocol with Security Proofs;;;Mohd Anuar Mat Isa, Habibah Hashim, Syed Farid Syed Adnan, Jamalul-lail Ab Manan, Ramlan Mahmod;;;1409.0060;;;none;;;2014-08-29;;;security
 Composable security proof for continuous-variable quantum key distribution with coherent states;;;Anthony Leverrier;;;1408.5689;;;none;;;2014-08-25;;;security
@@ -31,7 +31,7 @@ Lattice-Based Ring Signature Scheme under the Random Oracle Model;;;Shangping Wa
 Mixed quantum states in higher categories;;;Chris Heunen, Jamie Vicary, Linde Wester;;;1405.1463;;;none;;;2014-05-06;;;security
 Inference Control for Privacy-Preserving Genome Matching;;;Florian Kerschbaum, Martin Beck, Dagmar Schönfeld;;;1405.0205;;;none;;;2014-05-01;;;proofs
 No Superluminal Signaling Implies Unconditionally Secure Bit Commitment;;;H. F. Chau, C. -H. Fred Fung, H. -K. Lo;;;1405.0198;;;none;;;2014-05-01;;;security
-Quantum Attacks on Classical Proof Systems - The Hardness of Quantum Rewinding;;;Andris Ambainis, Ansis Rosmanis, Dominique Unruh;;;1404.6898;;;none;;;2014-04-28;;;proofs
+Quantum Attacks on Classical Proof Systems - The Hardness of Quantum Rewinding;;;Andris Ambainis, Ansis Rosmanis, Dominique Unruh;;;1404.6898;;;none;;;2014-04-28;;;proofs/zk-protocols
 Towards the Model-Driven Engineering of Secure yet Safe Embedded Systems;;;Ludovic Apvrille, Yves Roudier;;;1404.1985;;;none;;;2014-04-08;;;formal
 Quantum digital signatures with quantum key distribution components;;;Petros Wallden, Vedran Dunjko, Adrian Kent, Erika Andersson;;;1403.5551;;;none;;;2014-03-21;;;security
 An Improved Interactive Streaming Algorithm for the Distinct Elements Problem;;;Hartmut Klauck, Ved Prakash;;;1402.6800;;;none;;;2014-02-27;;;proofs

@@ -1,0 +1,1 @@
+We provide a new security proof for a variant of ElGamal proposed by Damgård, showing that it is secure against non-adaptive chosen ciphertext. Unlike previous security proofs for this cryptosystem, which rely on somewhat problematic assumptions, our computational problem is similar to accepted problems such the Gap and Decision Diffie-Hellman problems.

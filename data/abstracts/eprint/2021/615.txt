@@ -1,0 +1,1 @@
+In this tutorial, we provide a brief overview of Concurrent Zero Knowledge and next present a simple proof of the existence of Concurrent Zero-knowledge arguments for N P based on one-way permutations.

@@ -1,0 +1,1 @@
+In a series of recent papers, Hirota and Yuen claim to have identified a fundamental flaw in the theory underlying quantum cryptography, which would invalidate existing security proofs. In this short note, we sketch their argument and show that their conclusion is unjustified --- it originates from a confusion between necessary and sufficient criteria for secrecy.

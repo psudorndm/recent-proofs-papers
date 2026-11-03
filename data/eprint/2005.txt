@@ -24,7 +24,7 @@ How to Generate Universally Verifiable Signatures in Ad-Hoc Networks;;;KyungKeun
 A New Short Signature Scheme Without Random Oracles from Bilinear Pairings;;;Fangguo Zhang, Xiaofeng Chen, Willy Susilo, Yi Mu;;;2005/386;;;none;;;2005-10-29;;;security
 Practical Group Signatures without Random Oracles;;;Giuseppe Ateniese, Jan Camenisch, Susan Hohenberger, Breno de Medeiros;;;2005/385;;;none;;;2005-10-24;;;security
 One-Wayness Equivalent to General Factoring;;;Kaoru Kurosawa, Tsuyoshi Takagi;;;2005/382;;;none;;;2005-10-23;;;security
-Compact Group Signatures Without Random Oracles;;;Xavier Boyen, Brent Waters;;;2005/381;;;none;;;2005-10-23;;;proofs,security
+Compact Group Signatures Without Random Oracles;;;Xavier Boyen, Brent Waters;;;2005/381;;;none;;;2005-10-23;;;proofs/zk-protocols/group,security
 Handling Expected Polynomial-Time Strategies in Simulation-Based Security Proofs;;;Jonathan Katz, Yehuda Lindell;;;2005/379;;;none;;;2005-10-23;;;proofs,security
 A New Protocol for Conditional Disclosure of Secrets And Its Applications;;;Sven Laur, Helger Lipmaa;;;2005/378;;;none;;;2005-10-23;;;security
 Resource Fairness and Composability of Cryptographic Protocols;;;Juan A. Garay, Philip MacKenzie, Manoj Prabhakaran, Ke Yang;;;2005/370;;;none;;;2005-10-19;;;security
@@ -37,7 +37,7 @@ ID-based Encryption Scheme Secure against Chosen Ciphertext Attacks;;;Rongxing L
 Pairing-Based Two-Party Authenticated Key Agreement Protocol;;;Rongxing Lu, Zhenfu Cao, Renwang Su, Jun Shao;;;2005/354;;;none;;;2005-10-09;;;security
 Errors in Computational Complexity Proofs for Protocols;;;Kim-Kwang Raymond Choo, Colin Boyd, Yvonne Hitchcock;;;2005/351;;;none;;;2005-10-05;;;security
 Group Signatures with Efficient Concurrent Join;;;Aggelos Kiayias, Moti Yung;;;2005/345;;;none;;;2005-09-27;;;security
-Zero-Knowledge Blind Identification For Smart Cards Using Bilinear Pairings;;;Amitabh Saxena, Serguey Priymak, Ben Soh;;;2005/343;;;none;;;2005-09-27;;;proofs
+Zero-Knowledge Blind Identification For Smart Cards Using Bilinear Pairings;;;Amitabh Saxena, Serguey Priymak, Ben Soh;;;2005/343;;;none;;;2005-09-27;;;proofs/zk-protocols/group
 A Universally Composable Scheme for Electronic Cash;;;Marten Trolin;;;2005/341;;;none;;;2005-09-27;;;security
 Secure Key-Updating for Lazy Revocation;;;Michael Backes, Christian Cachin, Alina Oprea;;;2005/334;;;none;;;2005-09-25;;;security
 Universally Composable Disk Encryption Schemes;;;Ivan Damgård, Kasper Dupont;;;2005/333;;;none;;;2005-09-25;;;security
@@ -49,7 +49,7 @@ Deterministic Identity-Based Signatures for Partial Aggregation;;;Javier Herranz
 Steganography with Imperfect Samplers;;;Anna Lysyanskaya, Maria Meyerovich;;;2005/305;;;none;;;2005-09-07;;;security
 Ring Signatures: Stronger Definitions, and Constructions without Random Oracles;;;Adam Bender, Jonathan Katz, Ruggero Morselli;;;2005/304;;;none;;;2005-09-07;;;security
 Key Regression: Enabling Efficient Key Distribution for Secure Distributed Storage;;;Kevin Fu, Seny Kamara, Tadayoshi Kohno;;;2005/303;;;none;;;2005-09-07;;;security
-Perfect Non-Interactive Zero Knowledge for NP;;;Jens Groth, Rafail Ostrovsky, Amit Sahai;;;2005/290;;;none;;;2005-09-01;;;proofs,security
+Perfect Non-Interactive Zero Knowledge for NP;;;Jens Groth, Rafail Ostrovsky, Amit Sahai;;;2005/290;;;none;;;2005-09-01;;;proofs/zk-protocols,security
 Direct Chosen Ciphertext Security from Identity-Based Techniques;;;Xavier Boyen, Qixiang Mei, Brent Waters;;;2005/288;;;none;;;2005-08-27;;;security
 Concurrent Zero Knowledge without Complexity Assumptions;;;Daniele Micciancio, Shien Jin Ong, Amit Sahai, Salil Vadhan;;;2005/286;;;none;;;2005-08-25;;;proofs
 Spreading Alerts Quietly and the Subgroup Escape Problem;;;James Aspnes, Zoë Diamadi, Kristian Gjøsteen, René Peralta, Aleksandr Yampolskiy;;;2005/282;;;none;;;2005-08-25;;;security
@@ -84,7 +84,7 @@ Towards computationally sound symbolic analysis of key exchange protocols;;;Prat
 Modeling Insider Attacks on Group Key-Exchange Protocols;;;Jonathan Katz, Ji Sun Shin;;;2005/163;;;none;;;2005-06-06;;;security
 A Provably Secure and Efficient Verifiable Shuffle based on a Variant of the Paillier Cryptosystem;;;Lan Nguyen, Rei Safavi-Naini, Kaoru Kurosawa;;;2005/162;;;none;;;2005-06-04;;;security
 On Universal Composable Security of Time-Stamping Protocols;;;Toshihiko Matsuo, Shin'ichiro Matsuo;;;2005/148;;;none;;;2005-05-26;;;security
-A Sender Verifiable Mix-Net and a New Proof of a Shuffle;;;Douglas Wikström;;;2005/137;;;none;;;2005-05-12;;;proofs
+A Sender Verifiable Mix-Net and a New Proof of a Shuffle;;;Douglas Wikström;;;2005/137;;;none;;;2005-05-12;;;proofs/zk-protocols/group
 Dynamic Group Key Agreement in Tree-Based Setting;;;Ratna Dutta, Rana Barua;;;2005/131;;;none;;;2005-05-05;;;security
 Browser Model for Security Analysis of Browser-Based Protocols;;;Thomas Groß, Birgit Pfitzmann, Ahmad-Reza Sadeghi;;;2005/127;;;none;;;2005-05-02;;;security
 Accumulators from Bilinear Pairings and Applications to ID-based Ring Signatures and Group Membership Revocation;;;Lan Nguyen;;;2005/123;;;none;;;2005-04-28;;;security

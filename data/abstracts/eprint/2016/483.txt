@@ -1,0 +1,1 @@
+We propose a concrete procedure of the $\Sigma$-protocol introduced by Cramer, Damgård and Schoenmakers at CRYPTO '94, which is for proving knowledge that a set of witnesses satisfies a monotone predicate in witness-indistinguishable way; that is, hiding the assignment of truth in the predicate. We provide a detailed procedure by extending the so-called OR-proof.

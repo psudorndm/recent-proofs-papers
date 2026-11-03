@@ -1,0 +1,1 @@
+We briefly review the security of the ping-pong protocol in light of several attack scenarios suggested by various authors since the proposal of the protocol. We refute one recent attack on an ideal quantum channel, and show that a recent claim of falseness of our original security proof is erroneous.

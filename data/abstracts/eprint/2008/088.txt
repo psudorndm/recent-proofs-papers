@@ -1,0 +1,1 @@
+We present a public-key encryption scheme which is provably secure against adaptive chosen ciphertext attack. The scheme is constructed using Cramer-Shoup paradigm. The security of the scheme is based on the Decisional Bilinear Diffie-Hellman problem

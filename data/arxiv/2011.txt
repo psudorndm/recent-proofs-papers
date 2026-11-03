@@ -20,7 +20,7 @@ A Framework for Devanagari Script-based Captcha;;;Sushma Yalamanchili, M. Kamesw
 Superposition Attacks on Cryptographic Protocols;;;Ivan Damgaard, Jakob Funder, Jesper Buus Nielsen, Louis Salvail;;;1108.6313;;;none;;;2011-08-31;;;proofs,security
 Unconditionally Secure Bit Commitment by Transmitting Measurement Outcomes;;;Adrian Kent;;;1108.2879;;;none;;;2011-08-14;;;security
 Efficient Identity Based Public Verifiable Signcryption Scheme;;;Prashant Kushwah, Sunder Lal;;;1107.1847;;;none;;;2011-07-10;;;security
-Elliptic Curve Based Zero Knowledge Proofs and Their Applicability on Resource Constrained Devices;;;Ioannis Chatzigiannakis, Apostolos Pyrgelis, Paul G. Spirakis, Yannis C. Stamatiou;;;1107.1626;;;none;;;2011-07-08;;;proofs
+Elliptic Curve Based Zero Knowledge Proofs and Their Applicability on Resource Constrained Devices;;;Ioannis Chatzigiannakis, Apostolos Pyrgelis, Paul G. Spirakis, Yannis C. Stamatiou;;;1107.1626;;;none;;;2011-07-08;;;proofs/applications
 Extracting and Verifying Cryptographic Models from C Protocol Code by Symbolic Execution;;;Mihhail Aizatulin, Andrew D. Gordon, Jan Jürjens;;;1107.1017;;;none;;;2011-07-06;;;formal,security
 A Dynamic Algebraic Specification for Social Networks;;;Katerina Ksystra, Konstantinos Barlas, Nikolaos Triantafyllou, Petros Stefaneas;;;1106.6267;;;none;;;2011-06-29;;;formal
 An efficient certificateless authenticated key agreement protocol without bilinear pairings;;;Debiao He, Yitao Chen;;;1106.3898;;;none;;;2011-06-20;;;security
@@ -32,7 +32,7 @@ Tight Finite-Key Analysis for Quantum Cryptography;;;Marco Tomamichel, Charles C
 Semi-device-independent security of one-way quantum key distribution;;;Marcin Pawlowski, Nicolas Brunner;;;1103.4105;;;none;;;2011-03-21;;;security
 A Formalization of Polytime Functions;;;Sylvain Heraud, David Nowak;;;1102.5495;;;none;;;2011-02-27;;;security
 Privacy-Enhanced Reputation-Feedback Methods to Reduce Feedback Extortion in Online Auctions;;;Michael T. Goodrich, Florian Kerschbaum;;;1102.4602;;;none;;;2011-02-22;;;proofs
-Fully Simulatable Quantum-Secure Coin-Flipping and Applications;;;Carolin Lunemann, Jesper Buus Nielsen;;;1102.0887;;;none;;;2011-02-04;;;proofs
+Fully Simulatable Quantum-Secure Coin-Flipping and Applications;;;Carolin Lunemann, Jesper Buus Nielsen;;;1102.0887;;;none;;;2011-02-04;;;proofs/zk-protocols
 Cryptographic Protocols under Quantum Attacks;;;Carolin Lunemann;;;1102.0885;;;none;;;2011-02-04;;;security
 Quantum key distribution based on frequency-time coding: security and feasibility;;;Bing Qi;;;1101.5995;;;none;;;2011-01-31;;;security
 Secure gated detection scheme for quantum cryptography;;;Lars Lydersen, Vadim Makarov, Johannes Skaar;;;1101.5698;;;none;;;2011-01-29;;;security

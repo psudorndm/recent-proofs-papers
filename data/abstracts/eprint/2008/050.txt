@@ -1,0 +1,1 @@
+Here we propose an identity based signcryption scheme in the multi-PKG environment where sender and receiver receive public key from different PKG. We also define security models for our scheme and give security proofs in random oracle model.

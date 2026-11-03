@@ -2,7 +2,7 @@ Statistical Zero Knowledge and quantum one-way functions;;;Elham Kashefi, Iordan
 Zero-knowledge against quantum attacks;;;John Watrous;;;quant-ph/0511020;;;none;;;2005-11-03;;;proofs
 Short Quantum Games;;;Gus Gutoski;;;cs/0511017;;;none;;;2005-11-03;;;proofs
 A new authentication protocol for revocable anonymity in ad-hoc networks;;;Adam Wierzbicki, Aneta Zwierko, Zbigniew Kotulski;;;cs/0510065;;;none;;;2005-10-22;;;proofs
-Gowers Uniformity, Influence of Variables, and PCPs;;;Alex Samorodnitsky, Luca Trevisan;;;math/0510264;;;none;;;2005-10-12;;;proofs
+Gowers Uniformity, Influence of Variables, and PCPs;;;Alex Samorodnitsky, Luca Trevisan;;;math/0510264;;;none;;;2005-10-12;;;proofs/iop
 On the security of AlphaEta: Response to `Some attacks on quantum-based cryptographic protocols';;;Horace P. Yuen, Ranjith Nair, Eric Corndorf, Gregory S. Kanter, Prem Kumar;;;quant-ph/0509091;;;none;;;2005-09-13;;;security
 A photonic quantum information interface;;;Sebastien Tanzilli, Wolfgang Tittel, Matthaeus Halder, Olivier Alibart, Pascal Baldi, Nicolas Gisin, Hugo Zbinden;;;quant-ph/0509011;;;none;;;2005-09-01;;;security
 Entanglement in Interactive Proof Systems with Binary Answers;;;Stephanie Wehner;;;quant-ph/0508201;;;none;;;2005-08-26;;;proofs
@@ -15,8 +15,8 @@ Quantum Arthur-Merlin Games;;;Chris Marriott, John Watrous;;;cs/0506068;;;none;;
 Generalized decoding, effective channels, and simplified security proofs in quantum key distribution;;;Joseph M. Renes, Markus Grassl;;;quant-ph/0505061;;;none;;;2005-05-09;;;security
 Phase randomization improves the security of quantum key distribution;;;Hoi-Kwong Lo, John Preskill;;;quant-ph/0504209;;;none;;;2005-04-27;;;security
 Oracles Are Subtle But Not Malicious;;;Scott Aaronson;;;cs/0504048;;;none;;;2005-04-12;;;proofs
-Quantum Information and the PCP Theorem;;;Ran Raz;;;quant-ph/0504075;;;none;;;2005-04-10;;;proofs
+Quantum Information and the PCP Theorem;;;Ran Raz;;;quant-ph/0504075;;;none;;;2005-04-10;;;proofs/iop
 Probabilistic Model--Checking of Quantum Protocols;;;Simon Gay, Rajagopal Nagarajan, Nikolaos Papanikolaou;;;quant-ph/0504007;;;none;;;2005-04-01;;;formal
-Noise stability of functions with low influences: invariance and optimality;;;Elchanan Mossel, Ryan O'Donnell, Krzysztof Oleszkiewicz;;;math/0503503;;;none;;;2005-03-23;;;proofs
+Noise stability of functions with low influences: invariance and optimality;;;Elchanan Mossel, Ryan O'Donnell, Krzysztof Oleszkiewicz;;;math/0503503;;;none;;;2005-03-23;;;proofs/iop
 Approximate Quantum Error-Correcting Codes and Secret Sharing Schemes;;;Claude Crepeau, Daniel Gottesman, Adam Smith;;;quant-ph/0503139;;;none;;;2005-03-15;;;security
 An Automated Analysis of the Security of Quantum Key Distribution;;;Rajagopal Nagarajan, Nikolaos Papanikolaou, Garry Bowen, Simon Gay;;;cs/0502048;;;none;;;2005-02-09;;;security

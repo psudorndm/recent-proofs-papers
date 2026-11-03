@@ -1,0 +1,1 @@
+A designated verifier signature scheme allows a signer to generate a signature that only the designated verifier can verify. This paper proposes multi-signer strong designated multi-verifier signature schemes based on multiple cryptographic algorithms and has proven their security in the random oracle model.

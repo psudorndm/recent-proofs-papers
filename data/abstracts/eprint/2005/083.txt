@@ -1,0 +1,1 @@
+We define security goals and attack models for disk encryption, and prove several relationships between the resulting security notions, and some general results about disk encryption. We give concrete constructions for every security notion along with security proofs. Finally, we briefly discuss the security of some implementations and standards for disk encryption.

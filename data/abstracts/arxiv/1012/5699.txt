@@ -1,0 +1,1 @@
+We consider the recursive Fourier sampling problem (RFS), and show that there exists an interactive proof for RFS with an efficient classical verifier and efficient quantum prover.

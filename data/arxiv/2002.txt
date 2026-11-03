@@ -1,5 +1,5 @@
 Unconditionally Secure Quantum Key Distribution In Higher Dimensions;;;H. F. Chau;;;quant-ph/0212055;;;none;;;2002-12-10;;;security
-On the Work of Madhu Sudan: the 2002 Nevalinna Prize Winner;;;Shafi Goldwasser;;;cs/0212056;;;none;;;2002-12-01;;;proofs
+On the Work of Madhu Sudan: the 2002 Nevalinna Prize Winner;;;Shafi Goldwasser;;;cs/0212056;;;none;;;2002-12-01;;;proofs/iop/code
 Mathematical foundations of modern cryptography: computational complexity perspective;;;Shafi Goldwasser;;;cs/0212055;;;none;;;2002-12-01;;;proofs
 Information Security and Quantum Mechanics: Security of Quantum Protocols;;;P. Oscar Boykin;;;quant-ph/0210194;;;none;;;2002-10-28;;;security
 Non-Interactive Quantum Statistical and Perfect Zero-Knowledge;;;Hirotada Kobayashi;;;quant-ph/0207158;;;none;;;2002-07-29;;;proofs

@@ -1,0 +1,1 @@
+We derive some tight equivalence reductions between several Strong Diffie-Hellman (SDH) assumptions.

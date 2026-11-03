@@ -1,14 +1,14 @@
-Efficient Revocation of Anonymous Group Membership;;;Jan Camenisch, Anna Lysyanskaya;;;2001/113;;;none;;;2001-12-28;;;proofs
+Efficient Revocation of Anonymous Group Membership;;;Jan Camenisch, Anna Lysyanskaya;;;2001/113;;;none;;;2001-12-28;;;proofs/applications
 RSA hybrid encryption schemes;;;Louis Granboulan;;;2001/110;;;none;;;2001-12-19;;;security
 Design and Analysis of Practical Public-Key Encryption Schemes Secure against Adaptive Chosen Ciphertext Attack;;;Ronald Cramer, Victor Shoup;;;2001/108;;;none;;;2001-12-17;;;security
 Universal Arguments and their Applications;;;Boaz Barak, Oded Goldreich;;;2001/105;;;none;;;2001-12-03;;;proofs
 Concurrent Zero-Knowledge With Timing, Revisited;;;Oded Goldreich;;;2001/104;;;none;;;2001-11-27;;;proofs
 An Efficient MAC for Short Messages;;;Sarvar Patel;;;2001/097;;;none;;;2001-11-14;;;security
 Threshold Cryptosystems Based on Factoring;;;Jonathan Katz, Moti Yung;;;2001/093;;;none;;;2001-11-07;;;security
-Perfect Hiding and Perfect Binding Universally Composable Commitment Schemes with Constant Expansion Factor;;;Ivan Damgård, Jesper B. Nielsen;;;2001/091;;;none;;;2001-11-05;;;proofs,security
+Perfect Hiding and Perfect Binding Universally Composable Commitment Schemes with Constant Expansion Factor;;;Ivan Damgård, Jesper B. Nielsen;;;2001/091;;;none;;;2001-11-05;;;proofs/zk-protocols,security
 Identity Based Encryption From the Weil Pairing;;;Dan Boneh, Matthew Franklin;;;2001/090;;;none;;;2001-10-30;;;security
 Statistical Zero-Knowledge Proofs from Diophantine Equations;;;Helger Lipmaa;;;2001/086;;;none;;;2001-10-25;;;proofs
-Universal Hash Proofs and a Paradigm for Adaptive Chosen Ciphertext Secure Public-Key Encryption;;;Ronald Cramer, Victor Shoup;;;2001/085;;;none;;;2001-10-12;;;proofs,security
+Universal Hash Proofs and a Paradigm for Adaptive Chosen Ciphertext Secure Public-Key Encryption;;;Ronald Cramer, Victor Shoup;;;2001/085;;;none;;;2001-10-12;;;proofs/zk-protocols,security
 A Description of Protocols for Private Credentials;;;Ariel Glenn, Ian Goldberg, Frédéric Légaré, Anton Stiglic;;;2001/082;;;none;;;2001-10-05;;;security
 Authenticated Encryption in the Public-Key Setting: Security Notions and Analyses;;;Jee Hea An;;;2001/079;;;none;;;2001-09-12;;;security
 Security Assessment of Hierocrypt and Rijndael against the Differential and Linear Cryptanalysis (Extended Abstract);;;Kenji Ohkuma, Hideo Shimizu, Fumihiko Sano, Shinichi Kawamura;;;2001/070;;;none;;;2001-08-16;;;security

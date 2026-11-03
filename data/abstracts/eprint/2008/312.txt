@@ -1,0 +1,1 @@
+Kiltz proposed a practical key encapsulation mechanism(Kiltz07-KEM) which is secure against adaptive chosen ciphertext attacks(IND-CCA2) under the gap hashed Diffie-Hellman(GHDH) assumption\cite{Kiltz2007}. We show a variant of Kiltz07-KEM which is more efficient than Kiltz07-KEM in encryption. The new scheme can be proved to be IND-CCA2 secure under the same assumption, GHDH.

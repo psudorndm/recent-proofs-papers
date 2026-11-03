@@ -1,0 +1,1 @@
+This book chapter establishes connections between the interactive proof tool Isabelle and classical tableau and resolution technology. Isabelle's classical reasoner is described and demonstrated by an extended case study: the Church-Rosser theorem for combinators. Compared with other interactive theorem provers, Isabelle's classical reasoner achieves a high degree of automation.

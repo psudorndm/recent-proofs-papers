@@ -1,0 +1,1 @@
+We present two new arithmetization oriented hash functions based on RPO [Ashur, kindi, Meier, Szepieniec, Threadbare; ePrint 2022/1577] and XHash-12 [Ashur, Bhati, Kindi, Mahzoun, Perrin; ePrint 2023/1045] adapted for $p=2^{31}-1$ and ready to use in Circle STARKs [Habock, Levit, Papini; ePrint 2024/278].

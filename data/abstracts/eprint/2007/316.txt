@@ -1,0 +1,1 @@
+This paper analyzes the security of an IBE scheme proposed by Wang in 2007. It is shown that under BDHP (which is polynomially time equivalent to BIDHP) assumption the scheme is secure in random oracle model.

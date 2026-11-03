@@ -1,0 +1,1 @@
+Recently, Byun et al. proposed an efficient client-to-client password-authenticated key agreement protocol (EC2C-PAKA), which was provably secure in a formally defined security model. This letter shows that EC2C-PAKA protocol is vulnerable to password compromise impersonate attack and man-in-the-middle attack if the key between servers is compromised.

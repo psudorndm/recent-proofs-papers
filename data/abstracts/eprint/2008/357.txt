@@ -1,0 +1,1 @@
+A protocol is introduced to show $K$ copies of a pattern string are embedded is a host string. Commitments to both strings, and to offsets of copies of the pattern in the host is input of Verifier. Protocol does not leak useful information about strings, and is zero knowledge.

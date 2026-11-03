@@ -1,0 +1,1 @@
+In this paper, we introduce the subfield bilinear collision problem and use it to construct an identification protocol and a signature scheme. This construction is based on the MPC-in-the-head paradigm and uses the Fiat-Shamir transformation to obtain a signature.

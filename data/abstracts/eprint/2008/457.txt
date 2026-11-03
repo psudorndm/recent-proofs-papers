@@ -1,0 +1,1 @@
+We show that stand-alone statistically secure commitments based on two-party stateless primitives are statistically universally composable. I.e. they are simulatable secure with an unlimited adversary, an unlimited simulator and an unlimited environment machine. Especially, these protocols can be used in arbitrary statistically secure applications without lowering the security.

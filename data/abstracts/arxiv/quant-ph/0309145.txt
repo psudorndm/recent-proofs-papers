@@ -1,0 +1,1 @@
+A theorem is proved which states that no classical key generating protocol could ever be provably secure. Consequently, candidates for provably secure protocols must rely on some quantum effect. Theorem relies on the fact that BB84 Quantum key distribution protocol has been proven secure.
