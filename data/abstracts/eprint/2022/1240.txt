@@ -1,0 +1,1 @@
+We present two simple zero knowledge interactive proofs that can be instantiated with many of the standard decisional or computational hardness assumptions. Compared with traditional zero knowledge proofs, in our protocols the verifier starts first, by emitting a challenge, and then the prover answers the challenge.

@@ -1,0 +1,1 @@
+In this note we explain how to compute $n$ KZG proofs for a polynomial of degree $d$ in time superlinear of $(n+d)$. Our technique is used in lookup arguments and vector commitment schemes.

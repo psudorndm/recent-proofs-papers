@@ -1,0 +1,1 @@
+In [BS22], the authors proposed a lattice based hash function that is useful for building zero-knowledge proofs with superior performance. In this short note we analysis the underlying lattice problem with the classic shortest vector problem, and show that 2 out of 15 proposed parameter sets for this hash function do not achieve the claimed security.

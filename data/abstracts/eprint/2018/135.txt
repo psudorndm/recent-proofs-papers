@@ -1,0 +1,1 @@
+The security for authenticated encryption schemes is often captured by demanding CCA security (IND-CCA) and integrity of plaintexts (INT-PTXT). In this short note, we prove that this implies in particular integrity of ciphertexts, i.e., INT-CTXT. Hence, the two sets of requirements mentioned in the title are equivalent.

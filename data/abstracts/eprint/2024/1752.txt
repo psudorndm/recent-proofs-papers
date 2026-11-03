@@ -1,0 +1,1 @@
+This note studies a method of committing to a polynomial in a way that allows executions of low degree tests such as FRI to be batched and even deferred. In particular, it achieves (unlimited-depth) aggregation for STARKs.

@@ -1,0 +1,1 @@
+In this informal note, we describe how to bypass the characteristic bound in logUp [eprint 2022/1530] by abstracting the notion of (pole) multiplicity. The method applies as well to the GKR-variant from Papini and Haböck [eprint 2023/1284], and it moreover unlocks fractional decomposition lookups over binary fields.

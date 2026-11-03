@@ -1,0 +1,1 @@
+We study an extension of the well-known Abadi-Rogaway logic with hashes. Previously, we have given a sound computational interpretation of this extension using Canetti's oracle hashing. This paper extends Micciancio and Warinschi's completeness result for the original logic to this setting.

@@ -1,5 +1,5 @@
 Interactive proofs with efficient quantum prover for recursive Fourier sampling;;;Matthew McKague;;;1012.5699;;;none;;;2010-12-28;;;proofs
-Parallel Repetition of Entangled Games;;;Julia Kempe, Thomas Vidick;;;1012.4728;;;none;;;2010-12-21;;;proofs
+Parallel Repetition of Entangled Games;;;Julia Kempe, Thomas Vidick;;;1012.4728;;;none;;;2010-12-21;;;proofs/iop
 Quantum interactive proofs with weak error bounds;;;Tsuyoshi Ito, Hirotada Kobayashi, John Watrous;;;1012.4427;;;none;;;2010-12-20;;;proofs
 Device-independent quantum key distribution;;;Esther Hänggi;;;1012.3878;;;none;;;2010-12-17;;;security
 A Focused Sequent Calculus Framework for Proof Search in Pure Type Systems;;;Stéphane Jean Eric Lengrand, Roy Dyckhoff, James McKinna;;;1012.3372;;;none;;;2010-12-15;;;proofs
@@ -15,7 +15,7 @@ Secure device-independent quantum key distribution with causally independent mea
 Random Oracles in a Quantum World;;;Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner, Mark Zhandry;;;1008.0931;;;none;;;2010-08-05;;;security
 About functions where function input describes inner working of the function;;;Rade Vuckovac;;;1007.4660;;;none;;;2010-07-27;;;security
 Security of "Counterfactual Quantum Cryptography";;;Zhen-Qiang Yin, Hong-Wei Li, Zheng-Fu Han, Guang-Can Guo;;;1007.3066;;;none;;;2010-07-19;;;security
-Mean-Set Attack: Cryptanalysis of Sibert et al. Authentication Protocol;;;Natalia Mosina, Alexander Ushakov;;;1006.4850;;;none;;;2010-06-24;;;proofs
+Mean-Set Attack: Cryptanalysis of Sibert et al. Authentication Protocol;;;Natalia Mosina, Alexander Ushakov;;;1006.4850;;;none;;;2010-06-24;;;proofs/zk-protocols
 Continuous-variable Quantum Key Distribution protocols with eight-state discrete modulation;;;A. Becir, F. A. A. El-Orany, M. R. B. Wahiddin;;;1006.4216;;;none;;;2010-06-22;;;security
 Composability in quantum cryptography;;;Joern Mueller-Quade, Renato Renner;;;1006.2215;;;none;;;2010-06-11;;;security
 Experimental demonstration of phase-remapping attack in a practical quantum key distribution system;;;Feihu Xu, Bing Qi, Hoi-Kwong Lo;;;1005.2376;;;none;;;2010-05-13;;;security
@@ -25,7 +25,7 @@ Provable Secure Identity Based Generalized Signcryption Scheme;;;Gang Yu, Xiaoxi
 QMIP = MIP*;;;Anne Broadbent, Joseph Fitzsimons, Elham Kashefi;;;1004.1130;;;none;;;2010-04-07;;;proofs
 Quantum interactive proofs with short messages;;;Salman Beigi, Peter W. Shor, John Watrous;;;1004.0411;;;none;;;2010-04-03;;;proofs
 Equilibrium Value Method for the Proof of QIP=PSPACE;;;Xiaodi Wu;;;1004.0264;;;none;;;2010-04-02;;;proofs
-A PCP Characterization of AM;;;Andrew Drucker;;;1002.3664;;;none;;;2010-02-19;;;proofs
+A PCP Characterization of AM;;;Andrew Drucker;;;1002.3664;;;none;;;2010-02-19;;;proofs/iop
 Quantum circuit for security proof of quantum key distribution without encryption of error syndrome and noisy processing;;;Kiyoshi Tamaki, Go Kato;;;1002.3199;;;none;;;2010-02-17;;;security
 Improved code-based identification scheme;;;Pierre-Louis Cayrel, Pascal Veron;;;1001.3017;;;none;;;2010-01-18;;;proofs
 Fusion Discrete Logarithm Problems;;;Martin Schaffer, Stefan Rass;;;1001.1802;;;none;;;2010-01-12;;;security

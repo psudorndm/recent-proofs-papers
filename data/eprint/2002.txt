@@ -34,7 +34,7 @@ Concurrent Zero Knowledge Proofs with Logarithmic Round-Complexity;;;Manoj Prabh
 SiBIR: Signer-Base Intrusion-Resilient Signatures;;;Gene Itkis, Leonid Reyzin;;;2002/054;;;none;;;2002-04-30;;;security
 A Variant of the Cramer-Shoup Cryptosystem for Groups with Unknwon Order;;;Stefan Lucks;;;2002/052;;;none;;;2002-04-25;;;security
 Strict Polynomial-time in Simulation and Extraction;;;Boaz Barak, Yehuda Lindell;;;2002/043;;;none;;;2002-04-07;;;proofs
-A Unified Methodology For Constructing Public-Key Encryption Schemes Secure Against Adaptive Chosen-Ciphertext Attack;;;Edith Elkind, Amit Sahai;;;2002/042;;;none;;;2002-04-05;;;proofs,security
+A Unified Methodology For Constructing Public-Key Encryption Schemes Secure Against Adaptive Chosen-Ciphertext Attack;;;Edith Elkind, Amit Sahai;;;2002/042;;;none;;;2002-04-05;;;proofs/zk-protocols,security
 An efficient semantically secure elliptic curve cryptosystem based on KMOV;;;David Galindo, Sebastià Mart\'ın, Paz Morillo, Jorge L. Villar;;;2002/037;;;none;;;2002-03-22;;;security
 Tripartite Authenticated Key Agreement Protocols from Pairings;;;Sattam S. Al-Riyami, Kenneth G. Paterson;;;2002/035;;;none;;;2002-03-20;;;security
 An OAEP Variant With a Tight Security Proof;;;Jakob Jonsson;;;2002/034;;;none;;;2002-03-18;;;security

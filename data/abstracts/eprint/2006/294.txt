@@ -1,0 +1,1 @@
+We provide the first proof of security for MDC-2, the most well-known construction for turning an n-bit blockcipher into a 2n-bit cryptographic hash function.

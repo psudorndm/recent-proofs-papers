@@ -11,7 +11,7 @@ Ordered Multisignatures and Identity-Based Sequential Aggregate Signatures, with
 Reconfigurable Hardware Implementations of Tweakable Enciphering Schemes;;;Cuauhtemoc Mancillas-Lopez, Debrup Chakraborty, Francisco Rodriguez-Henriquez;;;2007/437;;;none;;;2007-11-24;;;security
 Notions of Efficiency in Simulation Paradigm;;;Tzer-jen Wei;;;2007/431;;;none;;;2007-11-24;;;proofs
 Structural Identity-Based Encryption;;;Man Ho Au, Siu-Ming Yiu;;;2007/422;;;none;;;2007-11-18;;;security
-The role of help in Classical and Quantum Zero-Knowledge;;;André Chailloux, Iordanis Kerenidis;;;2007/421;;;none;;;2007-11-18;;;proofs
+The role of help in Classical and Quantum Zero-Knowledge;;;André Chailloux, Iordanis Kerenidis;;;2007/421;;;none;;;2007-11-18;;;proofs/zk-protocols
 A Critical Analysis and Improvement of AACS Drive-Host Authentication;;;Jiayuan Sui, Douglas R. Stinson;;;2007/420;;;none;;;2007-11-06;;;security
 Secure PRNGs from Specialized Polynomial Maps over Any $F_q$;;;Michael Feng-Hao Liu, Chi-Jen Lu, Bo-Yin Yang, Jintai Ding;;;2007/405;;;none;;;2007-10-22;;;security
 Robust, Anonymous RFID Authentication with Constant Key-Lookup;;;Mike Burmester, Breno de Medeiros, Rossana Motta;;;2007/402;;;none;;;2007-10-21;;;security
@@ -19,7 +19,7 @@ REMARKS ON IBE SCHEME OF WANG AND CAO;;;Sunder Lal, Priyam Sharma;;;2007/400;;;n
 Proxy Re-Signature Schemes without Random Oracles;;;Jun Shao, Zhenfu Cao, Licheng Wang, Xiaohui Liang;;;2007/396;;;none;;;2007-10-14;;;security
 Interactive and Noninteractive Zero Knowledge Coincide in the Help Model;;;Dragos Florin Ciocan, Salil Vadhan;;;2007/389;;;none;;;2007-10-04;;;proofs
 On Ciphertext Undetectability;;;Peter Gazi, Martin Stanek;;;2007/388;;;none;;;2007-10-04;;;security
-Non-Interactive Anonymous Credentials;;;Mira Belenkiy, Melissa Chase, Markulf Kohlweiss, Anna Lysyanskaya;;;2007/384;;;none;;;2007-10-04;;;proofs,security
+Non-Interactive Anonymous Credentials;;;Mira Belenkiy, Melissa Chase, Markulf Kohlweiss, Anna Lysyanskaya;;;2007/384;;;none;;;2007-10-04;;;proofs/applications,security
 Oblivious Transfer via McEliece's PKC and Permuted Kernels;;;K. Kobara, K. Morozov, R. Overbeck;;;2007/382;;;none;;;2007-09-27;;;proofs
 On the Authentication of One Popular Signcryption Scheme;;;Zhengjun Cao;;;2007/372;;;none;;;2007-09-19;;;proofs
 Universally Composable Multi-Party Computation with an Unreliable Common Reference String;;;Vipul Goyal, Jonathan Katz;;;2007/369;;;none;;;2007-09-19;;;security
@@ -52,7 +52,7 @@ Secure Hybrid Encryption from Weakened Key Encapsulation;;;Dennis Hofheinz, Eike
 Provably Secure Framework for Information Aggregation is Sensor Networks;;;Mark Manulis, Joerg Schwenk;;;2007/283;;;none;;;2007-08-07;;;security
 Group-based Proxy Re-encryption scheme;;;Chunbo Ma, Jun Ao, Jianhua Li;;;2007/274;;;none;;;2007-07-16;;;security
 Two-Tier Signatures, Strongly Unforgeable Signatures, and Fiat-Shamir without Random Oracles;;;Mihir Bellare, Sarah Shoup;;;2007/273;;;none;;;2007-07-16;;;security
-Filling the Gap between Voters and Cryptography in e-Voting;;;Wei Han, Dong Zheng, Ke-fei Chen;;;2007/266;;;none;;;2007-07-10;;;proofs
+Filling the Gap between Voters and Cryptography in e-Voting;;;Wei Han, Dong Zheng, Ke-fei Chen;;;2007/266;;;none;;;2007-07-10;;;proofs/applications
 Which Languages Have 4-Round Zero-Knowledge Proofs?;;;Jonathan Katz;;;2007/265;;;none;;;2007-07-09;;;proofs
 The Power of Proofs-of-Possession: Securing Multiparty Signatures against Rogue-Key Attacks;;;Thomas Ristenpart, Scott Yilek;;;2007/264;;;none;;;2007-07-09;;;proofs,security
 Certificateless Public Key Encryption Secure against Malicious KGC Attacks in the Standard Model;;;Yong Ho Hwang, Joseph K. Liu, Sherman S. M. Chow;;;2007/262;;;none;;;2007-07-09;;;security
@@ -84,7 +84,7 @@ Random Oracles and Auxiliary Input;;;Dominique Unruh;;;2007/168;;;none;;;2007-05
 Public Key Broadcast Encryption with Low Number of Keys and Constant Decryption Time (Version 2);;;Yi-Ru Liu, Wen-Guey Tzeng;;;2007/167;;;none;;;2007-05-07;;;security
 A Simple Security Analysis of Hash-CBC and a New Efficient One-Key Online Cipher;;;Mridul Nandi;;;2007/158;;;none;;;2007-05-07;;;security
 Computational Semantics for Basic Protocol Logic - A Stochastic Approach;;;Gergei Bana, Koji Hasebe, Mitsuhiro Okada;;;2007/156;;;none;;;2007-05-07;;;security
-Efficient Non-interactive Proof Systems for Bilinear Groups;;;Jens Groth, Amit Sahai;;;2007/155;;;none;;;2007-05-07;;;proofs
+Efficient Non-interactive Proof Systems for Bilinear Groups;;;Jens Groth, Amit Sahai;;;2007/155;;;none;;;2007-05-07;;;proofs/zk-protocols/group
 Cryptographic Hardness based on the Decoding of Reed-Solomon Codes;;;Aggelos Kiayias, Moti Yung;;;2007/153;;;none;;;2007-04-26;;;security
 Deterministic History-Independent Strategies for Storing Information on Write-Once Memories;;;Tal Moran, Moni Naor, Gil Segev;;;2007/151;;;none;;;2007-04-26;;;security
 Practical Compact E-Cash;;;Man Ho Au, Willy Susilo, Yi Mu;;;2007/148;;;none;;;2007-04-25;;;security
@@ -102,7 +102,7 @@ Privacy-Preserving Distributed Set Intersection;;;Qingsong Ye, Huaxiong Wang, Ch
 On the Role of Scheduling in Simulation-Based Security;;;Ran Canetti, Ling Cheung, Nancy Lynch, Olivier Pereira;;;2007/102;;;none;;;2007-03-22;;;security
 Practical Identity-Based Encryption (IBE) in Multiple PKG Environments and Its Applications;;;Shengbao Wang, Zhenfu Cao;;;2007/100;;;none;;;2007-03-22;;;security
 Generic Certificateless Encryption in the Standard Model;;;Qiong Huang, Duncan S. Wong;;;2007/095;;;none;;;2007-03-22;;;security
-Non-Interactive Proofs for Integer Multiplication;;;Ivan Damgard, Rune Thorbek;;;2007/086;;;none;;;2007-03-06;;;proofs,security
+Non-Interactive Proofs for Integer Multiplication;;;Ivan Damgard, Rune Thorbek;;;2007/086;;;none;;;2007-03-06;;;proofs/zk-protocols,security
 Almost Secure (1-Round, n-Channel) Message Transmission Scheme;;;Kaoru Kurosawa, Kazuhiro Suzuki;;;2007/076;;;none;;;2007-02-28;;;security
 Knowledge-Binding Commitments with Applications in Time-Stamping (Full Version);;;Ahto Buldas, Sven Laur;;;2007/071;;;none;;;2007-02-28;;;security
 Enforcing Semantic Integrity on Untrusted Clients in Networked Virtual Environments;;;Somesh Jha, Stefan Katzenbeisser, Christian Schallhart, Helmut Veith, Stephen Chenney;;;2007/056;;;none;;;2007-02-20;;;security

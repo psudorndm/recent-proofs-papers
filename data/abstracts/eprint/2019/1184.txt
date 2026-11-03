@@ -1,0 +1,1 @@
+This work provides an instantiation of the Bulletproof zero-knowledge algorithm in modulo prime number fields. The primary motivation for this work is to help readers understand the steps of the Bulletproof protocol.

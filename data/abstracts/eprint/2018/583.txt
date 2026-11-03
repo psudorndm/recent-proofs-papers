@@ -1,0 +1,1 @@
+We analyze the structure of commutative ring homomorphic encryption schemes and show that they are not quantum IND-CCA secure.

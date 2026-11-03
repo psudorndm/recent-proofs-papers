@@ -1,0 +1,1 @@
+We present a quantum position verification scheme in the random oracle model. In contrast to prior work, our scheme does not require bounded storage/retrieval/entanglement assumptions. We also give an efficient position-based authentication protocol. This enables secret and authenticated communication with an entity that is only identified by its position in space.

@@ -1,0 +1,1 @@
+In this paper we describe protocols which use a standard deck of cards to provide a perfectly sound zero-knowledge proof for Hamiltonian cycles and Flow Free puzzles. The latter can easily be extended to provide a protocol for a zero-knowledge proof of many-to-many k-disjoint path coverings.

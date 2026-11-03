@@ -1,7 +1,7 @@
 On Compression of Cryptographic Keys;;;Aldar C-F. Chan;;;0712.4057;;;none;;;2007-12-25;;;security
 Distinguishing Short Quantum Computations;;;Bill Rosgen;;;0712.2595;;;none;;;2007-12-16;;;proofs
 Generalized Tsirelson Inequalities, Commuting-Operator Provers, and Multi-Prover Interactive Proof Systems;;;Tsuyoshi Ito, Hirotada Kobayashi, Daniel Preda, Xiaoming Sun, Andrew C. -C. Yao;;;0712.2163;;;none;;;2007-12-13;;;proofs
-The role of help in Classical and Quantum Zero-Knowledge;;;André Chailloux, Iordanis Kerenidis;;;0711.4251;;;none;;;2007-11-27;;;proofs
+The role of help in Classical and Quantum Zero-Knowledge;;;André Chailloux, Iordanis Kerenidis;;;0711.4251;;;none;;;2007-11-27;;;proofs/zk-protocols
 Increasing the power of the verifier in Quantum Zero Knowledge;;;André Chailloux, Iordanis Kerenidis;;;0711.4032;;;none;;;2007-11-26;;;proofs
 Using Entanglement in Quantum Multi-Prover Interactive Proofs;;;Julia Kempe, Hirotada Kobayashi, Keiji Matsumoto, Thomas Vidick;;;0711.3715;;;none;;;2007-11-23;;;proofs
 Reusable Vernam Cipher with Quantum Media;;;Kai Wen, Fu-Guo Deng, Gui Lu Long;;;0711.1632;;;none;;;2007-11-11;;;security

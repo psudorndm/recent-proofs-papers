@@ -1,0 +1,1 @@
+We introduce an extension of the standard Turing machine model, so-called Physical Turing machines, and apply them in a reductionist security proof for a standard scheme from physical cryptography.

@@ -1,10 +1,10 @@
 Operational meaning of quantum measures of recovery;;;Tom Cooney, Christoph Hirche, Ciara Morgan, Jonathan P. Olson, Kaushik P. Seshadreesan, John Watrous, Mark M. Wilde;;;1512.05324;;;none;;;2015-12-16;;;proofs
 W-state Analyzer and Multi-party Measurement-device-independent Quantum Key Distribution;;;Changhua Zhu, Feihu Xu, Changxing Pei;;;1512.02744;;;none;;;2015-12-09;;;security
-Constant-Soundness Interactive Proofs for Local Hamiltonians;;;Anand Natarajan, Thomas Vidick;;;1512.02090;;;none;;;2015-12-07;;;proofs
+Constant-Soundness Interactive Proofs for Local Hamiltonians;;;Anand Natarajan, Thomas Vidick;;;1512.02090;;;none;;;2015-12-07;;;proofs/iop
 Strong and Provably Secure Database Access Control;;;Marco Guarnieri, Srdjan Marinovic, David Basin;;;1512.01479;;;none;;;2015-12-04;;;security
 Relativistic quantum cryptography;;;Jędrzej Kaniewski;;;1512.00602;;;none;;;2015-12-02;;;proofs
 Quantum Key Distribution in the Non-Asymptotic Regime;;;Ramona Wolf;;;1511.06519;;;none;;;2015-11-20;;;security
-A Note on Almost Perfect Probabilistically Checkable Proofs of Proximity;;;Shlomo Jozeph;;;1511.05178;;;none;;;2015-11-16;;;proofs
+A Note on Almost Perfect Probabilistically Checkable Proofs of Proximity;;;Shlomo Jozeph;;;1511.05178;;;none;;;2015-11-16;;;proofs/iop
 Quantum One-Time Memories from Stateless Hardware;;;Anne Broadbent, Sevag Gharibian, Hong-Sheng Zhou;;;1511.01363;;;none;;;2015-11-04;;;security
 Location-Enhanced Authenticated Key Exchange;;;Marcos Portnoi, Chien-Chung Shen;;;1510.08007;;;none;;;2015-10-27;;;proofs
 Top-k Query Processing on Encrypted Databases with Strong Security Guarantees;;;Xianrui Meng, Haohan Zhu, George Kollios;;;1510.05175;;;none;;;2015-10-17;;;security
@@ -20,7 +20,7 @@ Attack on a classical analogue of the Dunjko, Wallden, Kent and Andersson quantu
 Relational reasoning via probabilistic coupling;;;Gilles Barthe, Thomas Espitau, Benjamin Grégoire, Justin Hsu, Léo Stefanesco, Pierre-Yves Strub;;;1509.03476;;;none;;;2015-09-11;;;formal
 Making Existential-Unforgeable Signatures Strongly Unforgeable in the Quantum Random-Oracle Model;;;Edward Eaton, Fang Song;;;1509.02944;;;none;;;2015-09-09;;;security
 Quantum teleportation and nonlocality: the puzzling predictions of entanglement are coming of age;;;Nicolas Gisin, Sébastien Tanzilli, Wolfgang Tittel;;;1508.05962;;;none;;;2015-08-24;;;security
-Lower bounds for the parameterized complexity of Minimum Fill-in and other completion problems;;;Ivan Bliznets, Marek Cygan, Pawel Komosa, Lukas Mach, Michal Pilipczuk;;;1508.05282;;;none;;;2015-08-21;;;proofs
+Lower bounds for the parameterized complexity of Minimum Fill-in and other completion problems;;;Ivan Bliznets, Marek Cygan, Pawel Komosa, Lukas Mach, Michal Pilipczuk;;;1508.05282;;;none;;;2015-08-21;;;proofs/iop
 Experimental Measurement-Device-Independent Quantum Key Distribution with Imperfect Sources;;;Zhiyuan Tang, Kejin Wei, Olinka Bedroya, Li Qian, Hoi-Kwong Lo;;;1508.03562;;;none;;;2015-08-14;;;security
 A SAT-based Public Key Cryptography Scheme;;;Sebastian E. Schmittner;;;1507.08094;;;none;;;2015-07-29;;;proofs
 Completely Device Independent Quantum Key Distribution;;;E. A. Aguilar, R. Ramanathan, J. Kofler, M. Pawlowski;;;1507.05752;;;none;;;2015-07-21;;;security
@@ -35,7 +35,7 @@ Rational Proofs with Multiple Provers;;;Jing Chen, Samuel McCauley, Shikha Singh
 Quantum random number generation for 1.25 GHz quantum key distribution systems;;;A. Martin, B. Sanguinetti, C. C. W. Lim, R. Houlmann, H. Zbinden;;;1504.07769;;;none;;;2015-04-29;;;security
 Tight Bound on Randomness for Violating the CHSH Inequality;;;Yifeng Teng, Shenghao Yang, Siwei Wang, Mingfei Zhao;;;1504.05306;;;none;;;2015-04-21;;;security
 Partial Order Reduction for Security Protocols;;;David Baelde, Stéphanie Delaune, Lucca Hirschi;;;1504.04768;;;none;;;2015-04-18;;;formal
-$2^{(\log N)^{1/10-o(1)}}$ Hardness for Hypergraph Coloring;;;Sangxia Huang;;;1504.03923;;;none;;;2015-04-15;;;proofs
+$2^{(\log N)^{1/10-o(1)}}$ Hardness for Hypergraph Coloring;;;Sangxia Huang;;;1504.03923;;;none;;;2015-04-15;;;proofs/iop
 Model Counting Modulo Theories;;;Quoc-Sang Phan;;;1504.02796;;;none;;;2015-04-10;;;formal
 Two-User Erasure Interference Channels with Local Delayed CSIT;;;Alireza Vahid, Robert Calderbank;;;1503.03449;;;none;;;2015-03-11;;;proofs
 Finite key size analysis of two-way quantum cryptography;;;Jesni Shamsul Shaari, Stefano Mancini;;;1503.01498;;;none;;;2015-03-04;;;security

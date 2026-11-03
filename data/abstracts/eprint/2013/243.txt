@@ -1,0 +1,1 @@
+In this short note, we demonstrate a simple and practical ORAM that enjoys an extremely simple proof of security. Our construction is based on a recent ORAM due to Shi, Chan, Stefanov and Li (Asiacrypt'11), but with some crucial modifications, which significantly simply the analysis.

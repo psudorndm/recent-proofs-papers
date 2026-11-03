@@ -1,0 +1,1 @@
+This paper presents the first constructions for certificateless encryption (CLE) schemes that are provably secure against strong adversaries in the standard model. It includes both a generic construction for a strongly secure CLE scheme from any passively secure scheme as well as a concrete construction based on the Waters identity-based encryption scheme.

@@ -1,0 +1,1 @@
+We introduce the probabilistic two-agent justification logic IPJ, a logic in which we can reason about agents that perform interactive proofs. In order to study the growth rate of the probabilities in IPJ, we present a new method of parametrising IPJ over certain negligible functions. Further, our approach leads to a new notion of zero-knowledge proofs.

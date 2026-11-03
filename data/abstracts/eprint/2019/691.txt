@@ -1,0 +1,1 @@
+This paper describes the limits of various "security proofs", using 36 lattice-based KEMs as case studies. This description allows the limits to be systematically compared across these KEMs; shows that some previous claims are incorrect; and provides an explicit framework for thorough security reviews of these KEMs.

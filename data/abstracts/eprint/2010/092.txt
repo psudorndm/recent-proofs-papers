@@ -1,0 +1,1 @@
+Recently, a certificateless signcryption scheme in the standard model was proposed by Liu et al. in \cite{LiuHZM10}. Another certificateless signcryption scheme in the standard model was proposed by Xie et al. in \cite{WZ09}. Here, we show that the scheme in \cite{LiuHZM10} and \cite{WZ09} are not secure against Type-I adversary.

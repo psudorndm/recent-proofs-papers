@@ -1,0 +1,1 @@
+This paper presents an efficient and provable secure identity based generalized signcryption scheme based on [1] which can work as signcryption scheme, encryption scheme and signature scheme as per need. Its security is proved under the difficulty of q-BDHIP. A generalized signcryption scheme in multiple PKGs environment is also proposed.

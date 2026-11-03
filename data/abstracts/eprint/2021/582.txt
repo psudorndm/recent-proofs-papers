@@ -1,0 +1,1 @@
+This document is intended to accompany the ethSTARK codebase, describing the computational integrity statement proved by that code and the specific STARK construction used to prove the statement.

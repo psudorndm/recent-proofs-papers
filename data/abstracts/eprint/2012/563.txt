@@ -1,0 +1,1 @@
+We present a constant-round concurrent zero-knowledge protocol for NP. Our protocol is sound against uniform polynomial-time attackers, and relies on the existence of families of collision-resistant hash functions, and a new (but in our eyes, natural) falsifiable intractability assumption: Roughly speaking, that Micali's non-interactive CS-proofs are sound for languages in P.

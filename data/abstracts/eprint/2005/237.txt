@@ -1,0 +1,1 @@
+Much research has focused on providing RFID tags with lightweight cryptographic functionality. The HB+ authentication protocol was recently proposed and claimed to be secure against both passive and active attacks. In this note we propose a linear-time active attack against HB+.

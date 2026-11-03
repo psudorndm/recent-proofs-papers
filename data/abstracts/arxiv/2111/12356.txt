@@ -1,0 +1,1 @@
+We designed a CV-QKD system with off-the-shelf components and established the feasibility of distributing 67.6 and 66.8 Mb/s secret key rates on average over a 9.5 km SMF link, using respectively probabilistically shaped 64 and 256 QAM, and relying on a novel analytical security proof.

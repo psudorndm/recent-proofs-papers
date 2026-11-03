@@ -1,0 +1,1 @@
+We discuss the question of how to interpret reduction arguments in cryptography. We give some examples to show the subtlety and difficulty of this question.

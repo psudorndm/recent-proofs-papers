@@ -1,0 +1,1 @@
+Kurosawa-Desmedt encryption scheme is a variation of Cramer-Shoup encryption schemes, which are the first practical schemes secure against adaptive chosen ciphertext attack in standard model. We introduce a variant of Kurosawa-Desmedt encryption scheme, which is not only secure against adaptive chosen ciphertext attack but also slightly more efficient than the original version.

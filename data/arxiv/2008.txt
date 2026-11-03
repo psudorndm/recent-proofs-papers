@@ -1,9 +1,9 @@
 Improvement of continuous-variable quantum key distribution systems by using optical preamplifiers;;;Simon Fossier, Eleni Diamanti, Thierry Debuisschert, Rosa Tualle-Brouri, Philippe Grangier;;;0812.4314;;;none;;;2008-12-22;;;security
-Artin automorphisms, Cyclotomic function fields, and Folded list-decodable codes;;;Venkatesan Guruswami;;;0811.4139;;;none;;;2008-11-25;;;proofs
+Artin automorphisms, Cyclotomic function fields, and Folded list-decodable codes;;;Venkatesan Guruswami;;;0811.4139;;;none;;;2008-11-25;;;proofs/snark/code
 Detector decoy quantum key distribution;;;Tobias Moroder, Marcos Curty, Norbert Lütkenhaus;;;0811.0027;;;none;;;2008-10-31;;;security
 Interactive Proofs For Quantum Computations;;;Dorit Aharonov, Michael Ben-Or, Elad Eban;;;0810.5375;;;none;;;2008-10-30;;;proofs
 A sound spatio-temporal Hoare logic for the verification of structured interactive programs with registers and voices;;;Cezara Dragoi, Gheorghe Stefanescu;;;0810.3332;;;none;;;2008-10-19;;;formal
-Oracularization and Two-Prover One-Round Interactive Proofs against Nonlocal Strategies;;;Tsuyoshi Ito, Hirotada Kobayashi, Keiji Matsumoto;;;0810.0693;;;none;;;2008-10-03;;;proofs
+Oracularization and Two-Prover One-Round Interactive Proofs against Nonlocal Strategies;;;Tsuyoshi Ito, Hirotada Kobayashi, Keiji Matsumoto;;;0810.0693;;;none;;;2008-10-03;;;proofs/iop
 Efficient Defence against Misbehaving TCP Receiver DoS Attacks;;;Aldar C-F. Chan;;;0810.0328;;;none;;;2008-10-02;;;security
 Controlling an actively-quenched single photon detector with bright light;;;Sebastien Sauge, Lars Lydersen, Andrey Anisimov, Johannes Skaar, Vadim Makarov;;;0809.3408;;;none;;;2008-09-19;;;security
 Apply current exponential de Finetti theorem to realistic quantum key distribution;;;Yi-Bo Zhao, Zheng-Fu Han, Guang-Can Guo;;;0809.2683;;;none;;;2008-09-16;;;security

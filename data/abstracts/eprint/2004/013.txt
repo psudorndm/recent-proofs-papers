@@ -1,0 +1,1 @@
+We present a cryptanalysis of a provably secure cryptographic hash function proposed by Augot, Finiasz and Sendrier on eprint. Our attack is a variant of Wagner's generalized birthday attack. It is significantly faster than the attack considered by the authors, and it is practical for two of the three proposed parameters.

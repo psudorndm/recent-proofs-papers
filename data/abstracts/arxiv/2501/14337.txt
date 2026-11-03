@@ -1,0 +1,1 @@
+We design an Interactive Oracle Proof of Proximity (IOPP) for codes on graphs inspired by the FRI protocol. The soundness is significantly improved compared to the FRI, the complexity parameters are comparable, and there are no restrictions on the field used, enabling to consider new codes to design code-based SNARKs.

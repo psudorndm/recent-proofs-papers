@@ -3,7 +3,10 @@
 A tiny static site that lists recent papers on **cryptographic proof systems**,
 **security proofs**, and **formal verification** of cryptography. It pulls
 metadata from two sources, shows papers from *this week / this month / this year*,
-and keeps the full history below, one collapsible section per year.
+and keeps the full history below, one collapsible section per year. Topics form a
+hierarchy (e.g. *proof systems › PCS › lattice-based*) defined in
+[`taxonomy.toml`](taxonomy.toml), which anyone can extend — see
+[CONTRIBUTING.md](CONTRIBUTING.md).
 
 The design, scraper, and update workflow are adapted from Maher Mamah's
 [recent post-quantum papers](https://github.com/MaherMamah7/Recent-post-quantum-papers)
@@ -17,15 +20,19 @@ The design, scraper, and update workflow are adapted from Maher Mamah's
 ## How it works
 
 ```
+taxonomy.toml ──┐
 scraper/scrape.py  ──>  data/eprint/<year>.txt
                    ──>  data/arxiv/<year>.txt
+                   ──>  data/abstracts/<source>/<id>.txt   (one abstract per paper)
                    ──>  data/index.json      (which year files exist, and their sizes)
+                   ──>  data/taxonomy.json   (the topic tree, for the page)
 index.html  ──(fetch + render in the browser)──>  the page
 ```
 
-The scraper classifies each paper by keyword matching over its title and abstract
-(see `PROOFS_*`, `SECURITY_*`, `FORMAL_*` in `scraper/scrape.py`) and stores one line per paper,
-newest first, in the file for the year of its date:
+The scraper tags each paper by matching the patterns in `taxonomy.toml` against its
+title and abstract, and stores one line per paper, newest first, in the file for the
+year of its date. Every run re-tags all stored papers from their saved abstracts, so a
+taxonomy edit applies to the whole history without re-downloading anything.
 
 ```
 title;;;authors;;;id;;;repo;;;date;;;categories
@@ -38,13 +45,14 @@ title;;;authors;;;id;;;repo;;;date;;;categories
 | `id`         | arXiv id (`2501.01234`) or ePrint id (`2026/0421`)   |
 | `repo`       | a github/gitlab/bitbucket URL if found, else `none`  |
 | `date`       | `YYYY-MM-DD`                                          |
-| `categories` | subset of `proofs`, `security`, `formal`             |
+| `categories` | deepest matching topic paths, e.g. `proofs/pcs/lattice,security` |
 
-The page has a search box (titles, authors, IDs) and two filter rows:
-**topic** (proof systems / security proofs / formal verification / all) and
-**source** (ePrint / arXiv / both), plus a **year** box that takes a year (`2019`)
+The page has a search box (titles, authors, IDs); **topic** rows that drill down
+the hierarchy (pick *proof systems*, then *PCS*, then *lattice-based*; clicking a tag on
+any paper does the same); **source** (ePrint / arXiv / both); and a **year** box that takes a year (`2019`)
 or a range (`2018-2021`, `2020-`, `-2005`) and shows just those years, expanded.
 Every section (this week / month / year, and each older year) can be collapsed.
+Clicking a paper's title shows its abstract (loaded only then, so the page stays light).
 The page loads the last year first, then the older years in the background; once
 they are loaded, search covers the whole history and opens every year that has matches.
 
@@ -54,13 +62,15 @@ changes the current year.
 
 ## Running the scraper
 
-No third-party dependencies — standard library only (Python 3.8+).
+No third-party dependencies — standard library only (Python 3.11+, for `tomllib`).
 
 ```bash
 python3 scraper/scrape.py            # merge the last 30 days into data/ (default)
 python3 scraper/scrape.py --days 90  # merge a longer window
 python3 scraper/scrape.py --full     # re-harvest the whole history and replace data/
+python3 scraper/scrape.py --no-fetch # only re-tag stored papers with taxonomy.toml
 python3 scraper/scrape.py --skip-arxiv   # only refresh ePrint
+python3 scraper/taxonomy.py --check  # validate taxonomy.toml, count papers per topic
 ```
 
 ## Viewing locally
@@ -75,15 +85,9 @@ files, which browsers block over `file://`.)
 
 ## Tuning what gets included
 
-Precision/recall is governed entirely by the keyword lists in
-`scraper/scrape.py`:
-
-- `*_CI` — case-insensitive descriptive phrases (e.g. `zero-knowledge`,
-  `security proof`, `formal verification`).
-- `*_CS` — **case-sensitive** acronyms and tool names (e.g. `STARK`, `NIZK`,
-  `Tamarin`, `Coq`) so they don't collide with ordinary words.
-- Formal-verification matches also need a cryptographic context phrase
-  (`CRYPTO_CONTEXT`), so general program-verification papers are not swept in.
+Everything is in [`taxonomy.toml`](taxonomy.toml): each topic's keywords, its
+sub-topics, shared sub-topic lists such as the assumptions, and the phrases the arXiv
+harvest searches for. [CONTRIBUTING.md](CONTRIBUTING.md) explains the format.
 
 ## Automatic updates
 
@@ -92,4 +96,6 @@ updated `data/` files as `paper-bot`. Each run merges the last 30 days into the
 stored history. Enable GitHub Pages (serving from the repo
 root) to publish the site. You can also trigger a refresh on demand from the repo's
 **Actions** tab (the workflow has `workflow_dispatch` enabled); tick **full** there to
-re-harvest everything, e.g. after changing the keyword lists.
+re-harvest everything, e.g. after adding a new top-level topic. A push that changes
+`taxonomy.toml` re-tags the stored papers straight away (no harvesting), and pull
+requests that change it are checked automatically (`check-taxonomy.yml`).

@@ -1,0 +1,1 @@
+In 2005, Wen et al. proposed the first provably secure three-party password-based authenticated key exchange using Weil pairings, and provided their proof in a modified Bellare-Rogaway model (BR-model). Here, we show an impersonation attack on Wen et al.¡¦s scheme and point out a main flaw of their model that allows a man-in-the-middle adversary easily violate the security.

@@ -1,0 +1,1 @@
+In this paper, we show that the AugPAKE protocol provides the semantic security of session keys under the strong Diffie-Hellman (SDH) assumption in the random oracle model.

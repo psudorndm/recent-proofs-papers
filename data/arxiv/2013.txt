@@ -22,7 +22,7 @@ Private Outsourcing of Polynomial Evaluation and Matrix Multiplication using Mul
 Extended Capabilities for a Privacy-Enhanced Participatory Sensing Infrastructure (PEPSI);;;Emiliano De Cristofaro, Claudio Soriente;;;1308.2921;;;none;;;2013-08-13;;;security
 PS-TRUST: Provably Secure Solution for Truthful Double Spectrum Auctions;;;Zhili Chen, Liusheng Huang, Lu Li, Wei Yang, Haibo Miao, Miaomiao Tian, Fei Wang;;;1307.7433;;;none;;;2013-07-29;;;security
 Alternating Product Ciphers: A Case for Provable Security Comparisons (extended abstract);;;John O. Pliam;;;1307.4107;;;none;;;2013-07-15;;;security
-Some Improvements to Total Degree Tests;;;Katalin Friedl, Madhu Sudan;;;1307.3975;;;none;;;2013-07-15;;;proofs
+Some Improvements to Total Degree Tests;;;Katalin Friedl, Madhu Sudan;;;1307.3975;;;none;;;2013-07-15;;;proofs/iop
 Proceedings 10th International Workshop On User Interfaces for Theorem Provers;;;Cezary Kaliszyk, Christoph Lüth;;;1307.1528;;;none;;;2013-07-05;;;proofs
 Finite-key analysis for measurement-device-independent quantum key distribution;;;Marcos Curty, Feihu Xu, Wei Cui, Charles Ci Wen Lim, Kiyoshi Tamaki, Hoi-Kwong Lo;;;1307.1081;;;none;;;2013-07-03;;;security
 Quantum enigma machines;;;Seth Lloyd;;;1307.0380;;;none;;;2013-07-01;;;security
@@ -33,10 +33,10 @@ Experimental unconditionally secure bit commitment;;;Yang Liu, Yuan Cao, Marcos 
 Cellular Automata in Cryptographic Random Generators;;;Jason Spencer;;;1306.3546;;;none;;;2013-06-15;;;security
 The Fiat-Shamir Transformation in a Quantum World;;;Özgür Dagdelen, Marc Fischlin Tommaso Gagliardoni;;;1306.0315;;;none;;;2013-06-03;;;security
 A Review of Automated Formal Verification of Ad Hoc Routing Protocols for Wireless Sensor Networks;;;Zhe Chen, Daqiang Zhang, Rongbo Zhu, Yinxue Ma, Ping Yin, Feng Xie;;;1305.7410;;;none;;;2013-05-31;;;formal
-The Unique Games Conjecture, Integrality Gap for Cut Problems and Embeddability of Negative Type Metrics into $\ell_1$;;;Subhash A. Khot, Nisheeth K. Vishnoi;;;1305.4581;;;none;;;2013-05-20;;;proofs
+The Unique Games Conjecture, Integrality Gap for Cut Problems and Embeddability of Negative Type Metrics into $\ell_1$;;;Subhash A. Khot, Nisheeth K. Vishnoi;;;1305.4581;;;none;;;2013-05-20;;;proofs/iop
 Security of high-dimensional quantum key distribution protocols using Franson interferometers;;;Thomas Brougham, Stephen M. Barnett, Kevin T. McCusker, Paul G. Kwiat, Daniel J. Gauthier;;;1305.4541;;;none;;;2013-05-20;;;security
 Model Checking Techniques for Verification of an Encryption Scheme for Wireless Sensor Networks;;;Zohra Sbaï, Mohamed Escheikh;;;1305.4247;;;none;;;2013-05-18;;;formal
-Logging safely in public spaces using color PINs;;;Frank Nielsen;;;1304.6499;;;none;;;2013-04-24;;;proofs
+Logging safely in public spaces using color PINs;;;Frank Nielsen;;;1304.6499;;;none;;;2013-04-24;;;proofs/applications
 Time-Optimal Interactive Proofs for Circuit Evaluation;;;Justin Thaler;;;1304.3812;;;none;;;2013-04-13;;;proofs
 Cryptography and Algorithmic Randomness;;;Kohtaro Tadaki, Norihisa Doi;;;1305.2391;;;none;;;2013-04-12;;;security
 An Efficient Bilinear Pairing-Free Certificateless Two-Party Authenticated Key Agreement Protocol in the eCK Model;;;Yong-Jin Kim, Yong-Min Kim, Yong-Jin Choe, Hyong-Chol O;;;1304.0383;;;none;;;2013-04-01;;;security

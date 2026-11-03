@@ -1,0 +1,1 @@
+We present a security reduction for the PAK protocol instantiated over Gap Diffie-Hellman Groups that is tighter than previously known reductions. We discuss the implications of our results for concrete security. Our proof is the first to show that the PAK protocol can provide meaningful security guarantees for values of the parameters typical in today's world.

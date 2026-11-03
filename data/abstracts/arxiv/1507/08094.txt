@@ -1,0 +1,1 @@
+A homomorphic public key crypto-scheme based on the Boolean Satisfiability Problem is proposed. The public key is a SAT formula satisfied by the private key. Probabilistic encryption generates functions implied to be false by the public key XOR the message bits. A zero-knowledge proof is used to provide signatures.

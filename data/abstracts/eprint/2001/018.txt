@@ -1,0 +1,1 @@
+In [5] an efficient pseudo-random number generator (PRNG) with provable security is described. Its security is based on the hardness of the subset sum or knapsack problem. In this paper we refine these ideas to design a PRNG with independent seed and output generation. This independence allows for greater parallelism, design flexibility, and possibly greater security.

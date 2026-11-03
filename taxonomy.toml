@@ -1,0 +1,342 @@
+# Topic hierarchy used to tag papers. Edit freely: the daily update re-tags
+# every stored paper with this file, so changes show up on the site after the
+# next run (or run "refresh papers" by hand from the Actions tab).
+#
+# HOW IT WORKS
+#   [topics.<id>]              a top-level topic (shown as TOPIC: on the page)
+#   [topics.<id>.<child>]      a sub-topic; nest as deep as you like
+#   [shared.<group>.<id>]      a reusable list of sub-topics (e.g. assumptions)
+#
+# Each topic can have:
+#   label            text shown on the page (required)
+#   keywords         case-insensitive regular expressions
+#   case_sensitive   regular expressions matched with exact case (acronyms, tool names)
+#   requires_keywords / requires_case_sensitive
+#                    optional: the paper must ALSO match one of these
+#   subgroups        names of [shared.*] groups to add as sub-topics, e.g. ["assumptions"]
+#   arxiv_terms      top-level topics only: phrases the arXiv harvest searches
+#                    abstracts for (ePrint is harvested in full, so it needs none)
+#
+# A paper gets a topic when any of its keywords / case_sensitive patterns match
+# the title or abstract. Sub-topics are only checked when the parent matched:
+# they refine a topic, they never pull new papers in. So a sub-topic's keywords
+# can be short (e.g. 'lattice'), but a top-level topic's keywords must be
+# specific enough on their own.
+#
+# TIPS
+#   - Write patterns in single quotes ('...') so backslashes need no escaping.
+#   - Use \b for word boundaries, e.g. '\bFRI\b'.
+#   - ids (the names after "topics." and the dots) use lowercase letters, digits
+#     and dashes; they appear in links and data files, so avoid renaming them.
+#   - Order here is the order on the page.
+#   - Check your edit before committing:  python3 scraper/taxonomy.py --check
+#     (it also prints how many stored papers each topic would get).
+#   - Adding a brand-new top-level topic only tags papers that are already
+#     stored; to search the archives for it, run the workflow with "full" ticked.
+
+# ---------------------------------------------------------------------------
+# Proof systems
+# ---------------------------------------------------------------------------
+
+[topics.proofs]
+label = "proof systems"
+keywords = [
+    'zero[- ]?knowledge',
+    'zk[- ]?snarks?',
+    '\bsnarks?\b',
+    '\bsnargs?\b',
+    'succinct (non[- ]interactive )?arguments?',
+    '(proofs?|arguments?) of knowledge',
+    'interactive oracle proofs?',
+    'interactive proofs?',
+    'probabilistically[- ]checkable proofs?',
+    'polynomial commitments?',
+    'inner[- ]product arguments?',
+    'sum[- ]?check',
+    'folding schemes?',
+    'accumulation schemes?',
+    'recursive (proofs?|snarks?|arguments?|proof composition)',
+    'proof[- ]carrying data',
+    'incrementally verifiable computation',
+    '(mpc|vole)[- ]in[- ]the[- ]head',
+    'sigma[- ]protocols?',
+    'lookup arguments?',
+    'verifiable computation',
+    'zk[- ]?vms?',
+    'zk[- ]?rollups?',
+]
+case_sensitive = [
+    '\b(zk-?)?STARKs?\b',
+    '\bNIZKs?\b',
+    '\bPLONK(ish)?\b',
+    '\bGroth16\b',
+    '\bBulletproofs?\b',
+    '\bGKR\b',
+    '\bFRI\b',
+    '\bR1CS\b',
+    '\bHalo2\b',
+]
+arxiv_terms = [
+    "zero-knowledge", "zero knowledge", "SNARK", "STARK", "succinct argument",
+    "proof of knowledge", "interactive oracle proof", "interactive proof",
+    "probabilistically checkable proof", "polynomial commitment", "sumcheck",
+    "folding scheme", "proof-carrying data", "verifiable computation", "zkVM",
+]
+
+[topics.proofs.pcs]
+label = "PCS"
+keywords = [
+    'polynomial commitments?',
+    'multilinear (polynomial )?commitments?',
+    'inner[- ]product arguments?',
+]
+case_sensitive = [
+    '\bPCSs?\b',
+    '\bKZG\b',
+    '\b(Hyrax|Dory|Brakedown|Basefold|BaseFold|Blaze|Ligerito|Greyhound|Zeromorph|Gemini)\b',
+]
+subgroups = ["assumptions"]
+
+[topics.proofs.iop]
+label = "IOP"
+keywords = [
+    'interactive oracle proofs?',
+    'polynomial (interactive oracle proofs?|IOPs?)',
+    'IOPs? of proximity',
+    'proximity (gaps?|tests?|testing)',
+    'low[- ]degree test',
+    'reed[- ]solomon (codes? )?proximity',
+    'sum[- ]?check',
+    'probabilistically[- ]checkable proofs?',
+]
+case_sensitive = [
+    '\bIOPPs?\b',
+    '\bPIOPs?\b',
+    '\bIOPs?\b',
+    '\bPCPs?\b',
+    '\b(FRI|STIR|WHIR|GKR)\b',
+]
+subgroups = ["assumptions"]
+
+[topics.proofs.snark]
+label = "SNARK"
+keywords = [
+    'zk[- ]?snarks?',
+    '\bsnarks?\b',
+    '\bsnargs?\b',
+    'succinct (non[- ]interactive )?arguments?',
+    'folding schemes?',
+    'accumulation schemes?',
+    'recursive (proofs?|snarks?|arguments?|proof composition)',
+    'proof[- ]carrying data',
+    'incrementally verifiable computation',
+    'lookup arguments?',
+    'arithmeti[sz]ation',
+]
+case_sensitive = [
+    '\b(zk-?)?STARKs?\b',
+    '\bPLONK(ish)?\b',
+    '\b(Groth16|Marlin|Spartan|HyperPlonk|Nova|SuperNova|HyperNova|Halo2?|Lasso)\b',
+    '\b(R1CS|IVC|PCD)\b',
+]
+subgroups = ["assumptions"]
+
+[topics.proofs.zk-protocols]
+label = "ZK protocols"
+keywords = [
+    'sigma[- ]protocols?',
+    '(mpc|vole)[- ]in[- ]the[- ]head',
+    'vole[- ]based zero[- ]knowledge',
+    'non[- ]interactive zero[- ]knowledge',
+    'zero[- ]knowledge proofs? (of|for) (knowledge|membership|statements?)',
+]
+case_sensitive = [
+    '\bNIZKs?\b',
+    '\bMPCitH\b',
+    '\bVOLEitH\b',
+    '\bFiat[- ]Shamir\b',
+]
+subgroups = ["assumptions"]
+
+[topics.proofs.zkvm]
+label = "zkVM"
+keywords = [
+    'zk[- ]?vms?',
+    'zk[- ]?evms?',
+    'zero[- ]knowledge virtual machines?',
+    'proving (the )?(execution|correct execution) of (programs?|risc)',
+    'risc[- ]v',
+]
+case_sensitive = [
+    '\b(Jolt|SP1|Cairo|RISC Zero|Valida)\b',
+]
+
+[topics.proofs.applications]
+label = "applications"
+keywords = [
+    'zk[- ]?rollups?',
+    'rollups?',
+    'anonymous credentials?',
+    'blockchains?',
+    'smart contracts?',
+    'cryptocurrenc',
+    'private (transactions?|payments?)',
+    'verifiable (machine learning|inference|ML)',
+    'zk[- ]?ml\b',
+    'proofs? of (reserves?|solvency)',
+    'e[- ]?voting|voting',
+    'digital identity|identity systems?|zk[- ]?login',
+]
+
+# ---------------------------------------------------------------------------
+# Security proofs
+# ---------------------------------------------------------------------------
+
+[topics.security]
+label = "security proofs"
+keywords = [
+    'security proofs?',
+    'proofs? of security',
+    'provabl[ey] secur',
+    'provable security',
+    'security reductions?',
+    'tight(ly)?[- ]secure',
+    'tight (security|reductions?)',
+    'random[- ]oracle model',
+    'quantum random[- ]oracle',
+    'universal(ly)? composab',
+    'simulation[- ]based security',
+    'game[- ]based (security|proofs?)',
+    'standard model',
+    'generic group model',
+    'algebraic group model',
+    'computational soundness',
+    'security (model|definitions?|notions?) for',
+    'formal security analysis',
+]
+case_sensitive = [
+    '\bIND-(CCA2?|CPA)\b',
+    '\b(s?EUF|SUF)-CMA\b',
+    '\bQROM\b',
+    '\bUC[- ]secure\b',
+]
+arxiv_terms = [
+    "security proof", "provably secure", "provable security", "security reduction",
+    "random oracle model", "universal composability", "simulation-based security",
+]
+
+# ---------------------------------------------------------------------------
+# Formal verification (of cryptography only, hence the requires_* lists)
+# ---------------------------------------------------------------------------
+
+[topics.formal]
+label = "formal verification"
+keywords = [
+    'formal(ly)? verif',
+    'mechani[sz]ed (security )?(proofs?|verification)',
+    'machine[- ]checked',
+    'proof assistants?',
+    'verified implementations?',
+    'verified compil',
+    'symbolic (protocol )?(analysis|model|verification|security)',
+    'dolev[- ]yao',
+    'computationally sound',
+    'formal (analysis|methods?)',
+]
+case_sensitive = [
+    '\bTamarin\b',
+    '\bProVerif\b',
+    '\bCryptoVerif\b',
+    '\bEasyCrypt\b',
+    '\bCoq\b',
+    '\bRocq\b',
+    '\bIsabelle\b',
+    '\bSSProve\b',
+    '\bSquirrel\b',
+    '\bDeepSec\b',
+    '\bJasmin\b',
+    '\bHACL\*',
+    '\bF\*',
+    '\bLean 4\b',
+]
+requires_keywords = [
+    'crypt',
+    'protocols?',
+    'secur',
+    'authenticat',
+    'signatures?',
+    'encrypt',
+    'key (exchange|agreement|encapsulation)',
+    'zero[- ]?knowledge',
+]
+requires_case_sensitive = [
+    '\b(TLS|SSH|QUIC|IPsec|WireGuard|Kerberos|MLS|EMV)\b',
+]
+arxiv_terms = [
+    "formal verification", "mechanized proof", "verified implementation",
+    "symbolic analysis", "Tamarin", "ProVerif", "CryptoVerif", "EasyCrypt",
+]
+
+# ---------------------------------------------------------------------------
+# Shared sub-topic lists (added wherever a topic says subgroups = [...])
+# ---------------------------------------------------------------------------
+
+[shared.assumptions.hash]
+label = "hash-based"
+keywords = [
+    'hash[- ]based',
+    'collision[- ]resistant hash',
+    'merkle (trees?|commitments?)',
+    'transparent setup',
+    'plausibly post[- ]quantum',
+]
+case_sensitive = [
+    '\b(FRI|STIR|WHIR|Ligero|Brakedown|Basefold|BaseFold|Blaze|Binius|Ligerito|Aurora|Fractal)\b',
+    '\b(zk-?)?STARKs?\b',
+]
+
+[shared.assumptions.lattice]
+label = "lattice-based"
+keywords = [
+    'lattice',
+    'learning with errors',
+    'short integer solution',
+    'module[- ]sis|module[- ]lwe|ring[- ]lwe|ring[- ]sis',
+]
+case_sensitive = [
+    '\b(M-?|R-?)?(LWE|SIS)\b',
+    '\bNTRU\b',
+    '\b(LaBRADOR|Greyhound|Lantern|LatticeFold)\b',
+]
+
+[shared.assumptions.group]
+label = "group-based"
+keywords = [
+    'discrete[- ]log',
+    'pairing',
+    'bilinear (maps?|groups?)',
+    'elliptic[- ]curves?',
+    'groups? of unknown order',
+    'class groups?',
+    'rsa groups?',
+    'knowledge[- ]of[- ]exponent',
+    'algebraic group model',
+    'generic group model',
+]
+case_sensitive = [
+    '\b(KZG|DDH|SXDH|DLOG|CDH|q-SDH)\b',
+    '\b(Groth16|Bulletproofs?|Hyrax|Dory)\b',
+]
+
+[shared.assumptions.code]
+label = "code-based"
+keywords = [
+    'code[- ]based',
+    'linear[- ]time encodable',
+    'error[- ]correcting codes?',
+    'linear codes?',
+    'reed[- ]solomon',
+]
+case_sensitive = [
+    '\b(Brakedown|Blaze|Orion)\b',
+]

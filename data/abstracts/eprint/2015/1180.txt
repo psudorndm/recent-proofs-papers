@@ -1,0 +1,1 @@
+This paper presents Secure Comparator, a way to implement Zero Knowledge Proof algorithm called Socialist Millionaire’s Problem, to compare secrets between two parties. Compared to existing implementations, Secure Comparator provides better security guarantees, stronger cryptographic math, and, possibly, more integration-friendly architecture.

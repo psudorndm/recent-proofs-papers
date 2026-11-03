@@ -1,0 +1,1 @@
+This paper examines methods for formally proving the security of cryptographic schemes. We show that, despite many years of active research, there are fundamental problems which have yet to be solved. We also present a new approach to one of the more controversial aspects of provable security: the random oracle model.

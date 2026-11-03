@@ -2,8 +2,8 @@ Resolving the Simultaneous Resettability Conjecture and a New Non-Black-Box Simu
 Resettably-Sound Resettable Zero Knowledge Arguments for NP;;;Yi Deng;;;2008/541;;;none;;;2008-12-28;;;proofs
 A Secure Threshold Anonymous Password-Authenticated Key Exchange Protocol;;;SeongHan Shin, Kazukuni Kobara, Hideki Imai;;;2008/537;;;none;;;2008-12-28;;;security
 Collusion-Free Multiparty Computation in the Mediated Model;;;Jonathan Katz, Yehuda Lindell;;;2008/533;;;none;;;2008-12-19;;;proofs
-Encrypting Proofs on Pairings and Its Application to Anonymity for Signatures;;;Georg Fuchsbauer, David Pointcheval;;;2008/528;;;none;;;2008-12-19;;;proofs
-Round-Optimal Zero-Knowledge Proofs of Knowledge for NP;;;Li Hongda, Feng dengguo, Li Bao, Xue Haixia;;;2008/524;;;none;;;2008-12-16;;;proofs
+Encrypting Proofs on Pairings and Its Application to Anonymity for Signatures;;;Georg Fuchsbauer, David Pointcheval;;;2008/528;;;none;;;2008-12-19;;;proofs/zk-protocols/group
+Round-Optimal Zero-Knowledge Proofs of Knowledge for NP;;;Li Hongda, Feng dengguo, Li Bao, Xue Haixia;;;2008/524;;;none;;;2008-12-16;;;proofs/zk-protocols
 A non-delegatable identity-based strong designated verifier signature scheme;;;Bin Wang;;;2008/507;;;none;;;2008-12-02;;;security
 Strongly Secure Authenticated Key Exchange Protocol Based on Computational Diffie-Hellman Problem;;;Hai Huang, Zhenfu Cao;;;2008/500;;;none;;;2008-12-02;;;security
 Non-Malleable Obfuscation;;;Ran Canetti, Mayank Varia;;;2008/495;;;none;;;2008-12-02;;;security
@@ -11,7 +11,7 @@ Secure Certificateless Public Key Encryption without Redundancy;;;Yinxia Sun, Fu
 Sharing DSS by the Chinese Remainder Theorem;;;Kamer Kaya, Ali Aydın Selçuk;;;2008/483;;;none;;;2008-11-19;;;security
 Sphinx: A Compact and Provably Secure Mix Format;;;George Danezis, Ian Goldberg;;;2008/475;;;none;;;2008-11-18;;;security
 Access Controls for Oblivious and Anonymous Systems;;;Scott Coull, Matthew Green, Susan Hohenberger;;;2008/474;;;none;;;2008-11-18;;;security
-Automatic Generation of Sound Zero-Knowledge Protocols;;;Endre Bangerter, Jan Camenisch, Stephan Krenn, Ahmad-Reza Sadeghi, Thomas Schneider;;;2008/471;;;none;;;2008-11-18;;;proofs
+Automatic Generation of Sound Zero-Knowledge Protocols;;;Endre Bangerter, Jan Camenisch, Stephan Krenn, Ahmad-Reza Sadeghi, Thomas Schneider;;;2008/471;;;none;;;2008-11-18;;;proofs/zk-protocols
 A CCA2 Secure Variant of the McEliece Cryptosystem;;;Nico Döttling, Rafael Dowsley, Jörn Müller-Quade, Anderson C. A. Nascimento;;;2008/468;;;none;;;2008-11-18;;;security
 Secure Arithmetic Computation with No Honest Majority;;;Yuval Ishai, Manoj Prabhakaran, Amit Sahai;;;2008/465;;;none;;;2008-11-10;;;security
 Key-Private Proxy Re-Encryption;;;Giuseppe Ateniese, Karyn Benson, Susan Hohenberger;;;2008/463;;;none;;;2008-11-10;;;security
@@ -22,25 +22,25 @@ Generalized Universal Circuits for Secure Evaluation of Private Functions with A
 A New Variant of the Cramer-Shoup KEM Secure against Chosen Ciphertext Attack;;;Joonsang Baek, Willy Susilo, Joseph K. Liu, Jianying Zhou;;;2008/449;;;none;;;2008-10-27;;;security
 How Risky is the Random-Oracle Model?;;;Gaetan Leurent, Phong Q. Nguyen;;;2008/441;;;none;;;2008-10-20;;;security
 Usable Optimistic Fair Exchange;;;Alptekin Kupcu, Anna Lysyanskaya;;;2008/431;;;none;;;2008-10-08;;;security
-Delegatable Anonymous Credentials;;;Mira Belenkiy, Jan Camenisch, Melissa Chase, Markulf Kohlweiss, Anna Lysyanskaya, Hovav Shacham;;;2008/428;;;none;;;2008-10-08;;;proofs
+Delegatable Anonymous Credentials;;;Mira Belenkiy, Jan Camenisch, Melissa Chase, Markulf Kohlweiss, Anna Lysyanskaya, Hovav Shacham;;;2008/428;;;none;;;2008-10-08;;;proofs/applications,proofs/zk-protocols/group
 LEGO for Two Party Secure Computation;;;Jesper Buus Nielsen, Claudio Orlandi;;;2008/427;;;none;;;2008-10-08;;;proofs,security
 Searchable encryption with decryption in the standard model;;;Dennis Hofheinz, Enav Weinreb;;;2008/423;;;none;;;2008-10-02;;;security
 A New Approach for Algebraically Homomorphic Encryption;;;Frederik Armknecht, Ahmad-Reza Sadeghi;;;2008/422;;;none;;;2008-10-02;;;security
-Almost-Asynchronous MPC with Faulty Minority;;;Zuzana Beerliova-Trubiniova, Martin Hirt, Jesper Buus Nielsen;;;2008/416;;;none;;;2008-10-02;;;proofs
+Almost-Asynchronous MPC with Faulty Minority;;;Zuzana Beerliova-Trubiniova, Martin Hirt, Jesper Buus Nielsen;;;2008/416;;;none;;;2008-10-02;;;proofs/zk-protocols
 Indifferentiable Security Analysis of choppfMD, chopMD, a chopMDP, chopWPH, chopNI, chopEMD, chopCS, and chopESh Hash Domain Extensions;;;Donghoon Chang, Jaechul Sung, Seokhie Hong, Sangjin Lee;;;2008/407;;;none;;;2008-09-24;;;security
 SPICE Simulation of a "Provably Secure" True Random Number Generator;;;Markus Dichtl, Bernd Meyer, Hermann Seuschek;;;2008/403;;;none;;;2008-09-24;;;security
 Attribute-Based Ring Signatures;;;Jin Li, Kwangjo Kim;;;2008/394;;;none;;;2008-09-16;;;security
-GUC-Secure Set-Intersection Computation;;;TIAN Yuan, WANG Ying;;;2008/392;;;none;;;2008-09-16;;;proofs,security
+GUC-Secure Set-Intersection Computation;;;TIAN Yuan, WANG Ying;;;2008/392;;;none;;;2008-09-16;;;proofs/zk-protocols,security
 Shared Key Encryption by the State Machine with Two-Dimensional Random Look-up Table;;;Michael Lifliand;;;2008/386;;;none;;;2008-09-15;;;security
 Hierarchical Identity Based Encryption with Polynomially Many Levels;;;Craig Gentry, Shai Halevi;;;2008/383;;;none;;;2008-09-14;;;security
 Authenticated Wireless Roaming via Tunnels: Making Mobile Guests Feel at Home;;;Mark Manulis, Damien Leroy, Francois Koeune, Olivier Bonaventure, Jean-Jacques Quisquater;;;2008/382;;;none;;;2008-09-14;;;security
 Dynamic Threshold Cryptosystem without Group Manager;;;Andreas Noack, Stefan Spitz;;;2008/380;;;none;;;2008-09-07;;;security
-A Characterization of Chameleon Hash Functions and New, Efficient Designs;;;Mihir Bellare, Todor Ristov;;;2008/379;;;none;;;2008-09-07;;;proofs,security
+A Characterization of Chameleon Hash Functions and New, Efficient Designs;;;Mihir Bellare, Todor Ristov;;;2008/379;;;none;;;2008-09-07;;;proofs/zk-protocols,security
 Additively Homomorphic Encryption with d-Operand Multiplications;;;Carlos Aguilar Melchor, Philippe Gaborit, Javier Herranz;;;2008/378;;;none;;;2008-09-07;;;security
 Session-state Reveal is stronger than Ephemeral Key Reveal: Attacking the NAXOS Authenticated Key Exchange protocol;;;Cas J. F. Cremers;;;2008/376;;;none;;;2008-09-05;;;security
-A public key encryption scheme secure against key dependent chosen plaintext and adaptive chosen ciphertext attacks;;;Jan Camenisch, Nishanth Chandran, Victor Shoup;;;2008/375;;;none;;;2008-09-05;;;proofs
+A public key encryption scheme secure against key dependent chosen plaintext and adaptive chosen ciphertext attacks;;;Jan Camenisch, Nishanth Chandran, Victor Shoup;;;2008/375;;;none;;;2008-09-05;;;proofs/zk-protocols/group
 Chosen Ciphertext Security with Optimal Ciphertext Overhead;;;Masayuki Abe, Eike Kiltz, Tatsuaki Okamoto;;;2008/374;;;none;;;2008-09-05;;;security
-Threshold Homomorphic Encryption in the Universally Composable Cryptographic Library;;;Peeter Laud, Long Ngo;;;2008/367;;;none;;;2008-08-27;;;formal,proofs,security
+Threshold Homomorphic Encryption in the Universally Composable Cryptographic Library;;;Peeter Laud, Long Ngo;;;2008/367;;;none;;;2008-08-27;;;formal,proofs/applications,proofs/zk-protocols,security
 Argument of knowledge of a bounded error;;;Vadym Fedyukovych;;;2008/359;;;none;;;2008-08-18;;;proofs
 A protocol for K-multiple substring matching;;;Vadym Fedyukovych, Vitaliy Sharapov;;;2008/357;;;none;;;2008-08-18;;;proofs
 Remote Integrity Check with Dishonest Storage Server;;;Ee-Chien Chang, Jia Xu;;;2008/346;;;none;;;2008-08-11;;;security

@@ -1,0 +1,1 @@
+A deniable authentication scheme using RSA is described and proven secure in the random oracle model. A countermeasure to a well-known attack on efficient deniable authentication to multiple recipients is describe and proven secure.

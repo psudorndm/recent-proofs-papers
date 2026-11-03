@@ -1,0 +1,1 @@
+This paper provides one more step towards bridging the gap between the formal and computational approaches to cryptographic protocols. We extend the well-known Abadi-Rogaway logic with probabilistic hashes and we give precise semantic to it using Canetti's oracle hashing. Finally, we show that this interpretation is computationally sound.

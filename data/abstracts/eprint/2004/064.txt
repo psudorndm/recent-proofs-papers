@@ -1,0 +1,1 @@
+The bilinear pairing such as Weil pairing or Tate pairing on elliptic and hyperelliptic curves have recently been found applications in design of cryptographic protocols. In this survey, we have tried to cover different cryptographic protocols based on bilinear pairings which possess, to the best of our knowledge, proper security proofs in the existing security models.

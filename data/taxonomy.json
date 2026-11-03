@@ -1,0 +1,114 @@
+{
+ "topics": [
+  {
+   "id": "proofs",
+   "label": "proof systems",
+   "children": [
+    {
+     "id": "pcs",
+     "label": "PCS",
+     "children": [
+      {
+       "id": "hash",
+       "label": "hash-based"
+      },
+      {
+       "id": "lattice",
+       "label": "lattice-based"
+      },
+      {
+       "id": "group",
+       "label": "group-based"
+      },
+      {
+       "id": "code",
+       "label": "code-based"
+      }
+     ]
+    },
+    {
+     "id": "iop",
+     "label": "IOP",
+     "children": [
+      {
+       "id": "hash",
+       "label": "hash-based"
+      },
+      {
+       "id": "lattice",
+       "label": "lattice-based"
+      },
+      {
+       "id": "group",
+       "label": "group-based"
+      },
+      {
+       "id": "code",
+       "label": "code-based"
+      }
+     ]
+    },
+    {
+     "id": "snark",
+     "label": "SNARK",
+     "children": [
+      {
+       "id": "hash",
+       "label": "hash-based"
+      },
+      {
+       "id": "lattice",
+       "label": "lattice-based"
+      },
+      {
+       "id": "group",
+       "label": "group-based"
+      },
+      {
+       "id": "code",
+       "label": "code-based"
+      }
+     ]
+    },
+    {
+     "id": "zk-protocols",
+     "label": "ZK protocols",
+     "children": [
+      {
+       "id": "hash",
+       "label": "hash-based"
+      },
+      {
+       "id": "lattice",
+       "label": "lattice-based"
+      },
+      {
+       "id": "group",
+       "label": "group-based"
+      },
+      {
+       "id": "code",
+       "label": "code-based"
+      }
+     ]
+    },
+    {
+     "id": "zkvm",
+     "label": "zkVM"
+    },
+    {
+     "id": "applications",
+     "label": "applications"
+    }
+   ]
+  },
+  {
+   "id": "security",
+   "label": "security proofs"
+  },
+  {
+   "id": "formal",
+   "label": "formal verification"
+  }
+ ]
+}

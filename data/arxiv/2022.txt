@@ -1,8 +1,8 @@
 zkFaith: Soonami's Zero-Knowledge Identity Protocol;;;Mina Namazi, Duncan Ross, Xiaojie Zhu, Erman Ayday;;;2212.12785;;;none;;;2022-12-24;;;proofs
-Distributed Key Generation with Smart Contracts using zk-SNARKs;;;Michael Sober, Max Kobelt, Giulia Scaffino, Dominik Kaaser, Stefan Schulte;;;2212.10324;;;none;;;2022-12-20;;;proofs
+Distributed Key Generation with Smart Contracts using zk-SNARKs;;;Michael Sober, Max Kobelt, Giulia Scaffino, Dominik Kaaser, Stefan Schulte;;;2212.10324;;;none;;;2022-12-20;;;proofs/applications,proofs/snark
 Quantum Chernoff divergence in advantage distillation for quantum key distribution and device-independent quantum key distribution;;;Mikka Stasiuk, Norbert Lütkenhaus, Ernest Y. -Z. Tan;;;2212.06975;;;none;;;2022-12-14;;;security
-Zero Knowledge Identification and Verification of Voting Systems;;;Arunava Gantait, Rajit Goyal, Syed Sajid Husain Rizvi, Zaira Haram;;;2212.06388;;;none;;;2022-12-13;;;proofs
-ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline;;;Haodi Wang, Thang Hoang;;;2212.05428;;;none;;;2022-12-11;;;proofs
+Zero Knowledge Identification and Verification of Voting Systems;;;Arunava Gantait, Rajit Goyal, Syed Sajid Husain Rizvi, Zaira Haram;;;2212.06388;;;none;;;2022-12-13;;;proofs/applications
+ezDPS: An Efficient and Zero-Knowledge Machine Learning Inference Pipeline;;;Haodi Wang, Thang Hoang;;;2212.05428;;;none;;;2022-12-11;;;proofs/applications
 A Quantitative Flavour of Robust Reachability;;;Sébastien Bardin, Guillaume Girol;;;2212.05244;;;none;;;2022-12-10;;;formal
 Simulation of Attacker Defender Interaction in a Noisy Security Game;;;Erick Galinkin, Emmanouil Pountourakis, John Carter, Spiros Mancoridis;;;2212.04281;;;none;;;2022-12-08;;;proofs
 PKDGA: A Partial Knowledge-based Domain Generation Algorithm for Botnets;;;Lihai Nie, Xiaoyang Shan, Laiping Zhao, Keqiu Li;;;2212.04234;;;none;;;2022-12-08;;;proofs
@@ -10,9 +10,9 @@ A Novel Efficient Signcryption Scheme for Resource-Constrained Smart Terminals i
 Sound Verification of Security Protocols: From Design to Interoperable Implementations (extended version);;;Linard Arquint, Felix A. Wolf, Joseph Lallemand, Ralf Sasse, Christoph Sprenger, Sven N. Wiesner, David Basin, Peter Müller;;;2212.04171;;;none;;;2022-12-08;;;formal
 On Zero-Knowledge Proofs over the Quantum Internet;;;Mark Carney;;;2212.03027;;;none;;;2022-12-06;;;proofs
 A Generic Methodology for the Modular Verification of Security Protocol Implementations (extended version);;;Linard Arquint, Malte Schwerhoff, Vaibhav Mehta, Peter Müller;;;2212.02626;;;none;;;2022-12-05;;;formal
-Extending Expressive Access Policies with Privacy Features;;;Stefan More, Sebastian Ramacher, Lukas Alber, Marco Herzl;;;2212.02454;;;none;;;2022-12-05;;;proofs
+Extending Expressive Access Policies with Privacy Features;;;Stefan More, Sebastian Ramacher, Lukas Alber, Marco Herzl;;;2212.02454;;;none;;;2022-12-05;;;proofs/snark,proofs/zk-protocols
 Efficiency Boosting of Secure Cross-platform Recommender Systems over Sparse Data;;;Hao Ren, Guowen Xu, Tianwei Zhang, Jianting Ning, Xinyi Huang, Hongwei Li, Rongxing Lu;;;2212.01537;;;none;;;2022-12-03;;;security
-Safeguarding the Unseen: a Study on Data Privacy in DeFi Protocols;;;Zhuangtong Huang, Jiawei Zhu, Zhongyu Huang, Yixin Xu, Jerome Yen, Ye Wang;;;2211.16082;;;none;;;2022-11-29;;;proofs
+Safeguarding the Unseen: a Study on Data Privacy in DeFi Protocols;;;Zhuangtong Huang, Jiawei Zhu, Zhongyu Huang, Yixin Xu, Jerome Yen, Ye Wang;;;2211.16082;;;none;;;2022-11-29;;;proofs/applications
 Mechanized Noninterference for Gradual Security;;;Tianyu Chen, Jeremy G. Siek;;;2211.15745;;;none;;;2022-11-28;;;formal
 Security Analysis of the Consumer Remote SIM Provisioning Protocol;;;Abu Shohel Ahmed, Aleksi Peltonen, Mohit Sethi, Tuomas Aura;;;2211.15323;;;https://github.com/peltona/rsp_model;;;2022-11-28;;;formal,security
 Twin-field quantum key distribution with partial phase postselection;;;Yao Zhou, Zhen-Qiang Yin, Rui-Qiang Wang, Shuang Wang, Wei Chen, Guang-Can Guo, Zheng-Fu Han;;;2211.12688;;;none;;;2022-11-23;;;security
@@ -20,40 +20,40 @@ The Security Protocol Verifier ProVerif and its Horn Clause Resolution Algorithm
 Analysis of the DoIP Protocol for Security Vulnerabilities;;;Patrick Wachter, Stephan Kleber;;;2211.12177;;;none;;;2022-11-22;;;formal
 Modeling Resources in Permissionless Longest-chain Total-order Broadcast;;;Sarah Azouvi, Christian Cachin, Duc V. Le, Marko Vukolic, Luca Zanolini;;;2211.12050;;;none;;;2022-11-22;;;security
 Another Round of Breaking and Making Quantum Money: How to Not Build It from Lattices, and More;;;Jiahui Liu, Hart Montgomery, Mark Zhandry;;;2211.11994;;;none;;;2022-11-22;;;security
-Wood traceability system using blockchain and zero-knowledge proof;;;Kyohei Shibano, Tohru Nakajima, Gento Mogi;;;2211.11136;;;none;;;2022-11-21;;;proofs
+Wood traceability system using blockchain and zero-knowledge proof;;;Kyohei Shibano, Tohru Nakajima, Gento Mogi;;;2211.11136;;;none;;;2022-11-21;;;proofs/applications
 CryptOpt: Verified Compilation with Randomized Program Search for Cryptographic Primitives (full version);;;Joel Kuepper, Andres Erbsen, Jason Gross, Owen Conoly, Chuyue Sun, Samuel Tian, David Wu, Adam Chlipala, Chitchanok Chuengsatiansup, Daniel Genkin, Markus Wagner, Yuval Yarom;;;2211.10665;;;none;;;2022-11-19;;;formal
 Exchanging Keys with Authentication and Identity Protection for Secure Voice Communication without Side-channel;;;Piotr Krasnowski, Jerome Lebrun, Bruno Martin;;;2211.07186;;;none;;;2022-11-14;;;formal
-ZK-IMG: Attested Images via Zero-Knowledge Proofs to Fight Disinformation;;;Daniel Kang, Tatsunori Hashimoto, Ion Stoica, Yi Sun;;;2211.04775;;;none;;;2022-11-09;;;proofs
-Harpocrates: Privacy-Preserving and Immutable Audit Log for Sensitive Data Operations;;;Mohit Bhasi Thazhath, Jan Michalak, Thang Hoang;;;2211.04741;;;none;;;2022-11-09;;;proofs
+ZK-IMG: Attested Images via Zero-Knowledge Proofs to Fight Disinformation;;;Daniel Kang, Tatsunori Hashimoto, Ion Stoica, Yi Sun;;;2211.04775;;;none;;;2022-11-09;;;proofs/snark
+Harpocrates: Privacy-Preserving and Immutable Audit Log for Sensitive Data Operations;;;Mohit Bhasi Thazhath, Jan Michalak, Thang Hoang;;;2211.04741;;;none;;;2022-11-09;;;proofs/applications
 Verifying RISC-V Physical Memory Protection;;;Kevin Cheang, Cameron Rasmussen, Dayeol Lee, David W. Kohlbrenner, Krste Asanović, Sanjit A. Seshia;;;2211.02179;;;none;;;2022-11-03;;;formal
 Unclonability and Quantum Cryptanalysis: From Foundations to Applications;;;Mina Doosti;;;2210.17545;;;none;;;2022-10-31;;;security
-Optimistic and Validity Rollups: Analysis and Comparison between Optimism and StarkNet;;;Luca Donno;;;2210.16610;;;none;;;2022-10-29;;;proofs
+Optimistic and Validity Rollups: Analysis and Comparison between Optimism and StarkNet;;;Luca Donno;;;2210.16610;;;none;;;2022-10-29;;;proofs/applications,proofs/snark/hash
 BEPHAP: A Blockchain-Based Efficient Privacy-Preserving Handover Authentication Protocol with Key Agreement for Internet of Vehicles;;;Xianwang Xie, Bin Wu, Botao Hou;;;2210.16595;;;none;;;2022-10-29;;;formal,security
-Ballot stuffing and participation privacy in pollsite voting;;;Prashant Agrawal, Abhinav Nakarmi, Mahabir Prasad Jhanwar, Subodh Sharma, Subhashis Banerjee;;;2210.14833;;;none;;;2022-10-26;;;proofs
+Ballot stuffing and participation privacy in pollsite voting;;;Prashant Agrawal, Abhinav Nakarmi, Mahabir Prasad Jhanwar, Subodh Sharma, Subhashis Banerjee;;;2210.14833;;;none;;;2022-10-26;;;proofs/applications
 An Improved Correction Term for Dimension Reduction in Quantum Key Distribution;;;Twesh Upadhyaya, Thomas van Himbeeck, Norbert Lütkenhaus;;;2210.14296;;;none;;;2022-10-25;;;security
-SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs;;;Miguel Díaz Montiel, Rachid Guerraoui, Pierre-Louis Roman;;;2210.13242;;;none;;;2022-10-24;;;proofs
+SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs;;;Miguel Díaz Montiel, Rachid Guerraoui, Pierre-Louis Roman;;;2210.13242;;;none;;;2022-10-24;;;proofs/applications
 TAP: Transparent and Privacy-Preserving Data Services;;;Daniel Reijsbergen, Aung Maw, Zheng Yang, Tien Tuan Anh Dinh, Jianying Zhou;;;2210.11702;;;none;;;2022-10-21;;;proofs
 Compiling Petri Net Mutual Reachability in Presburger;;;Jérôme Leroux;;;2210.09931;;;none;;;2022-10-18;;;formal
 Towards Provably Secure Encrypted Control Using Homomorphic Encryption;;;Kaoru Teranishi, Kiminao Kogiso;;;2210.08849;;;none;;;2022-10-17;;;security
-Scaling up Trustless DNN Inference with Zero-Knowledge Proofs;;;Daniel Kang, Tatsunori Hashimoto, Ion Stoica, Yi Sun;;;2210.08674;;;none;;;2022-10-17;;;proofs
+Scaling up Trustless DNN Inference with Zero-Knowledge Proofs;;;Daniel Kang, Tatsunori Hashimoto, Ion Stoica, Yi Sun;;;2210.08674;;;none;;;2022-10-17;;;proofs/snark
 Logical Zonotopes: A Set Representation for the Formal Verification of Boolean Functions;;;Amr Alanwar, Frank J. Jiang, Samy Amin, Karl H. Johansson;;;2210.08596;;;none;;;2022-10-16;;;formal
 Security of quantum key distribution with imperfect phase randomisation;;;Guillermo Currás-Lorenzo, Shlok Nahar, Norbert Lütkenhaus, Kiyoshi Tamaki, Marcos Curty;;;2210.08183;;;none;;;2022-10-15;;;security
 Non-uniformity and Quantum Advice in the Quantum Random Oracle Model;;;Qipeng Liu;;;2210.06693;;;none;;;2022-10-13;;;security
 Quantum Depth in the Random Oracle Model;;;Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner;;;2210.06454;;;none;;;2022-10-12;;;security
-Zero-Knowledge Optimal Monetary Policy under Stochastic Dominance;;;David Cerezo Sánchez;;;2210.06139;;;https://github.com/Calctopia-OpenSource/cothority/tree/zkmonpolicy;;;2022-10-12;;;proofs
+Zero-Knowledge Optimal Monetary Policy under Stochastic Dominance;;;David Cerezo Sánchez;;;2210.06139;;;https://github.com/Calctopia-OpenSource/cothority/tree/zkmonpolicy;;;2022-10-12;;;proofs/applications
 Post-Quantum Zero-Knowledge with Space-Bounded Simulation;;;Prabhanjan Ananth, Alex B. Grilo;;;2210.06093;;;none;;;2022-10-12;;;proofs
 From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments;;;Minki Hhan, Tomoyuki Morimae, Takashi Yamakawa;;;2210.05978;;;none;;;2022-10-12;;;security
-Commitments to Quantum States;;;Sam Gunn, Nathan Ju, Fermi Ma, Mark Zhandry;;;2210.05138;;;none;;;2022-10-11;;;proofs,security
+Commitments to Quantum States;;;Sam Gunn, Nathan Ju, Fermi Ma, Mark Zhandry;;;2210.05138;;;none;;;2022-10-11;;;proofs/iop/hash,proofs/snark/hash,security
 Model-Driven Engineering for Formal Verification and Security Testing of Authentication Protocols;;;Mariapia Raimondo, Stefano Marrone, Angelo Palladino;;;2210.03020;;;none;;;2022-10-06;;;formal
-Blockchain-Based Decentralized Knowledge Marketplace Using Active Inference;;;Shashank Joshi, Arhan Choudhury;;;2210.01688;;;none;;;2022-10-04;;;proofs
+Blockchain-Based Decentralized Knowledge Marketplace Using Active Inference;;;Shashank Joshi, Arhan Choudhury;;;2210.01688;;;none;;;2022-10-04;;;proofs/applications
 Distributed Quantum Interactive Proofs;;;François Le Gall, Masayuki Miyamoto, Harumichi Nishimura;;;2210.01390;;;none;;;2022-10-04;;;proofs
 Device-independent uncloneable encryption;;;Srijita Kundu, Ernest Y. -Z. Tan;;;2210.01058;;;none;;;2022-10-03;;;security
 FLCert: Provably Secure Federated Learning against Poisoning Attacks;;;Xiaoyu Cao, Zaixi Zhang, Jinyuan Jia, Neil Zhenqiang Gong;;;2210.00584;;;none;;;2022-10-02;;;security
 Cerberus: A Formal Approach to Secure and Efficient Enclave Memory Sharing;;;Dayeol Lee, Kevin Cheang, Alexander Thomas, Catherine Lu, Pranav Gaddamadugu, Anjo Vahldiek-Oberwagner, Mona Vij, Dawn Song, Sanjit A. Seshia, Krste Asanović;;;2209.15253;;;none;;;2022-09-30;;;formal
-FIAT: Fine-grained Information Audit for Trustless Transborder Data Flow;;;Shuhao Zheng, Yanxi Lin, Yang Yu, Ye Yuan, Yongzheng Jia, Xue Liu;;;2209.11451;;;none;;;2022-09-23;;;proofs
-Making Quantum Local Verifiers Simulable with Potential Applications to Zero-Knowledge;;;Lijie Chen, Ramis Movassagh;;;2209.10798;;;none;;;2022-09-22;;;proofs
-Non-Disclosing Credential On-chaining for Blockchain-based Decentralized Applications;;;Jonathan Heiss, Robert Muth, Frank Pallas, Stefan Tai;;;2209.09584;;;none;;;2022-09-20;;;proofs
-On Relaxed Locally Decodable Codes for Hamming and Insertion-Deletion Errors;;;Alex Block, Jeremiah Blocki, Kuan Cheng, Elena Grigorescu, Xin Li, Yu Zheng, Minshen Zhu;;;2209.08688;;;none;;;2022-09-19;;;proofs
+FIAT: Fine-grained Information Audit for Trustless Transborder Data Flow;;;Shuhao Zheng, Yanxi Lin, Yang Yu, Ye Yuan, Yongzheng Jia, Xue Liu;;;2209.11451;;;none;;;2022-09-23;;;proofs/applications
+Making Quantum Local Verifiers Simulable with Potential Applications to Zero-Knowledge;;;Lijie Chen, Ramis Movassagh;;;2209.10798;;;none;;;2022-09-22;;;proofs/iop/hash,proofs/snark/hash
+Non-Disclosing Credential On-chaining for Blockchain-based Decentralized Applications;;;Jonathan Heiss, Robert Muth, Frank Pallas, Stefan Tai;;;2209.09584;;;none;;;2022-09-20;;;proofs/applications,proofs/snark
+On Relaxed Locally Decodable Codes for Hamming and Insertion-Deletion Errors;;;Alex Block, Jeremiah Blocki, Kuan Cheng, Elena Grigorescu, Xin Li, Yu Zheng, Minshen Zhu;;;2209.08688;;;none;;;2022-09-19;;;proofs/iop/code
 PA-Boot: A Formally Verified Authentication Protocol for Multiprocessor Secure Boot;;;Zhuoruo Zhang, Rui Chang, Mingshuai Chen, Wenbo Shen, Chenyang Yu, He Huang, Qinming Dai, Yongwang Zhao;;;2209.07936;;;none;;;2022-09-16;;;formal,security
 Adversarial Correctness and Privacy for Probabilistic Data Structures;;;Mia Filić, Kenneth G. Paterson, Anupama Unnikrishnan, Fernando Virdia;;;2209.06955;;;none;;;2022-09-14;;;security
 Self-organizing Life Cycle Management of Mobile Ad hoc Networks;;;C. Caballero-Gil, P. Caballero-Gil, J. Molina-Gil;;;2209.06495;;;none;;;2022-09-14;;;proofs
@@ -67,7 +67,7 @@ A Note on Copy-Protection from Random Oracles;;;Prabhanjan Ananth, Fatih Kaleogl
 Composable Security of Generalized BB84 Protocols Against General Attacks;;;Michel Boyer, Rotem Liss, Tal Mor;;;2208.12154;;;none;;;2022-08-25;;;security
 AppGNN: Approximation-Aware Functional Reverse Engineering using Graph Neural Networks;;;Tim Bucher, Lilas Alrahis, Guilherme Paim, Sergio Bampi, Ozgur Sinanoglu, Hussam Amrouch;;;2208.10868;;;none;;;2022-08-23;;;proofs
 MUDGUARD: Taming Malicious Majorities in Federated Learning using Privacy-Preserving Byzantine-Robust Clustering;;;Rui Wang, Xingkai Wang, Huanhuan Chen, Jérémie Decouchant, Stjepan Picek, Nikolaos Laoutaris, Kaitai Liang;;;2208.10161;;;none;;;2022-08-22;;;security
-zk-PCN: A Privacy-Preserving Payment Channel Network Using zk-SNARKs;;;Wenxuan Yu, Minghui Xu, Dongxiao Yu, Xiuzhen Cheng, Qin Hu, Zehui Xiong;;;2208.09716;;;none;;;2022-08-20;;;proofs
+zk-PCN: A Privacy-Preserving Payment Channel Network Using zk-SNARKs;;;Wenxuan Yu, Minghui Xu, Dongxiao Yu, Xiuzhen Cheng, Qin Hu, Zehui Xiong;;;2208.09716;;;none;;;2022-08-20;;;proofs/snark
 Glass-Vault: A Generic Transparent Privacy-preserving Exposure Notification Analytics Platform;;;Lorenzo Martinico, Aydin Abadi, Thomas Zacharias, Thomas Win;;;2208.09525;;;none;;;2022-08-19;;;security
 Verifiable Differential Privacy;;;Ari Biswas, Graham Cormode;;;2208.09011;;;none;;;2022-08-18;;;proofs
 MPInspector: A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols;;;Qinying Wang, Shouling Ji, Yuan Tian, Xuhong Zhang, Binbin Zhao, Yuhong Kan, Zhaowei Lin, Changting Lin, Shuiguang Deng, Alex X. Liu, Raheem Beyah;;;2208.08751;;;none;;;2022-08-18;;;formal
@@ -77,10 +77,10 @@ Customer Empowered Privacy-Preserving Secure Verification using Decentralized Id
 Scalable and Sparsity-Aware Privacy-Preserving K-means Clustering with Application to Fraud Detection;;;Yingting Liu, Chaochao Chen, Jamie Cui, Li Wang, Lei Wang;;;2208.06093;;;none;;;2022-08-12;;;security
 On the Role of Quantum Communication and Loss in Attacks on Quantum Position Verification;;;Rene Allerstorfer, Harry Buhrman, Florian Speelman, Philip Verduyn Lunel;;;2208.04341;;;none;;;2022-08-08;;;security
 A Forward-secure Efficient Two-factor Authentication Protocol;;;Steven J. Murdoch, Aydin Abadi;;;2208.02877;;;none;;;2022-08-04;;;security
-A ZK-SNARK based Proof of Assets Protocol for Bitcoin Exchanges;;;B Swaroopa Reddy;;;2208.01263;;;none;;;2022-08-02;;;proofs
+A ZK-SNARK based Proof of Assets Protocol for Bitcoin Exchanges;;;B Swaroopa Reddy;;;2208.01263;;;none;;;2022-08-02;;;proofs/snark
 PSAA: Provable Secure and Anti-Quantum Authentication Based on Randomized RLWE for Space Information Network;;;Junyan Guo, Ye Du, Xuesong Wu, Meihong Li, Runfang Wu, Zhichao Sun;;;2208.00901;;;none;;;2022-08-01;;;security
 Modification tolerant signature schemes: location and correction;;;Thais Bardini Idalino, Lucia Moura, Carlisle Adams;;;2208.00373;;;none;;;2022-07-31;;;security
-Recurring Contingent Service Payment;;;Aydin Abadi, Steven J. Murdoch, Thomas Zacharias;;;2208.00283;;;none;;;2022-07-30;;;proofs
+Recurring Contingent Service Payment;;;Aydin Abadi, Steven J. Murdoch, Thomas Zacharias;;;2208.00283;;;none;;;2022-07-30;;;proofs/applications
 The Trivial Bound of Entropic Uncertainty Relations;;;Minu J. Bae;;;2208.00242;;;none;;;2022-07-30;;;security
 Certified Everlasting Functional Encryption;;;Taiga Hiroka, Tomoyuki Morimae, Ryo Nishimaki, Takashi Yamakawa;;;2207.13878;;;none;;;2022-07-28;;;proofs
 Mistakes of A Popular Protocol Calculating Private Set Intersection and Union Cardinality and Its Corrections;;;Yang Tan, Bo Lv;;;2207.13277;;;none;;;2022-07-27;;;security
@@ -89,28 +89,28 @@ Experimental Demonstration of Discrete Modulation Formats for Continuous Variabl
 Bandwidth-Hard Functions from Random Permutations;;;Rishiraj Bhattacharyya, Avradip Mandal;;;2207.11519;;;none;;;2022-07-23;;;security
 Cryptographic and Financial Fairness;;;Daniele Friolo, Fabio Massacci, Chan Nam Ngo, Daniele Venturi;;;2207.10780;;;none;;;2022-07-21;;;security
 Auto-active Verification of Graph Algorithms, Written in OCaml;;;Daniel Castanho, Mário Pereira;;;2207.09854;;;none;;;2022-07-20;;;proofs
-Multi: a Formal Playground for Multi-Smart Contract Interaction;;;Martán Ceresa, César Sánchez;;;2207.06681;;;none;;;2022-07-14;;;proofs
+Multi: a Formal Playground for Multi-Smart Contract Interaction;;;Martán Ceresa, César Sánchez;;;2207.06681;;;none;;;2022-07-14;;;proofs/applications
 On the Feasibility of Unclonable Encryption, and More;;;Prabhanjan Ananth, Fatih Kaleoglu, Xingjian Li, Qipeng Liu, Mark Zhandry;;;2207.06589;;;none;;;2022-07-14;;;security
 A Beyond-5G Authentication and Key Agreement Protocol;;;Mohamed Taoufiq Damir, Tommi Meskanen, Sara Ramezanian, Valtteri Niemi;;;2207.06144;;;none;;;2022-07-13;;;formal
 Achieving Almost All Blockchain Functionalities with Polylogarithmic Storage;;;Parikshit Hegde, Robert Streit, Yanni Georghiades, Chaya Ganesh, Sriram Vishwanath;;;2207.05869;;;none;;;2022-07-12;;;security
 Continuous-mode quantum key distribution with digital signal processing;;;Ziyang Chen, Xiangyu Wang, Song Yu, Zhengyu Li, Hong Guo;;;2207.04991;;;none;;;2022-07-11;;;security
 Cryptography with Certified Deletion;;;James Bartusek, Dakshita Khurana;;;2207.01754;;;none;;;2022-07-05;;;proofs
 Accountable Private Set Cardinality for Distributed Measurement;;;Ellis Fenske, Akshaya Mani, Aaron Johnson, Micah Sherr;;;2206.15068;;;none;;;2022-06-30;;;security
-Succinct Classical Verification of Quantum Computation;;;James Bartusek, Yael Tauman Kalai, Alex Lombardi, Fermi Ma, Giulio Malavolta, Vinod Vaikuntanathan, Thomas Vidick, Lisa Yang;;;2206.14929;;;none;;;2022-06-29;;;proofs,security
+Succinct Classical Verification of Quantum Computation;;;James Bartusek, Yael Tauman Kalai, Alex Lombardi, Fermi Ma, Giulio Malavolta, Vinod Vaikuntanathan, Thomas Vidick, Lisa Yang;;;2206.14929;;;none;;;2022-06-29;;;proofs/snark/lattice,security
 FIDO2 With Two Displays-Or How to Protect Security-Critical Web Transactions Against Malware Attacks;;;Timon Hackenjos, Benedikt Wagner, Julian Herr, Jochen Rill, Marek Wehmer, Niklas Goerke, Ingmar Baumgart;;;2206.13358;;;none;;;2022-06-27;;;formal
 Decentralized Identifier-based Privacy-preserving Authenticated Key Exchange Protocol for Electric Vehicle Charging in Smart Grid;;;Rohini Poolat Parameswarath, Prosanta Gope, Biplab Sikdar;;;2206.13055;;;none;;;2022-06-27;;;formal,security
 Adversarial Robustness of Deep Neural Networks: A Survey from a Formal Verification Perspective;;;Mark Huasong Meng, Guangdong Bai, Sin Gee Teo, Zhe Hou, Yan Xiao, Yun Lin, Jin Song Dong;;;2206.12227;;;none;;;2022-06-24;;;formal
 zPROBE: Zero Peek Robustness Checks for Federated Learning;;;Zahra Ghodsi, Mojan Javaheripi, Nojan Sheybani, Xinqiao Zhang, Ke Huang, Farinaz Koushanfar;;;2206.12100;;;none;;;2022-06-24;;;proofs
-Advancing Blockchain-based Federated Learning through Verifiable Off-chain Computations;;;Jonathan Heiss, Elias Grünewald, Nikolas Haimerl, Stefan Schulte, Stefan Tai;;;2206.11641;;;none;;;2022-06-23;;;proofs
+Advancing Blockchain-based Federated Learning through Verifiable Off-chain Computations;;;Jonathan Heiss, Elias Grünewald, Nikolas Haimerl, Stefan Schulte, Stefan Tai;;;2206.11641;;;none;;;2022-06-23;;;proofs/applications
 Improved coherent one-way quantum key distribution for high-loss channels;;;Emilien Lavie, Charles C. -W. Lim;;;2206.08490;;;none;;;2022-06-17;;;security
 Adaptive versus Static Multi-oracle Algorithms, and Quantum Security of a Split-key PRF;;;Jelle Don, Serge Fehr, Yu-Hsuan Huang;;;2206.08132;;;none;;;2022-06-16;;;security
-Towards Verifiable Differentially-Private Polling;;;Gonzalo Munilla Garrido, Matthias Babel, Johannes Sedlmeir;;;2206.07220;;;none;;;2022-06-15;;;proofs
+Towards Verifiable Differentially-Private Polling;;;Gonzalo Munilla Garrido, Matthias Babel, Johannes Sedlmeir;;;2206.07220;;;none;;;2022-06-15;;;proofs/snark
 Security of decoy-state quantum key distribution with correlated intensity fluctuations;;;Xoel Sixto, Víctor Zapatero, Marcos Curty;;;2206.06700;;;none;;;2022-06-14;;;security
 Deploying Convolutional Networks on Untrusted Platforms Using 2D Holographic Reduced Representations;;;Mohammad Mahmudul Alam, Edward Raff, Tim Oates, James Holt;;;2206.05893;;;none;;;2022-06-13;;;security
 Quantum space, ground space traversal, and how to embed multi-prover interactive proofs into unentanglement;;;Sevag Gharibian, Dorian Rudolph;;;2206.05243;;;none;;;2022-06-10;;;proofs
 Intractable Group-theoretic Problems Around Zero-knowledge Proofs;;;Cansu Betin Onur;;;2206.13350;;;none;;;2022-06-08;;;proofs
 Provably-secure quantum randomness expansion with uncharacterised homodyne detection;;;Chao Wang, Ignatius William Primaatmaja, Hong Jie Ng, Jing Yan Haw, Raymond Ho, Jianran Zhang, Gong Zhang, Charles Ci-Wen Lim;;;2206.03660;;;none;;;2022-06-08;;;security
-Topos: A Secure, Trustless, and Decentralized Interoperability Protocol;;;Théo Gauthier, Sébastien Dan, Monir Hadji, Antonella Del Pozzo, Yackolley Amoussou-Guenou;;;2206.03481;;;none;;;2022-06-07;;;proofs
+Topos: A Secure, Trustless, and Decentralized Interoperability Protocol;;;Théo Gauthier, Sébastien Dan, Monir Hadji, Antonella Del Pozzo, Yackolley Amoussou-Guenou;;;2206.03481;;;none;;;2022-06-07;;;proofs/applications,proofs/snark/hash,proofs/zkvm
 Characterisation of state-preparation uncertainty in quantum key distribution;;;Anqi Huang, Akihiro Mizutani, Hoi-Kwong Lo, Vadim Makarov, Kiyoshi Tamaki;;;2205.11870;;;none;;;2022-05-24;;;security
 Natural Language Specifications in Proof Assistants;;;Colin S. Gordon, Sergey Matskevich;;;2205.07811;;;none;;;2022-05-16;;;proofs
 General Framework for Linear Secure Distributed Matrix Multiplication with Byzantine Servers;;;Okko Makkonen, Camilla Hollanti;;;2205.07052;;;none;;;2022-05-14;;;security
@@ -120,17 +120,17 @@ Blockchain-based Secure Client Selection in Federated Learning;;;Truc Nguyen, Ph
 Continuous-variable quantum key distribution: security analysis with trusted hardware noise against general attacks;;;Roman Goncharov, Alexei D. Kiselev, Eduard Samsonov, Vladimir Egorov;;;2205.05299;;;none;;;2022-05-11;;;security
 VPN: Verification of Poisoning in Neural Networks;;;Youcheng Sun, Muhammad Usman, Divya Gopinath, Corina S. Păsăreanu;;;2205.03894;;;none;;;2022-05-08;;;formal
 Three-Pass Identification Scheme Based on MinRank Problem with Half Cheating Probability;;;Bagus Santoso, Yasuhiko Ikematsu, Shuhei Nakamura, Takanori Yasuda;;;2205.03255;;;none;;;2022-05-06;;;proofs
-A Verifiable Multiparty Computation Solver for the Assignment Problem and Applications to Air Traffic Management;;;Thomas Loruenser, Florian Wohner, Stephan Krenn;;;2205.03048;;;none;;;2022-05-06;;;proofs
+A Verifiable Multiparty Computation Solver for the Assignment Problem and Applications to Air Traffic Management;;;Thomas Loruenser, Florian Wohner, Stephan Krenn;;;2205.03048;;;none;;;2022-05-06;;;proofs/zk-protocols
 Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA;;;Ivan De Oliveira Nunes, Seoyeon Hwang, Sashidhar Jakkamsetti, Gene Tsudik;;;2205.02963;;;none;;;2022-05-05;;;formal,security
 Accelerating Verified-Compiler Development with a Verified Rewriting Engine;;;Jason Gross, Andres Erbsen, Jade Philipoom, Rajashree Agrawal, Adam Chlipala;;;2205.00862;;;none;;;2022-05-02;;;formal
 Quantum Universally Composable Oblivious Linear Evaluation;;;Manuel B. Santos, Paulo Mateus, Chrysoula Vlachou;;;2204.14171;;;none;;;2022-04-29;;;security
 BliMe: Verifiably Secure Outsourced Computation with Hardware-Enforced Taint Tracking;;;Hossam ElAtali, Lachlan J. Gunn, Hans Liljestrand, N. Asokan;;;2204.09649;;;none;;;2022-04-20;;;formal,security
 On Random Number Generation for Kernel Applications;;;Kunal Abhishek, George Dharma Prakash Raj E;;;2204.06882;;;none;;;2022-04-14;;;security
 Simple Proof of Security of the multiparty Prepare and Measure QKD;;;Kumar Nilesh;;;2204.05215;;;none;;;2022-04-11;;;security
-Compact Post-Quantum Signatures from Proofs of Knowledge leveraging Structure for the PKP, SD and RSD Problems;;;Loïc Bidoux, Philippe Gaborit;;;2204.02915;;;none;;;2022-04-06;;;proofs
+Compact Post-Quantum Signatures from Proofs of Knowledge leveraging Structure for the PKP, SD and RSD Problems;;;Loïc Bidoux, Philippe Gaborit;;;2204.02915;;;none;;;2022-04-06;;;proofs/zk-protocols
 Generalized Triangular Dynamical System: An Algebraic System for Constructing Cryptographic Permutations over Finite Fields;;;Arnab Roy, Matthias Johann Steiner;;;2204.01802;;;none;;;2022-04-04;;;proofs
 FIRST: FrontrunnIng Resilient Smart ConTracts;;;Emrah Sariboz, Gaurav Panwar, Roopa Vishwanathan, Satyajayant Misra;;;2204.00955;;;none;;;2022-04-02;;;security
-ElectAnon: A Blockchain-Based, Anonymous, Robust and Scalable Ranked-Choice Voting Protocol;;;Ceyhun Onur, Arda Yurdakul;;;2204.00057;;;https://github.com/ceyonur/electanon;;;2022-03-31;;;proofs
+ElectAnon: A Blockchain-Based, Anonymous, Robust and Scalable Ranked-Choice Voting Protocol;;;Ceyhun Onur, Arda Yurdakul;;;2204.00057;;;https://github.com/ceyonur/electanon;;;2022-03-31;;;proofs/applications
 Improved Quantum Algorithms for Fidelity Estimation;;;András Gilyén, Alexander Poremba;;;2203.15993;;;none;;;2022-03-30;;;proofs
 ZK-SecreC: a Domain-Specific Language for Zero Knowledge Proofs;;;Dan Bogdanov, Joosep Jääger, Peeter Laud, Härmel Nestra, Martin Pettai, Jaak Randmets, Ville Sokk, Kert Tali, Sandhra-Mirella Valdma;;;2203.15448;;;none;;;2022-03-29;;;proofs
 Failing gracefully: Decryption failures and the Fujisaki-Okamoto transform;;;Kathrin Hövelmanns, Andreas Hülsing, Christian Majenz;;;2203.10182;;;none;;;2022-03-18;;;security
@@ -138,10 +138,10 @@ Experimental Demonstration of High-Rate Discrete-Modulated Continuous-Variable Q
 Towards experimental classical verification of quantum computation;;;Roman Stricker, Jose Carrasco, Martin Ringbauer, Lukas Postler, Michael Meth, Claire Edmunds, Philipp Schindler, Rainer Blatt, Peter Zoller, Barbara Kraus, Thomas Monz;;;2203.07395;;;none;;;2022-03-14;;;proofs
 Formalising Decentralised Exchanges in Coq;;;Eske Hoy Nielsen, Danil Annenkov, Bas Spitters;;;2203.08016;;;none;;;2022-03-11;;;formal
 Generalised entropy accumulation;;;Tony Metger, Omar Fawzi, David Sutter, Renato Renner;;;2203.04989;;;none;;;2022-03-09;;;security
-Dispute-free Scalable Open Vote Network using zk-SNARKs;;;Muhammad ElSheikh, Amr M. Youssef;;;2203.03363;;;none;;;2022-03-07;;;proofs
+Dispute-free Scalable Open Vote Network using zk-SNARKs;;;Muhammad ElSheikh, Amr M. Youssef;;;2203.03363;;;none;;;2022-03-07;;;proofs/applications,proofs/snark
 Classical Verification of Quantum Computations in Linear Time;;;Jiayu Zhang;;;2202.13997;;;none;;;2022-02-28;;;security
 A Note on the Hardness of Problems from Cryptographic Group Actions;;;Giuseppe D'Alconzo;;;2202.13810;;;none;;;2022-02-28;;;proofs
-Efficient NIZKs and Signatures from Commit-and-Open Protocols in the QROM;;;Jelle Don, Serge Fehr, Christian Majenz, Christian Schaffner;;;2202.13730;;;none;;;2022-02-28;;;proofs,security
+Efficient NIZKs and Signatures from Commit-and-Open Protocols in the QROM;;;Jelle Don, Serge Fehr, Christian Majenz, Christian Schaffner;;;2202.13730;;;none;;;2022-02-28;;;proofs/zk-protocols/hash,security
 Lorentz invariance violation (LIV) in some basic phenomena in quantum physics;;;Z. Shafeei, S. A. Alavi;;;2202.12688;;;none;;;2022-02-25;;;security
 Quantum Differential Privacy: An Information Theory Perspective;;;Christoph Hirche, Cambyse Rouzé, Daniel Stilck França;;;2202.10717;;;none;;;2022-02-22;;;security
 Improved Security Proof for the Camenisch-Lysyanskaya Signature-Based Synchronized Aggregate Signature Scheme;;;Masayuki Tezuka, Keisuke Tanaka;;;2202.09808;;;none;;;2022-02-20;;;security
@@ -149,10 +149,10 @@ A t-out-of-n Redactable Signature Scheme;;;Masayuki Tezuka, Xiangyu Su, Keisuke 
 Redactable Signature with Compactness from Set-Commitment;;;Masayuki Tezuka, Keisuke Tanaka;;;2202.09799;;;none;;;2022-02-20;;;security
 Accountable Javascript Code Delivery;;;Ilkan Esiyok, Pascal Berrang, Katriel Cohn-Gordon, Robert Kuennemann;;;2202.09795;;;none;;;2022-02-20;;;formal
 How to Physically Verify a Rectangle in a Grid: A Physical ZKP for Shikaku;;;Suthee Ruangwises, Toshiya Itoh;;;2202.09788;;;none;;;2022-02-20;;;proofs
-Leveraging Self-Sovereign Identity, Blockchain, and Zero-Knowledge Proof to Build a Privacy-Preserving Vaccination Pass;;;Mauricio de Vasconcelos Barros, Frederico Schardong, Ricardo Felipe Custódio;;;2202.09207;;;none;;;2022-02-18;;;proofs
-FORT: Right-proving and Attribute-blinding Self-sovereign Authentication;;;Xavier Salleras, Sergi Rovira, Vanesa Daza;;;2202.09136;;;none;;;2022-02-18;;;proofs
-A Review of zk-SNARKs;;;Thomas Chen, Hui Lu, Teeramet Kunpittaya, Alan Luo;;;2202.06877;;;none;;;2022-02-14;;;proofs
-TRIP: Coercion-resistant Registration for E-Voting with Verifiability and Usability in Votegral;;;Louis-Henri Merino, Simone Colombo, Rene Reyes, Alaleh Azhir, Shailesh Mishra, Pasindu Tennage, Mohammad Amin Raeisi, Haoqian Zhang, Jeff R. Allen, Bernhard Tellenbach, Vero Estrada-Galiñanes, Bryan Ford;;;2202.06692;;;none;;;2022-02-14;;;proofs
+Leveraging Self-Sovereign Identity, Blockchain, and Zero-Knowledge Proof to Build a Privacy-Preserving Vaccination Pass;;;Mauricio de Vasconcelos Barros, Frederico Schardong, Ricardo Felipe Custódio;;;2202.09207;;;none;;;2022-02-18;;;proofs/applications
+FORT: Right-proving and Attribute-blinding Self-sovereign Authentication;;;Xavier Salleras, Sergi Rovira, Vanesa Daza;;;2202.09136;;;none;;;2022-02-18;;;proofs/applications
+A Review of zk-SNARKs;;;Thomas Chen, Hui Lu, Teeramet Kunpittaya, Alan Luo;;;2202.06877;;;none;;;2022-02-14;;;proofs/applications,proofs/snark/hash,proofs/zkvm
+TRIP: Coercion-resistant Registration for E-Voting with Verifiability and Usability in Votegral;;;Louis-Henri Merino, Simone Colombo, Rene Reyes, Alaleh Azhir, Shailesh Mishra, Pasindu Tennage, Mohammad Amin Raeisi, Haoqian Zhang, Jeff R. Allen, Bernhard Tellenbach, Vero Estrada-Galiñanes, Bryan Ford;;;2202.06692;;;none;;;2022-02-14;;;proofs/applications
 Improved Finite-Key Security Analysis of Quantum Key Distribution Against Trojan-Horse Attacks;;;Álvaro Navarrete, Marcos Curty;;;2202.06630;;;none;;;2022-02-14;;;security
 FairTraDEX: A Decentralised Exchange Preventing Value Extraction;;;Conor McMenamin, Vanesa Daza, Matthias Fitzi, Padraic O'Donoghue;;;2202.06384;;;none;;;2022-02-13;;;proofs
 Securing Smart Grids Through an Incentive Mechanism for Blockchain-Based Data Sharing;;;Daniel Reijsbergen, Aung Maw, Tien Tuan Anh Dinh, Wen-Tai Li, Chau Yuen;;;2202.04345;;;none;;;2022-02-09;;;security
@@ -160,8 +160,8 @@ Physical Zero-knowledge Proofs for Flow Free, Hamiltonian Cycles, and Many-to-ma
 Topological Authentication Technique In Topologically Asymmetric Cryptosystem;;;Bing Yao, Jing Su, Fei Ma, Hongyu Wang, Chao Yang;;;2202.03993;;;none;;;2022-02-08;;;security
 Preserving Privacy and Security in Federated Learning;;;Truc Nguyen, My T. Thai;;;2202.03402;;;none;;;2022-02-07;;;proofs
 TheHuzz: Instruction Fuzzing of Processors Using Golden-Reference Models for Finding Software-Exploitable Vulnerabilities;;;Aakash Tyagi, Addison Crump, Ahmad-Reza Sadeghi, Garrett Persyn, Jeyavijayan Rajendran, Patrick Jauernig, Rahul Kande;;;2201.09941;;;none;;;2022-01-24;;;formal
-pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing;;;Jiasi Weng, Jian Weng, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu;;;2201.09186;;;none;;;2022-01-23;;;proofs
-On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy;;;Zhipeng Wang, Stefanos Chaliasos, Kaihua Qin, Liyi Zhou, Lifeng Gao, Pascal Berrang, Ben Livshits, Arthur Gervais;;;2201.09035;;;none;;;2022-01-22;;;proofs
+pvCNN: Privacy-Preserving and Verifiable Convolutional Neural Network Testing;;;Jiasi Weng, Jian Weng, Gui Tang, Anjia Yang, Ming Li, Jia-Nan Liu;;;2201.09186;;;none;;;2022-01-23;;;proofs/snark
+On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy;;;Zhipeng Wang, Stefanos Chaliasos, Kaihua Qin, Liyi Zhou, Lifeng Gao, Pascal Berrang, Ben Livshits, Arthur Gervais;;;2201.09035;;;none;;;2022-01-22;;;proofs/applications
 Towards Situational Aware Cyber-Physical Systems: A Security-Enhancing Use Case of Blockchain-based Digital Twins;;;Sabah Suhail, Saif Ur Rehman Malik, Raja Jurdak, Rasheed Hussain, Raimundas Matulevičius, Davor Svetinovic;;;2201.07765;;;none;;;2022-01-19;;;formal
 Code-based Signatures from New Proofs of Knowledge for the Syndrome Decoding Problem;;;Loïc Bidoux, Philippe Gaborit, Mukul Kulkarni, Victor Mateu;;;2201.05403;;;none;;;2022-01-14;;;proofs
 Finite-key analysis for quantum key distribution with discrete phase randomization;;;Rui Qiang Wang, Zhen Qiang yin, Rong Wang, Shuang Wang, Wei Chen, Guang can Guo, Zhen fu Han;;;2201.03039;;;none;;;2022-01-09;;;security

@@ -1,0 +1,1 @@
+We construct \emph{efficient} public key steganographic schemes, without resort to any peculiar existence assumption such as unbiased functions. This is the first time such a construction is obtained. Not only our constructions are \emph{secure}, but also are essentially optimal and have \emph{no error} decoding. We achieve this by designing a new primitive called $\ch{P}$-codes.

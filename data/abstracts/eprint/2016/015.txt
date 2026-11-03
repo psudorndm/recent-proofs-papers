@@ -1,0 +1,1 @@
+We study the quantum query complexity of finding a collision for a function $f$ whose outputs are chosen according to a distribution with min-entropy $k$. We prove that $\Omega(2^{k/9})$ quantum queries are necessary to find a collision for function $f$. This is needed in some security proofs in the quantum random oracle model (e.g. Fujisaki-Okamoto transform).

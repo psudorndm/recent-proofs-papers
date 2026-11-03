@@ -1,0 +1,1 @@
+We propose to extend the Dafny system with an interactive proof mode. We present a motivating example, how the IPM works, including the main design choices we make, and a prototype implementation.

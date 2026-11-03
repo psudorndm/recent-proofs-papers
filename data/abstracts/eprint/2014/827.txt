@@ -1,0 +1,1 @@
+We consider interactive proof systems over adversarial communication channels. We show that the seminal result that $\ip = \pspace$ still holds when the communication channel is malicious, allowing even a constant fraction of the communication to be arbitrarily corrupted.

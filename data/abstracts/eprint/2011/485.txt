@@ -1,0 +1,1 @@
+I continue the discussion initiated in part I of whether or not computer-assisted proofs are a promising approach to preventing errors in reductionist security arguments. I examine some recent papers that describe automated security proofs for hashed ElGamal encryption, Boneh-Franklin identity-based encryption, and OAEP.

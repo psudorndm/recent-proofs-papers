@@ -16,7 +16,7 @@ Two-message quantum interactive proofs are in PSPACE;;;Rahul Jain, Sarvagya Upad
 Practical post-processing for quantum-key-distribution experiments;;;Xiongfeng Ma, Chi-Hang Fred Fung, Jean-Christian Boileau, H. F. Chau;;;0904.1994;;;none;;;2009-04-13;;;security
 On formal verification of arithmetic-based cryptographic primitives;;;David Nowak;;;0904.1110;;;none;;;2009-04-07;;;formal,security
 Device-independent quantum key distribution secure against collective attacks;;;Stefano Pironio, Antonio Acin, Nicolas Brunner, Nicolas Gisin, Serge Massar, Valerio Scarani;;;0903.4460;;;none;;;2009-03-25;;;security
-Quantum-Secure Coin-Flipping and Applications;;;Ivan Damgaard, Carolin Lunemann;;;0903.3118;;;none;;;2009-03-18;;;proofs
+Quantum-Secure Coin-Flipping and Applications;;;Ivan Damgaard, Carolin Lunemann;;;0903.3118;;;none;;;2009-03-18;;;proofs/zk-protocols
 Improved identity-based identification using correcting codes;;;Pierre-Louis Cayrel, Philippe Gaborit, David Galindo, Marc Girault;;;0903.0069;;;none;;;2009-02-28;;;security
 On the complexity of approximating the diamond norm;;;Avraham Ben-Aroya, Amnon Ta-Shma;;;0902.3397;;;none;;;2009-02-19;;;proofs
 A Quantum Key Distribution Network Through Single Mode Optical Fiber;;;Muhammad Mubashir Khan, Salahuddin Hyder, Mahmood K Pathan, Kashif H Sheikh;;;0901.4646;;;none;;;2009-01-29;;;security

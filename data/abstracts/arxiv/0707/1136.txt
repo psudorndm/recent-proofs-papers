@@ -1,0 +1,1 @@
+We analyze quantum two prover one round interactive proof systems, in which noninteracting provers can share unlimited entanglement. The maximum acceptance probability is characterized as a superoperator norm. We get some partial results about the superoperator norm, and in particular we analyze the "rank one" case.
