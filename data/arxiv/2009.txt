@@ -1,0 +1,22 @@
+Security of practical phase-coding quantum key distribution;;;Hong-Wei Li, Zhen-Qiang Yin, Zheng-Fu Han, Wan-Su Bao, Guang-Can Guo;;;0911.2938;;;none;;;2009-11-16;;;security
+Quantifying pervasive authentication: the case of the Hancke-Kuhn protocol;;;Dusko Pavlovic, Catherine Meadows;;;0910.5745;;;none;;;2009-10-29;;;formal,security
+Universally Composable Quantum Multi-Party Computation;;;Dominique Unruh;;;0910.2912;;;none;;;2009-10-15;;;security
+Practical issues in quantum-key-distribution post-processing;;;Chi-Hang Fred Fung, Xiongfeng Ma, H. F. Chau;;;0910.0312;;;none;;;2009-10-02;;;security
+Computational Distinguishability of Quantum Channels;;;Bill Rosgen;;;0909.3930;;;none;;;2009-09-22;;;proofs
+Efficient Steganography with Provable Security Guarantees;;;Aggelos Kiayias, Yona Raekow, Alexander Russell, Narasimha Shashidhar;;;0909.3658;;;none;;;2009-09-20;;;security
+Global Heuristic Search on Encrypted Data (GHSED);;;Maisa Halloush, Mai Sharif;;;0909.2366;;;none;;;2009-09-12;;;security
+Concurrent Knowledge-Extraction in the Public-Key Model;;;Andrew C. Yao, Moti Yung, Yunlei Zhao;;;0908.2476;;;none;;;2009-08-18;;;proofs
+Polynomial-Space Approximation of No-Signaling Provers;;;Tsuyoshi Ito;;;0908.2363;;;none;;;2009-08-17;;;proofs
+REESSE1+ . Reward . Proof by Experiment . A New Approach to Proof of P != NP;;;Shenghui Su, Shuwang Lu;;;0908.0482;;;none;;;2009-08-04;;;security
+Duality Between Smooth Min- and Max-Entropies;;;Marco Tomamichel, Roger Colbeck, Renato Renner;;;0907.5238;;;none;;;2009-07-30;;;security
+QIP = PSPACE;;;Rahul Jain, Zhengfeng Ji, Sarvagya Upadhyay, John Watrous;;;0907.4737;;;none;;;2009-07-27;;;proofs
+Universality and The Criterion 'd' in Quantum Key Generation;;;Horace P. Yuen;;;0907.4694;;;none;;;2009-07-27;;;security
+Sampling in a Quantum Population, and Applications;;;Niek J. Bouman, Serge Fehr;;;0907.4246;;;none;;;2009-07-24;;;security
+Two-message quantum interactive proofs are in PSPACE;;;Rahul Jain, Sarvagya Upadhyay, John Watrous;;;0905.1300;;;none;;;2009-05-08;;;proofs
+Practical post-processing for quantum-key-distribution experiments;;;Xiongfeng Ma, Chi-Hang Fred Fung, Jean-Christian Boileau, H. F. Chau;;;0904.1994;;;none;;;2009-04-13;;;security
+On formal verification of arithmetic-based cryptographic primitives;;;David Nowak;;;0904.1110;;;none;;;2009-04-07;;;formal,security
+Device-independent quantum key distribution secure against collective attacks;;;Stefano Pironio, Antonio Acin, Nicolas Brunner, Nicolas Gisin, Serge Massar, Valerio Scarani;;;0903.4460;;;none;;;2009-03-25;;;security
+Quantum-Secure Coin-Flipping and Applications;;;Ivan Damgaard, Carolin Lunemann;;;0903.3118;;;none;;;2009-03-18;;;proofs
+Improved identity-based identification using correcting codes;;;Pierre-Louis Cayrel, Philippe Gaborit, David Galindo, Marc Girault;;;0903.0069;;;none;;;2009-02-28;;;security
+On the complexity of approximating the diamond norm;;;Avraham Ben-Aroya, Amnon Ta-Shma;;;0902.3397;;;none;;;2009-02-19;;;proofs
+A Quantum Key Distribution Network Through Single Mode Optical Fiber;;;Muhammad Mubashir Khan, Salahuddin Hyder, Mahmood K Pathan, Kashif H Sheikh;;;0901.4646;;;none;;;2009-01-29;;;security

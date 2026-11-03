@@ -1,0 +1,7 @@
+Methods to Model-Check Parallel Systems Software;;;Olga Shumsky Matlin, William McCune, Ewing Lusk;;;cs/0312012;;;none;;;2003-12-05;;;security
+Security of Quantum Key Distribution with Coherent States and Homodyne Detection;;;S. Iblisdir, G. Van Assche, N. J. Cerf;;;quant-ph/0312018;;;none;;;2003-12-02;;;security
+All information-theoretically secure key establishing protocols are quantum protocols;;;Mario Stipcevic;;;quant-ph/0309145;;;none;;;2003-09-19;;;security
+Unconditional Security of the Bennett 1992 quantum key-distribution over lossy and noisy channel;;;Kiyoshi Tamaki, Norbert Lütkenhaus;;;quant-ph/0308048;;;none;;;2003-08-08;;;security
+How to Build Unconditionally Secure Quantum Bit Commitment Protocols;;;Horace P. Yuen;;;quant-ph/0305144;;;none;;;2003-05-23;;;security
+Deterministic secure communication protocol without using entanglement;;;Qing-yu Cai;;;quant-ph/0304141;;;none;;;2003-04-22;;;security
+Adiabatic Quantum State Generation and Statistical Zero Knowledge;;;Dorit Aharonov, Amnon Ta-Shma;;;quant-ph/0301023;;;none;;;2003-01-07;;;proofs

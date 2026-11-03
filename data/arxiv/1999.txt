@@ -1,0 +1,1 @@
+PSPACE has 2-round quantum interactive proof systems;;;John Watrous;;;cs/9901015;;;none;;;1999-01-27;;;proofs

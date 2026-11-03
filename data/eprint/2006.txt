@@ -1,0 +1,131 @@
+New Constructions for Provably-Secure Time-Bound Hierarchical Key Assignment Schemes;;;Alfredo De Santis, Anna Lisa Ferrara, Barbara Masucci;;;2006/483;;;none;;;2006-12-29;;;security
+A Practical Limit of Security Proof in the Ideal Cipher Model : Possibility of Using the Constant As a Trapdoor In Several Double Block Length Hash Functions;;;Donghoon Chang;;;2006/481;;;none;;;2006-12-24;;;security
+Efficient Provably-Secure Hierarchical Key Assignment Schemes;;;Alfredo De Santis, Anna Lisa Ferrara, Barbara Masucci;;;2006/479;;;none;;;2006-12-24;;;security
+Password-Authenticated Multi-Party Key Exchange with Different Passwords;;;Jeong Ok Kwon, Ik Rae Jeong, Kouichi Sakurai, Dong Hoon Lee;;;2006/476;;;none;;;2006-12-24;;;security
+Identity-Based Proxy Re-encryption;;;Matthew Green, Giuseppe Ateniese;;;2006/473;;;none;;;2006-12-16;;;security
+A Framework for Interactive Argument Systems using Quasigroupic Homorphic Commitment;;;Luis Teixeira d'Aguiar Norton Brandao;;;2006/472;;;none;;;2006-12-14;;;proofs
+Obfuscation for Cryptographic Purposes;;;Dennis Hofheinz, John Malone-Lee, Martijn Stam;;;2006/463;;;none;;;2006-12-08;;;security
+On Post-Modern Cryptography;;;Oded Goldreich;;;2006/461;;;none;;;2006-12-08;;;security
+Preimage Attacks On Provably Secure FFT Hashing proposed at Second Hash Workshop in 2006;;;Donghoon Chang;;;2006/460;;;none;;;2006-12-05;;;security
+Key Replacement Attack on a Certificateless Signature Scheme;;;Zhenfeng Zhang, Dengguo Feng;;;2006/453;;;none;;;2006-12-04;;;security
+Hybrid Protocol For Password-based Key Exchange in Three-party Setting;;;TingMao Chang, Jin Zhou, YaJuan Zhang, YueFei Zhu;;;2006/452;;;none;;;2006-12-04;;;security
+Secure Cryptographic Workflow in the Standard Model;;;M. Barbosa, P. Farshim;;;2006/450;;;none;;;2006-12-04;;;security
+Robust Computational Secret Sharing and a Unified Account of Classical Secret-Sharing Goals;;;Mihir Bellare, Phillip Rogaway;;;2006/449;;;none;;;2006-12-04;;;security
+Universally Composable and Forward Secure RFID Authentication and Key Exchange;;;Tri van Le, Mike Burmester, Breno de Medeiros;;;2006/448;;;none;;;2006-12-04;;;security
+New Identity-Based Authenticated Key Agreement Protocols from Pairings (without Random Oracles);;;Shengbao Wang, Zhenfu Cao, Kim-Kwang Raymond Choo;;;2006/446;;;none;;;2006-12-04;;;security
+A New Type of Group Signature Scheme;;;Jun Zhong Dake He;;;2006/440;;;none;;;2006-12-04;;;security
+A New Type of Group Blind Signature Scheme Based on Bilinear Pairings;;;Jun Zhong Dake He;;;2006/439;;;none;;;2006-12-04;;;security
+Universally Composable Security with Global Setup;;;Ran Canetti, Yevgeniy Dodis, Rafael Pass, Shabsi Walfish;;;2006/432;;;none;;;2006-11-21;;;proofs,security
+Security Analysis of Voice-over-IP Protocols;;;Prateek Gupta, Vitaly Shmatikov;;;2006/424;;;none;;;2006-11-19;;;formal
+Perfect NIZK with Adaptive Soundness;;;Masayuki Abe, Serge Fehr;;;2006/423;;;none;;;2006-11-19;;;proofs
+Long-term Security and Universal Composability;;;Joern Mueller-Quade, Dominique Unruh;;;2006/422;;;none;;;2006-11-19;;;proofs,security
+Universally Composable Three-Party Key Distribution;;;Jin Zhou, TingMao Chang, YaJuan Zhang, YueFei Zhu;;;2006/421;;;none;;;2006-11-19;;;security
+Zero Knowledge and Soundness are Symmetric;;;Shien Jin Ong, Salil Vadhan;;;2006/414;;;none;;;2006-11-14;;;proofs
+A Generic Construction of CCA-Secure Cryptosystems without NIZKP for a Bounded Number of Decryption Queries;;;Goichiro Hanaoka, Hideki Imai;;;2006/408;;;none;;;2006-11-13;;;proofs
+Cryptography in the Multi-string Model;;;Jens Groth, Rafail Ostrovsky;;;2006/407;;;none;;;2006-11-13;;;proofs,security
+Universally Composable Blind Signatures in the Plain Model;;;Aslak Bakke Buan, Kristian Gøsteen, Lillian Kråkmo;;;2006/405;;;none;;;2006-11-12;;;security
+Concurrent Statistical Zero-Knowledge Arguments for NP from One Way Functions;;;Vipul Goyal, Ryan Moriarty, Rafail Ostrovsky, Amit Sahai;;;2006/400;;;none;;;2006-11-12;;;proofs
+Revisiting the Efficiency of Malicious Two-Party Computation;;;David P. Woodruff;;;2006/397;;;none;;;2006-11-12;;;proofs
+A Note on Bounded Chosen Ciphertext Security from Black-box Semantical Security;;;Ronald Cramer, Dennis Hofheinz, Eike Kiltz;;;2006/391;;;none;;;2006-11-12;;;security
+Traceable Ring Signature;;;Eiichiro Fujisaki, Koutarou Suzuki;;;2006/389;;;none;;;2006-11-12;;;security
+The Wrestlers Protocol: A simple, practical, secure, deniable protocol for key-exchange;;;Mark Wooding;;;2006/386;;;none;;;2006-11-03;;;proofs,security
+On Security Models and Compilers for Group Key Exchange Protocols;;;Emmanuel Bresson, Mark Manulis, Joerg Schwenk;;;2006/385;;;none;;;2006-11-03;;;security
+Provisioning Protected Resource Sharing in Multi-Hop Wireless Networks;;;E-yong Kim, Hwangnam Kim, Kunsoo Park;;;2006/382;;;none;;;2006-11-03;;;security
+Efficient Chosen-Ciphertext Secure Identity-Based Encryption with Wildcards;;;James Birkett, Alexander W. Dent, Gregory Neven, Jacob Schuldt;;;2006/377;;;none;;;2006-11-03;;;security
+A New Concept of Hash Functions SNMAC Using a Special Block Cipher and NMAC/HMAC Constructions;;;Vlastimil KLIMA;;;2006/376;;;none;;;2006-11-03;;;security
+Self-Generated-Certificate Public Key Cryptography and Certificateless Signature / Encryption Scheme in the Standard Model;;;Joseph K. Liu, Man Ho Au, Willy Susilo;;;2006/373;;;none;;;2006-11-03;;;security
+Spelling-Error Tolerant, Order-Independent Pass-Phrases via the Damerau-Levenshtein String-Edit Distance Metric;;;Gregory V. Bard;;;2006/364;;;none;;;2006-11-03;;;security
+Generic Construction of (Identity-based) Perfect Concurrent Signatures;;;Sherman S. M. Chow, Willy Susilo;;;2006/361;;;none;;;2006-10-25;;;security
+On Probabilistic versus Deterministic Provers in the Definition of Proofs Of Knowledge;;;Mihir Bellare, Oded Goldreich;;;2006/359;;;none;;;2006-10-23;;;proofs
+Black-Box Knowledge Extraction Revisited: Universal Approach with Precise Bounds;;;Emilia Käsper, Sven Laur, Helger Lipmaa;;;2006/356;;;none;;;2006-10-20;;;security
+Concurrent Non-Malleable Zero Knowledge;;;Boaz Barak, Manoj Prabhakaran, Amit Sahai;;;2006/355;;;none;;;2006-10-20;;;proofs
+A Subject-Delegated Decryption Scheme with ``Tightly" Limited Authority;;;Lihua Wang, Takeshi Okamoto, Masahiro Mambo, Eiji Okamoto;;;2006/344;;;none;;;2006-10-20;;;security
+Verifiably Encrypted Signature Scheme with Threshold Adjudication;;;M. Choudary Gorantla, Ashutosh Saxena;;;2006/343;;;none;;;2006-10-20;;;security
+Efficient and Provably Secure Multi-Recipient Signcryption from Bilinear Pairings;;;Fagen Li, Yupu Hu, Shuanggen Liu;;;2006/338;;;none;;;2006-10-20;;;security
+An Efficient and Secure Two-flow Zero-Knowledge Identification Protocol;;;D. R. Stinson, J. Wu;;;2006/337;;;none;;;2006-10-05;;;proofs
+Analyzing the HB and HB+ Protocols in the ``Large Error'' Case;;;Jonathan Katz, Adam Smith;;;2006/326;;;none;;;2006-09-28;;;security
+Computational Soundness of Formal Indistinguishability and Static Equivalence;;;Gergei Bana, Payman Mohassel, Till Stegers;;;2006/323;;;none;;;2006-09-26;;;security
+Efficient Pseudorandom Generators Based on the DDH Assumption;;;Reza Rezaeian Farashahi, Berry Schoenmakers, Andrey Sidorenko;;;2006/321;;;none;;;2006-09-26;;;security
+Concurrently Non-Malleable Zero Knowledge in the Authenticated Public-Key Model;;;Yi Deng, Giovanni Di Crescenzo, Dongdai Lin;;;2006/314;;;none;;;2006-09-13;;;proofs
+Revisiting the Security Model for Timed-Release Public-Key Encryption with Pre-Open Capability;;;Alexander W. Dent, Qiang Tang;;;2006/306;;;none;;;2006-09-06;;;security
+Identity-Based Encryption Gone Wild;;;Michel Abdalla, Dario Catalano, Alexander W. Dent, John Malone-Lee, Gregory Neven, Nigel P. Smart;;;2006/304;;;none;;;2006-09-06;;;security
+Zero-knowledge-like Proof of Cryptanalysis of Bluetooth Encryption;;;Eric Filiol;;;2006/303;;;none;;;2006-09-06;;;proofs
+On the Generic Construction of Identity-Based Signatures with Additional Properties;;;David Galindo, Javier Herranz, Eike Kiltz;;;2006/296;;;none;;;2006-08-30;;;security
+The Collision Intractability of MDC-2 in the Ideal Cipher Model;;;John P Steinberger;;;2006/294;;;none;;;2006-08-30;;;security
+Unrestricted Aggregate Signatures;;;Mihir Bellare, Chanathip Namprempre, Gregory Neven;;;2006/285;;;none;;;2006-08-22;;;security
+Constant Round Group Key Exchange with Logarithmic Computational Complexity;;;Junghyun Nam, Youngsook Lee, Dongho Won;;;2006/284;;;none;;;2006-08-22;;;security
+Deniable Authentication and Key Exchange;;;Mario Di Raimondo, Rosario Gennaro, Hugo Krawczyk;;;2006/280;;;none;;;2006-08-19;;;security
+On (Hierarchical) Identity Based Encryption Protocols with Short Public Parameters \\ (With an Exposition of Waters' Artificial Abort Technique);;;Sanjit Chatterjee, Palash Sarkar;;;2006/279;;;none;;;2006-08-17;;;security
+Fundamental problems in provable security and cryptography;;;Alexander W. Dent;;;2006/278;;;none;;;2006-08-17;;;security
+On Expected Probabilistic Polynomial-Time Adversaries -- A suggestion for restricted definitions and their benefits;;;Oded Goldreich;;;2006/277;;;none;;;2006-08-17;;;security
+A New Mode of Encryption Providing A Tweakable Strong Pseudo-Random;;;Debrup Chakraborty, Palash Sarkar;;;2006/275;;;none;;;2006-08-17;;;security
+Formal Analysis and Systematic Construction of Two-factor Authentication Scheme;;;Guomin Yang, Duncan S. Wong, Huaxiong Wang, Xiaotie Deng;;;2006/270;;;none;;;2006-08-15;;;formal,security
+On the Equivalence of Several Security Notions of Key Encapsulation Mechanism;;;Waka Nagao, Yoshifumi Manabe, Tatsuaki Okamoto;;;2006/268;;;none;;;2006-08-12;;;security
+Stateful Public-Key Cryptosystems: How to Encrypt with One 160-bit Exponentiation;;;Mihir Bellare, Tadayoshi Kohno, Victor Shoup;;;2006/267;;;none;;;2006-08-12;;;security
+Computationally Sound Secrecy Proofs by Mechanized Flow Analysis;;;Michael Backes, Peeter Laud;;;2006/266;;;none;;;2006-08-10;;;formal
+Some (in)sufficient conditions for secure hybrid encryption.;;;Javier Herranz, Dennis Hofheinz, Eike Kiltz;;;2006/265;;;none;;;2006-08-09;;;security
+A Simple and Unified Method of Proving Unpredictability;;;Mridul Nandi;;;2006/264;;;none;;;2006-08-08;;;security
+Simplified Submission of Inputs to Protocols;;;Douglas Wikstrom;;;2006/259;;;none;;;2006-08-02;;;security
+Constant-Round Concurrent NMWI and its relation to NMZK;;;Rafail Ostrovsky, Giuseppe Persiano, Ivan Visconti;;;2006/256;;;none;;;2006-08-02;;;proofs,security
+A Stronger Definition for Anonymous Electronic Cash;;;Marten Trolin;;;2006/241;;;none;;;2006-07-14;;;proofs,security
+Resettable Zero Knowledge in the Bare Public-Key Model under Standard Assumption;;;Yi Deng, Dongdai Lin;;;2006/239;;;none;;;2006-07-14;;;proofs
+Online/Offline Signatures and Multisignatures for AODV and DSR Routing Security;;;Shidi Xu, Yi Mu, Willy Susilo, Xiaofeng Chen, Xinyi Huang, Fangguo Zhang;;;2006/236;;;none;;;2006-07-13;;;security
+A handy multi-coupon system;;;Sebastien Canard, Aline Gouget, Emeline Hufschmitt;;;2006/231;;;none;;;2006-07-13;;;security
+Another Look at Generic Groups;;;Neal Koblitz, Alfred Menezes;;;2006/230;;;none;;;2006-07-13;;;security
+Another Look at "Provable Security". II;;;Neal Koblitz, Alfred Menezes;;;2006/229;;;none;;;2006-07-13;;;security
+Cryptographically Sound Security Proofs for Basic and Public-Key Kerberos;;;Michael Backes, Iliano Cervesato, Aaron D. Jaggard, Andre Scedrov, Joe-Kai Tsay;;;2006/219;;;none;;;2006-06-30;;;security
+Computationally Sound Symbolic Secrecy in the Presence of Hash Functions;;;Veronique Cortier, Steve Kremer, Ralf Kuesters, Bogdan Warinschi;;;2006/218;;;none;;;2006-06-30;;;formal,security
+Password-Authenticated Group Key Establishment from Smooth Projective Hash Functions;;;Jens-Matthias Bohli, Maria Isabel Gonzalez Vasco, Rainer Steinwandt;;;2006/214;;;none;;;2006-06-28;;;security
+A Survey of Certificateless Encryption Schemes and Security Models;;;Alexander W. Dent;;;2006/211;;;none;;;2006-06-26;;;security
+The Kurosawa-Desmedt Key Encapsulation is not Chosen-Ciphertext Secure;;;Javier Herranz, Dennis Hofheinz, Eike Kiltz;;;2006/207;;;none;;;2006-06-21;;;security
+On the Provable Security of an Efficient RSA-Based Pseudorandom Generator;;;Ron Steinfeld, Josef Pieprzyk, Huaxiong Wang;;;2006/206;;;none;;;2006-06-21;;;security
+Generalization of the Selective-ID Security Model for HIBE Protocols;;;Sanjit Chatterjee, Palash Sarkar;;;2006/203;;;none;;;2006-06-20;;;security
+Identity-based Key Agreement Protocols From Pairings;;;L. Chen, Z. Cheng, N. P. Smart;;;2006/199;;;none;;;2006-06-20;;;security
+An Efficient ID-based Digital Signature with Message Recovery Based on Pairing;;;Raylin Tso, Chunxiang Gu, Takeshi Okamoto, Eiji Okamoto;;;2006/195;;;none;;;2006-06-20;;;security
+Cryptanalysis of the Dual Elliptic Curve Pseudorandom Generator;;;Berry Schoenmakers, Andrey Sidorenko;;;2006/190;;;none;;;2006-06-19;;;security
+New Blockcipher Modes of Operation with Beyond the Birthday Bound Security;;;Tetsu Iwata;;;2006/188;;;none;;;2006-06-19;;;security
+Statistical Zero-Knowledge Arguments for NP from Any One-Way Function;;;Minh-Huyen Nguyen, Shien Jin Ong, Salil Vadhan;;;2006/185;;;none;;;2006-06-19;;;proofs
+On the Limits of Point Function Obfuscation;;;Arvind Narayanan, Vitaly Shmatikov;;;2006/182;;;none;;;2006-05-30;;;security
+On the (Im-)Possibility of Extending Coin Toss;;;Dennis Hofheinz, Joern Mueller-Quade, Dominique Unruh;;;2006/177;;;none;;;2006-05-26;;;security
+Some Practical Public-Key Encryption Schemes in both Standard Model and Random Oracle Model;;;Le Trieu Phong, Ogata Wakaha;;;2006/173;;;none;;;2006-05-22;;;security
+An Efficient ID-based Proxy Signature Scheme from Pairings;;;Chunxiang Gu, Yuefei Zhu;;;2006/158;;;none;;;2006-05-03;;;security
+An efficient way to access an array at a secret index;;;Timothy Atkinson, Marius C. Silaghi;;;2006/157;;;none;;;2006-05-03;;;proofs
+The Hardness of the DHK Problem in the Generic Group Model;;;Alexander W. Dent;;;2006/156;;;none;;;2006-04-24;;;security
+Independent Zero-Knowledge Sets;;;Rosario Gennaro, Silvio Micali;;;2006/155;;;none;;;2006-04-24;;;proofs,security
+On the Relationships Between Notions of Simulation-Based Security;;;Anupam Datta, Ralf Kuesters, John C. Mitchell, Ajith Ramanathan;;;2006/153;;;none;;;2006-04-22;;;security
+Simulation-Based Security with Inexhaustible Interactive Turing Machines;;;Ralf Kuesters;;;2006/151;;;none;;;2006-04-22;;;security
+New Integrated proof Method on Iterated Hash Structure and New Structures;;;Duo Lei;;;2006/147;;;none;;;2006-04-22;;;security
+Completeness of Formal Hashes in the Standard Model;;;Flavio D. Garcia, Peter van Rossum;;;2006/146;;;none;;;2006-04-13;;;security
+GVG-RP: A Net-centric Negligibility-based Security Model for Self-organizing Networks;;;Jiejun Kong;;;2006/140;;;none;;;2006-04-10;;;security
+Provably Secure Ubiquitous Systems: Universally Composable RFID Authentication Protocols;;;Mike Burmester, Tri van Le, Breno de Medeiros;;;2006/131;;;none;;;2006-04-03;;;security
+Simulatable Security and Polynomially Bounded Concurrent Composition;;;Dennis Hofheinz, Dominique Unruh;;;2006/130;;;none;;;2006-04-03;;;security
+Designated Confirmer Signatures Revisited;;;Douglas Wikström;;;2006/123;;;none;;;2006-03-29;;;security
+Chosen-Ciphertext Secure Identity-Based Encryption in the Standard Model with short Ciphertexts;;;Eike Kiltz;;;2006/122;;;none;;;2006-03-29;;;security
+A New Construction of Time Capsule Signature;;;Miaomiao Zhang, Gongliang Chen, Jianhua Li, Licheng Wang, Haifeng Qian;;;2006/113;;;none;;;2006-03-26;;;security
+Efficient Public Key Encryption with Keyword Search Schemes from Pairings;;;Chunxiang Gu, Yuefei Zhu, Yajuan Zhang;;;2006/108;;;none;;;2006-03-22;;;security
+Efficient Blind and Partially Blind Signatures Without Random Oracles;;;Tatsuaki Okamoto;;;2006/102;;;none;;;2006-03-19;;;security
+Sequential Aggregate Signatures and Multisignatures without Random Oracles;;;Steve Lu, Rafail Ostrovsky, Amit Sahai, Hovav Shacham, Brent Waters;;;2006/096;;;none;;;2006-03-12;;;security
+On the Feasibility of Consistent Computations;;;Sven Laur, Helger Lipmaa;;;2006/088;;;none;;;2006-03-08;;;proofs
+Anonymous Hierarchical Identity-Based Encryption (Without Random Oracles);;;Xavier Boyen, Brent Waters;;;2006/085;;;none;;;2006-03-06;;;security
+Efficient Identity-based Signatures Secure in the Standard Model;;;Kenneth G. Paterson, Jacob C. N. Schuldt;;;2006/080;;;none;;;2006-03-01;;;security
+Towards Provably Secure Group Key Agreement Building on Group Theory;;;Jens-Matthias Bohli, Benjamin Glas, Rainer Steinwandt;;;2006/079;;;none;;;2006-03-01;;;security
+Verifiable Random Permutations;;;Yevgeniy Dodis, Prashant Puniya;;;2006/078;;;none;;;2006-02-28;;;proofs
+Stronger Security of Authenticated Key Exchange;;;Brian LaMacchia, Kristin Lauter, Anton Mityagin;;;2006/073;;;none;;;2006-02-24;;;security
+A Fast and Key-Efficient Reduction of Chosen- Ciphertext to Known-Plaintext Security;;;Ueli Maurer, Johan Sjödin;;;2006/071;;;none;;;2006-02-24;;;security
+Automated Security Proofs with Sequences of Games;;;Bruno Blanchet, David Pointcheval;;;2006/069;;;none;;;2006-02-23;;;formal,security
+Limits of the Reactive Simulatability/UC of Dolev-Yao Models with Hashes;;;Michael Backes, Birgit Pfitzmann, Michael Waidner;;;2006/068;;;none;;;2006-02-23;;;formal,security
+Provably Secure Universal Steganographic Systems;;;Boris Ryabko, Daniil Ryabko;;;2006/063;;;none;;;2006-02-23;;;security
+Cryptographically Sound Theorem Proving;;;Christoph Sprenger, Michael Backes, David Basin, Birgit Pfitzmann, Michael Waidner;;;2006/047;;;none;;;2006-02-10;;;formal
+Efficient Primitives from Exponentiation in Zp;;;Shaoquan Jiang;;;2006/046;;;none;;;2006-02-10;;;security
+Reactively Simulatable Certified Mail;;;Birgit Pfitzmann, Matthias Schunter, Michael Waidner;;;2006/041;;;none;;;2006-02-06;;;security
+Linkable Democratic Group Signatures;;;Mark Manulis, Ahmad-Reza Sadeghi, Joerg Schwenk;;;2006/040;;;none;;;2006-02-06;;;security
+Direct Chosen-Ciphertext Secure Identity-Based Key Encapsulation without Random Oracles;;;Eike Kiltz, David Galindo;;;2006/034;;;none;;;2006-02-06;;;security
+On a Variation of Kurosawa-Desmedt Encryption Scheme;;;Le Trieu Phong, Wakaha Ogata;;;2006/031;;;none;;;2006-01-27;;;security
+Authenticated Hybrid Encryption for Multiple Recipients;;;Stéphanie Alt;;;2006/029;;;none;;;2006-01-27;;;security
+Sound Computational Interpretation of Symbolic Hashes in the Standard Model;;;Flavio D. Garcia, Peter van Rossum;;;2006/014;;;none;;;2006-01-17;;;formal,security
+Comments on a Provably Secure Three-Party Password-Based Authenticated Key Exchange Protocol Using Weil Pairings;;;Hung-Yu Chien;;;2006/013;;;none;;;2006-01-12;;;security
+Certificate-Based Encryption Without Random Oracles;;;Paz Morillo, Carla Ràfols;;;2006/012;;;none;;;2006-01-11;;;security
+Formal Proof for the Correctness of RSA-PSS;;;Christina Lindenberg, Kai Wirt, Johannes Buchmann;;;2006/011;;;none;;;2006-01-10;;;formal
+Breaking and Fixing Public-Key Kerberos;;;Iliano Cervesato, Aaron D. Jaggard, Andre Scedrov, Joe-Kay Tsay, Christopher Walstad;;;2006/009;;;none;;;2006-01-10;;;formal
+Provably Secure Subsitution of Cryptographic Tools;;;Lea Kissner, David Molnar;;;2006/004;;;none;;;2006-01-04;;;security
+Homomorphic Cryptosystems and their Applications;;;Doerte K. Rappe;;;2006/001;;;none;;;2006-01-03;;;proofs

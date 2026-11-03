@@ -1,0 +1,38 @@
+Improvement of continuous-variable quantum key distribution systems by using optical preamplifiers;;;Simon Fossier, Eleni Diamanti, Thierry Debuisschert, Rosa Tualle-Brouri, Philippe Grangier;;;0812.4314;;;none;;;2008-12-22;;;security
+Artin automorphisms, Cyclotomic function fields, and Folded list-decodable codes;;;Venkatesan Guruswami;;;0811.4139;;;none;;;2008-11-25;;;proofs
+Detector decoy quantum key distribution;;;Tobias Moroder, Marcos Curty, Norbert Lütkenhaus;;;0811.0027;;;none;;;2008-10-31;;;security
+Interactive Proofs For Quantum Computations;;;Dorit Aharonov, Michael Ben-Or, Elad Eban;;;0810.5375;;;none;;;2008-10-30;;;proofs
+A sound spatio-temporal Hoare logic for the verification of structured interactive programs with registers and voices;;;Cezara Dragoi, Gheorghe Stefanescu;;;0810.3332;;;none;;;2008-10-19;;;formal
+Oracularization and Two-Prover One-Round Interactive Proofs against Nonlocal Strategies;;;Tsuyoshi Ito, Hirotada Kobayashi, Keiji Matsumoto;;;0810.0693;;;none;;;2008-10-03;;;proofs
+Efficient Defence against Misbehaving TCP Receiver DoS Attacks;;;Aldar C-F. Chan;;;0810.0328;;;none;;;2008-10-02;;;security
+Controlling an actively-quenched single photon detector with bright light;;;Sebastien Sauge, Lars Lydersen, Andrey Anisimov, Johannes Skaar, Vadim Makarov;;;0809.3408;;;none;;;2008-09-19;;;security
+Apply current exponential de Finetti theorem to realistic quantum key distribution;;;Yi-Bo Zhao, Zheng-Fu Han, Guang-Can Guo;;;0809.2683;;;none;;;2008-09-16;;;security
+Instantaneous Quantum Computation;;;Dan Shepherd, Michael J. Bremner;;;0809.0847;;;none;;;2008-09-04;;;proofs
+Game Theory with Costly Computation;;;Joseph Y. Halpern, Rafael Pass;;;0809.0024;;;none;;;2008-08-29;;;proofs
+Towards Provable Secure Neighbor Discovery in Wireless Networks;;;Marcin Poturalski, Panos Papadimitratos, Jean-Pierre Hubaux;;;0808.2586;;;none;;;2008-08-19;;;formal,security
+Reducing Protocol Analysis with XOR to the XOR-free Case in the Horn Theory Based Approach;;;Ralf Kuesters, Tomasz Truderung;;;0808.0634;;;none;;;2008-08-05;;;formal
+Universal blind quantum computation;;;Anne Broadbent, Joseph Fitzsimons, Elham Kashefi;;;0807.4154;;;none;;;2008-07-25;;;proofs
+Universally-composable privacy amplification from causality constraints;;;Lluis Masanes;;;0807.2158;;;none;;;2008-07-14;;;security
+Security of quantum key distribution with bit and basis dependent detector flaws;;;L. Lydersen, J. Skaar;;;0807.0767;;;none;;;2008-07-04;;;security
+Quantum Multi Prover Interactive Proofs with Communicating Provers;;;Michael Ben-Or, Avinatan Hassidim, Haran Pilpel;;;0806.3982;;;none;;;2008-06-24;;;proofs
+Unconditional Security of Single-Photon Differential Phase Shift Quantum Key Distribution;;;Kai Wen, Kiyoshi Tamaki, Yoshihisa Yamamoto;;;0806.2684;;;none;;;2008-06-16;;;security
+Security proof of differential phase shift quantum key distribution in the noiseless case;;;Yi-Bo Zhao, Chi-Hang Fred Fung, Zheng-Fu Han, Guang-Can Guo;;;0806.2000;;;none;;;2008-06-12;;;security
+An efficient and provably secure arbitrated quantum signature scheme;;;Qin Li, Chengqing Li, Chunhui Wu, Dongyang Long, Changji Wang;;;0806.0557;;;none;;;2008-06-03;;;security
+Security Bounds for Quantum Cryptography with Finite Resources;;;Valerio Scarani, Renato Renner;;;0806.0120;;;none;;;2008-06-01;;;security
+Model Checking Event-B by Encoding into Alloy;;;Paulo J. Matos, Joao Marques-Silva;;;0805.3256;;;none;;;2008-05-21;;;proofs
+Some Directions beyond Traditional Quantum Secret Sharing;;;Sudhir Kumar Singh, R. Srikanth;;;0805.1076;;;none;;;2008-05-07;;;security
+Coherent state exchange in multi-prover quantum interactive proof systems;;;Debbie Leung, Ben Toner, John Watrous;;;0804.4118;;;none;;;2008-04-25;;;proofs
+Quantum Computational Complexity;;;John Watrous;;;0804.3401;;;none;;;2008-04-21;;;proofs
+Squashing Models for Optical Measurements in Quantum Communication;;;Normand J. Beaudry, Tobias Moroder, Norbert Lütkenhaus;;;0804.3082;;;none;;;2008-04-18;;;security
+Additivity and Distinguishability of Random Unitary Channels;;;Bill Rosgen;;;0804.1936;;;none;;;2008-04-11;;;proofs
+The quantum moment problem and bounds on entangled multi-prover games;;;Andrew C. Doherty, Yeong-Cherng Liang, Ben Toner, Stephanie Wehner;;;0803.4373;;;none;;;2008-03-31;;;proofs
+Security proof for QKD systems with threshold detectors;;;Toyohiro Tsurumaru, Kiyoshi Tamaki;;;0803.4226;;;none;;;2008-03-31;;;security
+Product theorems via semidefinite programming;;;Troy Lee, Rajat Mittal;;;0803.4206;;;none;;;2008-03-28;;;proofs
+Zero-knowledge authentication schemes from actions on graphs, groups, or rings;;;Dima Grigoriev, Vladimir Shpilrain;;;0802.1661;;;none;;;2008-02-12;;;proofs
+Multi-Use Unidirectional Proxy Re-Signatures;;;Benoît Libert, Damien Vergnaud;;;0802.1113;;;none;;;2008-02-08;;;security
+New Extensions of Pairing-based Signatures into Universal (Multi) Designated Verifier Signatures;;;Damien Vergnaud;;;0802.1076;;;none;;;2008-02-07;;;security
+Zero-Knowledge Proofs of the Conjugacy for Permutation Groups;;;Oleg Verbitsky;;;0801.4917;;;none;;;2008-01-31;;;proofs
+On the Double Coset Membership Problem for Permutation Groups;;;Oleg Verbitsky;;;0801.4911;;;none;;;2008-01-31;;;proofs
+Breaking One-Round Key-Agreement Protocols in the Random Oracle Model;;;Miroslava Sotakova;;;0801.4714;;;none;;;2008-01-30;;;security
+Merkle's Key Agreement Protocol is Optimal: An $O(n^2)$ Attack on any Key Agreement from Random Oracles;;;Boaz Barak, Mohammad Mahmoody;;;0801.3669;;;none;;;2008-01-23;;;security
+Quantum Zero-Knowledge Protocol Using Quantum Bit Commitment without Quantum Memory;;;Rubens Viana Ramos, Jose Claudio do Nascimento;;;0801.0696;;;none;;;2008-01-04;;;proofs

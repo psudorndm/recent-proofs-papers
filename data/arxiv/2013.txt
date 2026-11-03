@@ -1,0 +1,49 @@
+Some considerations about Java implementation of two provably secure pseudorandom bit generators;;;Corbo Antonio Esposito, Didone Fabiola;;;1312.6549;;;none;;;2013-12-23;;;security
+Automated Verification of Quantum Protocols by Equivalence Checking;;;Ebrahim Ardeshir-Larijani, Simon J. Gay, Rajagopal Nagarajan;;;1312.5951;;;none;;;2013-12-20;;;formal
+Generalized Quantum Arthur-Merlin Games;;;Hirotada Kobayashi, François Le Gall, Harumichi Nishimura;;;1312.4673;;;none;;;2013-12-17;;;proofs
+Maximally strong entropic uncertainty relations and gauge invariance;;;Cosmo Lupo, Seth Lloyd;;;1312.4431;;;none;;;2013-12-16;;;security
+On the Security of Wang's Provably Secure Identity-based Key Agreement Protocol;;;Maurizio Adriano Strangio;;;1312.4363;;;none;;;2013-12-16;;;security
+A Protocol for Generating Random Elements with their Probabilities;;;Thomas Holenstein, Robin Künzler;;;1312.2483;;;none;;;2013-12-09;;;proofs
+Active Linkability Attacks;;;Henning Schnoor, Oliver Woizekowski;;;1311.7236;;;none;;;2013-11-28;;;security
+Introducing Accountability to Anonymity Networks;;;Michael Backes, Jeremy Clark, Peter Druschel, Aniket Kate, Milivoj Simeonovski;;;1311.3151;;;none;;;2013-11-13;;;formal,security
+Interactive proofs for BQP via self-tested graph states (extended abstract);;;Matthew McKague;;;1311.1534;;;none;;;2013-11-06;;;proofs
+Quantum hedging in two-round prover-verifier interactions;;;Srinivasan Arunachalam, Abel Molina, Vincent Russo;;;1310.7954;;;none;;;2013-10-29;;;proofs
+Practical Provably Secure Multi-node Communication;;;Omar Ali, Mahmoud F. Ayoub, Moustafa Youssef;;;1310.4859;;;none;;;2013-10-17;;;security
+Essential lack of security proof in quantum key distribution;;;Horace P. Yuen;;;1310.0842;;;none;;;2013-10-02;;;security
+Ensuring High-Quality Randomness in Cryptographic Key Generation;;;Henry Corrigan-Gibbs, Wendy Mu, Dan Boneh, Bryan Ford;;;1309.7366;;;none;;;2013-09-27;;;proofs
+Interactive proofs for BQP via self-tested graph states;;;Matthew McKague;;;1309.5675;;;none;;;2013-09-23;;;proofs
+Measurement-device-independent quantum key distribution with uncharacterized qubit sources;;;Zhen-Qiang Yin, Chi-Hang Fred Fung, Xiongfeng Ma, Chun-Mei Zhang, Hong-Wei Li, Wei Chen, Shuang Wang, Guang-Can Guo, Zheng-Fu Han;;;1309.3819;;;none;;;2013-09-16;;;security
+Logic of Intuitionistic Interactive Proofs (Formal Theory of Perfect Knowledge Transfer);;;Simon Kramer;;;1309.1328;;;none;;;2013-09-05;;;proofs
+Constant-Space Quantum Interactive Proofs Against Multiple Provers;;;Tomoyuki Yamakami;;;1309.0429;;;none;;;2013-09-02;;;proofs
+A new kind of complexity;;;Rade Vuckovac;;;1309.0296;;;none;;;2013-09-02;;;security
+PDA: Semantically Secure Time-Series Data Analytics with Dynamic Subgroups;;;Taeho Jung, Junze Han, Xiang-Yang Li;;;1308.6198;;;none;;;2013-08-28;;;formal,security
+Quantum interactive proofs and the complexity of separability testing;;;Gus Gutoski, Patrick Hayden, Kevin Milner, Mark M. Wilde;;;1308.5788;;;none;;;2013-08-27;;;proofs
+Private Outsourcing of Polynomial Evaluation and Matrix Multiplication using Multilinear Maps;;;Liang Feng Zhang, Rehanehi Safavi-Naini;;;1308.4218;;;none;;;2013-08-20;;;proofs
+Extended Capabilities for a Privacy-Enhanced Participatory Sensing Infrastructure (PEPSI);;;Emiliano De Cristofaro, Claudio Soriente;;;1308.2921;;;none;;;2013-08-13;;;security
+PS-TRUST: Provably Secure Solution for Truthful Double Spectrum Auctions;;;Zhili Chen, Liusheng Huang, Lu Li, Wei Yang, Haibo Miao, Miaomiao Tian, Fei Wang;;;1307.7433;;;none;;;2013-07-29;;;security
+Alternating Product Ciphers: A Case for Provable Security Comparisons (extended abstract);;;John O. Pliam;;;1307.4107;;;none;;;2013-07-15;;;security
+Some Improvements to Total Degree Tests;;;Katalin Friedl, Madhu Sudan;;;1307.3975;;;none;;;2013-07-15;;;proofs
+Proceedings 10th International Workshop On User Interfaces for Theorem Provers;;;Cezary Kaliszyk, Christoph Lüth;;;1307.1528;;;none;;;2013-07-05;;;proofs
+Finite-key analysis for measurement-device-independent quantum key distribution;;;Marcos Curty, Feihu Xu, Wei Cui, Charles Ci Wen Lim, Kiyoshi Tamaki, Hoi-Kwong Lo;;;1307.1081;;;none;;;2013-07-03;;;security
+Quantum enigma machines;;;Seth Lloyd;;;1307.0380;;;none;;;2013-07-01;;;security
+Critical analysis of the Bennett-Riedel attack on secure cryptographic key distributions via the Kirchhoff-law-Johnson-noise scheme;;;Laszlo B. Kish, Derek Abbott, Claes-Goran Granqvist;;;1306.6531;;;none;;;2013-06-27;;;security
+Information-Theoretic Security for the Masses;;;Oleksandr Nikitin;;;1306.6260;;;none;;;2013-06-26;;;proofs
+(Un)Decidability Results for Word Equations with Length and Regular Expression Constraints;;;Vijay Ganesh, Mia Minnes, Armando Solar-Lezama, Martin Rinard;;;1306.6054;;;none;;;2013-06-25;;;formal
+Experimental unconditionally secure bit commitment;;;Yang Liu, Yuan Cao, Marcos Curty, Sheng-Kai Liao, Jian Wang, Ke Cui, Yu-Huai Li, Ze-Hong Lin, Qi-Chao Sun, Dong-Dong Li, Hong-Fei Zhang, Yong Zhao, Cheng-Zhi Peng, Qiang Zhang, Adan Cabello, Jian-Wei Pan;;;1306.4413;;;none;;;2013-06-19;;;proofs
+Cellular Automata in Cryptographic Random Generators;;;Jason Spencer;;;1306.3546;;;none;;;2013-06-15;;;security
+The Fiat-Shamir Transformation in a Quantum World;;;Özgür Dagdelen, Marc Fischlin Tommaso Gagliardoni;;;1306.0315;;;none;;;2013-06-03;;;security
+A Review of Automated Formal Verification of Ad Hoc Routing Protocols for Wireless Sensor Networks;;;Zhe Chen, Daqiang Zhang, Rongbo Zhu, Yinxue Ma, Ping Yin, Feng Xie;;;1305.7410;;;none;;;2013-05-31;;;formal
+The Unique Games Conjecture, Integrality Gap for Cut Problems and Embeddability of Negative Type Metrics into $\ell_1$;;;Subhash A. Khot, Nisheeth K. Vishnoi;;;1305.4581;;;none;;;2013-05-20;;;proofs
+Security of high-dimensional quantum key distribution protocols using Franson interferometers;;;Thomas Brougham, Stephen M. Barnett, Kevin T. McCusker, Paul G. Kwiat, Daniel J. Gauthier;;;1305.4541;;;none;;;2013-05-20;;;security
+Model Checking Techniques for Verification of an Encryption Scheme for Wireless Sensor Networks;;;Zohra Sbaï, Mohamed Escheikh;;;1305.4247;;;none;;;2013-05-18;;;formal
+Logging safely in public spaces using color PINs;;;Frank Nielsen;;;1304.6499;;;none;;;2013-04-24;;;proofs
+Time-Optimal Interactive Proofs for Circuit Evaluation;;;Justin Thaler;;;1304.3812;;;none;;;2013-04-13;;;proofs
+Cryptography and Algorithmic Randomness;;;Kohtaro Tadaki, Norihisa Doi;;;1305.2391;;;none;;;2013-04-12;;;security
+An Efficient Bilinear Pairing-Free Certificateless Two-Party Authenticated Key Agreement Protocol in the eCK Model;;;Yong-Jin Kim, Yong-Min Kim, Yong-Jin Choe, Hyong-Chol O;;;1304.0383;;;none;;;2013-04-01;;;security
+A quantum cloning bound and application to quantum key distribution;;;Erik Woodhead;;;1303.4821;;;none;;;2013-03-20;;;security
+Direct Proof of Security of Wegman-Carter Authentication with Partially Known Key;;;Aysajan Abidin, Jan-Åke Larsson;;;1303.0210;;;none;;;2013-03-01;;;security
+Naturally Rehearsing Passwords;;;Jeremiah Blocki, Manuel Blum, Anupam Datta;;;1302.5122;;;none;;;2013-02-20;;;security
+Modulus Computational Entropy;;;Maciej Skorski;;;1302.2128;;;none;;;2013-02-08;;;security
+Quantum Hacking on Continuous-Variable Quantum Key Distribution System using a Wavelength Attack;;;Jing-Zheng Huang, Christian Weedbrook, Zhen-Qiang Yin, Shuang Wang, Hong-Wei Li, Wei Chen, Guang-Can Guo, Zheng-Fu Han;;;1302.0090;;;none;;;2013-02-01;;;security
+On the Power of Many One-Bit Provers;;;Per Austrin, Johan Håstad, Rafael Pass;;;1301.2729;;;none;;;2013-01-12;;;proofs
+Authentication Schemes Using Polynomials Over Non-Commutative Rings;;;Maheswara Rao Valluri;;;1301.2010;;;none;;;2013-01-10;;;proofs

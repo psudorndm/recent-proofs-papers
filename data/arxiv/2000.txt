@@ -1,0 +1,4 @@
+Set Theory for Verification: I. From Foundations to Functions;;;Lawrence C. Paulson;;;cs/9311103;;;none;;;2000-10-31;;;proofs
+Zero knowledge convincing protocol on quantum bit is impossible;;;Pawel Horodecki, Michal Horodecki, Ryszard Horodecki;;;quant-ph/0010048;;;none;;;2000-10-12;;;proofs
+The Random Oracle Methodology, Revisited;;;Ran Canetti, Oded Goldreich, Shai Halevi;;;cs/0010019;;;none;;;2000-10-11;;;security
+Private entanglement over arbitrary distances, even using noisy apparatus;;;Hans Aschauer, Hans J. Briegel;;;quant-ph/0008051;;;none;;;2000-08-10;;;security

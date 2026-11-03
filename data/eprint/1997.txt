@@ -1,0 +1,3 @@
+Towards realizing random oracles: Hash functions that hide all partial information;;;Ran Canetti;;;1997/007;;;none;;;1997-06-02;;;security
+A note on negligible functions;;;Mihir Bellare;;;1997/004;;;none;;;1997-03-12;;;proofs
+Round-Optimal Zero-Knowledge Arguments Based on any One-Way Function;;;Mihir Bellare, Markus Jakobsson, Moti Yung;;;1997/002;;;none;;;1997-02-26;;;proofs

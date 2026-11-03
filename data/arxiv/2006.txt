@@ -1,0 +1,19 @@
+On the Power of Entangled Quantum Provers;;;Julia Kempe, Thomas Vidick;;;quant-ph/0612063;;;none;;;2006-12-08;;;proofs
+HowTo Authenticate and Encrypt;;;Hans-Rudolf Thomann;;;cs/0611050;;;none;;;2006-11-13;;;security
+Experimental quantum key distribution with active phase randomization;;;Yi Zhao, Bing Qi, Hoi-Kwong Lo;;;quant-ph/0611059;;;none;;;2006-11-06;;;security
+Merlin-Arthur Games and Stoquastic Complexity;;;Sergey Bravyi, Arvid J. Bessen, Barbara M. Terhal;;;quant-ph/0611021;;;none;;;2006-11-02;;;proofs
+Security of quantum key distribution using weak coherent states with nonrandom phases;;;Hoi-Kwong Lo, John Preskill;;;quant-ph/0610203;;;none;;;2006-10-23;;;security
+Church's thesis is questioned by new calculation paradigm;;;Hannes Hutzelmeyer;;;cs/0610038;;;none;;;2006-10-07;;;proofs
+Concurrently Non-Malleable Zero Knowledge in the Authenticated Public-Key Model;;;Yi Deng, Giovanni Di Crescenzo, Dongdai Lin;;;cs/0609057;;;none;;;2006-09-12;;;proofs
+Strong Parallel Repetition Theorem for Quantum XOR Proof Systems;;;Richard Cleve, William Slofstra, Falk Unger, Sarvagya Upadhyay;;;quant-ph/0608146;;;none;;;2006-08-18;;;proofs
+On parallel composition of zero-knowledge proofs with black-box quantum simulators;;;Rahul Jain, Alexandra Kolla, Gatis Midrijanis, Ben W. Reichardt;;;quant-ph/0607211;;;none;;;2006-07-28;;;proofs
+List decoding of noisy Reed-Muller-like codes;;;A. R. Calderbank, Anna C. Gilbert, Martin J. Strauss;;;cs/0607098;;;none;;;2006-07-20;;;proofs
+Resettable Zero Knowledge in the Bare Public-Key Model under Standard Assumption;;;Yi Deng, Dongdai Lin;;;cs/0607035;;;none;;;2006-07-10;;;proofs
+Security proof of a three-state quantum key distribution protocol without rotational symmetry;;;Chi-Hang Fred Fung, Hoi-Kwong Lo;;;quant-ph/0607056;;;none;;;2006-07-08;;;security
+Secrecy extraction from no-signalling correlations;;;Valerio Scarani, Nicolas Gisin, Nicolas Brunner, Lluis Masanes, Sergi Pino, Antonio Acin;;;quant-ph/0606197;;;none;;;2006-06-23;;;security
+Discrete Rotational Symmetry and Quantum Key Distribution Protocols;;;David Shirokoff, Chi-Hang Fred Fung, Hoi-Kwong Lo;;;quant-ph/0604198;;;none;;;2006-04-27;;;security
+The security proof of the ping-pong protocol is wrong;;;Zhan-jun Zhang;;;quant-ph/0604035;;;none;;;2006-04-06;;;security
+Noisy Preprocessing and the Distillation of Private States;;;Joseph M. Renes, Graeme Smith;;;quant-ph/0603262;;;none;;;2006-03-28;;;security
+A simpler proof of zero-knowledge against quantum attacks using Grover's amplitude amplification;;;Keiji Matsumoto;;;quant-ph/0602186;;;none;;;2006-02-22;;;proofs
+Monogamy of nonlocal quantum correlations;;;Ben Toner;;;quant-ph/0601172;;;none;;;2006-01-26;;;proofs
+Simulation and Implementation of Decoy State Quantum Key Distribution over 60km Telecom Fiber;;;Yi Zhao, Bing Qi, Xiongfeng Ma, Hoi-Kwong Lo, Li Qian;;;quant-ph/0601168;;;none;;;2006-01-25;;;security

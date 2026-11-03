@@ -1,0 +1,78 @@
+A Provably Secure Ring Signature Scheme in Certificateless Cryptography;;;Lei Zhang, Futai Zhang, Wei Wu;;;1712.09145;;;none;;;2017-12-25;;;security
+On the linkability of Zcash transactions;;;Jeffrey Quesnelle;;;1712.01210;;;none;;;2017-12-04;;;proofs
+UC Secure Issuer-Free Adaptive Oblivious Transfer with Hidden Access Policy;;;Vandana Guleria, Ratna Dutta;;;1711.10751;;;none;;;2017-11-29;;;security
+Fundamental Properties of Full-Duplex Radio for Secure Wireless Communications;;;Yingbo Hua, Qiping Zhu, Reza Sohrabi;;;1711.10001;;;none;;;2017-11-27;;;proofs
+Efficient reduction of nondeterministic automata with application to language inclusion testing;;;Lorenzo Clemente, Richard Mayr;;;1711.09946;;;none;;;2017-11-27;;;formal
+Simple proof of confidentiality for private quantum channels in noisy environments;;;A. Pirker, M. Zwerger, V. Dunjko, H. J. Briegel, W. Dür;;;1711.08897;;;none;;;2017-11-24;;;security
+Foiling covert channels and malicious classical post-processing units in quantum key distribution;;;Marcos Curty, Hoi-Kwong Lo;;;1711.08724;;;none;;;2017-11-23;;;security
+WYS*: A DSL for Verified Secure Multi-party Computations;;;Aseem Rastogi, Nikhil Swamy, Michael Hicks;;;1711.06467;;;none;;;2017-11-17;;;formal
+ANCHOR: logically-centralized security for Software-Defined Networks;;;Diego Kreutz, Jiangshan Yu, Fernando M. V. Ramos, Paulo Esteves-Verissimo;;;1711.03636;;;none;;;2017-11-09;;;formal
+Yuen's Criticisms on Security of Quantum Key Distribution and Onward;;;Takehisa Iwakoshi;;;1711.03617;;;none;;;2017-11-09;;;security
+A New Signature Scheme Based on Punctured Reed--Muller Code With Random Insertion;;;Wijik Lee, Young-Sik Kim, Jong-Seon No;;;1711.00159;;;none;;;2017-11-01;;;security
+Minimum Circuit Size, Graph Isomorphism, and Related Problems;;;Eric Allender, Joshua A. Grochow, Dieter van Melkebeek, Cristopher Moore, Andrew Morgan;;;1710.09806;;;none;;;2017-10-26;;;proofs
+A Framework for Efficient Adaptively Secure Composable Oblivious Transfer in the ROM;;;Paulo S. L. M. Barreto, Bernardo David, Rafael Dowsley, Kirill Morozov, Anderson C. A. Nascimento;;;1710.08256;;;none;;;2017-10-23;;;security
+Paxos Made EPR: Decidable Reasoning about Distributed Protocols;;;Oded Padon, Giuliano Losa, Mooly Sagiv, Sharon Shoham;;;1710.07191;;;none;;;2017-10-19;;;formal
+Transforming face-to-face identity proofing into anonymous digital identity using the Bitcoin blockchain;;;Daniel Augot, Hervé Chabanne, Olivier Clémot, William George;;;1710.02951;;;none;;;2017-10-09;;;proofs
+A method for unbounded verification of privacy-type properties;;;Lucca Hirschi, David Baelde, Stéphanie Delaune;;;1710.02049;;;none;;;2017-10-05;;;formal,security
+Efficient Dynamic Searchable Encryption with Forward Privacy;;;Mohammad Etemad, Alptekin Küpçü, Charalampos Papamanthou, David Evans;;;1710.00208;;;none;;;2017-09-30;;;security
+Quantum State Isomorphism;;;Joshua Lockhart, Carlos E. González Guillén;;;1709.09622;;;none;;;2017-09-27;;;proofs
+An Efficiently Searchable Encrypted Data Structure for Range Queries;;;Florian Kerschbaum, Anselme Tueno;;;1709.09314;;;none;;;2017-09-27;;;security
+Dynamic Provable Data Possession Protocols with Public Verifiability and Data Privacy;;;Clementine Gritti, Rongmao Chen, Willy Susilo, Thomas Plantard;;;1709.08434;;;none;;;2017-09-25;;;security
+A tight security reduction in the quantum random oracle model for code-based signature schemes;;;André Chailloux, Thomas Debris-Alazard;;;1709.06870;;;none;;;2017-09-20;;;security
+Experimental unconditionally secure covert communication in dense wavelength-division multiplexing networks;;;Yang Liu, Juan Miguel Arrazola, Wen-Zhao Liu, Weijun Zhang, Ignatius William Primaatmaja, Hao Li, Lixing You, Zhen Wang, Valerio Scarani, Qiang Zhang, Jian-Wei Pan;;;1709.06755;;;none;;;2017-09-20;;;security
+VST-Flow: Fine-grained low-level reasoning about real-world C code;;;Samuel Gruetter, Toby Murray;;;1709.05243;;;none;;;2017-09-15;;;formal,security
+Uncertainty relations with quantum memory for the Wehrl entropy;;;Giacomo De Palma;;;1709.04921;;;none;;;2017-09-14;;;security
+A certified reference validation mechanism for the permission model of Android;;;Gustavo Betarte, Juan Campo, Felipe Gorostiaga, Carlos Luna;;;1709.03652;;;none;;;2017-09-12;;;formal
+A security proof of continuous-variable QKD using three coherent states;;;Kamil Bradler, Christian Weedbrook;;;1709.01758;;;none;;;2017-09-06;;;security
+Security proof for Round Robin Differential Phase Shift QKD;;;Daan Leermakers, Boris Skoric;;;1709.00552;;;none;;;2017-09-02;;;security
+Improving Automated Symbolic Analysis for E-voting Protocols: A Method Based on Sufficient Conditions for Ballot Secrecy;;;Cas Cremers, Lucca Hirschi;;;1709.00194;;;none;;;2017-09-01;;;formal
+Quantum Fully Homomorphic Encryption With Verification;;;Gorjan Alagic, Yfke Dulek, Christian Schaffner, Florian Speelman;;;1708.09156;;;none;;;2017-08-30;;;proofs
+FirmUSB: Vetting USB Device Firmware using Domain Informed Symbolic Execution;;;Grant Hernandez, Farhaan Fowze, Dave Tian, Tuba Yavuz, Kevin R. B. Butler;;;1708.09114;;;none;;;2017-08-30;;;formal
+A Type System for Privacy Properties (Technical Report);;;Véronique Cortier, Niklas Grimm, Joseph Lallemand, Matteo Maffei;;;1708.08340;;;none;;;2017-08-28;;;formal
+Provably Secure Networks: Methodology and Toolset for Configuration Management;;;Cornelius Diekmann;;;1708.08228;;;none;;;2017-08-28;;;formal,proofs,security
+NIZKCTF: A Non-Interactive Zero-Knowledge Capture the Flag Platform;;;Paulo Matias, Pedro Barbosa, Thiago Cardoso, Diego Mariano, Diego Aranha;;;1708.05844;;;none;;;2017-08-19;;;proofs
+Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing;;;Changyu Dong, Yilei Wang, Amjad Aldweesh, Patrick McCorry, Aad van Moorsel;;;1708.01171;;;none;;;2017-08-03;;;formal,proofs
+Continuous-Variable Protocol for Oblivious Transfer in the Noisy-Storage Model;;;Fabian Furrer, Tobias Gehring, Christian Schaffner, Christoph Pacher, Roman Schnabel, Stephanie Wehner;;;1708.00048;;;none;;;2017-07-31;;;security
+An Elementary Proof of Private Random Number Generation from Bell Inequalities;;;Carl A. Miller;;;1707.06597;;;none;;;2017-07-20;;;security
+A Steganographic Design Paradigm for General Steganographic Objectives;;;Aubrey Alston;;;1707.00076;;;none;;;2017-07-01;;;security
+Achieving Efficient and Provably Secure Steganography in Practice;;;Aubrey Alston;;;1707.00074;;;none;;;2017-07-01;;;security
+SafetyNets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud;;;Zahra Ghodsi, Tianyu Gu, Siddharth Garg;;;1706.10268;;;none;;;2017-06-30;;;proofs
+Relativization and Interactive Proof Systems in Parameterized Complexity Theory;;;Ralph Christian Bottesch;;;1706.09391;;;none;;;2017-06-28;;;proofs
+The problem with the SURF scheme;;;Thomas Debris-Alazard, Nicolas Sendrier, Jean-Pierre Tillich;;;1706.08065;;;none;;;2017-06-25;;;security
+Knowledge-Concealing Evidencing of Knowledge about a Quantum State;;;Emily Adlam, Adrian Kent;;;1706.06963;;;none;;;2017-06-21;;;proofs
+Distributed PCP Theorems for Hardness of Approximation in P;;;Amir Abboud, Aviad Rubinstein, Ryan Williams;;;1706.06407;;;none;;;2017-06-20;;;proofs
+Practical and Provably Secure Onion Routing;;;Megumi Ando, Anna Lysyanskaya, Eli Upfal;;;1706.05367;;;none;;;2017-06-16;;;security
+Pseudo-deterministic Proofs;;;Shafi Goldwasser, Ofer Grossman, Dhiraj Holden;;;1706.04641;;;none;;;2017-06-14;;;proofs
+Security proof of the two-way quantum secure direct communication with channel loss and noise;;;Jianyong Hu, Mingyong Jing, Peng Zhang, Qiangqiang Zhang, Huifang Hou, Liantuan Xiao, Suotang Jia;;;1706.03234;;;none;;;2017-06-10;;;security
+Securing Databases from Probabilistic Inference;;;Marco Guarnieri, Srdjan Marinovic, David Basin;;;1706.02473;;;none;;;2017-06-08;;;security
+Stateless Puzzles for Real Time Online Fraud Preemption;;;Mizanur Rahman, Ruben Recabarren, Bogdan Carbunar, Dongwon Lee;;;1706.01560;;;none;;;2017-06-05;;;proofs
+(Quantum) Min-Entropy Resources;;;Christopher Portmann;;;1705.10595;;;none;;;2017-05-30;;;security
+Graphical Methods in Device-Independent Quantum Cryptography;;;Spencer Breiner, Carl A. Miller, Neil J. Ross;;;1705.09213;;;none;;;2017-05-25;;;formal,security
+Verification of a lazy cache coherence protocol against a weak memory model;;;Christopher J. Banks, Marco Elver, Ruth Hoffmann, Susmit Sarkar, Paul Jackson, Vijay Nagarajan;;;1705.08262;;;none;;;2017-05-18;;;formal
+Automated Cryptographic Analysis of the Pedersen Commitment Scheme;;;Roberto Metere, Changyu Dong;;;1705.05897;;;none;;;2017-05-16;;;formal,proofs
+Concolic Execution as a General Method of Determining Local Malware Signatures;;;Aubrey Alston;;;1705.05514;;;none;;;2017-05-16;;;security
+Sustained Space Complexity;;;Joel Alwen, Jeremiah Blocki, Krzysztof Pietrzak;;;1705.05313;;;none;;;2017-05-15;;;security
+Numerical Assessment and Optimization of Discrete-Variable Time-Frequency Quantum Key Distribution;;;Jasper Rödiger, Nicolas Perlot, Roberto Mottola, Robert Elschner, Carl-Michael Weinert, Oliver Benson, Ronald Freund;;;1705.04580;;;none;;;2017-05-12;;;security
+Quantum Security of Cryptographic Primitives;;;Tommaso Gagliardoni;;;1705.02417;;;none;;;2017-05-05;;;security
+Verification of STAR-Vote and Evaluation of FDR and ProVerif;;;Murat Moran, Dan S. Wallach;;;1705.00782;;;none;;;2017-05-02;;;formal
+Information-theoretic security proof of differential-phase-shift quantum key distribution protocol based on complementarity;;;Akihiro Mizutani, Toshihiko Sasaki, Go Kato, Yuki Takeuchi, Kiyoshi Tamaki;;;1705.00171;;;none;;;2017-04-29;;;security
+Provably secure key establishment against quantum adversaries;;;Aleksandrs Belovs, Gilles Brassard, Peter Hoyer, Marc Kaplan, Sophie Laplante, Louis Salvail;;;1704.08182;;;none;;;2017-04-26;;;security
+Continuous-variable measurement-device-independent quantum key distribution: Composable security against coherent attacks;;;Cosmo Lupo, Carlo Ottaviani, Panagiotis Papanastasiou, Stefano Pirandola;;;1704.07924;;;none;;;2017-04-25;;;security
+Formal Analysis of V2X Revocation Protocols;;;Jorden Whitefield, Liqun Chen, Frank Kargl, Andrew Paverd, Steve Schneider, Helen Treharne, Stephan Wesemeyer;;;1704.07216;;;none;;;2017-04-24;;;formal
+Interactive Proofs for Quantum Computations;;;Dorit Aharonov, Michael Ben-Or, Elad Eban, Urmila Mahadev;;;1704.04487;;;none;;;2017-04-14;;;proofs
+Fidelity of quantum strategies with applications to cryptography;;;Gus Gutoski, Ansis Rosmanis, Jamie Sikora;;;1704.04033;;;none;;;2017-04-13;;;security
+A Zero Knowledge Sumcheck and its Applications;;;Alessandro Chiesa, Michael A. Forbes, Nicholas Spooner;;;1704.02086;;;none;;;2017-04-07;;;proofs
+Logic Locking for Secure Outsourced Chip Fabrication: A New Attack and Provably Secure Defense Mechanism;;;Mohamed El Massad, Jun Zhang, Siddharth Garg, Mahesh V. Tripunitara;;;1703.10187;;;none;;;2017-03-29;;;security
+Post-Quantum Cryptography: A Zero-Knowledge Authentication Protocol;;;Pedro Hecht;;;1703.08630;;;none;;;2017-03-25;;;proofs
+Prio: Private, Robust, and Scalable Computation of Aggregate Statistics;;;Henry Corrigan-Gibbs, Dan Boneh;;;1703.06255;;;none;;;2017-03-18;;;proofs
+Parallel Device-Independent Quantum Key Distribution;;;Rahul Jain, Carl A. Miller, Yaoyun Shi;;;1703.05426;;;none;;;2017-03-15;;;security
+Refinement-based Specification and Security Analysis of Separation Kernels;;;Yongwang Zhao, David Sanan, Fuyuan Zhang, Yang Liu;;;1702.05997;;;none;;;2017-02-20;;;formal,security
+Sprites and State Channels: Payment Networks that Go Faster than Lightning;;;Andrew Miller, Iddo Bentov, Ranjit Kumaresan, Christopher Cordi, Patrick McCorry;;;1702.05812;;;none;;;2017-02-19;;;security
+Round-robin-differential-phase-shift quantum key distribution with and without monitoring signal disturbance;;;Zhen-Qiang Yin, Shuang Wang, Wei Chen, Yun-Guang Han, Rong Wang, Guang-Can Guo, Zheng-Fu Han;;;1702.01260;;;none;;;2017-02-04;;;security
+Automated verification of dynamic root of trust protocols (long version);;;Sergiu Bursuc, Christian Johansen, Shiwei Xu;;;1701.08676;;;none;;;2017-01-30;;;formal
+A security proof of the round-robin differential phase shift quantum key distribution protocol based on the signal disturbance;;;Toshihiko Sasaki, Masato Koashi;;;1701.08509;;;none;;;2017-01-30;;;security
+Tactical Diagrammatic Reasoning;;;Sven Linker, Jim Burton, Mateja Jamnik;;;1701.07126;;;none;;;2017-01-25;;;proofs
+jsCoq: Towards Hybrid Theorem Proving Interfaces;;;Emilio Jesús Gallego Arias, Benoît Pin, Pierre Jouvelot;;;1701.07125;;;none;;;2017-01-25;;;formal,proofs
+Proceedings of the 12th Workshop on User Interfaces for Theorem Provers;;;Serge Autexier, Pedro Quaresma;;;1701.06745;;;none;;;2017-01-24;;;proofs
+Proving uniformity and independence by self-composition and coupling;;;Gilles Barthe, Thomas Espitau, Benjamin Grégoire, Justin Hsu, Pierre-Yves Strub;;;1701.06477;;;none;;;2017-01-23;;;formal
+Privacy Preserving Stream Analytics: The Marriage of Randomized Response and Approximate Computing;;;Do Le Quoc, Martin Beck, Pramod Bhatotia, Ruichuan Chen, Christof Fetzer, Thorsten Strufe;;;1701.05403;;;none;;;2017-01-19;;;proofs
