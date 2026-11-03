@@ -133,6 +133,47 @@
             margin: 0;
         }
 
+        /* ---- older years: one collapsible section per year ---- */
+        details.year>summary {
+            list-style: none;
+            cursor: pointer;
+        }
+
+        details.year>summary::-webkit-details-marker {
+            display: none;
+        }
+
+        details.year>summary h3 {
+            margin-top: 1.4em;
+        }
+
+        details.year>summary h3::before {
+            content: "+ ";
+        }
+
+        details.year[open]>summary h3::before {
+            content: "- ";
+        }
+
+        details.year>summary:hover h3 {
+            color: #6741d9;
+        }
+
+        .count {
+            float: right;
+            font-weight: 400;
+            letter-spacing: 0.06em;
+            text-transform: none;
+            color: #8f84a6;
+        }
+
+        .status {
+            text-align: center;
+            font-size: 0.8em;
+            color: #8f84a6;
+            margin: 0.6em 0 0;
+        }
+
         /* ---- paper cards ---- */
         .spaced-list>li {
             display: flow-root;
@@ -371,6 +412,9 @@
         <h3>this year</h3>
         <ul class="spaced-list" id="last_year"></ul>
 
+        <div id="older"></div>
+        <p class="status" id="status">loading&hellip;</p>
+
         <footer>
             Metadata from the <a href="https://eprint.iacr.org/" target="_blank">IACR Cryptology
                 ePrint Archive</a> (CC0) and <a href="https://arxiv.org/" target="_blank">arXiv</a>.
@@ -381,7 +425,7 @@
             var activeCategory = "all";
             var activeSource = "both";
             var searchTerms = [];
-            var allItems = [];
+            var allItems = [];   // the last 365 days: {el, paper}
             var TAG_LABELS = { proofs: "proof systems", security: "security proofs", formal: "formal verification" };
 
             // decorative "digest" strip under the title for a crypto feel
@@ -455,58 +499,179 @@
                 return li;
             }
 
-            function fetchPapers(file, source, linkBase) {
-                return fetch(file)
+            var SOURCES = { eprint: "//ia.cr/", arxiv: "//arxiv.org/abs/" };
+            var DAY = 86400000;
+            var now = new Date();
+            var todayUTC = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
+            var olderSections = [];   // one per calendar year older than the last 365 days
+            var filterVersion = 0;
+            var olderLoaded = false;
+
+            function setStatus(text) {
+                document.getElementById('status').textContent = text;
+            }
+
+            // last_week / last_month / last_year, or null when older than 365 days
+            function bucketFor(date) {
+                var t = Date.parse(date);   // "YYYY-MM-DD" parses as UTC midnight
+                if (isNaN(t)) { return null; }
+                var age = Math.max(0, Math.round((todayUTC - t) / DAY));
+                if (age <= 7) { return "last_week"; }
+                if (age <= 30) { return "last_month"; }
+                if (age <= 365) { return "last_year"; }
+                return null;
+            }
+
+            // one line: title;;;authors;;;id;;;repo;;;date;;;categories
+            function parseFile(text, source) {
+                return text.split('\n').filter(function (line) {
+                    return line.length > 0;
+                }).map(function (line) {
+                    var v = line.split(';;;');
+                    var paper = {
+                        title: v[0],
+                        authorlist: (v[1] || "").split(',').map(function (s) {
+                            return s.trim();
+                        }),
+                        id: v[2],
+                        repo: v[3],
+                        date: v[4] || "",
+                        cats: (v[5] || "").split(',').filter(function (s) {
+                            return s.length > 0;
+                        }),
+                        source: source,
+                        linkBase: SOURCES[source]
+                    };
+                    paper.bucket = bucketFor(paper.date);
+                    paper.haystack = (paper.title + " " + (v[1] || "") + " " + paper.id).toLowerCase();
+                    return paper;
+                });
+            }
+
+            function fetchFile(source, year) {
+                return fetch('data/' + source + '/' + year + '.txt')
                     .then(function (r) { return r.ok ? r.text() : ""; })
-                    .then(function (data) {
-                        return data.split('\n').filter(function (line) {
-                            return line.length > 0;
-                        }).map(function (line) {
-                            var v = line.split(';;;');
-                            var paper = {
-                                title: v[0],
-                                authorlist: (v[1] || "").split(',').map(function (s) {
-                                    return s.trim();
-                                }),
-                                id: v[2],
-                                date_class: v[3],
-                                repo: v[4],
-                                date: v[5] || "",
-                                cats: (v[6] || "").split(',').filter(function (s) {
-                                    return s.length > 0;
-                                }),
-                                source: source,
-                                linkBase: linkBase
-                            };
-                            paper.haystack = (paper.title + " " + (v[1] || "") + " " + paper.id).toLowerCase();
-                            return paper;
-                        });
-                    })
+                    .then(function (text) { return parseFile(text, source); })
                     .catch(function () { return []; });
             }
 
-            function applyFilters() {
-                var counts = { last_week: 0, last_month: 0, last_year: 0 };
-                allItems.forEach(function (entry) {
-                    var paper = entry.paper;
-                    var catOk = activeCategory === "all" ||
-                        paper.cats.indexOf(activeCategory) !== -1;
-                    var srcOk = activeSource === "both" ||
-                        paper.source.toLowerCase() === activeSource;
-                    var searchOk = searchTerms.every(function (t) {
-                        return paper.haystack.indexOf(t) !== -1;
+            // all papers, from both sources, of the years that pass keepYear
+            function fetchYears(index, keepYear) {
+                var jobs = [];
+                Object.keys(SOURCES).forEach(function (source) {
+                    Object.keys(index[source] || {}).forEach(function (year) {
+                        if (keepYear(+year)) { jobs.push(fetchFile(source, year)); }
                     });
-                    var show = catOk && srcOk && searchOk;
+                });
+                return Promise.all(jobs).then(function (lists) {
+                    return [].concat.apply([], lists);
+                });
+            }
+
+            function byDateDesc(a, b) {
+                return a.date < b.date ? 1 : (a.date > b.date ? -1 : 0);
+            }
+
+            function matches(paper) {
+                var catOk = activeCategory === "all" || paper.cats.indexOf(activeCategory) !== -1;
+                var srcOk = activeSource === "both" || paper.source === activeSource;
+                return catOk && srcOk && searchTerms.every(function (t) {
+                    return paper.haystack.indexOf(t) !== -1;
+                });
+            }
+
+            // older sections only hold list items while open, and only the matching ones
+            function renderSection(sec) {
+                var frag = document.createDocumentFragment();
+                sec.papers.forEach(function (paper) {
+                    if (matches(paper)) { frag.appendChild(makePaperItem(paper)); }
+                });
+                sec.list.textContent = "";
+                sec.list.appendChild(frag);
+                sec.renderedVersion = filterVersion;
+            }
+
+            function applyFilters() {
+                filterVersion++;
+                var searching = searchTerms.length > 0;
+                var counts = { last_week: 0, last_month: 0, last_year: 0 };
+                var shown = 0, total = allItems.length;
+                allItems.forEach(function (entry) {
+                    var show = matches(entry.paper);
                     entry.el.style.display = show ? "" : "none";
-                    if (show && counts.hasOwnProperty(paper.date_class)) {
-                        counts[paper.date_class]++;
-                    }
+                    if (show) { counts[entry.paper.bucket]++; shown++; }
                 });
                 Object.keys(counts).forEach(function (bucket) {
                     var placeholder = document.getElementById(bucket + "_empty");
                     if (placeholder) {
                         placeholder.style.display = counts[bucket] === 0 ? "" : "none";
                     }
+                });
+                olderSections.forEach(function (sec) {
+                    var n = 0;
+                    sec.papers.forEach(function (paper) { if (matches(paper)) { n++; } });
+                    shown += n;
+                    total += sec.papers.length;
+                    sec.details.style.display = n ? "" : "none";
+                    sec.count.textContent = n + (n === 1 ? " paper" : " papers");
+                    if (!searching) { sec.userClosed = false; }
+                    // while searching, open every year with matches (unless closed by hand)
+                    if (searching && n && !sec.details.open && !sec.userClosed) {
+                        sec.autoOpened = true;
+                        sec.details.open = true;
+                    } else if (!searching && sec.autoOpened) {
+                        sec.autoOpened = false;
+                        sec.details.open = false;
+                    }
+                    if (sec.details.open) { renderSection(sec); }
+                });
+                if (!olderLoaded) {
+                    setStatus("loading older papers…");
+                } else if (searching || activeCategory !== "all" || activeSource !== "both") {
+                    setStatus(shown.toLocaleString() + " of " + total.toLocaleString() + " papers match");
+                } else {
+                    var first = olderSections.length ? olderSections[olderSections.length - 1].year : now.getUTCFullYear();
+                    setStatus(total.toLocaleString() + " papers since " + first);
+                }
+            }
+
+            function buildOlder(papers) {
+                var byYear = {};
+                papers.forEach(function (paper) {
+                    var year = paper.date.slice(0, 4);
+                    (byYear[year] = byYear[year] || []).push(paper);
+                });
+                var container = document.getElementById('older');
+                Object.keys(byYear).sort().reverse().forEach(function (year) {
+                    var details = document.createElement('details');
+                    details.className = "year";
+                    var summary = document.createElement('summary');
+                    var h = document.createElement('h3');
+                    h.textContent = year;
+                    var count = document.createElement('span');
+                    count.className = "count";
+                    h.appendChild(count);
+                    summary.appendChild(h);
+                    var list = document.createElement('ul');
+                    list.className = "spaced-list";
+                    details.appendChild(summary);
+                    details.appendChild(list);
+                    container.appendChild(details);
+                    var sec = {
+                        year: year, papers: byYear[year].sort(byDateDesc), details: details,
+                        list: list, count: count, autoOpened: false, userClosed: false, renderedVersion: -1
+                    };
+                    details.addEventListener('toggle', function () {
+                        if (details.open) {
+                            if (sec.renderedVersion !== filterVersion) { renderSection(sec); }
+                        } else {
+                            if (searchTerms.length > 0) { sec.userClosed = true; }
+                            sec.autoOpened = false;
+                            list.textContent = "";
+                            sec.renderedVersion = -1;
+                        }
+                    });
+                    olderSections.push(sec);
                 });
             }
 
@@ -520,30 +685,42 @@
                 });
             }
 
-            Promise.all([
-                fetchPapers('papers_eprint.txt', 'eprint', '//ia.cr/'),
-                fetchPapers('papers_arxiv.txt', 'arxiv', '//arxiv.org/abs/')
-            ]).then(function (lists) {
-                var papers = lists[0].concat(lists[1]);
-                papers.sort(function (a, b) {
-                    return a.date < b.date ? 1 : (a.date > b.date ? -1 : 0);
-                });
-                papers.forEach(function (paper) {
-                    var list = document.getElementById(paper.date_class);
-                    if (!list) { return; }
-                    var el = makePaperItem(paper);
-                    list.appendChild(el);
-                    allItems.push({ el: el, paper: paper });
-                });
-                addEmptyPlaceholders();
-                applyFilters();
-            });
+            // Load the last year first so the page shows up quickly, then
+            // everything older in the background (search covers it once loaded).
+            fetch('data/index.json')
+                .then(function (r) { return r.json(); })
+                .then(function (index) {
+                    var firstRecentYear = new Date(todayUTC - 365 * DAY).getUTCFullYear();
+                    return fetchYears(index, function (y) { return y >= firstRecentYear; }).then(function (recent) {
+                        var leftovers = [];
+                        recent.sort(byDateDesc).forEach(function (paper) {
+                            var list = paper.bucket && document.getElementById(paper.bucket);
+                            if (!list) { leftovers.push(paper); return; }
+                            var el = makePaperItem(paper);
+                            list.appendChild(el);
+                            allItems.push({ el: el, paper: paper });
+                        });
+                        addEmptyPlaceholders();
+                        applyFilters();
+                        return fetchYears(index, function (y) { return y < firstRecentYear; }).then(function (older) {
+                            buildOlder(leftovers.concat(older));
+                            olderLoaded = true;
+                            applyFilters();
+                        });
+                    });
+                })
+                .catch(function () { setStatus("could not load the paper list"); });
 
+            var searchTimer = null;
             document.getElementById('search').addEventListener('input', function (e) {
-                searchTerms = e.target.value.toLowerCase().split(/\s+/).filter(function (t) {
-                    return t.length > 0;
-                });
-                applyFilters();
+                var value = e.target.value;
+                clearTimeout(searchTimer);
+                searchTimer = setTimeout(function () {
+                    searchTerms = value.toLowerCase().split(/\s+/).filter(function (t) {
+                        return t.length > 0;
+                    });
+                    applyFilters();
+                }, 150);
             });
             document.querySelectorAll('#category-filters .filter').forEach(function (f) {
                 f.addEventListener('click', function () {

@@ -1,0 +1,269 @@
+Public Key Encryption with Equality Test in the Standard Model;;;Hyung Tae Lee, San Ling, Jae Hong Seo, Huaxiong Wang, Taek-Young Youn;;;2016/1182;;;none;;;2016-12-30;;;security
+Updatable Functional Encryption;;;Afonso Arriaga, Vincenzo Iovino, Qiang Tang;;;2016/1179;;;none;;;2016-12-30;;;security
+Implementing and Proving the TLS 1.3 Record Layer;;;Karthikeyan Bhargavan, Antoine Delignat-Lavaud, Cédric Fournet, Markulf Kohlweiss, Jianyang Pan, Jonathan Protzenko, Aseem Rastogi, Nikhil Swamy, Santiago Zanella-Béguelin, Jean Karim Zinzindohoué;;;2016/1178;;;none;;;2016-12-30;;;formal,security
+On the Security Notions for Homomorphic Signatures;;;Dario Catalano, Dario Fiore, Luca Nizzardo;;;2016/1175;;;none;;;2016-12-30;;;security
+Revisiting Full-PRF-Secure PMAC and Using It for Beyond-Birthday Authenticated Encryption;;;Eik List, Mridul Nandi;;;2016/1174;;;none;;;2016-12-28;;;security
+On the Provable Security of the Tweakable Even-Mansour Cipher Against Multi-Key and Related-Key Attacks;;;Ping Zhang, Honggang Hu;;;2016/1172;;;none;;;2016-12-28;;;security
+Mobile Commerce: Secure Multi-party Computation & Financial Cryptography;;;Sumit Chakraborty;;;2016/1167;;;none;;;2016-12-28;;;proofs
+Group key exchange protocols withstanding ephemeral-key reveals;;;Maria Isabel Gonzalez Vasco, Angel L. Perez del Pozo, Adriana Suarez Corona;;;2016/1166;;;none;;;2016-12-28;;;security
+Scripting smart contracts for distributed ledger technology;;;Pablo Lamela Seijas, Simon Thompson, Darryl McAdams;;;2016/1156;;;none;;;2016-12-21;;;proofs
+Identification Protocols and Signature Schemes Based on Supersingular Isogeny Problems;;;Steven D. Galbraith, Christophe Petit, Javier Silva;;;2016/1154;;;none;;;2016-12-21;;;security
+Pairing Cryptography Meets Isogeny: A New Framework of Isogenous Pairing Groups;;;Takeshi Koshiba, Katsuyuki Takashima;;;2016/1138;;;none;;;2016-12-14;;;security
+Lizard: Cut off the Tail! Practical Post-Quantum Public-Key Encryption from LWE and LWR;;;Jung Hee Cheon, Duhyeong Kim, Joohee Lee, Yongsoo Song;;;2016/1126;;;none;;;2016-12-02;;;security
+Integrity Analysis of Authenticated Encryption Based on Stream Ciphers;;;Kazuya Imamura, Kazuhiko Minematsu, Tetsu Iwata;;;2016/1124;;;none;;;2016-12-01;;;security
+A Code-Based Group Signature Scheme;;;Quentin Alamélou, Olivier Blazy, Stéphane Cauchie, Philippe Gaborit;;;2016/1119;;;none;;;2016-12-01;;;proofs,security
+Evaluating Entropy for TRNGs: Efficient, Robust and Provably Secure;;;Maciej Skorski;;;2016/1116;;;none;;;2016-12-01;;;security
+Hiding Higher-Order Side-Channel Leakage - Randomizing Cryptographic Implementations in Reconfigurable Hardware;;;Pascal Sasdrich, Amir Moradi, Tim Güneysu;;;2016/1111;;;none;;;2016-11-25;;;security
+Efficient Post-Quantum Zero-Knowledge and Signatures;;;Steven Goldfeder, Melissa Chase, Greg Zaverucha;;;2016/1110;;;none;;;2016-11-25;;;proofs,security
+Practical CCA2-Secure and Masked Ring-LWE Implementation;;;Tobias Oder, Tobias Schneider, Thomas Pöppelmann, Tim Güneysu;;;2016/1109;;;none;;;2016-11-25;;;security
+Magic Adversaries Versus Individual Reduction: Science Wins Either Way;;;Yi Deng;;;2016/1107;;;none;;;2016-11-25;;;proofs,security
+Multi-key Analysis of Tweakable Even-Mansour with Applications to Minalpher and OPP;;;Zhiyuan Guo, Wenling Wu, Renzhang Liu, Liting Zhang;;;2016/1098;;;none;;;2016-11-22;;;security
+Indistinguishability Obfuscation from SXDH on 5-Linear Maps and Locality-5 PRGs;;;Huijia Lin;;;2016/1096;;;none;;;2016-11-22;;;security
+An Attribute-Based Anonymous Broadcast Encryption Scheme with Adaptive Security in the Standard Model;;;Reyhaneh Rabaninejad, Mohammad Hassan Ameri, Mahshid Delavar, Javad Mohajeri;;;2016/1086;;;none;;;2016-11-21;;;security
+Digital Signatures from Symmetric-Key Primitives;;;David Derler, Claudio Orlandi, Sebastian Ramacher, Christian Rechberger, Daniel Slamanig;;;2016/1085;;;none;;;2016-11-21;;;proofs
+Constructions Secure against Receiver Selective Opening and Chosen Ciphertext Attacks;;;Dingding Jia, Xianhui Lu, Bao Li;;;2016/1083;;;none;;;2016-11-21;;;proofs
+Does Coupling Affect the Security of Masked Implementations?;;;Thomas De Cnudde, Begül Bilgin, Benedikt Gierlichs, Ventzislav Nikov, Svetla Nikova, Vincent Rijmen;;;2016/1080;;;none;;;2016-11-21;;;security
+A Note on Quantum-Secure PRPs;;;Mark Zhandry;;;2016/1076;;;none;;;2016-11-21;;;security
+Changing of the Guards: a simple and efficient method for achieving uniformity in threshold sharing;;;Joan Daemen;;;2016/1061;;;none;;;2016-11-15;;;security
+Secure Multiparty Computation from SGX;;;Raad Bahmani, Manuel Barbosa, Ferdinand Brasser, Bernardo Portela, Ahmad-Reza Sadeghi, Guillaume Scerri, Bogdan Warinschi;;;2016/1057;;;none;;;2016-11-15;;;security
+A Practical Post-Quantum Public-Key Cryptosystem Based on spLWE;;;Jung Hee Cheon, Kyoo Hyung Han, Jinsu Kim, Changmin Lee, Yongha Son;;;2016/1055;;;none;;;2016-11-15;;;security
+SilentWhispers: Enforcing Security and Privacy in Decentralized Credit Networks;;;Giulio Malavolta, Pedro Moreno-Sanchez, Aniket Kate, Matteo Maffei;;;2016/1054;;;none;;;2016-11-15;;;security
+Super-Strong RKA Secure MAC, PKE and SE from Tag-based Hash Proof System;;;Shuai Han, Shengli Liu, Lin Lyu;;;2016/1051;;;none;;;2016-11-15;;;security
+Randomized stopping times and provably secure pseudorandom permutation generators;;;Michal Kulis, Pawel Lorek, Filip Zagorski;;;2016/1049;;;none;;;2016-11-07;;;security
+The Bitcoin Backbone Protocol with Chains of Variable Difficulty;;;Juan A. Garay, Aggelos Kiayias, Nikos Leonardos;;;2016/1048;;;none;;;2016-11-07;;;formal
+Efficient Covert Two-Party Computation;;;Stanislaw Jarecki;;;2016/1032;;;none;;;2016-11-01;;;proofs,security
+Ratcheted Encryption and Key Exchange: The Security of Messaging;;;Mihir Bellare, Asha Camper Singh, Joseph Jaeger, Maya Nyayapati, Igors Stepanovs;;;2016/1028;;;none;;;2016-11-01;;;security
+Deterring Certificate Subversion: Efficient Double-Authentication-Preventing Signatures;;;Mihir Bellare, Bertram Poettering, Douglas Stebila;;;2016/1016;;;none;;;2016-10-27;;;security
+Revisiting and Extending the AONT-RS scheme: a Robust Computationally Secure Secret Sharing Scheme;;;Liqun Chen, Thalia M. Laing, Keith M. Martin;;;2016/1014;;;none;;;2016-10-27;;;security
+A Formal Security Analysis of the Signal Messaging Protocol;;;Katriel Cohn-Gordon, Cas Cremers, Benjamin Dowling, Luke Garratt, Douglas Stebila;;;2016/1013;;;none;;;2016-10-27;;;security
+Efficient Resettably Secure Two-Party Computation;;;Tobias Nilges;;;2016/1009;;;none;;;2016-10-26;;;proofs
+Decryption phase in Norwegian electronic voting;;;Anders Smedstuen Lund, Martin Strand;;;2016/1002;;;none;;;2016-10-26;;;security
+More Efficient Commitments from Structured Lattice Assumptions;;;Carsten Baum, Ivan Damgård, Vadim Lyubashevsky, Sabine Oechsner, Chris Peikert;;;2016/997;;;none;;;2016-10-20;;;proofs
+Scrypt is Maximally Memory-Hard;;;Joël Alwen, Binyi Chen, Krzysztof Pietrzak, Leonid Reyzin, Stefano Tessaro;;;2016/989;;;none;;;2016-10-17;;;security
+Zero Knowledge Protocols from Succinct Constraint Detection;;;Eli Ben-Sasson, Alessandro Chiesa, Michael A. Forbes, Ariel Gabizon, Michael Riabzev, Nicholas Spooner;;;2016/988;;;none;;;2016-10-17;;;proofs
+Hash First, Argue Later: Adaptive Verifiable Computations on Outsourced Data;;;Dario Fiore, Cédric Fournet, Esha Ghosh, Markulf Kohlweiss, Olga Ohrimenko, Bryan Parno;;;2016/985;;;none;;;2016-10-15;;;proofs
+On Adaptively Secure Multiparty Computation with a Short CRS;;;Ran Cohen, Chris Peikert;;;2016/976;;;none;;;2016-10-12;;;security
+(Universal) Unconditional Verifiability in E-Voting without Trusted Parties;;;Gina Gallegos-Garcia, Vincenzo Iovino, Alfredo Rial, Peter B. Roenne, Peter Y. A. Ryan;;;2016/975;;;none;;;2016-10-12;;;proofs,security
+Server-Aided Revocable Identity-Based Encryption from Lattices;;;Khoa Nguyen, Huaxiong Wang, Juanyang Zhang;;;2016/974;;;none;;;2016-10-12;;;security
+On Removing Graded Encodings from Functional Encryption;;;Nir Bitansky, Huijia Lin, Omer Paneth;;;2016/962;;;none;;;2016-10-05;;;security
+Impossibility of Simulation Secure Functional Encryption Even with Random Oracles;;;Shashank Agrawal, Venkata Koppula, Brent Waters;;;2016/959;;;none;;;2016-10-04;;;security
+Collusion-Resistant Broadcast Encryption with Tight Reductions and Beyond;;;Linfeng Zhou;;;2016/953;;;none;;;2016-10-04;;;security
+Functional Encryption for Computational Hiding in Prime Order Groups via Pair Encodings;;;Jongkil Kim, Willy Susilo, Fuchun Guo, Man Ho Au;;;2016/949;;;none;;;2016-10-01;;;security
+Cryptography with Updates;;;Prabhanjan Ananth, Aloni Cohen, Abhishek Jain;;;2016/934;;;none;;;2016-09-29;;;proofs
+Actively Secure 1-out-of-N OT Extension with Application to Private Set Intersection;;;Michele Orrù, Emmanuela Orsini, Peter Scholl;;;2016/933;;;none;;;2016-09-27;;;security
+Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake;;;Phil Daian, Rafael Pass, Elaine Shi;;;2016/919;;;none;;;2016-09-22;;;security
+Small Field Attack, and Revisiting RLWE-Based Authenticated Key Exchange from Eurocrypt'15;;;Boru Gong, Yunlei Zhao;;;2016/913;;;none;;;2016-09-19;;;security
+Parallel Implementations of Masking Schemes and the Bounded Moment Leakage Model;;;Gilles Barthe, François Dupressoir, Sebastian Faust, Benjamin Grégoire, François-Xavier Standaert, Pierre-Yves Strub;;;2016/912;;;none;;;2016-09-19;;;formal
+Cut-and-Choose for Garbled RAM;;;Peihan Miao;;;2016/907;;;none;;;2016-09-16;;;security
+Universally Composable Cryptographic Role-Based Access Control;;;Bin Liu, Bogdan Warinschi;;;2016/902;;;none;;;2016-09-15;;;security
+An efficient somewhat homomorphic encryption scheme based on factorization;;;Gérald Gavin;;;2016/897;;;none;;;2016-09-14;;;security
+Tightly Secure IBE under Constant-size Master Public Key;;;Jie Chen, Junqing Gong, Jian Weng;;;2016/891;;;none;;;2016-09-14;;;security
+Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol;;;Aggelos Kiayias, Alexander Russell, Bernardo David, Roman Oliynykov;;;2016/889;;;none;;;2016-09-14;;;security
+A Robust and Sponge-Like PRNG with Improved Efficiency;;;Daniel Hutchinson;;;2016/886;;;none;;;2016-09-14;;;security
+Naor-Yung Paradigm with Shared Randomness and Applications;;;Silvio Biagioni, Daniel Masny, Daniele Venturi;;;2016/880;;;none;;;2016-09-14;;;proofs,security
+Zero-Knowledge Arguments for Matrix-Vector Relations and Lattice-Based Group Encryption;;;Benoît Libert, San Ling, Fabrice Mouhartem, Khoa Nguyen, Huaxiong Wang;;;2016/879;;;none;;;2016-09-14;;;proofs,security
+How to Build Fully Secure Tweakable Blockciphers from Classical Blockciphers;;;Lei Wang, Jian Guo, Guoyan Zhang, Jingyuan Zhao, Dawu Gu;;;2016/876;;;none;;;2016-09-14;;;security
+Iterated Random Oracle: A Universal Approach for Finding Loss in Security Reduction;;;Fuchun Guo, Willy Susilo, Yi Mu, Rongmao Chen, Jianchang Lai, Guomin Yang;;;2016/872;;;none;;;2016-09-10;;;security
+Selective-Opening Security in the Presence of Randomness Failures;;;Viet Tung Hoang, Jonathan Katz, Adam O’Neill, Mohammad Zaheri;;;2016/868;;;none;;;2016-09-10;;;security
+A Shuffle Argument Secure in the Generic Model;;;Prastudy Fauzi, Helger Lipmaa, Michał Zając;;;2016/866;;;none;;;2016-09-10;;;proofs
+Salvaging Weak Security Bounds for Blockcipher-Based Constructions;;;Thomas Shrimpton, R. Seth Terashima;;;2016/864;;;none;;;2016-09-10;;;security
+Efficient IBE with Tight Reduction to Standard Assumption in the Multi-challenge Setting;;;Junqing Gong, Xiaolei Dong, Jie Chen, Zhenfu Cao;;;2016/860;;;none;;;2016-09-10;;;security
+A Key Recovery Attack on MDPC with CCA Security Using Decoding Errors;;;Qian Guo, Thomas Johansson, Paul Stankovski;;;2016/858;;;none;;;2016-09-08;;;security
+Stronger Security Variants of GCM-SIV;;;Tetsu Iwata, Kazuhiko Minematsu;;;2016/853;;;none;;;2016-09-07;;;security
+Partitioning via Non-Linear Polynomial Functions: More Compact IBEs from Ideal Lattices and Bilinear Maps;;;Shuichi Katsumata, Shota Yamada;;;2016/843;;;none;;;2016-09-06;;;security
+A Methodology for the Characterisation of Leakages in Combinatorial Logic;;;Guido Bertoni, Marco Martinoli;;;2016/841;;;none;;;2016-09-06;;;formal
+Multi-Key Homomorphic Signatures Unforgeable under Insider Corruption;;;Russell W. F. Lai, Raymond K. H. Tai, Harry W. H. Wong, Sherman S. M. Chow;;;2016/834;;;none;;;2016-08-31;;;proofs
+Multi-Cast Key Distribution: Scalable, Dynamic and Provably Secure Construction;;;Kazuki Yoneyama, Reo Yoshida, Yuto Kawahara, Tetsutaro Kobayashi, Hitoshi Fuji, Tomohide Yamamoto;;;2016/833;;;none;;;2016-08-31;;;security
+IO-DSSE: Scaling Dynamic Searchable Encryption to Millions of Indexes By Improving Locality;;;Ian Miers, Payman Mohassel;;;2016/830;;;none;;;2016-08-30;;;security
+Efficient KDM-CCA Secure Public-Key Encryption for Polynomial Functions;;;Shuai Han, Shengli Liu, Lin Lyu;;;2016/829;;;none;;;2016-08-30;;;proofs,security
+A Secure and Efficient Authentication Technique for Vehicular Ad-Hoc Networks;;;Maryam Rajabzadeh Asaar, Mahmoud Salmasizadeh, Willy Susilo, Akbar Majidi;;;2016/822;;;none;;;2016-08-28;;;security
+Virtual Grey-Boxes Beyond Obfuscation: A Statistical Security Notion for Cryptographic Agents;;;Shashank Agrawal, Manoj Prabhakaran, Ching-Hua Yu;;;2016/819;;;none;;;2016-08-26;;;security
+Composable Adaptive Secure Protocols without Setup under Polytime Assumptions;;;Carmit Hazay, Muthuramakrishnan Venkitasubramaniam;;;2016/818;;;none;;;2016-08-26;;;security
+Secure Obfuscation in a Weak Multilinear Map Model;;;Sanjam Garg, Eric Miles, Pratyay Mukherjee, Amit Sahai, Akshayaram Srinivasan, Mark Zhandry;;;2016/817;;;none;;;2016-08-26;;;security
+Simulating Auxiliary Inputs, Revisited;;;Maciej Skorski;;;2016/808;;;none;;;2016-08-25;;;proofs,security
+Digital Signatures Based on the Hardness of Ideal Lattice Problems in all Rings;;;Vadim Lyubashevsky;;;2016/796;;;none;;;2016-08-20;;;security
+Indistinguishability Obfuscation from DDH-like Assumptions on Constant-Degree Graded Encodings;;;Huijia Lin, Vinod Vaikuntanathan;;;2016/795;;;none;;;2016-08-20;;;security
+Key-Homomorphic Signatures: Definitions and Applications to Multiparty Signatures and Non-Interactive Zero-Knowledge;;;David Derler, Daniel Slamanig;;;2016/792;;;none;;;2016-08-20;;;proofs
+Leakage Resilient One-Way Functions: The Auxiliary-Input Setting;;;Ilan Komargodski;;;2016/791;;;none;;;2016-08-20;;;security
+Verifiable and Delegatable Constrained Pseudorandom Functions for Unconstrained Inputs;;;Pratish Datta, Ratna Dutta, Sourav Mukhopadhyay;;;2016/784;;;none;;;2016-08-18;;;security
+Efficient and Provable Secure Anonymous Hierarchical Identity-based Broadcast Encryption (HIBBE) Scheme without Random Oracle;;;Mohammmad Hassan Ameri, Javad Mohajeri, Mahmoud Salmasizadeh;;;2016/780;;;none;;;2016-08-17;;;security
+Code-based Strong Designated Verifier Signatures: Security Analysis and a New Construction;;;Maryam Rajabzadeh Asaar;;;2016/779;;;none;;;2016-08-17;;;security
+How not to Prove Yourself: Pitfalls of the Fiat-Shamir Heuristic and Applications to Helios;;;David Bernhard, Olivier Pereira, Bogdan Warinschi;;;2016/771;;;none;;;2016-08-12;;;proofs,security
+Functional Commitment Schemes: From Polynomial Commitments to Pairing-Based Accumulators from Simple Assumptions;;;Benoît Libert, Somindu C. Ramanna, Moti Yung;;;2016/766;;;none;;;2016-08-10;;;proofs,security
+Faster Secure Two-Party Computation in the Single-Execution Setting;;;Xiao Wang, Alex J. Malozemoff, Jonathan Katz;;;2016/762;;;none;;;2016-08-10;;;security
+Adapting Helios for provable ballot privacy;;;David Bernhard, Véronique Cortier, Olivier Pereira, Ben Smyth, Bogdan Warinschi;;;2016/756;;;none;;;2016-08-09;;;formal,proofs
+Public-Key Based Lightweight Swarm Authentication;;;Simon Cogliani, Bao Feng, Houda Ferradi, Rémi Géraud, Diana Maimut, David Naccache, Rodrigo Portella do Canto, Guilin Wang;;;2016/750;;;none;;;2016-08-08;;;proofs,security
+Revocable Hierarchical Identity-Based Encryption with Adaptive Security;;;Kwangsu Lee;;;2016/749;;;none;;;2016-08-08;;;security
+Leakage-Abuse Attacks Against Searchable Encryption;;;David Cash, Paul Grubbs, Jason Perry, Thomas Ristenpart;;;2016/718;;;none;;;2016-07-21;;;security
+2-hop Blockchain: Combining Proof-of-Work and Proof-of-Stake Securely;;;Tuyet Duong, Lei Fan, Hong-Sheng Zhou;;;2016/716;;;none;;;2016-07-21;;;security
+From 5-pass MQ-based identification to MQ-based signatures;;;Ming-Shing Chen, Andreas Hülsing, Joost Rijneveld, Simona Samardjiska, Peter Schwabe;;;2016/708;;;none;;;2016-07-18;;;security
+Memory Erasability Amplification;;;Jan Camenisch, Robert R. Enderlein, Ueli Maurer;;;2016/706;;;none;;;2016-07-18;;;security
+Cryptanalysis and improvement of certificateless aggregate signature with conditional privacy-preserving for vehicular sensor networks;;;Jiguo Li, Hong Yuan, Yichen Zhang;;;2016/692;;;none;;;2016-07-13;;;security
+Targeted Homomorphic Attribute Based Encryption;;;Zvika Brakerski, David Cash, Rotem Tsabary, Hoeteck Wee;;;2016/691;;;none;;;2016-07-13;;;security
+When Are Three Voters Enough for Privacy Properties?;;;Myrto Arapinis, Véronique Cortier, Steve Kremer;;;2016/690;;;none;;;2016-07-13;;;formal
+Bounded KDM Security from iO and OWF;;;Antonio Marcedone, Rafael Pass, abhi shelat;;;2016/688;;;none;;;2016-07-12;;;security
+Ciphers for MPC and FHE;;;Martin Albrecht, Christian Rechberger, Thomas Schneider, Tyge Tiessen, Michael Zohner;;;2016/687;;;none;;;2016-07-12;;;proofs
+Amortized Complexity of Zero-Knowledge Proofs Revisited: Achieving Linear Soundness Slack;;;Ronald Cramer, Ivan Damgard, Chaoping Xing, Chen Yuan;;;2016/681;;;none;;;2016-07-12;;;proofs
+Anonymous RAM;;;Michael Backes, Amir Herzberg, Aniket Kate, Ivan Pryvalov;;;2016/678;;;none;;;2016-07-06;;;security
+A PUF-based Secure Communication Protocol for IoT;;;URBI CHATTERJEE, RAJAT SUBHRA CHAKRABORTY, DEBDEEP MUKHOPADHYAY;;;2016/674;;;none;;;2016-07-06;;;security
+Anonymous Attestation Using the Strong Diffie Hellman Assumption Revisited;;;Jan Camenisch, Manu Drijvers, Anja Lehmann;;;2016/663;;;none;;;2016-06-28;;;security
+Practical Round-Optimal Blind Signatures in the Standard Model from Weaker Assumptions;;;Georg Fuchsbauer, Christian Hanser, Chethan Kamath, Daniel Slamanig;;;2016/662;;;none;;;2016-06-28;;;security
+Frodo: Take off the ring! Practical, Quantum-Secure Key Exchange from LWE;;;Joppe Bos, Craig Costello, Léo Ducas, Ilya Mironov, Michael Naehrig, Valeria Nikolaenko, Ananth Raghunathan, Douglas Stebila;;;2016/659;;;none;;;2016-06-28;;;security
+Improving Practical UC-Secure Commitments based on the DDH Assumption;;;Eiichiro Fujisaki;;;2016/656;;;none;;;2016-06-28;;;security
+Securing Multiparty Protocols against the Exposure of Data to Honest Parties;;;Peeter Laud, Alisa Pankova;;;2016/650;;;none;;;2016-06-24;;;security
+Computational integrity with a public random string from quasi-linear PCPs;;;Eli Ben-Sasson, Iddo Ben-Tov, Alessandro Chiesa, Ariel Gabizon, Daniel Genkin, Matan Hamilis, Evgenya Pergament, Michael Riabzev, Mark Silberstein, Eran Tromer, Madars Virza;;;2016/646;;;none;;;2016-06-24;;;proofs
+Efficient and Provable White-Box Primitives;;;Pierre-Alain Fouque, Pierre Karpman, Paul Kirchner, Brice Minaud;;;2016/642;;;none;;;2016-06-21;;;security
+Unconditional UC-Secure Computation with (Stronger-Malicious) PUFs;;;Saikrishna Badrinarayanan, Dakshita Khurana, Rafail Ostrovsky, Ivan Visconti;;;2016/636;;;none;;;2016-06-21;;;security
+Sealed-Glass Proofs: Using Transparent Enclaves to Prove and Sell Knowledge;;;Florian Tramer, Fan Zhang, Huang Lin, Jean-Pierre Hubaux, Ari Juels, Elaine Shi;;;2016/635;;;none;;;2016-06-21;;;proofs
+Compact CCA2-secure Hierarchical Identity-Based Broadcast Encryption for Fuzzy-entity Data Sharing;;;Weiran Liu, Jianwei Liu, Qianhong Wu, Bo Qin, David Naccache, Houda Ferradi;;;2016/634;;;none;;;2016-06-21;;;security
+On the properties of the CTR encryption mode of the Magma and Kuznyechik block ciphers with re-keying method based on CryptoPro Key Meshing;;;Liliya R. Ahmetzyanova, Evgeny K. Alekseev, Igor B. Oshkin, Stanislav V. Smyshlyaev, Lolita A. Sonina;;;2016/628;;;none;;;2016-06-17;;;security
+Equational Security Proofs of Oblivious Transfer Protocols;;;Baiyu Li, Daniele Micciancio;;;2016/624;;;none;;;2016-06-17;;;security
+Reusing Tamper-Proof Hardware in UC-Secure Protocols;;;Jeremias Mechler, Jörn Müller-Quade, Tobias Nilges;;;2016/615;;;none;;;2016-06-16;;;security
+Better Two-Round Adaptive Multi-Party Computation;;;Ran Canetti, Oxana Poburinnaya, Muthuramakrishnan Venkitasubramaniam;;;2016/614;;;none;;;2016-06-16;;;proofs
+Catching MPC Cheaters: Identification and Openability;;;Robert Cunningham, Benjamin Fuller, Sophia Yakoubov;;;2016/611;;;none;;;2016-06-14;;;proofs
+More Efficient Oblivious Transfer Extensions;;;Gilad Asharov, Yehuda Lindell, Thomas Schneider, Michael Zohner;;;2016/602;;;none;;;2016-06-07;;;security
+Dimension-Preserving Reductions from LWE to LWR;;;Jacob Alperin-Sheriff, Daniel Apon;;;2016/589;;;none;;;2016-06-06;;;formal
+Secure obfuscation in a weak multilinear map model: A simple construction secure against all known attacks;;;Eric Miles, Amit Sahai, Mark Zhandry;;;2016/588;;;none;;;2016-06-06;;;security
+Efficient Zero-Knowledge Proof of Algebraic and Non-Algebraic Statements with Applications to Privacy Preserving Credentials;;;Melissa Chase, Chaya Ganesh, Payman Mohassel;;;2016/583;;;none;;;2016-06-06;;;proofs
+UC Commitments for Modular Protocol Design and Applications to Revocation and Attribute Tokens;;;Jan Camenisch, Maria Dubovitskaya, Alfredo Rial;;;2016/581;;;none;;;2016-06-06;;;proofs,security
+TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub;;;Ethan Heilman, Leen Alshenibr, Foteini Baldimtsi, Alessandra Scafuro, Sharon Goldberg;;;2016/575;;;none;;;2016-06-03;;;security
+Structure vs Hardness through the Obfuscation Lens;;;Nir Bitansky, Akshay Degwekar, Vinod Vaikuntanathan;;;2016/574;;;none;;;2016-06-03;;;proofs
+Concurrent Non-Malleable Commitments (and More) in 3 Rounds;;;Michele Ciampi, Rafail Ostrovsky, Luisa Siniscalchi, Ivan Visconti;;;2016/566;;;none;;;2016-06-03;;;proofs
+Garbling Scheme for Formulas with Constant Size of Garbled Gates;;;Carmen Kempka, Ryo Kikuchi, Susumu Kiyoshima, Koutarou Suzuki;;;2016/563;;;none;;;2016-06-03;;;security
+Provably Secure Password Authenticated Key Exchange Based on RLWE for the Post-QuantumWorld;;;Jintai Ding, Saed Alsayigh, Jean Lancrenon, Saraswathy RV, Michael Snook;;;2016/552;;;none;;;2016-06-02;;;security
+Antikernel: A Decentralized Secure Hardware-Software Operating System Architecture;;;Andrew D. Zonenberg, Bulent Yener;;;2016/550;;;none;;;2016-06-02;;;formal
+Linicrypt: A Model for Practical Cryptography;;;Brent Carmer, Mike Rosulek;;;2016/548;;;none;;;2016-06-02;;;security
+On Trees, Chains and Fast Transactions in the Blockchain;;;Aggelos Kiayias, Giorgos Panagiotakos;;;2016/545;;;none;;;2016-06-01;;;security
+New Protocols for Secure Equality Test and Comparison;;;Geoffroy Couteau;;;2016/544;;;none;;;2016-06-01;;;security
+Big-Key Symmetric Encryption: Resisting Key Exfiltration;;;Mihir Bellare, Daniel Kane, Phillip Rogaway;;;2016/541;;;none;;;2016-05-31;;;security
+Horizontal Side-Channel Attacks and Countermeasures on the ISW Masking Scheme;;;Alberto Battistello, Jean-Sebastien Coron, Emmanuel Prouff, Rina Zeitoun;;;2016/540;;;none;;;2016-05-31;;;security
+How to prove knowledge of small secrets;;;Carsten Baum, Ivan Damgård, Kasper Larsen, Michael Nielsen;;;2016/538;;;none;;;2016-05-31;;;proofs
+Position-Based Cryptography and Multiparty Communication Complexity;;;Joshua Brody, Stefan Dziembowski, Sebastian Faust, Krzysztof Pietrzak;;;2016/536;;;none;;;2016-05-31;;;security
+Generic Semantic Security against a Kleptographic Adversary;;;Alexander Russell, Qiang Tang, Moti Yung, Hong-Sheng Zhou;;;2016/530;;;none;;;2016-05-31;;;security
+Efficient Public-Key Cryptography with Bounded Leakage and Tamper Resilience;;;Antonio Faonio, Daniele Venturi;;;2016/529;;;none;;;2016-05-29;;;proofs,security
+Secure Outsourcing of Circuit Manufacturing;;;Giuseppe Ateniese, Aggelos Kiayias, Bernardo Magri, Yiannis Tselekounis, Daniele Venturi;;;2016/527;;;none;;;2016-05-29;;;proofs
+EWCDM: An Efficient, Beyond-Birthday Secure, Nonce-Misuse Resistant MAC;;;Benoît Cogliati, Yannick Seurin;;;2016/525;;;none;;;2016-05-29;;;security
+Single-Key to Multi-Key Functional Encryption with Polynomial Loss;;;Sanjam Garg, Akshayaram Srinivasan;;;2016/524;;;none;;;2016-05-29;;;security
+Programmable Hash Functions from Lattices: Short Signatures and IBEs with Small Key Sizes;;;Jiang Zhang, Yu Chen, Zhenfeng Zhang;;;2016/523;;;none;;;2016-05-29;;;security
+Universally Composable Two-Server PAKE;;;Franziskus Kiefer, Mark Manulis;;;2016/520;;;none;;;2016-05-29;;;security
+On the Relationship between Statistical Zero-Knowledge and Statistical Randomized Encodings;;;Benny Applebaum, Pavel Raykov;;;2016/519;;;none;;;2016-05-29;;;proofs
+Boneh-Gentry-Hamburg's Identity-based Encryption Schemes Revisited;;;George Teseleanu, Ferucio Laurentiu Tiplea, Sorin Iftene, Anca-Maria Nica;;;2016/516;;;none;;;2016-05-29;;;security
+Collapse-binding quantum commitments without random oracles;;;Dominique Unruh;;;2016/508;;;none;;;2016-05-25;;;security
+Certificateless Key Insulated Encryption: Cryptographic Primitive for Achieving Key-escrow free and Key-exposure Resilience;;;Libo He, Chen Yuan, Hu Xiong, Zhiguang Qin;;;2016/501;;;none;;;2016-05-23;;;security
+Efficient Identity-Based Encryption and Public-Key Signature from Trapdoor Subgroups;;;Jong Hwan Park, Kwangsu Lee, Dong Hoon Lee;;;2016/500;;;none;;;2016-05-23;;;security
+Towards Tightly Secure Short Signature and IBE;;;Xavier Boyen, Qinyi Li;;;2016/498;;;none;;;2016-05-22;;;security
+MiMC: Efficient Encryption and Cryptographic Hashing with Minimal Multiplicative Complexity;;;Martin Albrecht, Lorenzo Grassi, Christian Rechberger, Arnab Roy, Tyge Tiessen;;;2016/492;;;none;;;2016-05-22;;;proofs
+Proofs of Knowledge on Monotone Predicates and its Application to Attribute-Based Identifications and Signatures;;;Hiroaki Anada, Seiko Arita, Kouichi Sakurai;;;2016/483;;;none;;;2016-05-20;;;proofs
+Achieving Better Privacy for the 3GPP AKA Protocol;;;Pierre-Alain Fouque, Cristina Onete, Benjamin Richard;;;2016/480;;;none;;;2016-05-20;;;security
+Shortening the Libert-Peters-Yung Revocable Group Signature Scheme by Using the Random Oracle Methodology;;;Kazuma Ohara, Keita Emura, Goichiro Hanaoka, Ai Ishida, Kazuo Ohta, Yusuke Sakai;;;2016/477;;;none;;;2016-05-19;;;security
+Groth-Sahai Proofs Revisited Again: A Bug in ``Optimized'' Randomization;;;Keita Xagawa;;;2016/476;;;none;;;2016-05-19;;;proofs
+NTRU Prime: reducing attack surface at low cost;;;Daniel J. Bernstein, Chitchanok Chuengsatiansup, Tanja Lange, Christine van Vredendaal;;;2016/461;;;none;;;2016-05-13;;;security
+Non-Interactive RAM and Batch NP Delegation from any PIR;;;Zvika Brakerski, Justin Holmgren, Yael Kalai;;;2016/459;;;none;;;2016-05-13;;;formal
+Secure Protocol Transformations;;;Yuval Ishai, Eyal Kushilevitz, Manoj Prabhakaran, Amit Sahai, Ching-Hua Yu;;;2016/456;;;none;;;2016-05-13;;;proofs
+Efficient Zero-Knowledge Contingent Payments in Cryptocurrencies Without Scripts;;;Wacław Banasik, Stefan Dziembowski, Daniel Malinowski;;;2016/451;;;none;;;2016-05-10;;;proofs
+A Provably Secure Code-based Concurrent Signature Scheme;;;Maryam Rajabzadeh Asaar, Mahmoud Salmasizadeh, Mohammad Reza Aref;;;2016/450;;;none;;;2016-05-10;;;security
+Thrifty Zero-Knowledge - When Linear Programming Meets Cryptography;;;Simon Cogliani, Houda Ferradi, Rémi Géraud, David Naccache;;;2016/443;;;none;;;2016-05-06;;;proofs
+Blind Password Registration for Verifier-based PAKE;;;Franziskus Kiefer, Mark Manulis;;;2016/442;;;none;;;2016-05-06;;;proofs,security
+Function-Hiding Inner Product Encryption is Practical;;;Sam Kim, Kevin Lewi, Avradip Mandal, Hart Montgomery, Arnab Roy, David J. Wu;;;2016/440;;;none;;;2016-05-04;;;security
+Security Proofs for Participation Privacy, Receipt-Freeness, Ballot Privacy, and Verifiability Against Malicious Bulletin Board for the Helios Voting Scheme;;;David Bernhard, Oksana Kulyk, Melanie Volkamer;;;2016/431;;;none;;;2016-05-02;;;security
+Modeling Random Oracles under Unpredictable Queries;;;Pooya Farshim, Arno Mittelbach;;;2016/423;;;none;;;2016-05-01;;;security
+Slow Motion Zero Knowledge Identifying With Colliding Commitments;;;Houda Ferradi, Rémi Géraud, David Naccache;;;2016/399;;;none;;;2016-04-21;;;proofs
+Efficient Beyond-Birthday-Bound-Secure Deterministic Authenticated Encryption with Minimal Stretch;;;Christian Forler, Eik List, Stefan Lucks, Jakob Wenzel;;;2016/395;;;none;;;2016-04-21;;;security
+Strengthening the Known-Key Security Notion for Block Ciphers;;;Benoît Cogliati, Yannick Seurin;;;2016/394;;;none;;;2016-04-21;;;security
+A Quasipolynomial Reduction for Generalized Selective Decryption on Trees;;;Georg Fuchsbauer, Zahra Jafargholi, Krzysztof Pietrzak;;;2016/389;;;none;;;2016-04-19;;;security
+Tightly-Secure Authenticated Key Exchange without NAXOS' approach based on Decision Linear Problem;;;Mojahed Mohamed, Xiaofen Wang, Xiaosong Zhang;;;2016/388;;;none;;;2016-04-19;;;security
+Two More Efficient Variants of the J-PAKE Protocol;;;Jean Lancrenon, Marjan Škrobot, Qiang Tang;;;2016/379;;;none;;;2016-04-14;;;proofs,security
+Adaptive partitioning;;;Dennis Hofheinz;;;2016/373;;;none;;;2016-04-14;;;proofs,security
+NIZKs with an Untrusted CRS: Security in the Face of Parameter Subversion;;;Mihir Bellare, Georg Fuchsbauer, Alessandra Scafuro;;;2016/372;;;none;;;2016-04-14;;;proofs
+A Cryptographic Analysis of UMTS/LTE AKA;;;Stéphanie Alt, Pierre-Alain Fouque, Gilles Macario-rat, Cristina Onete, Benjamin Richard;;;2016/371;;;none;;;2016-04-14;;;security
+Foundations of Fully Dynamic Group Signatures;;;Jonathan Bootle, Andrea Cerulli, Pyrros Chaidos, Essam Ghadafi, Jens Groth;;;2016/368;;;none;;;2016-04-12;;;security
+Legally Fair Contract Signing Without Keystones;;;Houda Ferradi, Rémi Géraud, Diana Maimut, David Naccache, David Pointcheval;;;2016/363;;;none;;;2016-04-11;;;security
+Functional Encryption for Bounded Collusions, Revisited;;;Shweta Agrawal, Alon Rosen;;;2016/361;;;none;;;2016-04-11;;;security
+Another Look at Tightness II: Practical Issues in Cryptography;;;Sanjit Chatterjee, Neal Koblitz, Alfred Menezes, Palash Sarkar;;;2016/360;;;none;;;2016-04-11;;;security
+The Ring of Gyges: Investigating the Future of Criminal Smart Contracts;;;Ari Juels, Ahmed Kosba, Elaine Shi;;;2016/358;;;none;;;2016-04-08;;;proofs
+More Efficient Constructions for Inner-Product Encryption;;;Somindu C. Ramanna;;;2016/356;;;none;;;2016-04-08;;;proofs
+A Pairing-Free, One Round Identity Based Authenticated Key Exchange Protocol Secure Against Memory-Scrapers;;;Suvradip Chakraborty, Srinivasan Raghuraman, C. Pandu Rangan;;;2016/354;;;none;;;2016-04-06;;;security
+Probabilistic Termination and Composability of Cryptographic Protocols;;;Ran Cohen, Sandro Coretti, Juan Garay, Vassilis Zikas;;;2016/350;;;none;;;2016-04-04;;;security
+Provably Secure Password Reset Protocol: Model, Definition, and Generic Construction;;;Satsuya Ohata, Takahiro Matsuda, Kanta Matsuura;;;2016/345;;;none;;;2016-04-01;;;security
+On the Selective Opening Security of Practical Public-Key Encryption Schemes;;;Felix Heuer, Tibor Jager, Eike Kiltz, Sven Schäge;;;2016/342;;;none;;;2016-03-31;;;security
+Semantically Secure Anonymity: Foundations of Re-encryption;;;Adam L. Young, Moti Yung;;;2016/341;;;none;;;2016-03-30;;;security
+TRVote: A New, Trustworthy and Robust Electronic Voting System;;;Fatih Tiryakioglu, Mehmet Sabir Kiraz, Fatih Birinci;;;2016/331;;;none;;;2016-03-25;;;proofs
+Proxy Re-Encryption Schemes with Key Privacy from LWE;;;Le Trieu Phong, Lihua Wang, Yoshinori Aono, Manh Ha Nguyen, Xavier Boyen;;;2016/327;;;none;;;2016-03-25;;;security
+Interactive Oracle Proofs with Constant Rate and Query Complexity;;;Eli Ben-Sasson, Alessandro Chiesa, Ariel Gabizon, Michael Riabzev, Nicholas Spooner;;;2016/324;;;none;;;2016-03-23;;;proofs
+Generic Construction of Certificateless Signcryption Scheme;;;Jayaprakash Kar, Sagar Naik;;;2016/318;;;none;;;2016-03-22;;;security
+Fiat-Shamir for Highly Sound Protocols is Instantiable;;;Arno Mittelbach, Daniele Venturi;;;2016/313;;;none;;;2016-03-21;;;proofs,security
+A Formal Treatment of Backdoored Pseudorandom Generators;;;Yevgeniy Dodis, Chaya Ganesh, Alexander Golovnev, Ari Juels, Thomas Ristenpart;;;2016/306;;;none;;;2016-03-18;;;security
+Certicateless Aggregate Short Signature Scheme;;;Jayaprakash Kar;;;2016/305;;;none;;;2016-03-17;;;security
+From Obfuscation to the Security of Fiat-Shamir for Proofs;;;Yael Tauman Kalai, Guy N. Rothblum, Ron D. Rothblum;;;2016/303;;;none;;;2016-03-17;;;formal,proofs,security
+Constrained Pseudorandom Functions for Unconstrained Inputs;;;Apoorvaa Deshpande, Venkata Koppula, Brent Waters;;;2016/301;;;none;;;2016-03-17;;;proofs,security
+A Parametric Family of Attack Models for Proxy Re-Encryption;;;David Nuñez, Isaac Agudo, Javier Lopez;;;2016/293;;;none;;;2016-03-17;;;security
+Spooky Interaction and its Discontents: Compilers for Succinct Two-Message Argument Systems;;;Cynthia Dwork, Moni Naor, Guy N. Rothblum;;;2016/291;;;none;;;2016-03-17;;;proofs
+Nonce-Based Cryptography: Retaining Security when Randomness Fails;;;Mihir Bellare, Björn Tackmann;;;2016/290;;;none;;;2016-03-17;;;security
+Bit-Based Division Property and Application to Simon Family;;;Yosuke Todo, Masakatu Morii;;;2016/285;;;none;;;2016-03-15;;;security
+Detecting flawed masking schemes with leakage detection tests;;;Oscar Reparaz;;;2016/282;;;none;;;2016-03-15;;;security
+Various Proxy Re-Encryption Schemes from Lattices;;;Xiong Fan, Feng-Hao Liu;;;2016/278;;;none;;;2016-03-14;;;security
+Spooky Encryption and its Applications;;;Yevgeniy Dodis, Shai Halevi, Ron D. Rothblum, Daniel Wichs;;;2016/272;;;none;;;2016-03-10;;;proofs
+Automated Unbounded Analysis of Cryptographic Constructions in the Generic Group Model;;;Miguel Ambrona, Gilles Barthe, Benedikt Schmidt;;;2016/270;;;none;;;2016-03-10;;;security
+Efficient Lattice-based Authenticated Encryption: A Practice-Oriented Provable Security Approach;;;Ahmad Boorghany, Siavash Bayat-Sarmadi, Rasool Jalili;;;2016/268;;;none;;;2016-03-10;;;security
+Multi-prover Proof-of-Retrievability;;;Maura B. Paterson, Douglas R. Stinson, Jalaj Upadhyay;;;2016/265;;;none;;;2016-03-08;;;security
+Efficient Zero-Knowledge Arguments for Arithmetic Circuits in the Discrete Log Setting;;;Jonathan Bootle, Andrea Cerulli, Pyrros Chaidos, Jens Groth, Christophe Petit;;;2016/263;;;none;;;2016-03-08;;;proofs
+On the Size of Pairing-based Non-interactive Arguments;;;Jens Groth;;;2016/260;;;none;;;2016-03-08;;;proofs
+Adaptive Oblivious Transfer and Generalizations;;;Olivier Blazy, Céline Chevalier, Paul Germouty;;;2016/259;;;none;;;2016-03-08;;;security
+On the Key Dependent Message Security of the Fujisaki-Okamoto Constructions;;;Fuyuki Kitagawa, Takahiro Matsuda, Goichiro Hanaoka, Keisuke Tanaka;;;2016/243;;;none;;;2016-03-05;;;security
+Trading Plaintext-Awareness for Simulatability to Achieve Chosen Ciphertext Security;;;Takahiro Matsuda, Goichiro Hanaoka;;;2016/235;;;none;;;2016-03-03;;;security
+Smooth NIZK Arguments with Applications to Asymmetric UC-PAKE and Threshold-IBE;;;Charanjit S. Jutla, Arnab Roy;;;2016/233;;;none;;;2016-03-03;;;proofs,security
+Key Compression for Isogeny-Based Cryptosystems;;;Reza Azarderakhsh, David Jao, Kassem Kalach, Brian Koziel, Christopher Leonardi;;;2016/229;;;none;;;2016-03-01;;;proofs
+Nonce-based Kerberos is a Secure Delegated AKE Protocol;;;Jörg Schwenk;;;2016/219;;;none;;;2016-02-29;;;formal,security
+Semantic Security and Key-Privacy With Random Split of St-Gen Codes;;;Danilo Gligoroski, Simona Samardjiska;;;2016/218;;;none;;;2016-02-29;;;security
+Fair mPSI and mPSI-CA: Efficient Constructions in Prime Order Groups with Security in the Standard Model against Malicious Adversary;;;Sumit Kumar Debnath, Ratna Dutta;;;2016/216;;;none;;;2016-02-29;;;security
+3-Message Zero Knowledge Against Human Ignorance;;;Nir Bitansky, Zvika Brakerski, Yael Kalai, Omer Paneth, Vinod Vaikuntanathan;;;2016/213;;;none;;;2016-02-29;;;proofs
+Constant-Round Asynchronous Multi-Party Computation Based on One-Way Functions;;;Sandro Coretti, Juan Garay, Martin Hirt, Vassilis Zikas;;;2016/208;;;none;;;2016-02-25;;;security
+From Stateful Hardware to Resettable Hardware Using Symmetric Assumptions;;;Nico Doettling, Daniel Kraschewski, Joern Mueller-Quade, Tobias Nilges;;;2016/201;;;none;;;2016-02-25;;;security
+Optimal Security Proofs for Signatures from Identification Schemes;;;Eike Kiltz, Daniel Masny, Jiaxin Pan;;;2016/191;;;none;;;2016-02-23;;;security
+Efficient Secure Multiparty Computation with Identifiable Abort;;;Carsten Baum, Emmanuela Orsini, Peter Scholl;;;2016/187;;;none;;;2016-02-23;;;proofs
+Online/Offline OR Composition of Sigma Protocols;;;Michele Ciampi, Giuseppe Persiano, Alessandra Scafuro, Luisa Siniscalchi, Ivan Visconti;;;2016/175;;;none;;;2016-02-22;;;proofs
+Provably Robust Sponge-Based PRNGs and KDFs;;;Peter Gaži, Stefano Tessaro;;;2016/169;;;none;;;2016-02-19;;;security
+Town Crier: An Authenticated Data Feed for Smart Contracts;;;Fan Zhang, Ethan Cecchetti, Kyle Croman, Ari Juels, Elaine Shi;;;2016/168;;;none;;;2016-02-19;;;security
+Per-Session Security: Password-Based Cryptography Revisited;;;Grégory Demay, Peter Gaži, Ueli Maurer, Björn Tackmann;;;2016/166;;;none;;;2016-02-19;;;security
+ZKBoo: Faster Zero-Knowledge for Boolean Circuits;;;Irene Giacomelli, Jesper Madsen, Claudio Orlandi;;;2016/163;;;none;;;2016-02-18;;;proofs
+Highly-Efficient Fully-Anonymous Dynamic Group Signatures;;;David Derler, Daniel Slamanig;;;2016/154;;;none;;;2016-02-18;;;security
+Highly-Efficient and Composable Password-Protected Secret Sharing (Or: How to Protect Your Bitcoin Wallet Online);;;Stanislaw Jarecki, Aggelos Kiayias, Hugo Krawczyk, Jiayu Xu;;;2016/144;;;none;;;2016-02-16;;;security
+Removing the Strong RSA Assumption from Arguments over the Integers;;;Geoffroy Couteau, Thomas Peters, David Pointcheval;;;2016/128;;;none;;;2016-02-14;;;proofs,security
+Compact Identity Based Encryption from LWE;;;Daniel Apon, Xiong Fan, Feng-Hao Liu;;;2016/125;;;none;;;2016-02-14;;;security
+Robust Password-Protected Secret Sharing;;;Michel Abdalla, Mario Cornejo, Anca Nitulescu, David Pointcheval;;;2016/123;;;none;;;2016-02-14;;;security
+Circular Security Separations for Arbitrary Length Cycles from LWE;;;Venkata Koppula, Brent Waters;;;2016/117;;;none;;;2016-02-11;;;security
+Interactive Oracle Proofs;;;Eli Ben-Sasson, Alessandro Chiesa, Nicholas Spooner;;;2016/116;;;none;;;2016-02-11;;;proofs,security
+On the (In)security of SNARKs in the Presence of Oracles;;;Dario Fiore, Anca Nitulescu;;;2016/112;;;none;;;2016-02-10;;;proofs,security
+Three's Compromised Too: Circular Insecurity for Any Cycle Length from (Ring-)LWE;;;Navid Alamati, Chris Peikert;;;2016/110;;;none;;;2016-02-10;;;security
+Breaking the Sub-Exponential Barrier in Obfustopia;;;Sanjam Garg, Omkant Pandey, Akshayaram Srinivasan, Mark Zhandry;;;2016/102;;;none;;;2016-02-08;;;security
+Signature Schemes with Efficient Protocols and Dynamic Group Signatures from Lattice Assumptions;;;Benoit Libert, San Ling, Fabrice Mouhartem, Khoa Nguyen, Huaxiong Wang;;;2016/101;;;none;;;2016-02-08;;;proofs
+On the Complexity of Scrypt and Proofs of Space in the Parallel Random Oracle Model;;;Joël Alwen, Binyi Chen, Chethan Kamath, Vladimir Kolmogorov, Krzysztof Pietrzak, Stefano Tessaro;;;2016/100;;;none;;;2016-02-08;;;security
+Provable Security Evaluation of Structures against Impossible Differential and Zero Correlation Linear Cryptanalysis;;;Bing Sun, Meicheng Liu, Jian Guo, Vincent Rijmen, Ruilin Li;;;2016/096;;;none;;;2016-02-05;;;security
+Tightly CCA-Secure Encryption without Pairings;;;Romain Gay, Dennis Hofheinz, Eike Kiltz, Hoeteck Wee;;;2016/094;;;none;;;2016-02-02;;;proofs
+Safely Exporting Keys from Secure Channels: On the Security of EAP-TLS and TLS Key Exporters;;;Chris Brzuska, Håkon Jacobsen, Douglas Stebila;;;2016/087;;;none;;;2016-02-02;;;security
+Truncated Differential Analysis of Round-Reduced RoadRunneR Block Cipher;;;Qianqian Yang, Lei Hu, Siwei Sun, Ling Song;;;2016/084;;;none;;;2016-01-31;;;security
+Non-Interactive Plaintext (In-)Equality Proofs and Group Signatures with Verifiable Controllable Linkability;;;Olivier Blazy, David Derler, Daniel Slamanig, Raphael Spreitzer;;;2016/082;;;none;;;2016-01-29;;;proofs
+Non-Interactive Verifiable Secret Sharing For Monotone Circuits;;;Ge Bai, Ivan Damgård, Claudio Orlandi, Yu Xia;;;2016/078;;;none;;;2016-01-28;;;proofs,security
+On the Power of Secure Two-Party Computation;;;Carmit Hazay, Muthuramakrishnan Venkitasubramaniam;;;2016/074;;;none;;;2016-01-27;;;proofs
+Domain-Specific Pseudonymous Signatures Revisited;;;Kamil Kluczniak;;;2016/070;;;none;;;2016-01-26;;;security
+Verification Methods for the Computationally Complete Symbolic Attacker Based on Indistinguishability;;;Gergei Bana, Rohit Chadha;;;2016/069;;;none;;;2016-01-26;;;formal,security
+Verifiable Dynamic Symmetric Searchable Encryption: Optimality and Forward Security;;;Raphael Bost, Pierre-Alain Fouque, David Pointcheval;;;2016/062;;;none;;;2016-01-25;;;security
+Accountable Privacy for Decentralized Anonymous Payments;;;Christina Garman, Matthew Green, Ian Miers;;;2016/061;;;none;;;2016-01-25;;;proofs
+Better Preprocessing for Secure Multiparty Computation;;;Carsten Baum, Ivan Damgård, Tomas Toft, Rasmus Zakarias;;;2016/048;;;none;;;2016-01-19;;;proofs
+How To Simulate It - A Tutorial on the Simulation Proof Technique;;;Yehuda Lindell;;;2016/046;;;none;;;2016-01-19;;;proofs
+Strong Continuous Non-malleable Encoding Schemes with Tamper-Detection;;;Amir S. Mortazavi, Mahmoud Salmasizadeh, Amir Daneshgar;;;2016/043;;;none;;;2016-01-19;;;proofs
+Universal Composition with Responsive Environments;;;Jan Camenisch, Robert R. Enderlein, Stephan Krenn, Ralf Kuesters, Daniel Rausch;;;2016/034;;;none;;;2016-01-13;;;security
+Towards a Unified Security Model for Physically Unclonable Functions;;;Frederik Armknecht, Daisuke Moriyama, Ahmad-Reza Sadeghi, Moti Yung;;;2016/033;;;none;;;2016-01-13;;;security
+Beyond the selective disclosure of ABCs on RAM-constrained devices;;;Antonio de la Piedra;;;2016/031;;;none;;;2016-01-12;;;proofs
+An Efficient Lattice-Based Signature Scheme with Provably Secure Instantiation;;;Sedat Akleylek, Nina Bindel, Johannes Buchmann, Juliane Krämer, Giorgia Azzurra Marson;;;2016/030;;;none;;;2016-01-12;;;security
+Balloon Hashing: A Memory-Hard Function Providing Provable Protection Against Sequential Attacks;;;Dan Boneh, Henry Corrigan-Gibbs, Stuart Schechter;;;2016/027;;;none;;;2016-01-12;;;security
+Quasi-Linear Size Zero Knowledge from Linear-Algebraic PCPs;;;Eli Ben-Sasson, Alessandro Chiesa, Ariel Gabizon, Madars Virza;;;2016/021;;;none;;;2016-01-08;;;proofs
+Quantum Collision-Resistance of Non-Uniformly Distributed Functions;;;Ehsan Ebrahimi Targhi, Gelo Noel Tabia, Dominique Unruh;;;2016/015;;;none;;;2016-01-08;;;security
+Better Security for Functional Encryption for Inner Product Evaluations;;;Michel Abdalla, Florian Bourse, Angelo De Caro, David Pointcheval;;;2016/011;;;none;;;2016-01-06;;;security
+PUF-BASED SOLUTIONS FOR SECURE COMMUNICATIONS IN ADVANCED METERING INFRASTRUCTURE (AMI);;;Mahshid Delavar, Sattar Mirzakuchaki, Mohammad Hassan Ameri, Javad Mohajeri;;;2016/009;;;none;;;2016-01-06;;;security
+Easing Coppersmith Methods using Analytic Combinatorics: Applications to Public-Key Cryptography with Weak Pseudorandomness;;;Fabrice Benhamouda, Céline Chevalier, Adrian Thillard, Damien Vergnaud;;;2016/007;;;none;;;2016-01-04;;;formal
+On Splitting a Point with Summation Polynomials in Binary Elliptic Curves;;;Nicolas T. Courtois;;;2016/003;;;none;;;2016-01-04;;;security
+Mitigating Multi-Target Attacks in Hash-based Signatures;;;Andreas Hülsing, Joost Rijneveld, Fang Song;;;2015/1256;;;none;;;2016-01-02;;;security
+Identity-based Hierarchical Key-insulated Encryption without Random Oracles;;;Yohei Watanabe, Junji Shikata;;;2015/1254;;;none;;;2016-01-02;;;security
+Generic Transformation of a CCA2-Secure Public-Key Encryption Scheme to an eCK-Secure Key Exchange Protocol in the Standard Model;;;Janaka Alawatugoda;;;2015/1248;;;none;;;2016-01-01;;;security
+Universally Composable Direct Anonymous Attestation;;;Jan Camenisch, Manu Drijvers, Anja Lehmann;;;2015/1246;;;none;;;2016-01-01;;;security

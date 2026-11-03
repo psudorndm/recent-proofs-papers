@@ -1,0 +1,4 @@
+The Graph Clustering Problem has a Perfect Zero-Knowledge Proof;;;Oded Goldreich;;;1996/014;;;none;;;1996-11-03;;;proofs
+On the Construction of Pseudo-Random Permutations: Luby-Rackoff Revisited;;;Moni Naor, Omer Reingold;;;1996/011;;;none;;;1996-08-01;;;security
+Linear Zero-Knowledge - A note on Efficient Zero-Knowledge Proofs and Arguments;;;Ronald Cramer, Ivan Damgaard;;;1996/004;;;none;;;1996-05-14;;;proofs
+On Monotone Function Closure of Statistical Zero-Knowledge;;;Ronald Cramer, Ivan Damgaard;;;1996/003;;;none;;;1996-05-14;;;proofs

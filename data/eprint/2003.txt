@@ -1,0 +1,57 @@
+A provably secure ID-based ring signature scheme;;;Javier Herranz, Germán Sáez;;;2003/261;;;none;;;2003-12-20;;;security
+On Simulation-Sound Trapdoor Commitments;;;Philip MacKenzie, Ke Yang;;;2003/252;;;none;;;2003-12-04;;;proofs
+How to Break and Repair a Universally Composable Signature Functionality;;;Michael Backes, Dennis Hofheinz;;;2003/240;;;none;;;2003-11-19;;;security
+Universally Composable Signatures, Certification and Authentication;;;Ran Canetti;;;2003/239;;;none;;;2003-11-19;;;security
+Public Key Steganography;;;Luis von Ahn, Nicholas J. Hopper;;;2003/233;;;none;;;2003-11-08;;;security
+The Statistical Zero-knowledge Proof for Blum Integer Based on Discrete Logarithm;;;Chunming Tang, Zhuojun Liu, Jinwang Liu;;;2003/232;;;none;;;2003-11-08;;;proofs
+A Fast Provably Secure Cryptographic Hash Function;;;Daniel Augot, Matthieu Finiasz, Nicolas Sendrier;;;2003/230;;;none;;;2003-11-06;;;security
+Verifiably Committed Signatures Provably Secure in The Standard Complexity Model;;;Huafei Zhu;;;2003/228;;;none;;;2003-11-06;;;security
+A Verifiable Secret Sharing Scheme with Statistical zero-knowledge;;;Chunming Tang, Zhuojun Liu, Mingsheng Wang;;;2003/222;;;none;;;2003-10-13;;;proofs
+Secure Indexes;;;Eu-Jin Goh;;;2003/216;;;none;;;2003-10-09;;;security
+Multi-Trapdoor Commitments and their Applications to Non-Malleable Protocols;;;Rosario Gennaro;;;2003/214;;;none;;;2003-10-07;;;proofs
+Identity Based Undeniable Signatures;;;Benoît Libert, Jean-Jacques Quisquater;;;2003/206;;;none;;;2003-09-29;;;security
+Security Analysis of Some Proxy Signatures;;;Guilin Wang, Feng Bao, Jianying Zhou, Robert H. Deng;;;2003/196;;;none;;;2003-09-24;;;security
+Efficient Extension of Standard Schnorr/RSA signatures into Universal Designated-Verifier Signatures;;;Ron Steinfeld, Huaxiong Wang, Josef Pieprzyk;;;2003/193;;;none;;;2003-09-17;;;security
+Universal Designated-Verifier Signatures;;;Ron Steinfeld, Laurence Bull, Huaxiong Wang, Josef Pieprzyk;;;2003/192;;;none;;;2003-09-17;;;security
+A New Forward Secure Signature Scheme using Bilinear Maps;;;Fei Hu, Chwan-Hwa Wu, J. D. Irwin;;;2003/188;;;none;;;2003-09-10;;;security
+Chosen-Ciphertext Security from Identity-Based Encryption;;;Ran Canetti, Shai Halevi, Jonathan Katz;;;2003/182;;;none;;;2003-09-02;;;proofs,security
+On the Security of Multiple Encryption or CCA-security+CCA-security=CCA-security?;;;Rui Zhang, Goichiro Hanaoka, Junji Shikata, Hideki Imai;;;2003/181;;;none;;;2003-09-01;;;security
+Constructing Optimistic Fair Exchange Protocols from Committed Signatures;;;Huafei Zhu;;;2003/178;;;none;;;2003-08-29;;;security
+Relaxing Chosen-Ciphertext Security;;;Ran Canetti, Hugo Krawczyk, Jesper Nielsen;;;2003/174;;;none;;;2003-08-19;;;security
+NAEP: Provable Security in the Presence of Decryption Failures;;;Nick Howgrave-Graham, Joseph H. Silverman, Ari Singer, William Whyte;;;2003/172;;;none;;;2003-08-15;;;security
+Scalable Protocols for Authenticated Group Key Exchange;;;Jonathan Katz, Moti Yung;;;2003/171;;;none;;;2003-08-15;;;security
+Identity-Based Threshold Decryption;;;Joonsang Baek, Yuliang Zheng;;;2003/164;;;none;;;2003-08-11;;;security
+Multipurpose Identity-Based Signcryption : A Swiss Army Knife for Identity-Based Cryptography;;;Xavier Boyen;;;2003/163;;;none;;;2003-08-11;;;security
+Indifferentiability, Impossibility Results on Reductions, and Applications to the Random Oracle Methodology;;;Ueli Maurer, Renato Renner, Clemens Holenstein;;;2003/161;;;none;;;2003-08-08;;;security
+Some RSA-based Encryption Schemes with Tight Security Reduction;;;Kaoru Kurosawa, Tsuyoshi Takagi;;;2003/157;;;none;;;2003-08-07;;;security
+Efficient Provably Secure Public Key Steganography;;;Tri Van Le;;;2003/156;;;none;;;2003-08-06;;;security
+A Formal Proof of Zhu's Signature Scheme;;;huafei zhu;;;2003/155;;;none;;;2003-08-05;;;security
+The Random Oracle Methodology, Revisited;;;Ran Canetti, Oded Goldreich, Shai Halevi;;;1998/011;;;none;;;2003-08-04;;;security
+On the random-oracle methodology as applied to length-restricted signature schemes;;;Ran Canetti, Oded Goldreich, Shai Halevi;;;2003/150;;;none;;;2003-07-31;;;proofs,security
+Breaking and Repairing Optimistic Fair Exchange from PODC 2003;;;Yevgeniy Dodis, Leonid Reyzin;;;2003/146;;;none;;;2003-07-25;;;security
+Symmetric Authentication Within a Simulatable Cryptographic Library;;;Michael Backes, Birgit Pfitzmann, Michael Waidner;;;2003/145;;;none;;;2003-07-25;;;formal,security
+ID-based tripartite key agreement with signatures;;;Divya Nalla;;;2003/144;;;none;;;2003-07-24;;;security
+General Composition and Universal Composability in Secure Multiparty Computation;;;Yehuda Lindell;;;2003/141;;;none;;;2003-07-24;;;security
+A Cryptographically Sound Security Proof of the Needham-Schroeder-Lowe Public-Key Protocol;;;Michael Backes, Birgit Pfitzmann;;;2003/121;;;none;;;2003-06-10;;;security
+Physically Observable Cryptography;;;Silvio Micali, Leonid Reyzin;;;2003/120;;;none;;;2003-06-10;;;security
+Accumulating Composites and Improved Group Signing;;;Gene Tsudik, Shouhuai Xu;;;2003/112;;;none;;;2003-06-03;;;security
+Fujisaki-Okamoto IND-CCA hybrid encryption revisited;;;David Galindo, Sebastià Mart\'ın, Paz Morillo, Jorge L. Villar;;;2003/107;;;none;;;2003-05-29;;;security
+CWC: A high-performance conventional authenticated encryption mode;;;Tadayoshi Kohno, John Viega, Doug Whiting;;;2003/106;;;none;;;2003-05-29;;;security
+On Diophantine Complexity and Statistical Zero-Knowledge Arguments;;;Helger Lipmaa;;;2003/105;;;none;;;2003-05-29;;;proofs
+Secure Proxy Signature Schemes for Delegation of Signing Rights;;;Alexandra Boldyreva, Adriana Palacio, Bogdan Warinschi;;;2003/096;;;none;;;2003-05-21;;;security
+A Practical Elliptic Curve Public Key Encryption Scheme Provably Secure Against Adaptive Chosen-message Attack;;;huafei zhu;;;2003/087;;;none;;;2003-05-07;;;security
+A Forward-Secure Public-Key Encryption Scheme;;;Ran Canetti, Shai Halevi, Jonathan Katz;;;2003/083;;;none;;;2003-05-01;;;security
+Stronger Security Bounds for OMAC, TMAC and XCBC;;;Tetsu Iwata, Kaoru Kurosawa;;;2003/082;;;none;;;2003-04-30;;;security
+Non-interactive and Reusable Non-malleable Commitment Schemes;;;Ivan Damgård, Jens Groth;;;2003/080;;;none;;;2003-04-30;;;security
+An Uninstantiable Random-Oracle-Model Scheme for a Hybrid Encryption Problem;;;Mihir Bellare, Alexandra Boldyreva, Adriana Palacio;;;2003/077;;;none;;;2003-04-25;;;security
+EAX: A Conventional Authenticated-Encryption Mode;;;M. Bellare, P. Rogaway, D. Wagner;;;2003/069;;;none;;;2003-04-15;;;security
+Forking Lemmas in the Ring Signatures' Scenario;;;Javier Herranz, Germán Sáez;;;2003/067;;;none;;;2003-04-11;;;security
+Initiator-Resilient Universally Composable Key Exchange;;;Dennis Hofheinz, Joern Mueller-Quade, Rainer Steinwandt;;;2003/063;;;none;;;2003-04-08;;;security
+Pretty-Simple Password-Authenticated Key-Exchange Under Standard Assumptions;;;Kazukuni Kobara, Hideki Imai;;;2003/038;;;none;;;2003-02-27;;;security
+Strengthening Zero-Knowledge Protocols using Signatures;;;Juan A. Garay, Philip MacKenzie, Ke Yang;;;2003/037;;;none;;;2003-02-27;;;proofs,security
+On the (In)security of the Fiat-Shamir Paradigm;;;Shafi Goldwasser, Yael Tauman;;;2003/034;;;none;;;2003-02-19;;;security
+A Framework for Password-Based Authenticated Key Exchange;;;Rosario Gennaro, Yehuda Lindell;;;2003/032;;;none;;;2003-02-12;;;security
+On Modeling IND-CCA Security in Cryptographic Protocols;;;Dennis Hofheinz, Joern Mueller-Quade, Rainer Steinwandt;;;2003/024;;;none;;;2003-02-05;;;security
+New identity based signcryption schemes from pairings;;;Benoît Libert, Jean-Jacques Quisquater;;;2003/023;;;none;;;2003-02-05;;;security
+A Universally Composable Cryptographic Library;;;Michael Backes, Birgit Pfitzmann, Michael Waidner;;;2003/015;;;none;;;2003-01-24;;;formal,security
+A Mode of Operation with Partial Encryption and Message Integrity;;;Philip Hawkes, Gregory G. Rose;;;2003/001;;;none;;;2003-01-07;;;security

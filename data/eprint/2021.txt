@@ -1,0 +1,444 @@
+Verifiable Encryption from MPC-in-the-Head;;;Akira Takahashi, Greg Zaverucha;;;2021/1704;;;none;;;2021-12-31;;;proofs
+A Unified Framework for Non-Universal SNARKs;;;Helger Lipmaa;;;2021/1700;;;none;;;2021-12-30;;;proofs,security
+Invertible Quadratic Non-Linear Layers for MPC-/FHE-/ZK-Friendly Schemes over $\mathbb F_p^n$;;;Lorenzo Grassi, Silvia Onofri, Marco Pedicini, Luca Sozzi;;;2021/1695;;;none;;;2021-12-30;;;proofs
+Verifiable Decryption for BGV;;;Tjerand Silde;;;2021/1693;;;none;;;2021-12-30;;;proofs
+Divide and Funnel: a Scaling Technique for Mix-Networks;;;Debajyoti Das, Sebastian Meiser, Esfandiar Mohammadi, Aniket Kate;;;2021/1685;;;none;;;2021-12-22;;;security
+PUBA: Privacy-Preserving User-Data Bookkeeping and Analytics;;;Valerie Fetzer, Marcel Keller, Sven Maier, Markus Raiber, Andy Rupp, Rebecca Schwerdt;;;2021/1683;;;none;;;2021-12-22;;;security
+Improved Constructions of Anonymous Credentials From Structure-Preserving Signatures on Equivalence Classes;;;Aisling Connolly, Pascal Lafourcade, Octavio Perez Kempner;;;2021/1680;;;none;;;2021-12-22;;;proofs,security
+Zero-Knowledge for Homomorphic Key-Value Commitments with Applications to Privacy-Preserving Ledgers;;;Matteo Campanelli, Felix Engelmann, Claudio Orlandi;;;2021/1678;;;none;;;2021-12-21;;;proofs
+Lattice-based Zero-knowledge Proofs for Blockchain Confidential Transactions;;;Shang Gao, Tianyu ZHENG, Yu GUO, Zhe PENG, Bin XIAO;;;2021/1674;;;none;;;2021-12-21;;;proofs
+Proving as Fast as Computing: Succinct Arguments with Constant Prover Overhead;;;Noga Ron-Zewi, Ron D. Rothblum;;;2021/1673;;;none;;;2021-12-21;;;proofs
+Succinct Zero-Knowledge Batch Proofs for Set Accumulators;;;Matteo Campanelli, Dario Fiore, Semin Han, Jihye Kim, Dimitris Kolonelos, Hyunok Oh;;;2021/1672;;;none;;;2021-12-21;;;proofs
+IronMask: Versatile Verification of Masking Security;;;Sonia Belaïd, Darius Mercadier, Matthieu Rivain, Abdul Rahman Taleb;;;2021/1671;;;none;;;2021-12-21;;;security
+Multi-Issuer Anonymous Credentials Without a Root Authority;;;Kaoutar Elkhiyaoui, Angelo De Caro, Elli Androulaki;;;2021/1669;;;none;;;2021-12-21;;;security
+Leakage-Resilient IBE/ABE with Optimal Leakage Rates from Lattices;;;Qiqi Lai, Feng-Hao Liu, Zhedong Wang;;;2021/1665;;;none;;;2021-12-20;;;security
+Identity-Based Matchmaking Encryption without Random Oracles;;;Danilo Francati, Alessio Guidi, Luigi Russo, Daniele Venturi;;;2021/1660;;;none;;;2021-12-17;;;security
+Efficient Set Membership Proofs using MPC-in-the-Head;;;Aarushi Goel, Matthew Green, Mathias Hall-Andersen, Gabriel Kaptchuk;;;2021/1656;;;none;;;2021-12-17;;;proofs
+A compiler for multi-key homomorphic signatures for Turing machines;;;Somayeh Dolatnezhad Samarin, Dario Fiore, Daniele Venturi, Morteza Amini;;;2021/1651;;;none;;;2021-12-17;;;security
+“They’re not that hard to mitigate”: What Cryptographic Library Developers Think About Timing Attacks;;;Jan Jancar, Marcel Fourné, Daniel De Almeida Braga, Mohamed Sabt, Peter Schwabe, Gilles Barthe, Pierre-Alain Fouque, Yasemin Acar;;;2021/1650;;;none;;;2021-12-17;;;formal
+A New Security Notion for PKC in the Standard Model: Weaker, Simpler, and Still Realizing Secure Channels;;;Wasilij Beskorovajnov, Roland Gröll, Jörn Müller-Quade, Astrid Ottenhues, Rebecca Schwerdt;;;2021/1649;;;none;;;2021-12-17;;;security
+Privacy-Preserving Authenticated Key Exchange for Constrained Devices;;;Loïc Ferreira;;;2021/1647;;;none;;;2021-12-17;;;security
+Sequential Indifferentiability of Confusion-Diffusion Networks;;;Qi Da, Shanjie Xu, Chun Guo;;;2021/1645;;;none;;;2021-12-17;;;security
+STROBE: Stake-based Threshold Random Beacons;;;Donald Beaver, Konstantinos Chalkias, Mahimna Kelkar, Lefteris Kokoris Kogias, Kevin Lewi, Ladi de Naurois, Valeria Nicolaenko, Arnab Roy, Alberto Sonnino;;;2021/1643;;;none;;;2021-12-17;;;proofs
+00;;;Nguyen Thoi Minh Quan;;;2021/1638;;;none;;;2021-12-17;;;proofs
+Zero Knowledge Proofs towards Verifiable Decentralized AI Pipelines;;;Nitin Singh, Pankaj Dayama, Vinayaka Pandit;;;2021/1633;;;none;;;2021-12-17;;;proofs
+A PKI-based Framework for Establishing Efficient MPC Channels;;;Daniel Masny, Gaven Watson;;;2021/1627;;;none;;;2021-12-17;;;security
+On the IND-CCA1 Security of FHE Schemes;;;Prastudy Fauzi, Martha Norberg Hovd, Håvard Raddum;;;2021/1624;;;none;;;2021-12-17;;;security
+Succinct Publicly-Certifiable Proofs (or: Can a Blockchain Verify a Designated-Verifier Proof?);;;Matteo Campanelli, Hamidreza Khoshakhlagh;;;2021/1618;;;none;;;2021-12-14;;;proofs
+A Note on the Post-Quantum Security of (Ring) Signatures;;;Rohit Chatterjee, Kai-Min Chung, Xiao Liang, Giulio Malavolta;;;2021/1616;;;none;;;2021-12-14;;;security
+High-order Polynomial Comparison and Masking Lattice-based Encryption;;;Jean-Sébastien Coron, François Gérard, Simon Montoya, Rina Zeitoun;;;2021/1615;;;none;;;2021-12-14;;;security
+How to prove any NP statement jointly? Efficient Distributed-prover Zero-Knowledge Protocols;;;Pankaj Dayama, Arpita Patra, Protik Paul, Nitin Singh, Dhinakaran Vinayagamurthy;;;2021/1599;;;none;;;2021-12-09;;;proofs
+Modelling IBE-based Key Exchange Protocol using Tamarin Prover;;;Srijanee Mookherji, Vanga Odelu, Rajendra Prasath;;;2021/1598;;;none;;;2021-12-09;;;formal,security
+SHealS and HealS: isogeny-based PKEs from akey validation method for SIDH;;;Tako Boris Fouotsa, Christophe Petit;;;2021/1596;;;none;;;2021-12-06;;;security
+Anonymous Authenticated Communication;;;Fabio Banfi, Ueli Maurer;;;2021/1581;;;none;;;2021-12-03;;;security
+High Order Side-Channel Security for Elliptic-Curve Implementations;;;Sonia Belaïd, Matthieu Rivain;;;2021/1580;;;none;;;2021-12-03;;;security
+SNARKBlock: Federated Anonymous Blocklisting from Hidden Common Input Aggregate Proofs;;;Michael Rosenberg, Mary Maller, Ian Miers;;;2021/1577;;;none;;;2021-12-03;;;proofs
+Shared Permutation for Syndrome Decoding: New Zero-Knowledge Protocol and Code-Based Signature;;;Thibauld Feneuil, Antoine Joux, Matthieu Rivain;;;2021/1576;;;none;;;2021-12-03;;;proofs
+Improved Security Bound of \textsf{(E/D)WCDM};;;Nilanjan Datta, Avijit Dutta, Kushankur Dutta;;;2021/1573;;;none;;;2021-12-03;;;security
+Tight Security for Key-Alternating Ciphers with Correlated Sub-Keys;;;Stefano Tessaro, Xihu Zhang;;;2021/1571;;;none;;;2021-12-03;;;security
+Practical, Round-Optimal Lattice-Based Blind Signatures;;;Shweta Agrawal, Elena Kirshanova, Damien Stehle, Anshu Yadav;;;2021/1565;;;none;;;2021-12-02;;;proofs
+Towards Post-Quantum Security for Cyber-Physical Systems: Integrating PQC into Industrial M2M Communication;;;Sebastian Paul, Patrik Scheible, Friedrich Wiemer;;;2021/1563;;;none;;;2021-11-29;;;formal,security
+How to Claim a Computational Feat;;;Clémence Chevignard, Rémi Géraud-Stewart, Antoine Houssais, David Naccache, Edmond de Roffignac;;;2021/1554;;;none;;;2021-11-29;;;proofs
+Post-Quantum Zero Knowledge, Revisited (or: How to do Quantum Rewinding Undetectably);;;Alex Lombardi, Fermi Ma, Nicholas Spooner;;;2021/1543;;;none;;;2021-11-23;;;proofs
+Revisiting the Security of COMET Authenticated Encryption Scheme;;;Shay Gueron, Ashwin Jha, Mridul Nandi;;;2021/1541;;;none;;;2021-11-23;;;security
+Lightweight Swarm Authentication;;;George Teseleanu;;;2021/1540;;;none;;;2021-11-23;;;security
+The Legendre Symbol and the Modulo-2 Operator in Symmetric Schemes over (F_p)^n;;;Lorenzo Grassi, Dmitry Khovratovich, Sondre Rønjom, Markus Schofnegger;;;2021/1533;;;none;;;2021-11-22;;;proofs
+Experimenting with Collaborative zk-SNARKs: Zero-Knowledge Proofs for Distributed Secrets;;;Alex Ozdemir, Dan Boneh;;;2021/1530;;;none;;;2021-11-22;;;proofs
+An Improved Range Proof with Base-3 Construction;;;Esra Günsay, Cansu Betin Onur, Murat Cenk;;;2021/1524;;;none;;;2021-11-22;;;proofs
+HOLMES: Efficient Distribution Testing for Secure Collaborative Learning;;;Ian Chang, Katerina Sotiraki, Weikeng Chen, Murat Kantarcioglu, Raluca Ada Popa;;;2021/1517;;;none;;;2021-11-20;;;proofs
+Post-Quantum Simulatable Extraction with Minimal Assumptions: Black-Box and Constant-Round;;;Nai-Hui Chia, Kai-Min Chung, Xiao Liang, Takashi Yamakawa;;;2021/1516;;;none;;;2021-11-20;;;proofs,security
+CCA SecureA Posteriori Openable Encryption in the Standard Model;;;Xavier Bultel;;;2021/1504;;;none;;;2021-11-15;;;security
+Interaction-Preserving Compilers for Secure Computation;;;Nico Döttling, Vipul Goyal, Giulio Malavolta, Justin Raizes;;;2021/1503;;;none;;;2021-11-15;;;proofs
+Strong and Tight Security Guarantees against Integral Distinguishers;;;Phil Hebborn, Baptiste Lambin, Gregor Leander, Yosuke Todo;;;2021/1502;;;none;;;2021-11-15;;;security
+Succinct Erasure Coding Proof Systems;;;Nicolas Alhaddad, Sisi Duan, Mayank Varia, Haibin Zhang;;;2021/1500;;;none;;;2021-11-15;;;proofs
+Improved Lattice-Based Mix-Nets for Electronic Voting;;;Valeh Farzaliyev, Jan Willemson, Jaan Kristjan Kaasik;;;2021/1499;;;none;;;2021-11-15;;;proofs
+SoK: Password-Authenticated Key Exchange -- Theory, Practice, Standardization and Real-World Lessons;;;Feng Hao, Paul C. van Oorschot;;;2021/1492;;;none;;;2021-11-15;;;security
+A Cryptographic View of Deep-Attestation, or how to do Provably-Secure Layer-Linking;;;Ghada Arfaoui, Pierre-Alain Fouque, Thibaut Jacques, Pascal Lafourcade, Adina Nedelcu, Cristina Onete, Léo Robert;;;2021/1487;;;none;;;2021-11-15;;;security
+Mitaka: a simpler, parallelizable, maskable variant of Falcon;;;Thomas Espitau, Pierre-Alain Fouque, François Gérard, Mélissa Rossi, Akira Takahashi, Mehdi Tibouchi, Alexandre Wallet, Yang Yu;;;2021/1486;;;none;;;2021-11-15;;;security
+Zarcanum: A Proof-of-Stake Scheme for Confidential Transactions with Hidden Amounts;;;sowle, koe;;;2021/1478;;;none;;;2021-11-08;;;proofs
+Efficient Searchable Symmetric Encryption for Join Queries;;;Charanjit Jutla, Sikhar Patranabis;;;2021/1471;;;none;;;2021-11-06;;;security
+New Indifferentiability Security Proof of MDPH Hash Function;;;Chun Guo, Tetsu Iwata, Kazuhiko Minematsu;;;2021/1469;;;none;;;2021-11-06;;;security
+LeakageVerif: Scalable and Efficient Leakage Verification in Symbolic Expressions;;;Quentin L. Meunier, Etienne Pons, Karine Heydemann;;;2021/1468;;;none;;;2021-11-06;;;formal
+Privacy-preserving Identity Management System;;;Jeonghyuk Lee, Jaekyung Choi, Hyunok Oh, Jihye Kim;;;2021/1459;;;none;;;2021-11-06;;;proofs,security
+QC-MDPC codes DFR and the IND-CCA security of BIKE;;;Valentin Vasseur;;;2021/1458;;;none;;;2021-11-06;;;security
+An In-Depth Symbolic Security Analysis of the ACME Standard;;;Karthikeyan Bhargavan, Abhishek Bichhawat, Quoc Huy Do, Pedram Hosseyni, Ralf Kuesters, Guido Schmitz, Tim Wuertele;;;2021/1457;;;none;;;2021-11-06;;;formal,security
+Server-Aided Continuous Group Key Agreement;;;Joël Alwen, Dominik Hartmann, Eike Kiltz, Marta Mularczyk;;;2021/1456;;;none;;;2021-11-06;;;security
+A State-Separating Proof for Yao’s Garbling Scheme;;;Chris Brzuska, Sabine Oechsner;;;2021/1453;;;none;;;2021-10-29;;;security
+Efficient Zero-Knowledge Argument in Discrete Logarithm Setting: Sublogarithmic Proof or Sublinear Verifier;;;Sungwook Kim, Hyeonbum Lee, Jae Hong Seo;;;2021/1450;;;none;;;2021-10-29;;;proofs,security
+One-more Unforgeability of Blind ECDSA;;;Xianrui Qin, Cailing Cai, Tsz Hon Yuen;;;2021/1449;;;none;;;2021-10-29;;;proofs,security
+Length-preserving encryption with HCTR2;;;Paul Crowley, Nathan Huckleberry, Eric Biggers;;;2021/1441;;;https://github.com/google/hctr2;;;2021-10-27;;;security
+Efficient Representation of Numerical Optimization Problems for SNARKs;;;Sebastian Angel, Andrew J. Blumberg, Eleftherios Ioannidis, Jess Woods;;;2021/1436;;;none;;;2021-10-26;;;proofs
+Oblivious Transfer from Trapdoor Permutations in Minimal Rounds;;;Arka Rai Choudhuri, Michele Ciampi, Vipul Goyal, Abhishek Jain, Rafail Ostrovsky;;;2021/1433;;;none;;;2021-10-26;;;security
+Secure and Efficient Multi-Key FHE Scheme Supporting Multi-bit Messages from LWE Preserving Non-Interactive Decryption;;;Chinmoy Biswas, Ratna Dutta;;;2021/1431;;;none;;;2021-10-26;;;security
+Improved Zero-Knowledge Argument of Encrypted Extended Permutation;;;Yi Liu, Qi Wang, Siu-Ming Yiu;;;2021/1430;;;none;;;2021-10-26;;;proofs
+On Unpadded NTRU Quantum (In)Security;;;Théodore Conrad-Frenkiel, Rémi Géraud-Stewart, David Naccache;;;2021/1426;;;none;;;2021-10-24;;;security
+Extending the Tally-Hiding Ordinos System: Implementations for Borda, Hare-Niemeyer, Condorcet, and Instant-Runoff Voting;;;Fabian Hertel, Nicolas Huber, Jonas Kittelberger, Ralf Kuesters, Julian Liedtke, Daniel Rausch;;;2021/1420;;;none;;;2021-10-24;;;security
+With a Little Help from My Friends: Constructing Practical Anonymous Credentials;;;Lucjan Hanzlik, Daniel Slamanig;;;2021/1419;;;none;;;2021-10-24;;;security
+How to Handle Invalid Queries for Malicious-Private Protocols Based on Homomorphic Encryption;;;Koji Nuida;;;2021/1417;;;none;;;2021-10-24;;;security
+Hiding in Plain Sight: Memory-tight Proofs via Randomness Programming;;;Ashrujit Ghoshal, Riddhi Ghosal, Joseph Jaeger, Stefano Tessaro;;;2021/1409;;;none;;;2021-10-24;;;security
+Leaking Arbitrarily Many Secrets: Any-out-of-Many Proofs and Applications to RingCT Protocols;;;Tianyu Zheng, Shang Gao, Yubo Song, Bin Xiao;;;2021/1405;;;none;;;2021-10-24;;;proofs
+Universally Composable Almost-Everywhere Secure Computation;;;Nishanth Chandran, Pouyan Forghani, Juan Garay, Rafail Ostrovsky, Rutvik Patel, Vassilis Zikas;;;2021/1398;;;none;;;2021-10-18;;;security
+Fiat–Shamir Bulletproofs are Non-Malleable (in the Algebraic Group Model);;;Chaya Ganesh, Claudio Orlandi, Mahak Pancholi, Akira Takahashi, Daniel Tschudi;;;2021/1393;;;none;;;2021-10-15;;;proofs,security
+UC Secure Private Branching Program and Decision Tree Evaluation;;;Keyu Ji, Bingsheng Zhang, Tianpei Lu, Lichun Li, Kui Ren;;;2021/1390;;;none;;;2021-10-15;;;formal,security
+Efficient Threshold-Optimal ECDSA;;;Michaella Pettit;;;2021/1386;;;none;;;2021-10-15;;;proofs
+MHz2k: MPC from HE over $\mathbb{Z}_{2^k}$ with New Packing, Simpler Reshare, and Better ZKP;;;Jung Hee Cheon, Dongwoo Kim, Keewoo Lee;;;2021/1383;;;none;;;2021-10-15;;;proofs
+ZPiE: Zero-knowledge Proofs in Embedded systems;;;Xavier Salleras, Vanesa Daza;;;2021/1382;;;none;;;2021-10-15;;;proofs
+Multi-Authority ABE, Revisited;;;Miguel Ambrona, Romain Gay;;;2021/1381;;;none;;;2021-10-15;;;security
+Ofelimos: Combinatorial Optimization via Proof-of-Useful-Work \\ A Provably Secure Blockchain Protocol;;;Matthias Fitzi, Aggelos Kiayias, Giorgos Panagiotakos, Alexander Russell;;;2021/1379;;;none;;;2021-10-15;;;security
+Fiat-Shamir Transformation of Multi-Round Interactive Proofs;;;Thomas Attema, Serge Fehr, Michael Klooß;;;2021/1377;;;none;;;2021-10-12;;;proofs,security
+How to Prove Schnorr Assuming Schnorr: Security of Multi- and Threshold Signatures;;;Elizabeth Crites, Chelsea Komlo, Mary Maller;;;2021/1375;;;none;;;2021-10-12;;;security
+Masquerade: Verifiable Multi-Party Aggregation with Secure Multiplicative Commitments;;;Dimitris Mouris, Nektarios Georgios Tsoutsos;;;2021/1370;;;none;;;2021-10-12;;;proofs
+Isogeny-based Group Signatures and Accountable Ring Signatures in QROM;;;Kai-Min Chung, Yao-Ching Hsieh, Mi-Ying Huang, Yu-Hsuan Huang, Tanja Lange, Bo-Yin Yang;;;2021/1368;;;none;;;2021-10-12;;;proofs,security
+Group Signatures and More from Isogenies and Lattices: Generic, Simple, and Efficient;;;Ward Beullens, Samuel Dobson, Shuichi Katsumata, Yi-Fu Lai, Federico Pintore;;;2021/1366;;;none;;;2021-10-12;;;proofs
+Plumo: An Ultralight Blockchain Client;;;Psi Vesely, Kobi Gurkan, Michael Straka, Ariel Gabizon, Philipp Jovanovic, Georgios Konstantopoulos, Asa Oines, Marek Olszewski, Eran Tromer;;;2021/1361;;;none;;;2021-10-12;;;proofs
+Updatable Trapdoor SPHFs: Modular Construction of Updatable Zero-Knowledge Arguments and More;;;Behzad Abdolmaleki, Daniel Slamanig;;;2021/1360;;;none;;;2021-10-12;;;proofs
+Families of SNARK-friendly 2-chains of elliptic curves;;;Youssef El Housni, Aurore Guillevic;;;2021/1359;;;none;;;2021-10-12;;;proofs
+Noise-Tolerant Quantum Tokens for MAC;;;Amit Behera, Or Sattath, Uriel Shinar;;;2021/1353;;;none;;;2021-10-12;;;security
+A Thorough Treatment of Highly-Efficient NTRU Instantiations;;;Julien Duman, Kathrin Hövelmanns, Eike Kiltz, Vadim Lyubashevsky, Gregor Seiler, Dominique Unruh;;;2021/1352;;;none;;;2021-10-07;;;security
+Faster Lattice-Based KEMs via a Generic Fujisaki-Okamoto Transform Using Prefix Hashing;;;Julien Duman, Eike Kiltz, Kathrin Hövelmanns, Vadim Lyubashevsky, Gregor Seiler;;;2021/1351;;;none;;;2021-10-07;;;formal,security
+Generalized Proof of Liabilities;;;Yan Ji, Konstantinos Chalkias;;;2021/1350;;;none;;;2021-10-07;;;security
+Beyond quadratic speedups in quantum attacks on symmetric schemes;;;Xavier Bonnetain, André Schrottenloher, Ferdinand Sibleyras;;;2021/1348;;;none;;;2021-10-07;;;security
+Efficient Functional Commitments: How to Commit to a Private Function;;;Dan Boneh, Wilson Nguyen, Alex Ozdemir;;;2021/1342;;;none;;;2021-10-07;;;proofs
+On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography;;;Léo Ducas, Wessel van Woerden;;;2021/1332;;;none;;;2021-10-05;;;proofs
+On the security of ECDSA with additive key derivation and presignatures;;;Jens Groth, Victor Shoup;;;2021/1330;;;none;;;2021-10-05;;;security
+Decentralized Multi-Authority ABE for NC^1 from Computational-BDH;;;Pratish Datta, Ilan Komargodski, Brent Waters;;;2021/1325;;;none;;;2021-10-05;;;security
+Lockable Obfuscation from Circularly Insecure Fully Homomorphic Encryption;;;Kamil Kluczniak;;;2021/1324;;;none;;;2021-10-05;;;security
+Anonymity of NIST PQC Round 3 KEMs;;;Keita Xagawa;;;2021/1323;;;none;;;2021-10-05;;;security
+Blockchain-based Privacy-preserving Fair Data Trading Protocol;;;Yao Jiang Galteland, Shuang Wu;;;2021/1321;;;none;;;2021-10-05;;;security
+Supersingular Isogeny-Based Ring Signature;;;Maryam Sheikhi Garjan, N. Gamze Orhon Kılıç, Murat Cenk;;;2021/1318;;;none;;;2021-09-30;;;proofs,security
+Certified Everlasting Zero-Knowledge Proof for QMA;;;Taiga Hiroka, Tomoyuki Morimae, Ryo Nishimaki, Takashi Yamakawa;;;2021/1315;;;none;;;2021-09-30;;;proofs,security
+High-order Table-based Conversion Algorithms and Masking Lattice-based Encryption;;;Jean-Sébastien Coron, François Gérard, Simon Montoya, Rina Zeitoun;;;2021/1314;;;none;;;2021-09-30;;;security
+Selectively Linkable Group Signatures - Stronger Security and Preserved Verifiability;;;Ashley Fraser, Lydia Garms, Anja Lehmann;;;2021/1312;;;none;;;2021-09-28;;;proofs,security
+(Compact) Adaptively Secure FE for Attribute-Weighted Sums from k-Lin;;;Pratish Datta, Tapas Pal;;;2021/1305;;;none;;;2021-09-28;;;security
+Black-Box Accumulation Based on Lattices;;;Sebastian H. Faller, Pascal Baumer, Michael Klooß, Alexander Koch, Astrid Ottenhues, Markus Raiber;;;2021/1303;;;none;;;2021-09-28;;;proofs,security
+An Isogeny-Based ID Protocol Using Structured Public Keys;;;Karim Baghery, Daniele Cozzo, Robi Pedersen;;;2021/1301;;;none;;;2021-09-28;;;security
+Report and Trace Ring Signatures;;;Ashley Fraser, Elizabeth A. Quaglia;;;2021/1300;;;none;;;2021-09-28;;;security
+MyOPE: Malicious securitY for Oblivious Polynomial Evaluation;;;Malika Izabachène, Anca Nitulescu, Paola de Perthuis, David Pointcheval;;;2021/1291;;;none;;;2021-09-24;;;proofs
+Verifiable Isogeny Walks: Towards an Isogeny-based Postquantum VDF;;;Jorge Chavez-Saab, Francisco Rodríguez Henríquez, Mehdi Tibouchi;;;2021/1289;;;none;;;2021-09-24;;;proofs
+FO-like Combiners and Hybrid Post-Quantum Cryptography;;;Loïs Huguenin-Dumittan, Serge Vaudenay;;;2021/1288;;;none;;;2021-09-24;;;security
+The Exact Security of BIP32 Wallets;;;Poulami Das, Andreas Erwig, Sebastian Faust, Julian Loss, Siavash Riahi;;;2021/1287;;;none;;;2021-09-24;;;formal,security
+Post-quantum Efficient Proof for Graph 3-Coloring Problem;;;Ehsan Ebrahimi;;;2021/1286;;;none;;;2021-09-24;;;proofs
+Speak Much, Remember Little: Cryptography in the Bounded Storage Model, Revisited;;;Yevgeniy Dodis, Willy Quach, Daniel Wichs;;;2021/1270;;;none;;;2021-09-22;;;security
+Practical Continuously Non-Malleable Randomness Encoders in the Random Oracle Model;;;Antonio Faonio;;;2021/1269;;;none;;;2021-09-22;;;security
+Simulation-Based Bi-Selective Opening Security for Public Key Encryption;;;Junzuo Lai, Rupeng Yang, Zhengan Huang, Jian Weng;;;2021/1268;;;none;;;2021-09-22;;;security
+Special Soundness in the Random Oracle Model;;;Douglas Wikström;;;2021/1265;;;none;;;2021-09-22;;;security
+Verifiably-Extractable OWFs and Their Applications to Subversion Zero-Knowledge;;;Prastudy Fauzi, Helger Lipmaa, Janno Siim, Michal Zajac, Arne Tobias Ødegaard;;;2021/1264;;;none;;;2021-09-22;;;proofs
+Transparency Dictionaries with Succinct Proofs of Correct Operation;;;Ioanna Tzialla, Abhiram Kothapalli, Bryan Parno, Srinath Setty;;;2021/1263;;;none;;;2021-09-22;;;proofs
+Reverse Firewalls for Adaptively Secure MPC without Setup;;;Suvradip Chakraborty, Chaya Ganesh, Mahak Pancholi, Pratik Sarkar;;;2021/1262;;;none;;;2021-09-22;;;proofs
+Parallel Repetition of $(k_1,\dots,k_{\mu})$-Special-Sound Multi-Round Interactive Proofs;;;Thomas Attema, Serge Fehr;;;2021/1259;;;none;;;2021-09-21;;;proofs
+Bit Security as Computational Cost for Winning Games with High Probability;;;Shun Watanabe, Kenji Yasunaga;;;2021/1258;;;none;;;2021-09-21;;;security
+EasyPQC: Verifying Post-Quantum Cryptography;;;Manuel Barbosa, Gilles Barthe, Xiong Fan, Benjamin Grégoire, Shih-Han Hung, Jonathan Katz, Pierre-Yves Strub, Xiaodi Wu, Li Zhou;;;2021/1253;;;none;;;2021-09-21;;;formal,security
+Efficient NIZKs for Algebraic Sets;;;Geoffroy Couteau, Helger Lipmaa, Roberto Parisella, Arne Tobias Ødegaard;;;2021/1251;;;none;;;2021-09-20;;;proofs
+Efficient Leakage-Resilient MACs without Idealized Assumptions;;;Francesco Berti, Chun Guo, Thomas Peters, François-Xavier Standaert;;;2021/1250;;;none;;;2021-09-20;;;security
+Flexible Anonymous Transactions (FLAX): Towards Privacy-Preserving and Composable Decentralized Finance;;;Wei Dai;;;2021/1249;;;none;;;2021-09-20;;;security
+Astrolabous: A Universally Composable Time-Lock Encryption Scheme;;;Myrto Arapinis, Nikolaos Lamprou, Thomas Zacharias;;;2021/1246;;;none;;;2021-09-20;;;security
+IvyCross: A Privacy-Preserving and Concurrency Control Framework for Blockchain Interoperability;;;Ming Li, Jian Weng, Yi Li, Yongdong Wu, Jiasi Weng, Dingcheng Li, Guowen Xu, Robert Deng;;;2021/1244;;;none;;;2021-09-20;;;security
+Hierarchical Integrated Signature and Encryption;;;Yu Chen, Qiang Tang, Yuyu Wang;;;2021/1237;;;none;;;2021-09-20;;;proofs
+Policy-Compliant Signatures;;;Christian Badertscher, Christian Matt, Hendrik Waldner;;;2021/1234;;;none;;;2021-09-20;;;proofs,security
+Gröbner Basis Attack on STARK-Friendly Symmetric-Key Primitives: JARVIS, MiMC and GMiMCerf;;;Gizem Kara, Oğuz Yayla;;;2021/1232;;;none;;;2021-09-20;;;proofs
+Trojan-Resilience without Cryptography;;;Suvradip Chakraborty, Stefan Dziembowski, Malgorzata Galazka, Tomasz Lizurej, Krzysztof Pietrzak, Michelle Yeo;;;2021/1224;;;none;;;2021-09-20;;;proofs
+Generalized Pseudorandom Secret Sharing and Efficient Straggler-Resilient Secure Computation;;;Fabrice Benhamouda, Elette Boyle, Niv Gilboa, Shai Halevi, Yuval Ishai, Ariel Nof;;;2021/1223;;;none;;;2021-09-20;;;proofs
+Digital Signatures with Memory-Tight Security in the Multi-Challenge Setting;;;Denis Diemert, Kai Gellert, Tibor Jager, Lin Lyu;;;2021/1220;;;none;;;2021-09-20;;;security
+Towards Tight Adaptive Security of Non-Interactive Key Exchange;;;Julia Hesse, Dennis Hofheinz, Lisa Kohl, Roman Langrehr;;;2021/1219;;;none;;;2021-09-20;;;proofs,security
+Algebraic Adversaries in the Universal Composability Framework;;;Michel Abdalla, Manuel Barbosa, Jonathan Katz, Julian Loss, Jiayu Xu;;;2021/1218;;;none;;;2021-09-20;;;security
+Black-Box Impossibilities of Obtaining 2-Round Weak ZK and Strong WI from Polynomial Hardness;;;Susumu Kiyoshima;;;2021/1214;;;none;;;2021-09-17;;;proofs
+DualRing: Generic Construction of Ring Signatures with Efficient Instantiations;;;Tsz Hon Yuen, Muhammed F. Esgin, Joseph K. Liu, Man Ho Au, Zhimin Ding;;;2021/1213;;;none;;;2021-09-17;;;proofs
+Non-Malleable Vector Commitments via Local Equivocability;;;Lior Rotem, Gil Segev;;;2021/1207;;;none;;;2021-09-17;;;proofs,security
+Provably Improving Election Verifiability in Belenios;;;Sevdenur Baloglu, Sergiu Bursuc, Sjouke Mauw, Jun Pang;;;2021/1201;;;none;;;2021-09-17;;;formal
+KDM Security for the Fujisaki-Okamoto Transformations in the QROM;;;Fuyuki Kitagawa, Ryo Nishimaki;;;2021/1200;;;none;;;2021-09-17;;;security
+Post-Quantum Signal Key Agreement with SIDH;;;Samuel Dobson, Steven D. Galbraith;;;2021/1187;;;none;;;2021-09-17;;;security
+Giving an Adversary Guarantees (Or: How to Model Designated Verifier Signatures in a Composable Framework);;;Ueli Maurer, Christopher Portmann, Guilherme Rito;;;2021/1185;;;none;;;2021-09-14;;;security
+On Time-Lock Cryptographic Assumptions in Abelian Hidden-Order Groups;;;Aron van Baarsen, Marc Stevens;;;2021/1184;;;none;;;2021-09-14;;;security
+Onion Routing with Replies;;;Christiane Kuhn, Dennis Hofheinz, Andy Rupp, Thorsten Strufe;;;2021/1178;;;none;;;2021-09-14;;;proofs,security
+fflonk: a Fast-Fourier inspired verifier efficient version of PlonK;;;Ariel Gabizon, Zachary J. Williamson;;;2021/1167;;;none;;;2021-09-14;;;proofs
+Fine-tuning the ISO/IEC Standard LightMAC;;;Soumya Chattopadhyay, Ashwin Jha, Mridul Nandi;;;2021/1166;;;none;;;2021-09-14;;;security
+Compact and Malicious Private Set Intersection for Small Sets;;;Mike Rosulek, Ni Trieu;;;2021/1159;;;none;;;2021-09-14;;;security
+Grafting Key Trees: Efficient Key Management for Overlapping Groups;;;Joël Alwen, Benedikt Auerbach, Mirza Ahad Baig, Miguel Cueto, Karen Klein, Guillermo Pascual-Perez, Krzysztof Pietrzak, Michael Walter;;;2021/1158;;;none;;;2021-09-14;;;formal
+Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field;;;Simon Masson, Antonio Sanso, Zhenfei Zhang;;;2021/1152;;;none;;;2021-09-14;;;proofs
+Machine-checked ZKP for NP-relations: Formally Verified Security Proofs and Implementations of MPC-in-the-Head;;;José Bacelar Almeida, Manuel Barbosa, Manuel L Correia, Karim Eldefrawy, Stéphane Graham-Lengrand, Hugo Pacheco, Vitor Pereira;;;2021/1149;;;none;;;2021-09-10;;;formal,proofs,security
+Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts;;;Kushal Babel, Philip Daian, Mahimna Kelkar, Ari Juels;;;2021/1147;;;none;;;2021-09-10;;;formal
+Key Encapsulation Mechanism with Tight Enhanced Security in the Multi-User Setting: Impossibility Result and Optimal Tightness;;;Shuai Han, Shengli Liu, Dawu Gu;;;2021/1146;;;none;;;2021-09-10;;;security
+Secure and Efficient Software Masking on Superscalar Pipelined Processors;;;Barbara Gigerl, Robert Primas, Stefan Mangard;;;2021/1110;;;none;;;2021-08-31;;;formal
+Mt. Random: Multi-Tiered Randomness Beacons;;;Ignacio Cascudo, Bernardo David, Omer Shlomovits, Denis Varlakov;;;2021/1096;;;none;;;2021-08-26;;;security
+Towards Accountability in CRS Generation;;;Prabhanjan Ananth, Gilad Asharov, Hila Dahari, Vipul Goyal;;;2021/1090;;;none;;;2021-08-25;;;proofs
+Reflection, Rewinding, and Coin-Toss in EasyCrypt;;;Denis Firsov, Dominique Unruh;;;2021/1078;;;none;;;2021-08-23;;;formal
+MProve+ : Privacy Enhancing Proof of Reserves Protocol for Monero;;;Arijit Dutta, Suyash Bagad, Saravanan Vijayakumaran;;;2021/1077;;;none;;;2021-08-23;;;proofs
+The security of the code-based signature scheme based on the Stern identification protocol;;;Victoria Vysotskaya, Ivan Chizhov;;;2021/1075;;;none;;;2021-08-23;;;security
+"Act natural!": Having a Private Chat on a Public Blockchain;;;Thore Tiemann, Sebastian Berndt, Thomas Eisenbarth, Maciej Liskiewicz;;;2021/1073;;;none;;;2021-08-23;;;security
+Improved Verifiability for BeleniosVS;;;Thomas Haines, Rajeev Gore;;;2021/1071;;;none;;;2021-08-23;;;formal
+Djed: A Formally Verified Crypto-Backed Pegged Algorithmic Stablecoin;;;Joachim Zahnentferner, Dmytro Kaidalov, Jean-Frédéric Etienne, Javier Díaz;;;2021/1069;;;none;;;2021-08-23;;;formal
+A Simple Post-Quantum Non-Interactive Zero-Knowledge Proof from Garbled Circuits;;;Hongrui Cui, Kaiyi Zhang;;;2021/1068;;;none;;;2021-08-23;;;proofs
+Cairo – a Turing-complete STARK-friendly CPU architecture;;;Lior Goldberg, Shahar Papini, Michael Riabzev;;;2021/1063;;;none;;;2021-08-16;;;proofs
+Threshold Schnorr with Stateless Deterministic Signing from Standard Assumptions;;;François Garillot, Yashvanth Kondi, Payman Mohassel, Valeria Nikolaenko;;;2021/1055;;;none;;;2021-08-16;;;proofs
+Aggregating and thresholdizing hash-based signatures using STARKs;;;Irakliy Khaburzaniya, Konstantinos Chalkias, Kevin Lewi, Harjasleen Malvai;;;2021/1048;;;none;;;2021-08-16;;;proofs
+Brakedown: Linear-time and field-agnostic SNARKs for R1CS;;;Alexander Golovnev, Jonathan Lee, Srinath Setty, Justin Thaler, Riad S. Wahby;;;2021/1043;;;none;;;2021-08-16;;;proofs
+On the Multiplicative Complexity of Cubic Boolean Functions;;;Meltem Sonmez Turan, Rene Peralta;;;2021/1041;;;none;;;2021-08-16;;;proofs
+Reinforced Concrete: A Fast Hash Function for Verifiable Computation;;;Lorenzo Grassi, Dmitry Khovratovich, Reinhard Lüftenegger, Christian Rechberger, Markus Schofnegger, Roman Walch;;;2021/1038;;;none;;;2021-08-16;;;proofs
+Lelantus-CLA;;;Pyrros Chaidos, Vladislav Gelfer;;;2021/1036;;;none;;;2021-08-16;;;proofs
+Commitment Schemes from Supersingular Elliptic Curve Isogeny Graphs;;;Bruno Sterner;;;2021/1031;;;none;;;2021-08-16;;;security
+SIDH Proof of Knowledge;;;Luca De Feo, Samuel Dobson, Steven D. Galbraith, Lukas Zobernig;;;2021/1023;;;none;;;2021-08-06;;;proofs
+Zero-Knowledge Middleboxes;;;Paul Grubbs, Arasu Arun, Ye Zhang, Joseph Bonneau, Michael Walfish;;;2021/1022;;;none;;;2021-08-06;;;proofs
+Designing a Practical Code-based Signature Scheme from Zero-Knowledge Proofs with Trusted Setup;;;Shay Gueron, Edoardo Persichetti, Paolo Santini;;;2021/1020;;;none;;;2021-08-06;;;proofs,security
+Iterative Oblivious Pseudo-Random Functions and Applications;;;Erik-Oliver Blass, Florian Kerschbaum, Travis Mayberry;;;2021/1013;;;none;;;2021-08-06;;;security
+A Formal Security Analysis of the W3C Web Payment APIs: Attacks and Verification;;;Quoc Huy Do, Pedram Hosseyni, Ralf Kuesters, Guido Schmitz, Nils Wenzler, Tim Wuertele;;;2021/1012;;;none;;;2021-08-06;;;formal,security
+A Fast and Flexible Multi-Client Functional Encryption for Set Intersection;;;Mojtaba Rafiee;;;2021/1011;;;none;;;2021-08-06;;;security
+Circuit friendly, post-quantum dynamic accumulators from RingSIS with logarithmic prover time;;;Endre (Silur) Abraham;;;2021/1010;;;none;;;2021-08-06;;;proofs
+Public-key Authenticated Encryption with Keyword Search: Cryptanalysis, Enhanced Security, and Quantum-resistant Instantiation;;;Zi-Yuan Liu, Yi-Fan Tseng, Raylin Tso, Masahiro Mambo, Yu-Chi Chen;;;2021/1008;;;none;;;2021-08-06;;;security
+Stateful KEM: Towards Optimal Robust Combiner for Key Encapsulation Mechanism;;;Jia Xu, Yiwen Gao, Hoon Wei Lim, Hongbing Wang, Ee-Chien Chang;;;2021/989;;;none;;;2021-07-28;;;security
+Classical Binding for Quantum Commitments;;;Nir Bitansky, Zvika Brakerski;;;2021/1001;;;none;;;2021-07-28;;;proofs,security
+A Lattice-based Provably Secure Multisignature Scheme in Quantum Random Oracle Model;;;Masayuki Fukumitsu, Shingo Hasegawa;;;2021/1000;;;none;;;2021-07-28;;;security
+A Formal Security Analysis of Session Resumption Across Hostnames;;;Kai Gellert, Tobias Handirk;;;2021/987;;;none;;;2021-07-27;;;security
+Constant-Overhead Zero-Knowledge for RAM Programs;;;Nicholas Franzese, Jonathan Katz, Steve Lu, Rafail Ostrovsky, Xiao Wang, Chenkai Weng;;;2021/979;;;none;;;2021-07-22;;;proofs
+Shorter and Faster Post-Quantum Designated-Verifier zkSNARKs from Lattices;;;Yuval Ishai, Hang Su, David J. Wu;;;2021/977;;;none;;;2021-07-22;;;proofs
+Tighter Security for Schnorr Identification and Signatures: A High-Moment Forking Lemma for $\Sigma$-Protocols;;;Lior Rotem, Gil Segev;;;2021/971;;;none;;;2021-07-22;;;security
+Short Identity-Based Signatures with Tight Security from Lattices;;;Jiaxin Pan, Benedikt Wagner;;;2021/970;;;none;;;2021-07-22;;;security
+Soteria: Preserving Privacy in Distributed Machine Learning;;;Cláudia Brito, Pedro Ferreira, Bernardo Portela, Rui Oliveira, João Paulo;;;2021/966;;;none;;;2021-07-22;;;security
+Secure Quantum Computation with Classical Communication;;;James Bartusek;;;2021/964;;;none;;;2021-07-22;;;security
+Post-Quantum Key-Blinding for Authentication in Anonymity Networks;;;Edward Eaton, Douglas Stebila, Roy Stracovsky;;;2021/963;;;none;;;2021-07-22;;;security
+Cryptimeleon: A Library for Fast Prototyping of Privacy-Preserving Cryptographic Schemes;;;Jan Bobolz, Fabian Eidens, Raphael Heitjohann, Jeremy Fell;;;2021/961;;;none;;;2021-07-22;;;proofs
+Hidden Cosets and Applications to Unclonable Cryptography;;;Andrea Coladangelo, Jiahui Liu, Qipeng Liu, Mark Zhandry;;;2021/946;;;none;;;2021-07-13;;;security
+Limits on the Adaptive Security of Yao's Garbling;;;Chethan Kamath, Karen Klein, Krzysztof Pietrzak, Daniel Wichs;;;2021/945;;;none;;;2021-07-13;;;security
+Compact Ring Signatures from Learning With Errors;;;Rohit Chatterjee, Sanjam Garg, Mohammad Hajiabadi, Dakshita Khurana, Xiao Liang, Giulio Malavolta, Omkant Pandey, Sina Shiehian;;;2021/942;;;none;;;2021-07-13;;;security
+SecretStore: A Secrecy as a Service model to enable the Cloud Storage to store user's secret data;;;Ripon Patgiri, Malaya Dutta Borah, Laiphrakpam Dolendro Singh;;;2021/940;;;none;;;2021-07-13;;;security
+FIVER -- Robust Verification of Countermeasures against Fault Injections;;;Jan Richter-Brockmann, Aein Rezaei Shahmirzadi, Pascal Sasdrich, Amir Moradi, Tim Güneysu;;;2021/936;;;none;;;2021-07-09;;;formal
+ROTed: Random Oblivious Transfer for embedded devices;;;Pedro Branco, Luís Fiolhais, Manuel Goulão, Paulo Martins, Paulo Mateus, Leonel Sousa;;;2021/935;;;none;;;2021-07-09;;;security
+ECLIPSE: Enhanced Compiling method for Pedersen-committed zkSNARK Engines;;;Diego F. Aranha, Emil Madsen Bennedsen, Matteo Campanelli, Chaya Ganesh, Claudio Orlandi, Akira Takahashi;;;2021/934;;;none;;;2021-07-09;;;proofs
+Succinct Functional Commitment for a Large Class of Arithmetic Circuits;;;Helger Lipmaa, Kateryna Pavlyk;;;2021/932;;;none;;;2021-07-09;;;proofs
+Darlin: Recursive Proofs using Marlin;;;Ulrich Haböck, Alberto Garoffolo, Daniele Di Benedetto;;;2021/930;;;none;;;2021-07-09;;;proofs
+A New Simple Technique to Bootstrap Various Lattice Zero-Knowledge Proofs to QROM Secure NIZKs;;;Shuichi Katsumata;;;2021/927;;;none;;;2021-07-09;;;proofs,security
+On Treewidth, Separators and Yao's Garbling;;;Chethan Kamath, Karen Klein, Krzysztof Pietrzak;;;2021/926;;;none;;;2021-07-09;;;security
+The Round Complexity of Quantum Zero-Knowledge;;;Orestis Chardouvelis, Giulio Malavolta;;;2021/918;;;none;;;2021-07-08;;;proofs
+A PCP Theorem for Interactive Proofs and Applications;;;Gal Arnon, Alessandro Chiesa, Eylon Yogev;;;2021/915;;;none;;;2021-07-08;;;proofs,security
+zkKYC: A solution concept for KYC without knowing your customer, leveraging self-sovereign identity and zero-knowledge proofs;;;Pieter Pauwels;;;2021/907;;;none;;;2021-07-05;;;proofs
+White Box Traitor Tracing;;;Mark Zhandry;;;2021/891;;;none;;;2021-06-29;;;proofs
+Lifting Standard Model Reductions to Common Setup Assumptions;;;Ngoc Khanh Nguyen, Eftychios Theodorakis, Bogdan Warinschi;;;2021/888;;;none;;;2021-06-29;;;security
+Secure Code-Based Key Encapsulation Mechanism with Short Ciphertext and Secret Key;;;Jayashree Dey, Ratna Dutta;;;2021/881;;;none;;;2021-06-29;;;security
+Rethinking Searchable Symmetric Encryption;;;Zichen Gui, Kenneth G. Paterson, Sikhar Patranabis;;;2021/879;;;none;;;2021-06-29;;;security
+A Fully Anonymous e-Voting Protocol Employing Universal zk-SNARKs and Smart Contracts;;;Aritra Banerjee;;;2021/877;;;none;;;2021-06-29;;;proofs
+W-OTS(+) up my Sleeve! A Hidden Secure Fallback for Cryptocurrency Wallets;;;David Chaum, Mario Larangeira, Mario Yaksetig, William Carter;;;2021/872;;;none;;;2021-06-29;;;proofs
+Key-Policy ABE with Switchable Attributes;;;Cécile Delerablée, Lénaïck Gouriou, David Pointcheval;;;2021/867;;;none;;;2021-06-24;;;security
+The One-More Discrete Logarithm Assumption in the Generic Group Model;;;Balthazar Bauer, Georg Fuchsbauer, Antoine Plouviez;;;2021/866;;;none;;;2021-06-24;;;security
+A Fast and Simple Partially Oblivious PRF, with Applications;;;Nirvan Tyagi, Sofı́a Celi, Thomas Ristenpart, Nick Sullivan, Stefano Tessaro, Christopher A. Wood;;;2021/864;;;none;;;2021-06-24;;;security
+Authenticated Key Exchange and Signatures with Tight Security in the Standard Model;;;Shuai Han, Tibor Jager, Eike Kiltz, Shengli Liu, Jiaxin Pan, Doreen Riepel, Sven Schäge;;;2021/863;;;none;;;2021-06-24;;;security
+Receiver-Anonymity in Rerandomizable RCCA-Secure Cryptosystems Resolved;;;Yi Wang, Rongmao Chen, Guomin Yang, Xinyi Huang, Baosheng Wang, Moti Yung;;;2021/862;;;none;;;2021-06-24;;;security
+Standard Model Leakage-Resilient Authenticated Key Exchange using Inner-product Extractors;;;Janaka Alawatugoda, Tatsuaki Okamoto;;;2021/861;;;none;;;2021-06-24;;;security
+Breaking and Fixing Virtual Channels: Domino Attack and Donner;;;Lukas Aumayr, Pedro Moreno-Sanchez, Aniket Kate, Matteo Maffei;;;2021/855;;;none;;;2021-06-24;;;security
+Private Signaling;;;Varun Madathil, Alessandra Scafuro, István András Seres, Omer Shlomovits, Denis Varlakov;;;2021/853;;;none;;;2021-06-24;;;security
+Amun: Securing E-Voting Against Over-the-Shoulder Coercion;;;Riccardo Longo, Chiara Spadafora;;;2021/851;;;none;;;2021-06-22;;;security
+Functional Encryption for Turing Machines with Dynamic Bounded Collusion from LWE;;;Shweta Agrawal, Monosij Maitra, Narasimha Sai Vempati, Shota Yamada;;;2021/848;;;none;;;2021-06-22;;;security
+A note on IND-qCCA security in the ROM and its applications: CPA security is sufficient for TLS 1.3;;;Loïs Huguenin-Dumittan, Serge Vaudenay;;;2021/844;;;none;;;2021-06-21;;;security
+Environmentally Friendly Composable Multi-Party Computation in the Plain Model from Standard (Timed) Assumptions;;;Brandon Broadnax, Jeremias Mechler, Jörn Müller-Quade;;;2021/843;;;none;;;2021-06-21;;;security
+Anonymous and Distributed Authentication for Peer-to-Peer Networks;;;Pasan Tennakoon, Supipi Karunathilaka, Rishikeshan Lavakumar, Janaka Alawatugoda;;;2021/838;;;none;;;2021-06-21;;;proofs
+Towards a Unified Approach to Black-Box Constructions of Zero-Knowledge Proofs;;;Xiao Liang, Omkant Pandey;;;2021/836;;;none;;;2021-06-21;;;proofs
+Security Characterization of J-PAKE and its Variants;;;Michel Abdalla, Manuel Barbosa, Peter B. Rønne, Peter Y. A. Ryan, Petra Šala;;;2021/824;;;none;;;2021-06-16;;;proofs,security
+SNARGs for $\mathcal{P}$ from LWE;;;Arka Rai Choudhuri, Abhishek Jain, Zhengzhong Jin;;;2021/808;;;none;;;2021-06-16;;;proofs
+Non-Interactive Batch Arguments for NP from Standard Assumptions;;;Arka Rai Choudhuri, Abhishek Jain, Zhengzhong Jin;;;2021/807;;;none;;;2021-06-16;;;security
+Boosting the Security of Blind Signature Schemes;;;Jonathan Katz, Julian Loss, Michael Rosenberg;;;2021/806;;;none;;;2021-06-16;;;security
+Practical Settlement Bounds for Proof-of-Work Blockchains;;;Peter Gaži, Ling Ren, Alexander Russell;;;2021/805;;;none;;;2021-06-16;;;security
+Memory-Hard Puzzles in the Standard Model with Applications to Memory-Hard Functions and Resource-Bounded Locally Decodable Codes;;;Mohammad Hassan Ameri, Alexander R. Block, Jeremiah Blocki;;;2021/801;;;none;;;2021-06-14;;;security
+Probabilistic Dynamic Input Output Automata (Extended Version);;;Pierre Civit, Maria Potop-Butucaru;;;2021/798;;;none;;;2021-06-14;;;formal
+P2DPI: Practical and Privacy-Preserving Deep Packet Inspection;;;Jongkil Kim, Seyit Camtepe, Joonsang Baek, Willy Susilo, Josef Pieprzyk, Surya Nepal;;;2021/789;;;none;;;2021-06-14;;;security
+Somewhere Statistical Soundness, Post-Quantum Security, and SNARGs;;;Yael Tauman Kalai, Vinod Vaikuntanathan, Rachel Yun Zhang;;;2021/788;;;none;;;2021-06-14;;;formal,proofs
+Completeness Theorems for Adaptively Secure Broadcast;;;Ran Cohen, Juan Garay, Vassilis Zikas;;;2021/775;;;none;;;2021-06-09;;;security
+On Tight Quantum Security of HMAC and NMAC in the Quantum Random Oracle Model;;;Akinori Hosoyamada, Tetsu Iwata;;;2021/774;;;none;;;2021-06-09;;;security
+Etherless Ethereum Tokens: Simulating Native Tokens in Ethereum;;;John Andrews, Michele Ciampi, Vassilis Zikas;;;2021/766;;;none;;;2021-06-09;;;security
+Dynamic Volume-Hiding Encrypted Multi-Maps with Applications to Searchable Encryption;;;Ghous Amjad, Sarvar Patel, Giuseppe Persiano, Kevin Yeo, Moti Yung;;;2021/765;;;none;;;2021-06-09;;;security
+Anonymous Device Authorization for Cellular Networks;;;Abida Haque, Varun Madathil, Bradley Reaves, Alessandra Scafuro;;;2021/753;;;none;;;2021-06-07;;;proofs,security
+Appenzeller to Brie: Efficient Zero-Knowledge Proofs for Mixed-Mode Arithmetic and $\mathbb{Z}_{2^k}$;;;Carsten Baum, Lennart Braun, Alexander Munch-Hansen, Benoit Razet, Peter Scholl;;;2021/750;;;none;;;2021-06-07;;;proofs
+Manta: a Plug and Play Private DeFi Stack;;;Shumo Chu, Yu Xia, Zhenfei Zhang;;;2021/743;;;none;;;2021-06-03;;;proofs
+A New Approach to Garbled Circuits;;;Anasuya Acharya, Tomer Ashur, Efrat Cohen, Carmit Hazay, Avishay Yanai;;;2021/739;;;none;;;2021-06-03;;;security
+On the Impossibility of Purely Algebraic Signatures;;;Nico Döttling, Dominik Hartmann, Dennis Hofheinz, Eike Kiltz, Sven Schäge, Bogdan Ursu;;;2021/738;;;none;;;2021-06-03;;;security
+GIFT-COFB is Tightly Birthday Secure with Encryption Queries;;;Akiko Inoue, Kazuhiko Minematsu;;;2021/737;;;none;;;2021-06-03;;;security
+Side-Channel Protections for Picnic Signatures;;;Diego F. Aranha, Sebastian Berndt, Thomas Eisenbarth, Okan Seker, Akira Takahashi, Luca Wilke, Greg Zaverucha;;;2021/735;;;none;;;2021-06-03;;;proofs
+Guarding the First Order: The Rise of AES Maskings;;;Amund Askeland, Siemen Dhooghe, Svetla Nikova, Vincent Rijmen, Zhenda Zhang;;;2021/734;;;none;;;2021-06-03;;;security
+Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning;;;Chenkai Weng, Kang Yang, Xiang Xie, Jonathan Katz, Xiao Wang;;;2021/730;;;none;;;2021-06-02;;;proofs
+SoK: Privacy-Preserving Computing in the Blockchain Era;;;Ghada Almashaqbeh, Ravital Solomon;;;2021/727;;;none;;;2021-06-02;;;proofs
+Tri-op redactable blockchains with block modification, removal, and insertion;;;Mohammad Sadeq Dousti, Alptekin Küpçü;;;2021/724;;;none;;;2021-05-31;;;security
+Chosen Ciphertext Secure Keyed Two-Level Homomorphic Encryption;;;Yusaku Maeda, Koji Nuida;;;2021/722;;;none;;;2021-05-31;;;security
+Will You Cross the Threshold for Me? - Generic Side-Channel Assisted Chosen-Ciphertext Attacks on NTRU-based KEMs;;;Prasanna Ravi, Martianus Frederic Ezerman, Shivam Bhasin, Anupam Chattopadhyay, Sujoy Sinha Roy;;;2021/718;;;none;;;2021-05-31;;;security
+VOProof: Efficient zkSNARKs from Vector Oracle Compilers;;;Yuncong Zhang, Alan Szepieniec, Ren Zhang, Shi-Feng Sun, Geng Wang, Dawu Gu;;;2021/710;;;none;;;2021-05-28;;;proofs
+Bounded Collusion ABE for TMs from IBE;;;Rishab Goyal, Ridwan Syed, Brent Waters;;;2021/709;;;none;;;2021-05-28;;;security
+Anonymous, Robust Post-Quantum Public Key Encryption;;;Paul Grubbs, Varun Maram, Kenneth G. Paterson;;;2021/708;;;none;;;2021-05-28;;;security
+Lattice Enumeration for Tower NFS: a 521-bit Discrete Logarithm Computation;;;Gabrielle De Micheli, Pierrick Gaudry, Cécile Pierrot;;;2021/707;;;none;;;2021-05-28;;;proofs
+Cryptanalysis of an oblivious PRF from supersingular isogenies;;;Andrea Basso, Péter Kutas, Simon-Philipp Merz, Christophe Petit, Antonio Sanso;;;2021/706;;;none;;;2021-05-28;;;security
+Symmetric Key Exchange with Full Forward Security and Robust Synchronization;;;Colin Boyd, Gareth T. Davies, Bor de Kock, Kai Gellert, Tibor Jager, Lise Millerjord;;;2021/702;;;none;;;2021-05-28;;;security
+The "quantum annoying" property of password-authenticated key exchange protocols;;;Edward Eaton, Douglas Stebila;;;2021/696;;;none;;;2021-05-28;;;security
+Adaptively Secure Lattice-based Revocable IBE in the QROM: Compact Parameters, Tight Security, and Anonymity;;;Atsushi Takayasu;;;2021/695;;;none;;;2021-05-28;;;security
+On Interactive Oracle Proofs for Boolean R1CS Statements;;;Ignacio Cascudo, Emanuele Giunta;;;2021/694;;;none;;;2021-05-28;;;proofs
+Shorter Signatures Based on Tailor-Made Minimalist Symmetric-Key Crypto;;;Christoph Dobraunig, Daniel Kales, Christian Rechberger, Markus Schofnegger, Greg Zaverucha;;;2021/692;;;none;;;2021-05-28;;;proofs
+Statistical ZAPs from Group-Based Assumptions;;;Geoffroy Couteau, Shuichi Katsumata, Elahe Sadeghi, Bogdan Ursu;;;2021/688;;;none;;;2021-05-28;;;proofs
+Tight Setup Bounds for Identifiable Abort;;;Nicholas Brandt;;;2021/684;;;none;;;2021-05-28;;;security
+zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy;;;Tianyi Liu, Xiang Xie, Yupeng Zhang;;;2021/673;;;none;;;2021-05-25;;;proofs
+Secure cloud-of-clouds storage with space-efficient secret sharing;;;Ahad Niknia, Miguel Correia, Jaber Karimpour;;;2021/666;;;none;;;2021-05-25;;;security
+A Trustless GQ Multi-Signature Scheme with Identifiable Abort;;;Handong Cui, Tsz Hon Yuen;;;2021/664;;;none;;;2021-05-25;;;proofs,security
+Best-Possible Unpredictable Proof-of-Stake: An Impossibility and a Practical Design;;;Lei Fan, Jonathan Katz, Zhenghao Lu, Phuc Thai, Hong-Sheng Zhou;;;2021/660;;;none;;;2021-05-25;;;security
+Smooth Zero-Knowledge Hash Functions;;;Behzad Abdolmaleki, Hamidreza Khoshakhlagh, Helger Lipmaa;;;2021/653;;;none;;;2021-05-20;;;proofs,security
+Leo: A Programming Language for Formally Verified, Zero-Knowledge Applications;;;Collin Chin, Howard Wu, Raymond Chu, Alessandro Coglio, Eric McCarthy, Eric Smith;;;2021/651;;;none;;;2021-05-20;;;formal,proofs
+Structured Leakage and Applications to Cryptographic Constant-Time and Cost;;;Gilles Barthe, Benjamin Gregoire, Vincent Laporte, Swarn Priya;;;2021/650;;;none;;;2021-05-20;;;formal
+Security of COFB against Chosen Ciphertext Attacks;;;Mustafa Khairallah;;;2021/648;;;none;;;2021-05-20;;;security
+Hydra: Succinct Fully Pipelineable Interactive Arguments of Knowledge;;;William Zhang, Yu Xia;;;2021/641;;;none;;;2021-05-17;;;proofs,security
+Indifferentiable Signatures: High Performance and Fallback Security;;;Charalampos Papamanthou, Cong Zhang, Hong-Sheng Zhou;;;2021/639;;;none;;;2021-05-17;;;security
+Non-Interactive CCA2-Secure Threshold Cryptosystems: Achieving Adaptive Security in the Standard Model Without Pairings;;;Julien Devevey, Benoît Libert, Khoa Nguyen, Thomas Peters, Moti Yung;;;2021/630;;;none;;;2021-05-17;;;security
+The Availability-Accountability Dilemma and its Resolution via Accountability Gadgets;;;Joachim Neu, Ertem Nusret Tas, David Tse;;;2021/628;;;none;;;2021-05-17;;;security
+VeRSA: Verifiable Registries with Efficient Client Audits from RSA Authenticated Dictionaries;;;Nirvan Tyagi, Ben Fisch, Andrew Zitek-Estrada, Joseph Bonneau, Stefano Tessaro;;;2021/627;;;none;;;2021-05-17;;;proofs
+Mining in Logarithmic Space;;;Aggelos Kiayias, Nikos Leonardos, Dionysis Zindros;;;2021/623;;;none;;;2021-05-17;;;proofs,security
+Stealth: A Highly Secured End-to-End Symmetric Communication Protocol;;;Ripon Patgiri, Naresh Babu Muppalaneni;;;2021/622;;;none;;;2021-05-17;;;security
+Quantum Encryption with Certified Deletion, Revisited: Public Key, Attribute-Based, and Classical Communication;;;Taiga Hiroka, Tomoyuki Morimae, Ryo Nishimaki, Takashi Yamakawa;;;2021/617;;;none;;;2021-05-17;;;security
+An Efficient and Generic Construction for Signal's Handshake (X3DH): Post-Quantum, State Leakage Secure, and Deniable;;;Keitaro Hashimoto, Shuichi Katsumata, Kris Kwiatkowski, Thomas Prest;;;2021/616;;;none;;;2021-05-17;;;proofs
+A Tutorial on Concurrent Zero Knowledge;;;Rafael Pass;;;2021/615;;;none;;;2021-05-17;;;proofs
+Attribute-Based Conditional Proxy Re-Encryption in the Standard Model under LWE;;;Xiaojian Liang, Jian Weng, Anjia Yang, Lisha Yao, Zike Jiang, Zhenghao Wu;;;2021/613;;;none;;;2021-05-17;;;security
+Signed (Group) Diffie-Hellman Key Exchange with Tight Security;;;Jiaxin Pan, Chen Qian, Magnus Ringerud;;;2021/607;;;none;;;2021-05-17;;;security
+ZK-PCPs from Leakage-Resilient Secret Sharing;;;Carmit Hazay, Muthuramakrishnan Venkitasubramaniam, Mor Weiss;;;2021/606;;;none;;;2021-05-17;;;proofs
+On the Randomness Complexity of Interactive Proofs and Statistical Zero-Knowledge Proofs;;;Benny Applebaum, Eyal Golombek;;;2021/605;;;none;;;2021-05-10;;;proofs
+Subfield Algorithms for Ideal- and Module-SVP Based on the Decomposition Group;;;Christian Porter, Andrew Mendelsohn, Cong Ling;;;2021/600;;;none;;;2021-05-10;;;security
+Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments;;;Shravan Srinivasan, Alexander Chepurnoy, Charalampos Papamanthou, Alin Tomescu, Yupeng Zhang;;;2021/599;;;none;;;2021-05-10;;;proofs
+Mutual Accountability Layer: Accountable Anonymity within Accountable Trust;;;Vanesa Daza, Abida Haque, Alessandra Scafuro, Alexandros Zacharakis, Arantxa Zapico;;;2021/596;;;none;;;2021-05-10;;;proofs
+Securing Parallel-chain Protocols under Variable Mining Power;;;Xuechao Wang, Viswa Virinchi Muppirala, Lei Yang, Sreeram Kannan, Pramod Viswanath;;;2021/595;;;none;;;2021-05-10;;;security
+Zero Knowledge Contingent Payments for Trained Neural Networks;;;Zhelei Zhou, Xinlei Cao, Jian Liu, Bingsheng Zhang, Kui Ren;;;2021/594;;;none;;;2021-05-10;;;proofs
+An Algebraic Framework for Universal and Updatable SNARKs;;;Carla Ràfols, Arantxa Zapico;;;2021/590;;;none;;;2021-05-10;;;proofs
+White-Box Encryption Scheme Using a Quantum Memory;;;Hidenori Kuwakado, Shoichi Hirose, Masahiro Mambo;;;2021/589;;;none;;;2021-05-10;;;security
+A Novel Proof of Shuffle: Exponentially Secure Cut-and-Choose;;;Thomas Haines, Johannes Mueller;;;2021/588;;;none;;;2021-05-10;;;formal,proofs
+PrORAM: Fast $O(\log n)$ Private Coin ZK ORAM;;;David Heath, Vladimir Kolesnikov;;;2021/587;;;none;;;2021-05-10;;;proofs
+ethSTARK Documentation;;;Eli Ben-Sasson;;;2021/582;;;none;;;2021-05-04;;;proofs
+Quantum Key-length Extension;;;Joseph Jaeger, Fang Song, Stefano Tessaro;;;2021/579;;;none;;;2021-05-03;;;security
+Soft Power: Upgrading Chain Macroeconomic Policy Through Soft Forks;;;Dionysis Zindros;;;2021/577;;;none;;;2021-05-03;;;proofs
+Prio+: Privacy Preserving Aggregate Statistics via Boolean Shares;;;Surya Addanki, Kevin Garbe, Eli Jaffe, Rafail Ostrovsky, Antigoni Polychroniadou;;;2021/576;;;none;;;2021-05-03;;;proofs
+Post-Quantum Cryptography: Computational-Hardness Assumptions and Beyond;;;Thomas Attema, Nicole Gervasoni, Michiel Marcus, Gabriele Spini;;;2021/571;;;none;;;2021-05-03;;;security
+Forward-secure Multi-user Aggregate Signatures based on zk-SNARKs;;;Jeonghyuk Lee, Jihye Kim, Hyunok Oh;;;2021/567;;;none;;;2021-05-03;;;proofs,security
+SMILE: Set Membership from Ideal Lattices with Applications to Ring Signatures and Confidential Transactions;;;Vadim Lyubashevsky, Ngoc Khanh Nguyen, Gregor Seiler;;;2021/564;;;none;;;2021-05-03;;;proofs
+Verifiable Decryption in the Head;;;Kristian Gjøsteen, Thomas Haines, Johannes Müller, Peter Rønne, Tjerand Silde;;;2021/558;;;none;;;2021-05-03;;;formal,proofs
+Interactive Physical ZKP for Connectivity:Applications to Nurikabe and Hitori;;;Leo Robert, Daiki Miyahara, Pascal Lafourcade, Takaaki Mizuk;;;2021/556;;;none;;;2021-04-28;;;proofs
+PARASITE: PAssword Recovery Attack against Srp Implementations in ThE wild;;;Daniel De Almeida Braga, Pierre-Alain Fouque, Mohamed Sabt;;;2021/553;;;none;;;2021-04-27;;;security
+MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments;;;Muhammed F. Esgin, Ron Steinfeld, Raymond K. Zhao;;;2021/545;;;none;;;2021-04-27;;;proofs
+Efficient Range Proofs with Transparent Setup from Bounded Integer Commitments;;;Geoffroy Couteau, Michael Klooß, Huang Lin, Michael Reichle;;;2021/540;;;none;;;2021-04-27;;;proofs
+More Efficient Adaptively Secure Revocable Hierarchical Identity-based Encryption with Compact Ciphertexts: Achieving Shorter Keys and Tighter Reductions;;;Atsushi Takayasu;;;2021/539;;;none;;;2021-04-27;;;security
+A Composable Look at Updatable Encryption;;;Françoise Levy-dit-Vehel, Maxime Roméas;;;2021/538;;;none;;;2021-04-23;;;security
+LogStack: Stacked Garbling with $O(b \log b)$ Computation;;;David Heath, Vladimir Kolesnikov;;;2021/531;;;none;;;2021-04-23;;;security
+SnarkPack: Practical SNARK Aggregation;;;Nicolas Gailly, Mary Maller, Anca Nitulescu;;;2021/529;;;none;;;2021-04-23;;;proofs
+Verified Multiple-Time Signature Scheme from One-Time Signatures and Timestamping;;;Denis Firsov, Henri Lakk, Ahto Truu;;;2021/528;;;none;;;2021-04-23;;;formal
+Generic Constructions of Revocable Hierarchical Identity-based Encryption;;;Keita Emura, Atsushi Takayasu, Yohei Watanabe;;;2021/515;;;none;;;2021-04-23;;;security
+Non-Interactive Zero Knowledge from Sub-exponential DDH;;;Abhishek Jain, Zhengzhong Jin;;;2021/514;;;none;;;2021-04-23;;;proofs
+What Makes Fiat--Shamir zkSNARKs (Updatable SRS) Simulation Extractable?;;;Chaya Ganesh, Hamidreza Khoshakhlagh, Markulf Kohlweiss, Anca Nitulescu, Michal Zajac;;;2021/511;;;none;;;2021-04-23;;;proofs,security
+On using the same key pair for Ed25519 and an X25519 based KEM;;;Erik Thormarker;;;2021/509;;;none;;;2021-04-23;;;security
+Delegating Supersingular Isogenies over $\mathbb{F}_{p^2}$ with Cryptographic Applications;;;Robi Pedersen, Osmanbey Uzunkol;;;2021/506;;;none;;;2021-04-23;;;proofs
+Cryptanalysis of Boyen’s Attribute-Based Encryption Scheme in TCC 2013;;;Shweta Agrawal, Rajarshi Biswas, Ryo Nishimaki, Keita Xagawa, Xiang Xie, Shota Yamada;;;2021/505;;;none;;;2021-04-19;;;security
+zkHawk: Practical Private Smart Contracts from MPC-based Hawk;;;Aritra Banerjee, Michael Clear, Hitesh Tewari;;;2021/501;;;none;;;2021-04-19;;;proofs
+Key-Oblivious Encryption from isogenies and its application to Accountable Tracing Signatures.;;;Surbhi Shaw, Ratna Dutta;;;2021/494;;;none;;;2021-04-19;;;security
+Shorter Lattice-based Zero-Knowledge Proofs for the Correctness of a Shuffle;;;Javier Herranz, Ramiro Martínez, Manuel Sánchez;;;2021/488;;;none;;;2021-04-16;;;proofs
+TurboIKOS: Improved Non-interactive Zero Knowledge and Post-Quantum Signatures;;;Yaron Gvili, Julie Ha, Sarah Scheffler, Mayank Varia, Ziling Yang, Xinyuan Zhang;;;2021/478;;;none;;;2021-04-15;;;proofs
+CryptoGram: Fast Private Calculations of Histograms over Multiple Users’ Inputs;;;Ryan Karl, Jonathan Takeshita, Alamin Mohammed, Aaron Striegel, Taeho Jung;;;2021/472;;;none;;;2021-04-15;;;security
+Size, Speed, and Security: An Ed25519 Case Study;;;Cesar Pereida García, Sampo Sovio;;;2021/471;;;none;;;2021-04-12;;;formal
+Viaduct: An Extensible, Optimizing Compiler for Secure Distributed Programs (Technical Report);;;Coşku Acay, Rolph Recto, Joshua Gancher, Andrew C. Myers, Elaine Shi;;;2021/468;;;none;;;2021-04-12;;;proofs
+Second-Order SCA Security with almost no Fresh Randomness;;;Aein Rezaei Shahmirzadi, Amir Moradi;;;2021/461;;;none;;;2021-04-12;;;security
+Non-Interactive Composition of Sigma-Protocols via Share-then-Hash;;;Masayuki Abe, Miguel Ambrona, Andrej Bogdanov, Miyako Ohkubo, Alon Rosen;;;2021/457;;;none;;;2021-04-08;;;proofs,security
+Hardening Circuit-Design IP Against Reverse-Engineering Attacks;;;Animesh Chhotaray, Thomas Shrimpton;;;2021/456;;;none;;;2021-04-08;;;security
+Measure-Rewind-Measure: Tighter Quantum Random Oracle Model Proofs for One-Way to Hiding and CCA Security;;;Veronika Kuchta, Amin Sakzad, Damien Stehle, Ron Steinfeld, Shi-Feng Sun;;;2021/454;;;none;;;2021-04-08;;;security
+On the Memory-Tightness of Hashed ElGamal;;;Ashrujit Ghoshal, Stefano Tessaro;;;2021/448;;;none;;;2021-04-08;;;security
+Towards practical GGM-based PRF from (Module-)Learning-with-Rounding;;;Chitchanok Chuengsatiansup, Damien Stehle;;;2021/446;;;none;;;2021-04-08;;;security
+Constructing a pairing-free certificateless proxy signature scheme from ECDSA;;;Cholun Kim;;;2021/443;;;none;;;2021-04-06;;;security
+Formal security analysis of MPC-in-the-head zero-knowledge protocols;;;Nikolaj Sidorenco, Sabine Oechsner, Bas Spitters;;;2021/437;;;none;;;2021-04-06;;;formal,proofs,security
+Non-Interactive Anonymous Router;;;Elaine Shi, Ke Wu;;;2021/435;;;none;;;2021-04-06;;;security
+A Coq proof of the correctness of X25519 in TweetNaCl;;;Peter Schwabe, Benoît Viguier, Timmy Weerwag, Freek Wiedijk;;;2021/428;;;none;;;2021-04-06;;;formal
+Generic Plaintext Equality and Inequality Proofs (Extended Version);;;Olivier Blazy, Xavier Bultel, Pascal Lafourcade, Octavio Perez Kempner;;;2021/426;;;none;;;2021-04-06;;;proofs
+Stacking Sigmas: A Framework to Compose $\Sigma$-Protocols for Disjunctions;;;Aarushi Goel, Matthew Green, Mathias Hall-Andersen, Gabriel Kaptchuk;;;2021/422;;;none;;;2021-03-31;;;proofs,security
+Indistinguishability Obfuscation of Null Quantum Circuits and Applications;;;James Bartusek, Giulio Malavolta;;;2021/421;;;none;;;2021-03-31;;;proofs,security
+Efficient Verification of Optimized Code: Correct High-speed X25519;;;Marc Schoolderman, Jonathan Moerman, Sjaak Smetsers, Marko van Eekelen;;;2021/415;;;none;;;2021-03-30;;;formal
+Cryptanalysis of an Anonymous Identity-based Identification Scheme in Ad-Hoc Group without Pairings;;;Sook Yan Hue, Jason Chia, Ji-Jian Chin;;;2021/414;;;none;;;2021-03-30;;;security
+Unclonable Encryption, Revisited;;;Prabhanjan Ananth, Fatih Kaleoglu;;;2021/412;;;none;;;2021-03-30;;;security
+Disappearing Cryptography in the Bounded Storage Model;;;Jiaxin Guan, Mark Zhandry;;;2021/406;;;none;;;2021-03-27;;;security
+Chain Reductions for Multi-Signatures and the HBMS Scheme;;;Mihir Bellare, Wei Dai;;;2021/404;;;none;;;2021-03-27;;;security
+Leakage Resilient Value Comparison With Application to Message Authentication;;;Christoph Dobraunig, Bart Mennink;;;2021/402;;;none;;;2021-03-27;;;formal
+Latus Incentive Scheme: Enabling Decentralization in Blockchains based on Recursive SNARKs;;;Alberto Garoffolo, Dmytro Kaidalov, Roman Oliynykov;;;2021/399;;;none;;;2021-03-27;;;proofs
+SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq;;;Philipp G. Haselwarter, Exequiel Rivas, Antoine Van Muylder, Théo Winterhalter, Carmine Abate, Nikolaj Sidorenco, Catalin Hritcu, Kenji Maillard, Bas Spitters;;;2021/397;;;none;;;2021-03-27;;;formal,proofs,security
+Quantum Encryption with Certified Deletion: Public Key and Attribute-Based;;;Ryo Nishimaki, Takashi Yamakawa;;;2021/394;;;none;;;2021-03-27;;;security
+Quantum-access security of the Winternitz one-time signature scheme;;;Christian Majenz, Chanelle Matadah Manfouo, Maris Ozols;;;2021/387;;;none;;;2021-03-27;;;security
+Signatures with Tight Multi-User Security from Search Assumptions;;;Jiaxin Pan, Magnus Ringerud;;;2021/382;;;none;;;2021-03-22;;;security
+On the Impossibility of Post-Quantum Black-Box Zero-Knowledge in Constant Rounds;;;Nai-Hui Chia, Kai-Min Chung, Qipeng Liu, Takashi Yamakawa;;;2021/376;;;none;;;2021-03-22;;;proofs
+ZXAD: High-volume Attack Mitigation for Tor;;;Akshaya Mani, Ian Goldberg;;;2021/374;;;none;;;2021-03-22;;;proofs
+Nova: Recursive Zero-Knowledge Arguments from Folding Schemes;;;Abhiram Kothapalli, Srinath Setty, Ioanna Tzialla;;;2021/370;;;none;;;2021-03-22;;;proofs
+Time- and Space-Efficient Arguments from Groups of Unknown Order;;;Alexander R. Block, Justin Holmgren, Alon Rosen, Ron D. Rothblum, Pratik Soni;;;2021/358;;;none;;;2021-03-18;;;proofs,security
+Efficient permutation protocol for MPC in the head;;;Peeter Laud;;;2021/354;;;none;;;2021-03-18;;;proofs
+Fully-succinct Publicly Verifiable Delegation from Constant-Size Assumptions;;;Alonso González, Alexandros Zacharakis;;;2021/353;;;none;;;2021-03-18;;;proofs
+Practical Dynamic Group Signatures Without Knowledge Extractors;;;Hyoseung Kim, Olivier Sanders, Michel Abdalla, Jong Hwan Park;;;2021/351;;;none;;;2021-03-18;;;security
+Post-quantum Resettably-Sound Zero Knowledge;;;Nir Bitansky, Michael Kellner, Omri Shmueli;;;2021/349;;;none;;;2021-03-17;;;proofs
+Efficient and Universally Composable Single Secret Leader Election from Pairings;;;Dario Catalano, Dario Fiore, Emanuele Giunta;;;2021/344;;;none;;;2021-03-17;;;security
+Identity-certifying Authority-aided Identity-based Searchable Encryption Framework in Cloud Systems;;;Zi-Yuan Liu, Yi-Fan Tseng, Raylin Tso, Yu-Chi Chen, Masahiro Mambo;;;2021/337;;;none;;;2021-03-17;;;security
+Post-Quantum Succinct Arguments: Breaking the Quantum Rewinding Barrier;;;Alessandro Chiesa, Fermi Ma, Nicholas Spooner, Mark Zhandry;;;2021/334;;;none;;;2021-03-17;;;proofs,security
+Sumcheck Arguments and their Applications;;;Jonathan Bootle, Alessandro Chiesa, Katerina Sotiraki;;;2021/333;;;none;;;2021-03-14;;;proofs
+Two Efficient and Regulatory Confidential Transaction Schemes;;;Min Yang, Changtong Xu, Zhe Xia, Li Wang, Qingshu Meng;;;2021/329;;;none;;;2021-03-14;;;proofs
+Veksel: Simple, Efficient, Anonymous Payments with Large Anonymity Sets from Well-Studied Assumptions;;;Matteo Campanelli, Mathias Hall-Andersen;;;2021/327;;;none;;;2021-03-12;;;proofs,security
+Bringing State-Separating Proofs to EasyCrypt - A Security Proof for Cryptobox;;;François Dupressoir, Konrad Kohbrok, Sabine Oechsner;;;2021/326;;;none;;;2021-03-11;;;formal,security
+Rinocchio: SNARKs for Ring Arithmetic;;;Chaya Ganesh, Anca Nitulescu, Eduardo Soria-Vazquez;;;2021/322;;;none;;;2021-03-11;;;proofs
+Abuse Resistant Law Enforcement Access Systems;;;Matthew Green, Gabriel Kaptchuk, Gijs Van Laer;;;2021/321;;;none;;;2021-03-11;;;security
+Binding BIKE errors to a key pair;;;Nir Drucker, Shay Gueron, Dusan Kostic;;;2021/320;;;none;;;2021-03-11;;;security
+Oblivious TLS via Multi-Party Computation;;;Damiano Abram, Ivan Damgård, Peter Scholl, Sven Trieflinger;;;2021/318;;;none;;;2021-03-11;;;security
+Reusable Two-Round MPC from LPN;;;James Bartusek, Sanjam Garg, Akshayaram Srinivasan, Yinuo Zhang;;;2021/316;;;none;;;2021-03-11;;;security
+A Compressed $\Sigma$-Protocol Theory for Lattices;;;Thomas Attema, Ronald Cramer, Lisa Kohl;;;2021/307;;;none;;;2021-03-09;;;proofs
+Round-Optimal Blind Signatures in the Plain Model from Classical and Quantum Standard Assumptions;;;Shuichi Katsumata, Ryo Nishimaki, Shota Yamada, Takashi Yamakawa;;;2021/306;;;none;;;2021-03-09;;;proofs
+SoK: Game-based Security Models for Group Key Exchange;;;Bertram Poettering, Paul Rösler, Jörg Schwenk, Douglas Stebila;;;2021/305;;;none;;;2021-03-09;;;security
+HashWires: Hyperefficient Credential-Based Range Proofs;;;Konstantinos Chalkias, Shir Cohen, Kevin Lewi, Fredric Moezinia, Yolan Romailler;;;2021/297;;;none;;;2021-03-07;;;proofs
+Dummy Shuffling against Algebraic Attacks in White-box Implementations;;;Alex Biryukov, Aleksei Udovenko;;;2021/290;;;none;;;2021-03-07;;;security
+Redeeming Reset Indifferentiability and Post-Quantum Groups;;;Mark Zhandry;;;2021/288;;;none;;;2021-03-07;;;security
+Fiat-Shamir via List-Recoverable Codes (or: Parallel Repetition of GMW is not Zero-Knowledge);;;Justin Holmgren, Alex Lombardi, Ron D. Rothblum;;;2021/286;;;none;;;2021-03-07;;;proofs
+P2DEX: Privacy-Preserving Decentralized Cryptocurrency Exchange;;;Carsten Baum, Bernardo David, Tore Frederiksen;;;2021/283;;;none;;;2021-03-07;;;security
+Subquadratic SNARGs in the Random Oracle Model;;;Alessandro Chiesa, Eylon Yogev;;;2021/281;;;none;;;2021-03-07;;;proofs,security
+Online-Extractability in the Quantum Random-Oracle Model;;;Jelle Don, Serge Fehr, Christian Majenz, Christian Schaffner;;;2021/280;;;none;;;2021-03-07;;;security
+More Communication Lower Bounds for Information-Theoretic MPC;;;Ivan Damgård, Boyang Li, Nikolaj I. Schwartzbach;;;2021/278;;;none;;;2021-03-04;;;security
+Steel: Composable Hardware-based Stateful and Randomised Functional Encryption;;;Pramod Bhatotia, Markulf Kohlweiss, Lorenzo Martinico, Yiannis Tselekounis;;;2021/269;;;none;;;2021-03-03;;;security
+Revisiting Updatable Encryption: Controlled Forward Security, Constructions and a Puncturable Perspective;;;Daniel Slamanig, Christoph Striecks;;;2021/268;;;none;;;2021-03-03;;;security
+Ciminion: Symmetric Encryption Based on Toffoli-Gates over Large Finite Fields;;;Christoph Dobraunig, Lorenzo Grassi, Anna Guinet, Daniël Kuijsters;;;2021/267;;;none;;;2021-03-03;;;proofs
+Non-Interactive Half-Aggregate Signatures Based on Module Lattices - A First Attempt;;;Katharina Boudgoust, Adeline Roux-Langlois;;;2021/263;;;none;;;2021-03-03;;;security
+Generic Compiler for Publicly Verifiable Covert Multi-Party Computation;;;Sebastian Faust, Carmit Hazay, David Kretzler, Benjamin Schlosser;;;2021/251;;;none;;;2021-03-02;;;security
+Everlasting UC Commitments from Fully Malicious PUFs;;;Bernardo Magri, Giulio Malavolta, Dominique Schröder, Dominique Unruh;;;2021/248;;;none;;;2021-03-02;;;security
+On the Ideal Shortest Vector Problem over Random Rational Primes;;;Yanbin Pan, Jun Xu, Nick Wadleigh, Qi Cheng;;;2021/245;;;none;;;2021-03-02;;;security
+Forward Secret Encrypted RAM: Lower Bounds and Applications;;;Alexander Bienstock, Yevgeniy Dodis, Kevin Yeo;;;2021/244;;;none;;;2021-03-02;;;formal
+Post-quantum Security of OAEP Transform;;;Ehsan Ebrahimi;;;2021/237;;;none;;;2021-03-02;;;security
+More Efficient Digital Signatures with Tight Multi-User Security;;;Denis Diemert, Kai Gellert, Tibor Jager, Lin Lyu;;;2021/235;;;none;;;2021-03-02;;;security
+Public-Coin Statistical Zero-Knowledge Batch Verification against Malicious Verifiers;;;Inbar Kaslasi, Ron D. Rothblum, Prashant Nalini Vasudevan;;;2021/233;;;none;;;2021-03-02;;;proofs
+On Publicly-Accountable Zero-Knowledge and Small Shuffle Arguments;;;Nils Fleischhacker, Mark Simkin;;;2021/228;;;none;;;2021-03-02;;;proofs
+Group Encryption: Full Dynamicity, Message Filtering and Code-Based Instantiation;;;Khoa Nguyen, Reihaneh Safavi-Naini, Willy Susilo, Huaxiong Wang, Yanhong Xu, Neng Zeng;;;2021/226;;;none;;;2021-03-02;;;security
+Snarky Ceremonies;;;Markulf Kohlweiss, Mary Maller, Janno Siim, Mikhail Volkhov;;;2021/219;;;none;;;2021-03-02;;;proofs
+SimS: a Simplification of SiGamal;;;Tako Boris Fouotsa, Christophe Petit;;;2021/218;;;none;;;2021-03-02;;;security
+Verifiable Random Functions with Optimal Tightness;;;David Niehues;;;2021/217;;;none;;;2021-03-02;;;security
+Limbo: Efficient Zero-knowledge MPCitH-based Arguments;;;Cyprien Delpech de Saint Guilhem, Emmanuela Orsini, Titouan Tanguy;;;2021/215;;;none;;;2021-03-02;;;proofs
+Compact Zero-Knowledge Proofs for Threshold ECDSA with Trustless Setup;;;Tsz Hon Yuen, Handong Cui, Xiang Xie;;;2021/205;;;none;;;2021-03-01;;;proofs
+Subtractive Sets over Cyclotomic Rings: Limits of Schnorr-like Arguments over Lattices;;;Martin R. Albrecht, Russell W. F. Lai;;;2021/202;;;none;;;2021-03-01;;;proofs
+QCCA-Secure Generic Key Encapsulation Mechanism with Tighter Security in the Quantum Random Oracle Model;;;Xu Liu, Mingqiang Wang;;;2021/196;;;none;;;2021-02-24;;;security
+Compilation of Function Representations for Secure Computing Paradigms;;;Karim Baghery, Cyprien Delpech de Saint Guilhem, Emmanuela Orsini, Nigel P. Smart, Titouan Tanguy;;;2021/195;;;none;;;2021-02-24;;;proofs
+Decidability of Secure Non-interactive Simulation of Doubly Symmetric Binary Source;;;Hamidreza Amini Khorasgani, Hemanta K. Maji, Hai H. Nguyen;;;2021/190;;;none;;;2021-02-24;;;security
+Tight Security Bounds for Micali’s SNARGs;;;Alessandro Chiesa, Eylon Yogev;;;2021/188;;;none;;;2021-02-20;;;proofs,security
+Group Signatures with User-Controlled and Sequential Linkability;;;Jesus Diaz, Anja Lehmann;;;2021/181;;;none;;;2021-02-20;;;security
+Fully Anonymous Group Signature with Verifier-Local Revocation;;;Ai Kitagawa, Yusuke Sakai, Keita Emura, Goichiro Hanaoka, Keisuke Tanaka;;;2021/170;;;none;;;2021-02-17;;;proofs
+Composition with Knowledge Assumptions;;;Thomas Kerber, Aggelos Kiayias, Markulf Kohlweiss;;;2021/165;;;none;;;2021-02-17;;;proofs,security
+Efficient Adaptively-Secure IB-KEMs and VRFs via Near-Collision Resistance;;;Tibor Jager, Rafael Kurek, David Niehues;;;2021/160;;;none;;;2021-02-17;;;security
+hbACSS: How to Robustly Share Many Secrets;;;Thomas Yurek, Licheng Luo, Jaiden Fairoze, Aniket Kate, Andrew Miller;;;2021/159;;;none;;;2021-02-17;;;proofs
+Mechanized Proofs of Adversarial Complexity and Application to Universal Composability;;;Manuel Barbosa, Gilles Barthe, Benjamin Grégoire, Adrien Koutsos, Pierre-Yves Strub;;;2021/156;;;none;;;2021-02-17;;;formal,security
+Two-Party Adaptor Signatures From Identification Schemes;;;Andreas Erwig, Sebastian Faust, Kristina Hostáková, Monosij Maitra, Siavash Riahi;;;2021/150;;;none;;;2021-02-12;;;security
+IPDL: A Simple Framework for Formally Verifying Distributed Cryptographic Protocols;;;Greg Morrisett, Elaine Shi, Kristina Sojakova, Xiong Fan, Joshua Gancher;;;2021/147;;;https://github.com/ipdl/ipdl;;;2021-02-12;;;formal,security
+A Security Framework for Distributed Ledgers;;;Mike Graf, Daniel Rausch, Viktoria Ronge, Christoph Egger, Ralf Küsters, Dominique Schröder;;;2021/145;;;none;;;2021-02-12;;;security
+On Bitcoin Cash’s Target Recalculation Functions;;;Juan Garay, Yu Shen;;;2021/143;;;none;;;2021-02-10;;;formal
+Acyclicity Programming for Sigma-Protocols;;;Masayuki Abe, Miguel Ambrona, Andrej Bogdanov, Miyako Ohkubo, Alon Rosen;;;2021/135;;;none;;;2021-02-10;;;proofs,security
+smartFHE: Privacy-Preserving Smart Contracts from Fully Homomorphic Encryption;;;Ravital Solomon, Rick Weber, Ghada Almashaqbeh;;;2021/133;;;none;;;2021-02-10;;;proofs
+Cuproof: A Novel Range Proof with Constant Size;;;Cong Deng, Xianghong Tang, Lin You, Gengran Hu, Shuhong Gao;;;2021/127;;;none;;;2021-02-05;;;proofs
+BooLigero: Improved Sublinear Zero Knowledge Proofs for Boolean Circuits;;;Yaron Gvili, Sarah Scheffler, Mayank Varia;;;2021/121;;;none;;;2021-02-05;;;proofs,security
+High-Threshold AVSS with Optimal Communication Complexity;;;Nicolas Alhaddad, Mayank Varia, Haibin Zhang;;;2021/118;;;none;;;2021-02-05;;;proofs
+Security Analysis of CPace;;;Michel Abdalla, Björn Haase, Julia Hesse;;;2021/114;;;none;;;2021-02-01;;;security
+MERCAT: Mediated, Encrypted, Reversible, SeCure Asset Transfers;;;Aram Jivanyan, Jesse Lancaster, Arash Afshar, Parnian Alimi;;;2021/106;;;none;;;2021-01-28;;;proofs
+OAE-RUP: A Strong Online AEAD Security Notion and its Application to SAEF;;;Amit Singh Bhati, Elena Andreeva, Damian Vizar;;;2021/103;;;none;;;2021-01-28;;;security
+Collusion-Deterrent Threshold Information Escrow;;;Easwar Vivek Mangipudi, Donghang Lu, Alexandros Psomas, Aniket Kate;;;2021/095;;;none;;;2021-01-27;;;security
+ZEN: An Optimizing Compiler for Verifiable, Zero-Knowledge Neural Network Inferences;;;Boyuan Feng, Lianke Qin, Zhenfei Zhang, Yufei Ding, Shumo Chu;;;2021/087;;;none;;;2021-01-27;;;proofs
+Private Stream Aggregation from Labeled Secret Sharing Schemes;;;Hendrik Waldner, Tilen Marc, Miha Stopar, Michel Abdalla;;;2021/081;;;none;;;2021-01-27;;;security
+A Side-Channel Attack on a Masked IND-CCA Secure Saber KEM;;;Kalle Ngo, Elena Dubrova, Qian Guo, Thomas Johansson;;;2021/079;;;none;;;2021-01-22;;;security
+Magnetic RSA;;;Rémi Géraud-Stewart, David Naccache;;;2021/077;;;none;;;2021-01-22;;;proofs
+QuickSilver: Efficient and Affordable Zero-Knowledge Proofs for Circuits and Polynomials over Any Field;;;Kang Yang, Pratik Sarkar, Chenkai Weng, Xiao Wang;;;2021/076;;;none;;;2021-01-22;;;proofs
+Cross-Domain Attribute-Based Access Control Encryption;;;Mahdi Sedaghat, Bart Preneel;;;2021/074;;;none;;;2021-01-22;;;proofs
+Compressed Permutation Oracles (And the Collision-Resistance of Sponge/SHA3);;;Dominique Unruh;;;2021/062;;;none;;;2021-01-18;;;security
+UC Non-Interactive, Proactive, Threshold ECDSA with Identifiable Aborts;;;Ran Canetti, Rosario Gennaro, Steven Goldfeder, Nikolaos Makriyannis, Udi Peled;;;2021/060;;;none;;;2021-01-18;;;security
+Elementary Attestation of Cryptographically Useful Composite Moduli;;;Rémi Géraud-Stewart, David Naccache;;;2021/052;;;none;;;2021-01-18;;;proofs
+Efficient Lattice-Based Inner-Product Functional Encryption;;;Jose Maria Bermudo Mera, Angshuman Karmakar, Tilen Marc, Azam Soleimanian;;;2021/046;;;none;;;2021-01-18;;;security
+Experimental relativistic zero-knowledge proofs;;;Pouriya Alikhani, Nicolas Brunner, Claude Crépeau, Sébastien Designolle, Raphaël Houlmann, Weixu Shi, Hugo Zbinden;;;2021/032;;;none;;;2021-01-12;;;proofs
+Linear-time and post-quantum zero-knowledge SNARKs for R1CS;;;Jonathan Lee, Srinath Setty, Justin Thaler, Riad Wahby;;;2021/030;;;none;;;2021-01-12;;;proofs
+A Gapless Code-Based Hash Proof System based on RQC and its Applications;;;Slim Bettaieb, Loïc Bidoux, Olivier Blazy, Yann Connan, Philippe Gaborit;;;2021/026;;;none;;;2021-01-12;;;proofs
+Comments on ``On the Design of Conditional Privacy Preserving Batch Verification-Based Authentication Scheme for Internet of Vehicles Deployment'';;;Yuhao Yang, Xiujie Huang;;;2021/018;;;none;;;2021-01-06;;;security
+Aggregatable Distributed Key Generation;;;Kobi Gurkan, Philipp Jovanovic, Mary Maller, Sarah Meiklejohn, Gilad Stern, Alin Tomescu;;;2021/005;;;none;;;2021-01-02;;;security
+2-Step Multi-Client Quadratic Functional Encryption from Decentralized Function-Hiding Inner-Product;;;Michel Abdalla, David Pointcheval, Azam Soleimanian;;;2021/001;;;none;;;2021-01-02;;;security

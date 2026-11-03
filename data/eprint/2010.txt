@@ -1,0 +1,143 @@
+A Note on Constant-Round Zero-Knowledge Proofs of Knowledge;;;Yehuda Lindell;;;2010/656;;;none;;;2010-12-31;;;proofs
+Completeness Theorems with Constructive Proofs for Finite Deterministic 2-Party Functions (full version);;;Daniel Kraschewski, Jörn Müller-Quade;;;2010/654;;;none;;;2010-12-31;;;security
+On the Impossibility of Instantiating PSS in the Standard Model;;;Rishiraj Bhattacharyya, Avradip Mandal;;;2010/651;;;none;;;2010-12-21;;;security
+Stronger difficulty notions for client puzzles and denial-of-service-resistant protocols;;;Douglas Stebila, Lakshmi Kuppusamy, Jothi Rangasamy, Colin Boyd, Juan Gonzalez Nieto;;;2010/649;;;none;;;2010-12-21;;;security
+One-Pass HMQV and Asymmetric Key-Wrapping;;;Shai Halevi, Hugo Krawczyk;;;2010/638;;;none;;;2010-12-21;;;formal,security
+Public-Key Encryption with Fuzzy Keyword Search: A Provably Secure Scheme under Keyword Guessing Attack;;;Peng Xu, Hai Jin;;;2010/626;;;none;;;2010-12-13;;;security
+No-leak authentication by the Sherlock Holmes method;;;Dima Grigoriev, Vladimir Shpilrain;;;2010/624;;;none;;;2010-12-08;;;proofs
+Generic Compilers for Authenticated Key Exchange (Full Version);;;Tibor Jager, Florian Kohlar, Sven Schäge, Jörg Schwenk;;;2010/621;;;none;;;2010-12-08;;;security
+Further Observations on Certificate-Base Encryption and its Generic Construction from Certificateless Public Key Encryption;;;Yang Lu;;;2010/619;;;none;;;2010-12-08;;;security
+Separating Succinct Non-Interactive Arguments From All Falsifiable Assumptions;;;Craig Gentry, Daniel Wichs;;;2010/610;;;none;;;2010-11-30;;;formal,proofs,security
+Attribute-Based Signatures;;;Hemanta K. Maji, Manoj Prabhakaran, Mike Rosulek;;;2010/595;;;none;;;2010-11-24;;;proofs,security
+Bonsai Trees, or How to Delegate a Lattice Basis;;;David Cash, Dennis Hofheinz, Eike Kiltz, Chris Peikert;;;2010/591;;;none;;;2010-11-23;;;security
+Efficient Two-Move Blind Signatures in the Common Reference String Model;;;E. Ghadafi, N. P. Smart;;;2010/568;;;none;;;2010-11-08;;;security
+Fully Secure Functional Encryption with General Relations from the Decisional Linear Assumption;;;Tatsuaki Okamoto, Katsuyuki Takashima;;;2010/563;;;none;;;2010-11-05;;;security
+How to Leak on Key Updates;;;Allison Lewko, Mark Lewko, Brent Waters;;;2010/562;;;none;;;2010-11-05;;;security
+Password-Protected Secret Sharing;;;Stanislaw Jarecki, Ali Bagherzandi, Nitesh Saxena, Yanbin Lu;;;2010/561;;;none;;;2010-11-05;;;proofs,security
+On CCA-Secure Fully Homomorphic Encryption;;;J. Loftus, A. May, N. P. Smart, F. Vercauteren;;;2010/560;;;none;;;2010-11-03;;;security
+Definitional Issues in Functional Encryption;;;Adam O'Neill;;;2010/556;;;none;;;2010-11-01;;;security
+A Note on Zero-Knowledge Proofs of Knowledge and the ZKPOK Ideal Functionality;;;Carmit Hazay, Yehuda Lindell;;;2010/552;;;none;;;2010-11-01;;;proofs
+A Novel Non-interactive Deniable Authentication Protocol with Designated Verifier on elliptic curve cryptosystem;;;Yalin Chen, Jue-Sam Chou, Chi-Fong Lin;;;2010/549;;;none;;;2010-11-01;;;proofs
+Timed Encryption and Its Application;;;Shaoquan Jiang;;;2010/546;;;none;;;2010-11-01;;;security
+Semantic Security Under Related-Key Attacks and Applications;;;Benny Applebaum, Danny Harnik, Yuval Ishai;;;2010/544;;;none;;;2010-10-25;;;security
+Functional Encryption: Definitions and Challenges;;;Dan Boneh, Amit Sahai, Brent Waters;;;2010/543;;;none;;;2010-10-25;;;security
+One-time Computable and Uncomputable Functions;;;Stefan Dziembowski, Tomasz Kazana, Daniel Wichs;;;2010/541;;;none;;;2010-10-25;;;security
+Rational Secret Sharing with Side Information in Point-to-Point Networks via Time-Delayed Encryption;;;Anna Lysyanskaya, Aaron Segal;;;2010/540;;;none;;;2010-10-25;;;security
+Indifferentiable Deterministic Hashing to Elliptic and Hyperelliptic Curves;;;Reza R. Farashahi, Pierre-Alain Fouque, Igor E. Shparlinski, Mehdi Tibouchi, J. Felipe Voloch;;;2010/539;;;none;;;2010-10-25;;;security
+Signatures Resilient to Continual Leakage on Memory and Computation;;;Tal Malkin, Isamu Teranishiy, Yevgeniy Vahlis, Moti Yung;;;2010/522;;;none;;;2010-10-12;;;security
+Preimage Resistance Beyond the Birthday Bound: Double-Length Hashing Revisited;;;Matthias Krause, Frederik Armknecht, Ewan Fleischmann;;;2010/519;;;none;;;2010-10-12;;;security
+Semi-Homomorphic Encryption and Multiparty Computation;;;Rikke Bendlin, Ivan Damgård, Claudio Orlandi, Sarah Zakarias;;;2010/514;;;none;;;2010-10-07;;;security
+On Efficient Non-Interactive Oblivious Transfer with Tamper-Proof Hardware;;;Maria Dubovitskaya, Alessandra Scafuro, Ivan Visconti;;;2010/509;;;none;;;2010-10-07;;;security
+Termination-Insensitive Computational Indistinguishability (and applications to computational soundness);;;Dominique Unruh;;;2010/505;;;none;;;2010-10-05;;;formal,security
+BiTR: Built-in Tamper Resilience;;;Seung Geol Choi, Aggelos Kiayias, Tal Malkin;;;2010/503;;;none;;;2010-10-02;;;security
+Group Homomorphic Encryption: Characterizations, Impossibility Results, and Applications;;;Frederik Armknecht, Stefan Katzenbeisser, Andreas Peter;;;2010/501;;;none;;;2010-09-30;;;security
+A Practical (Non-interactive) Publicly Verifiable Secret Sharing Scheme;;;Mahabir Prasad Jhanwar;;;2010/495;;;none;;;2010-09-23;;;security
+Strong designated verifier signature scheme: new definition and construction;;;Zuhua Shao;;;2010/490;;;none;;;2010-09-17;;;security
+Fully Leakage-Resilient Signatures;;;Elette Boyle, Gil Segev, Daniel Wichs;;;2010/488;;;none;;;2010-09-15;;;security
+Constant Round Non-Malleable Protocols using One Way Functions;;;Vipul Goyal;;;2010/487;;;none;;;2010-09-15;;;proofs
+Automata Evaluation and Text Search Protocols with Simulation Based Security;;;Rosario Gennaro, Carmit Hazay, Jeffrey S. Sorensen;;;2010/484;;;none;;;2010-09-15;;;security
+Constant-round Non-Malleable Commitments from Any One-Way Function;;;Huijia Lin, Rafael Pass;;;2010/483;;;none;;;2010-09-14;;;proofs
+Predicate Encryption with Partial Public Keys;;;Carlo Blundo, Vincenzo Iovino, Giuseppe Persiano;;;2010/476;;;none;;;2010-09-08;;;security
+Limitations on Transformations from Composite-Order to Prime-Order Groups: The Case of Round-Optimal Blind Signatures;;;Sarah Meiklejohn, Hovav Shacham, David Mandell Freeman;;;2010/474;;;none;;;2010-09-08;;;security
+Two identification protocols based on Cayley graphs of Coxeter groups;;;Feliú Sagols, Guillermo Morales-Luna;;;2010/470;;;none;;;2010-09-08;;;proofs
+Computational Soundness about Formal Encryption in the Presence of Secret Shares and Key Cycles;;;Xinfeng Lei, Rui Xue, Ting Yu;;;2010/467;;;none;;;2010-09-08;;;security
+Robust Fuzzy Extractors and Authenticated Key Agreement from Close Secrets;;;Yevgeniy Dodis, Bhavana Kanukurthi, Jonathan Katz, Leonid Reyzin, Adam Smith;;;2010/456;;;none;;;2010-08-24;;;security
+Key Exchange with Anonymous Authentication using DAA-SIGMA Protocol;;;Jesse Walker, Jiangtao Li;;;2010/454;;;none;;;2010-08-24;;;proofs
+Linearly Homomorphic Signatures over Binary Fields and New Tools for Lattice-Based Signatures;;;Dan Boneh, David Mandell Freeman;;;2010/453;;;none;;;2010-08-24;;;security
+Short One-Time Signatures;;;G. M. Zaverucha, D. R. Stinson;;;2010/446;;;none;;;2010-08-18;;;proofs
+Provably Secure Higher-Order Masking of AES;;;Matthieu Rivain, Emmanuel Prouff;;;2010/441;;;none;;;2010-08-17;;;security
+Collusion-Resistant Multicast Key Distribution Based on Homomorphic One-Way Function Trees;;;Jing Liu, Bo Yang;;;2010/431;;;none;;;2010-08-13;;;formal
+Random Oracles in a Quantum World;;;Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner, Mark Zhandry;;;2010/428;;;none;;;2010-08-04;;;security
+Parallelizing the Camellia and SMS4 Block Ciphers - Extended version;;;Huihui Yap, Khoongming Khoo, Axel Poschmann;;;2010/426;;;none;;;2010-08-01;;;security
+Synchronized Aggregate Signatures: New Definitions, Constructions and Applications;;;Jae Hyun Ahn, Matthew Green, Susan Hohenberger;;;2010/422;;;none;;;2010-07-30;;;security
+Towards provable security of the Unbalanced Oil and Vinegar signature scheme under direct attacks;;;Stanislav Bulygin, Albrecht Petzoldt, Johannes Buchmann;;;2010/420;;;none;;;2010-07-30;;;security
+Computationally Sound Verification of Source Code;;;Michael Backes, Matteo Maffei, Dominique Unruh;;;2010/416;;;none;;;2010-07-27;;;formal,security
+Privacy-Preserving RFID Systems: Model and Constructions;;;Sébastien Canard, Iwen Coisel, Jonathan Etrog, Marc Girault;;;2010/405;;;none;;;2010-07-21;;;security
+Pseudorandom Functions and Permutations Provably Secure Against Related-Key Attacks;;;Mihir Bellare, David Cash;;;2010/397;;;none;;;2010-07-15;;;security
+Security Reductions of the Second Round SHA-3 Candidates;;;Elena Andreeva, Bart Mennink, Bart Preneel;;;2010/381;;;none;;;2010-07-07;;;security
+Ring Signature and Identity-Based Ring Signature from Lattice Basis Delegation;;;Jin Wang;;;2010/378;;;none;;;2010-07-07;;;security
+Identity Based Online/Offline Signcryption Scheme;;;S. Sharmila Deva Selvi, S. Sree Vivek, C. Pandu Rangan;;;2010/376;;;none;;;2010-07-04;;;security
+Round-Optimal Password-Based Authenticated Key Exchange;;;Jonathan Katz, Vinod Vaikuntanathan;;;2010/368;;;none;;;2010-06-28;;;security
+On the Security of Identity Based Threshold Unsigncryption Schemes;;;S. Sharmila Deva Selvi, S. Sree Vivek, S. Priti, C. Pandu Rangan;;;2010/360;;;none;;;2010-06-25;;;security
+Identity Based Self Delegated Signature - Self Proxy Signatures;;;S. Sharmila Deva Selvi, S. Sree Vivek, S. Gopinath, C. Pandu Rangan;;;2010/359;;;none;;;2010-06-25;;;security
+The Fiat--Shamir Transform for Group and Ring Signature Schemes;;;M. -F. Lee, N. P. Smart, B. Warinschi;;;2010/358;;;none;;;2010-06-25;;;security
+Decentralizing Attribute-Based Encryption;;;Allison Lewko, Brent Waters;;;2010/351;;;none;;;2010-06-18;;;security
+A Security Enhancement and Proof for Authentication and Key Agreement (AKA);;;Vladimir Kolesnikov;;;2010/350;;;none;;;2010-06-18;;;security
+Efficient Generalized Signcryption Schemes;;;Prashant Kushwah, Sunder Lal;;;2010/346;;;none;;;2010-06-18;;;security
+Robust RFID Authentication Protocol with Formal Proof and Its Feasibility;;;Miyako Ohkubo, Shin'ichiro Matsuo, Yoshikazu Hanatani, Kazuo Sakiyama, Kazuo Ohta;;;2010/345;;;none;;;2010-06-18;;;formal,security
+Identity Based Public Verifiable Signcryption Scheme;;;S. Sharmila Deva Selvi, S. Sree Vivek, C. Pandu Rangan;;;2010/343;;;none;;;2010-06-18;;;security
+A Certifying Compiler for Zero-Knowledge Proofs of Knowledge Based on $\Sigma$-Protocols;;;Jose Bacelar Almeida, Endre Bangerter, Manuel Barbosa, Stephan Krenn, Ahmad-Reza Sadeghi, Thomas Schneider;;;2010/339;;;none;;;2010-06-13;;;formal,proofs,security
+Security Proof of AugPAKE;;;SeongHan Shin, Kazukuni Kobara, Hideki Imai;;;2010/334;;;none;;;2010-06-08;;;security
+Efficiency-Improved Fully Simulatable Adaptive OT under the DDH Assumption;;;Kaoru Kurosawa, Ryo Nojima, Le Trieu Phong;;;2010/327;;;none;;;2010-06-04;;;security
+Security Analysis of SIMD;;;Charles Bouillaguet, Pierre-Alain Fouque, Gaëtan Leurent;;;2010/323;;;none;;;2010-06-04;;;security
+On the Security of a Bidirectional Proxy Re-Encryption Scheme from PKC 2010;;;Jian Weng, Yunlei Zhao;;;2010/319;;;none;;;2010-05-31;;;security
+Multiparty Computation for Dishonest Majority: from Passive to Active Security at Low Cost;;;Ivan Damgård, Claudio Orlandi;;;2010/318;;;none;;;2010-05-31;;;proofs,security
+Universally Composable Symbolic Analysis of Diffie-Hellman based Key Exchange;;;Ran Canetti, Sebastian Gajek;;;2010/303;;;none;;;2010-05-25;;;formal,security
+Using the Inhomogeneous Simultaneous Approximation Problem for Cryptographic Design;;;Frederik Armknecht, Carsten Elsner, Martin Schmidt;;;2010/302;;;none;;;2010-05-25;;;security
+Hash-based Multivariate Public Key Cryptosystems;;;WANG Hou-Zhen, ZHANG Huan-Guo;;;2010/296;;;none;;;2010-05-25;;;security
+Ideal Key Derivation and Encryption in Simulation-based Security;;;Ralf Kuesters, Max Tuengerthal;;;2010/295;;;none;;;2010-05-25;;;security
+Security of balanced and unbalanced Feistel Schemes with Linear Non Equalities;;;Jacques Patarin;;;2010/293;;;none;;;2010-05-18;;;security
+A Two-Party Protocol with Trusted Initializer for Computing the Inner Product;;;Rafael Dowsley, Jeroen van de Graaf, Davidson Marques, Anderson C. A. Nascimento;;;2010/289;;;none;;;2010-05-17;;;security
+Online/Offline Identity-Based Signcryption Revisited;;;Joseph K. Liu, Joonsang Baek, Jianying Zhou;;;2010/274;;;none;;;2010-05-11;;;security
+A supplement to Liu et al.'s certificateless signcryption scheme in the standard model;;;Zhengping Jin, Qiaoyan Wen, Hua Zhang;;;2010/252;;;none;;;2010-05-04;;;security
+Automatic Search for Related-Key Differential Characteristics in Byte-Oriented Block Ciphers: Application to AES, Camellia, Khazad and Others;;;Alex Biryukov, Ivica Nikolić;;;2010/248;;;none;;;2010-05-02;;;security
+A New Security Model for Authenticated Key Agreement;;;Augustin P. Sarr, Philippe Elbaz–Vincent, Jean–Claude Bajard;;;2010/237;;;none;;;2010-04-28;;;security
+Attribute-based group key establishment;;;Rainer Steinwandt, Adriana Suárez Corona;;;2010/235;;;none;;;2010-04-28;;;security
+Commuting Signatures and Verifiable Encryption and an Application to Non-Interactively Delegatable Credentials;;;Georg Fuchsbauer;;;2010/233;;;none;;;2010-04-28;;;security
+A calculus for game-based security proofs;;;David Nowak, Yu Zhang;;;2010/230;;;none;;;2010-04-28;;;security
+Concurrent composition in the bounded quantum storage model;;;Dominique Unruh;;;2010/229;;;none;;;2010-04-28;;;security
+A Security Weakness in a Generic Construction of a Group Key Exchange Protocol;;;Junghyun Nam;;;2010/225;;;none;;;2010-04-28;;;security
+(If) Size Matters: Size-Hiding Private Set Intersection;;;Giuseppe Ateniese, Emiliano De Cristofaro, Gene Tsudik;;;2010/220;;;none;;;2010-04-28;;;security
+Secure Code Update for Embedded Devices via Proofs of Secure Erasure;;;Daniele Perito, Gene Tsudik;;;2010/217;;;none;;;2010-04-19;;;security
+Composable Security Analysis of OS Services;;;Ran Canetti, Suresh Chari, Shai Halevi, Birgit Pfitzmann, Arnab Roy, Michael Steiner, Wietse Venema;;;2010/213;;;none;;;2010-04-19;;;security
+Quantum Proofs of Knowledge;;;Dominique Unruh;;;2010/212;;;none;;;2010-04-19;;;proofs
+Identity-Based Authenticated Asymmetric Group Key Agreement Protocol;;;Lei Zhang, Qianhong Wu, Bo Qin, Josep Domingo-Ferrer;;;2010/209;;;none;;;2010-04-19;;;security
+Generic Constructions for Verifiably Encrypted Signatures without Random Oracles or NIZKs;;;Markus Rückert, Michael Schneider, Dominique Schröder;;;2010/200;;;none;;;2010-04-16;;;proofs,security
+Cryptography Against Continuous Memory Attacks;;;Yevgeniy Dodis, Kristiyan Haralambiev, Adriana Lopez-Alt, Daniel Wichs;;;2010/196;;;none;;;2010-04-09;;;proofs
+J-PAKE: Authenticated Key Exchange Without PKI;;;Feng Hao, Peter Ryan;;;2010/190;;;none;;;2010-04-09;;;proofs
+Preventing Pollution Attacks in Multi-Source Network Coding;;;Shweta Agrawal, Dan Boneh, Xavier Boyen, David Mandell Freeman;;;2010/183;;;none;;;2010-04-09;;;security
+Identity Based Online/Offline Encryption Scheme;;;Sharmila Deva Selvi S, Sree Vivek S, Pandu Rangan C;;;2010/178;;;none;;;2010-04-04;;;security
+Sanitizable signatures with strong transparency in the standard model;;;Shivank Agrawal, Swarun Kumar, Amjed Shareef, C. Pandu Rangan;;;2010/175;;;none;;;2010-04-04;;;security
+Black-Box Constructions of Protocols for Secure Computation;;;Iftach Haitner, Yuval Ishai, Eyal Kushilevitz, Yehuda Lindell, Erez Petrank;;;2010/164;;;none;;;2010-03-28;;;proofs
+Efficient Public-Key Cryptography in the Presence of Key Leakage;;;Yevgeniy Dodis, Kristiyan Haralambiev, Adriana Lopez-Alt, Daniel Wichs;;;2010/154;;;none;;;2010-03-24;;;proofs
+Founding Cryptography on Tamper-Proof Hardware Tokens;;;Vipul Goyal, Yuval Ishai, Amit Sahai, Ramarathnam Venkatesan, Akshay Wadia;;;2010/153;;;none;;;2010-03-23;;;security
+Black-Box Computational Zero-Knowledge Proofs, Revisited: The Simulation-Extraction Paradigm;;;Mohammad Sadeq Dousti;;;2010/150;;;none;;;2010-03-21;;;proofs,security
+A New Framework for Password-Based Authenticated Key Exchange;;;Adam Groce, Jonathan Katz;;;2010/147;;;none;;;2010-03-20;;;security
+Estimating the Security of Lattice-based Cryptosystems;;;Markus Rückert, Michael Schneider;;;2010/137;;;none;;;2010-03-12;;;security
+On Robust Key Agreement Based on Public Key Authentication;;;Feng Hao;;;2010/136;;;none;;;2010-03-12;;;proofs,security
+Signing on Elements in Bilinear Groups for Modular Protocol Design;;;Masayuki Abe, Kristiyan Haralambiev, Miyako Ohkubo;;;2010/133;;;none;;;2010-03-10;;;proofs,security
+Security of Encryption Schemes in Weakened Random Oracle Models;;;Akinori Kawachi, Akira Numayama, Keisuke Tanaka, Keita Xagawa;;;2010/122;;;none;;;2010-03-05;;;security
+Cryptanalysis of Two Efficient HIBE Schemes in the Standard Model;;;Xu An Wang, Xiaoyuan Yang;;;2010/113;;;none;;;2010-03-04;;;security
+CCA-Secure PRE Scheme without Random Oracles;;;Jun Shao, Zhenfu Cao, Peng Liu;;;2010/112;;;none;;;2010-03-04;;;security
+Practical Adaptive Oblivious Transfer from Simple Assumptions;;;Matthew Green, Susan Hohenberger;;;2010/109;;;none;;;2010-03-01;;;security
+Adaptive Concurrent Non-Malleability with Bare Public-Keys;;;Andrew C. Yao, Moti Yung, Yunlei Zhao;;;2010/107;;;none;;;2010-03-01;;;proofs
+Perfectly Secure Multiparty Computation and the Computational Overhead of Cryptography;;;Ivan Damgård, Yuval Ishai, Mikkel Krøigaard;;;2010/106;;;none;;;2010-03-01;;;proofs
+Constructing Veriﬁable Random Functions with Large Input Spaces;;;Susan Hohenberger, Brent Waters;;;2010/102;;;none;;;2010-03-01;;;security
+Fair Blind Signatures without Random Oracles;;;Georg Fuchsbauer, Damien Vergnaud;;;2010/101;;;none;;;2010-03-01;;;security
+Correlated Product Security From Any One-Way Function and the New Notion of Decisional Correlated Product Security;;;Brett Hemenway, Steve Lu, Rafail Ostrovsky;;;2010/100;;;none;;;2010-03-01;;;security
+On Homomorphic Encryption and Chosen-Ciphertext Security;;;Brett Hemenway, Rafail Ostrovsky;;;2010/099;;;none;;;2010-03-01;;;security
+A Zero-One Law for Deterministic 2-Party Secure Computation;;;Hemanta K. Maji, Manoj Prabhakaran, Mike Rosulek;;;2010/098;;;none;;;2010-03-01;;;security
+Plaintext-Dependent Decryption: A Formal Security Treatment of SSH-CTR;;;Kenneth G. Paterson, Gaven J. Watson;;;2010/095;;;none;;;2010-02-25;;;security
+Security Weaknesses in Two Certificateless Signcryption Schemes;;;S. Sharmila Deva Selvi, S. Sree Vivek, C. Pandu Rangan;;;2010/092;;;none;;;2010-02-22;;;security
+Interactive Locking, Zero-Knowledge PCPs, and Unconditional Cryptography;;;Vipul Goyal, Yuval Ishai, Mohammad Mahmoody, Amit Sahai;;;2010/089;;;none;;;2010-02-22;;;proofs,security
+MQ^*-IP: An Identity-based Identification Scheme without Number-theoretic Assumptions;;;Christopher Wolf, Bart Preneel;;;2010/087;;;none;;;2010-02-22;;;proofs
+A Framework for Efficient Signatures, Ring Signatures and Identity Based Encryption in the Standard Model;;;Zvika Brakerski, Yael Tauman Kalai;;;2010/086;;;none;;;2010-02-22;;;security
+Attribute-based Authenticated Key Exchange;;;M. Choudary Gorantla, Colin Boyd, Juan Manuel González Nieto;;;2010/084;;;none;;;2010-02-22;;;security
+One Round Group Key Exchange with Forward Security in the Standard Model;;;M. Choudary Gorantla, Colin Boyd, Juan Manuel González Nieto;;;2010/083;;;none;;;2010-02-22;;;security
+Predicate-Based Key Exchange;;;James Birkett, Douglas Stebila;;;2010/082;;;none;;;2010-02-16;;;security
+Secrecy-Oriented First-Order Logical Analysis of Cryptographic Protocols;;;Gergei Bana, Koji Hasebe, Mitsuhiro Okada;;;2010/080;;;none;;;2010-02-16;;;formal,security
+A New Scheme for Zero Knowledge Proof based on Multivariate Quadratic Problem and Quaternion Algebra;;;Mehdi Vasef;;;2010/075;;;none;;;2010-02-16;;;proofs
+Concurrent Knowledge Extraction in the Public-Key Model;;;Andrew C. Yao, Moti Yung, Yunlei Zhao;;;2010/074;;;none;;;2010-02-11;;;proofs
+Strongly Unforgeable Signatures and Hierarchical Identity-based Signatures from Lattices without Random Oracles;;;Markus Rückert;;;2010/070;;;none;;;2010-02-11;;;security
+A Pairing-Based DAA Scheme Further Reducing TPM Resources;;;Ernie Brickell, Jiangtao Li;;;2010/067;;;none;;;2010-02-11;;;security
+Insecure ``Provably Secure Network Coding'' and Homomorphic Authentication Schemes for Network Coding;;;Yongge Wang;;;2010/060;;;none;;;2010-02-08;;;security
+A New Framework for RFID Privacy;;;Robert H. Deng, Yingjiu Li, Andrew C. Yao, Moti Yung, Yunlei Zhao;;;2010/059;;;none;;;2010-02-08;;;proofs
+Credential Authenticated Identification and Key Exchange;;;Jan Camenisch, Nathalie Casati, Thomas Gross, Victor Shoup;;;2010/055;;;none;;;2010-02-08;;;security
+A modified eCK model with stronger security for tripartite authenticated key exchange;;;Qingfeng Cheng, Chuangui Ma, Fushan Wei;;;2010/042;;;none;;;2010-01-29;;;security
+Batch Groth-Sahai;;;Olivier Blazy, Georg Fuchsbauer, Malika Izabachène, Amandine Jambert, Hervé Sibert, Damien Vergnaud;;;2010/040;;;none;;;2010-01-29;;;proofs
+Fault Resistant RSA Signatures: Chinese Remaindering in Both Directions;;;Arnaud Boscher, Helena Handschuh, Elena Trichina;;;2010/038;;;none;;;2010-01-26;;;security
+Simple and Efficient Public-Key Encryption from Computational Diffie-Hellman in the Standard Model;;;Kristiyan Haralambiev, Tibor Jager, Eike Kiltz, Victor Shoup;;;2010/033;;;none;;;2010-01-22;;;security
+Enhanced Security Notions for Dedicated-Key Hash Functions: Definitions and Relationships;;;Mohammad Reza Reyhanitabar, Willy Susilo, Yi Mu;;;2010/022;;;none;;;2010-01-16;;;security
+A new one-time signature scheme from syndrome decoding;;;Paulo S. L. M. Barreto, Rafael Misoczki;;;2010/017;;;none;;;2010-01-12;;;security
+A DAA Scheme Requiring Less TPM Resources;;;Liqun Chen;;;2010/008;;;none;;;2010-01-12;;;security
+Practical ID-based Encryption for Wireless Sensor Network;;;Cheng-Kang Chu, Joseph K. Liu, Jianying Zhou, Feng Bao, Robert H. Deng;;;2010/002;;;none;;;2010-01-07;;;security

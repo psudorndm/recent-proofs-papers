@@ -2,7 +2,8 @@
 
 A tiny static site that lists recent papers on **cryptographic proof systems**,
 **security proofs**, and **formal verification** of cryptography. It pulls
-metadata from two sources and buckets papers into *this week / this month / this year*.
+metadata from two sources, shows papers from *this week / this month / this year*,
+and keeps the full history below, one collapsible section per year.
 
 The design, scraper, and update workflow are adapted from Maher Mamah's
 [recent post-quantum papers](https://github.com/MaherMamah7/Recent-post-quantum-papers)
@@ -16,16 +17,18 @@ The design, scraper, and update workflow are adapted from Maher Mamah's
 ## How it works
 
 ```
-scraper/scrape.py  ──>  papers_arxiv.txt
-                   ──>  papers_eprint.txt
+scraper/scrape.py  ──>  data/eprint/<year>.txt
+                   ──>  data/arxiv/<year>.txt
+                   ──>  data/index.json      (which year files exist, and their sizes)
 index.html  ──(fetch + render in the browser)──>  the page
 ```
 
 The scraper classifies each paper by keyword matching over its title and abstract
-(see `PROOFS_*`, `SECURITY_*`, `FORMAL_*` in `scraper/scrape.py`) and emits one line per paper:
+(see `PROOFS_*`, `SECURITY_*`, `FORMAL_*` in `scraper/scrape.py`) and stores one line per paper,
+newest first, in the file for the year of its date:
 
 ```
-title;;;authors;;;id;;;date_class;;;repo;;;date;;;categories
+title;;;authors;;;id;;;repo;;;date;;;categories
 ```
 
 | field        | meaning                                              |
@@ -33,22 +36,28 @@ title;;;authors;;;id;;;date_class;;;repo;;;date;;;categories
 | `title`      | paper title                                          |
 | `authors`    | comma-separated author names                         |
 | `id`         | arXiv id (`2501.01234`) or ePrint id (`2026/0421`)   |
-| `date_class` | `last_week` / `last_month` / `last_year`             |
 | `repo`       | a github/gitlab/bitbucket URL if found, else `none`  |
 | `date`       | `YYYY-MM-DD`                                          |
 | `categories` | subset of `proofs`, `security`, `formal`             |
 
 The page has a search box (titles, authors, IDs) and two filter rows:
 **topic** (proof systems / security proofs / formal verification / all) and
-**source** (ePrint / arXiv / both).
+**source** (ePrint / arXiv / both). The page loads the last year first, then the
+older years in the background; once they are loaded, search covers the whole history
+and opens every year that has matches.
+
+Plain text is kept on purpose: GitHub Pages serves these files gzip-compressed,
+which shrinks them about 3×, and per-year files mean the daily update only
+changes the current year.
 
 ## Running the scraper
 
 No third-party dependencies — standard library only (Python 3.8+).
 
 ```bash
-python3 scraper/scrape.py            # 400-day lookback (default)
-python3 scraper/scrape.py --days 180 # shorter window
+python3 scraper/scrape.py            # merge the last 30 days into data/ (default)
+python3 scraper/scrape.py --days 90  # merge a longer window
+python3 scraper/scrape.py --full     # re-harvest the whole history and replace data/
 python3 scraper/scrape.py --skip-arxiv   # only refresh ePrint
 ```
 
@@ -77,6 +86,8 @@ Precision/recall is governed entirely by the keyword lists in
 ## Automatic updates
 
 `.github/workflows/update.yml` re-runs the scraper once a day and commits the
-refreshed `.txt` files as `paper-bot`. Enable GitHub Pages (serving from the repo
+updated `data/` files as `paper-bot`. Each run merges the last 30 days into the
+stored history. Enable GitHub Pages (serving from the repo
 root) to publish the site. You can also trigger a refresh on demand from the repo's
-**Actions** tab (the workflow has `workflow_dispatch` enabled).
+**Actions** tab (the workflow has `workflow_dispatch` enabled); tick **full** there to
+re-harvest everything, e.g. after changing the keyword lists.

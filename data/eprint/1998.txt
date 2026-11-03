@@ -1,0 +1,9 @@
+Comparing Entropies in Statistical Zero-Knowledge with Applications to the Structure of SZK;;;Oded Goldreich, Salil Vadhan;;;1998/026;;;none;;;1998-12-24;;;proofs
+Relations among Notions of Security for Public-Key Encryption Schemes;;;Mihir Bellare, Anand Desai, David Pointcheval, Phillip Rogaway;;;1998/021;;;none;;;1998-06-17;;;security
+Many-to-one Trapdoor Functions and their Relation to Public-key Cryptosystems;;;Mihir Bellare, Shai Halevi, Amit Sahai, Salil Vadhan;;;1998/019;;;none;;;1998-06-14;;;security
+More on Proofs of Knowledge;;;Shai Halevi, Silvio Micali;;;1998/015;;;none;;;1998-05-04;;;proofs
+Chameleon Hashing and Signatures;;;Hugo Krawczyk, Tal Rabin;;;1998/010;;;none;;;1998-03-17;;;proofs
+An Efficient Non-Interactive Statistical Zero-Knowledge Proof System for Quasi-Safe Prime Products;;;Rosario Gennaro, Daniele Micciancio, Tal Rabin;;;1998/008;;;none;;;1998-03-10;;;proofs
+A Practical Public Key Cryptosystem Provably Secure against Adaptive Chosen Ciphertext Attack;;;Ronald Cramer, Victor Shoup;;;1998/006;;;none;;;1998-03-04;;;security
+The Graph Clustering Problem has a Perfect Zero-Knowledge Proof;;;A. De Santis, G. Di Crescenzo, O. Goldreich, G. Persiano.;;;1998/002;;;none;;;1998-01-27;;;proofs
+On Protocol Divertibility;;;Gerrit Bleumer;;;1998/001;;;none;;;1998-01-08;;;proofs

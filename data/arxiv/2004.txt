@@ -1,0 +1,21 @@
+Quantum Interactive Proofs with Competing Provers;;;Gus Gutoski, John Watrous;;;cs/0412102;;;none;;;2004-12-22;;;proofs
+Intercept-resend attacks in the Bennett-Brassard 1984 quantum key distribution protocol with weak coherent pulses;;;Marcos Curty, Norbert Lütkenhaus;;;quant-ph/0411041;;;none;;;2004-11-05;;;security
+A Trace Logic for Local Security Properties;;;Ricardo Corin, Antonio Durante, Sandro Etalle, Pieter Hartel;;;cs/0411010;;;none;;;2004-11-05;;;formal
+Reply to Comment on "Quantum dense key distribution";;;I. P. Degiovanni, I. Ruo Berchera, S. Castelletto, M. L. Rastello, F. A. Bovino, A. M. Colla, G. Castagnoli;;;quant-ph/0410221;;;none;;;2004-10-27;;;security
+An Application of Quantum Finite Automata to Interactive Proof Systems;;;Harumichi Nishimura, Tomoyuki Yamakami;;;quant-ph/0410040;;;none;;;2004-10-05;;;proofs
+Some Applications of Coding Theory in Computational Complexity;;;Luca Trevisan;;;cs/0409044;;;none;;;2004-09-24;;;proofs
+Simulatable security for quantum protocols;;;Dominique Unruh;;;quant-ph/0409125;;;none;;;2004-09-18;;;security
+The Universal Composable Security of Quantum Key Distribution;;;M. Ben-Or, Michal Horodecki, D. W. Leung, D. Mayers, J. Oppenheim;;;quant-ph/0409078;;;none;;;2004-09-14;;;security
+General Security Definition and Composability for Quantum & Classical Protocols;;;Michael Ben-Or, Dominic Mayers;;;quant-ph/0409062;;;none;;;2004-09-10;;;security
+Robust Locally Testable Codes and Products of Codes;;;Eli Ben-Sasson, Madhu Sudan;;;cs/0408066;;;none;;;2004-08-30;;;proofs
+Quantum algorithms for a set of group theoretic problems;;;Stephen Fenner, Yong Zhang;;;quant-ph/0408150;;;none;;;2004-08-24;;;proofs
+Authenticated tree parity machine key exchange;;;Markus Volkmer, André Schaumburg;;;cs/0408046;;;none;;;2004-08-20;;;proofs
+On the hardness of distinguishing mixed-state quantum computations;;;Bill Rosgen, John Watrous;;;cs/0407056;;;none;;;2004-07-22;;;proofs
+Collective attacks and unconditional security in continuous variable quantum key distribution;;;Frederic Grosshans;;;quant-ph/0407148;;;none;;;2004-07-19;;;security
+Proofs of Zero Knowledge;;;Matthias Bauer;;;cs/0406058;;;none;;;2004-06-29;;;proofs
+Fault tolerant quantum key distribution protocol with collective random unitary noise;;;X. B. Wang;;;quant-ph/0406100;;;none;;;2004-06-15;;;security
+No Signalling and Quantum Key Distribution;;;Jonathan Barrett, Lucien Hardy, Adrian Kent;;;quant-ph/0405101;;;none;;;2004-05-18;;;security
+Unconditionally Secure Key Distribution In Higher Dimensions By Depolarization;;;H. F. Chau;;;quant-ph/0405016;;;none;;;2004-05-04;;;security
+Consequences and Limits of Nonlocal Strategies;;;Richard Cleve, Peter Hoyer, Ben Toner, John Watrous;;;quant-ph/0404076;;;none;;;2004-04-12;;;proofs
+Universally composable privacy amplification against quantum adversaries;;;Renato Renner, Robert Koenig;;;quant-ph/0403133;;;none;;;2004-03-18;;;security
+A Generic Security Proof for Quantum Key Distribution;;;Matthias Christandl, Renato Renner, Artur Ekert;;;quant-ph/0402131;;;none;;;2004-02-18;;;security

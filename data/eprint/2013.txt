@@ -1,0 +1,217 @@
+Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture;;;Eli Ben-Sasson, Alessandro Chiesa, Eran Tromer, Madars Virza;;;2013/879;;;none;;;2013-12-30;;;proofs
+MQ Signature and Proxy Signature Schemes with Exact Security Based on UOV Signature;;;Shaohua Tang, Jiahui Chen, Lingling Xu, Xiaoyu Li;;;2013/877;;;none;;;2013-12-30;;;security
+A Unified Security Model of Authenticated Key Exchange with Specific Adversarial Capabilities;;;Weiqiang Wen, Libin Wang, Jiaxin Pan;;;2013/871;;;none;;;2013-12-29;;;security
+How to Fake Auxiliary Input;;;Dimitar Jetchev, Krzysztof Pietrzak;;;2013/869;;;none;;;2013-12-29;;;proofs,security
+Near-linear time, Leakage-resilient Key Evolution Schemes from Expander Graphs;;;Adam Smith, Ye Zhang;;;2013/864;;;none;;;2013-12-29;;;security
+How to Delegate Computations: The Power of No-Signaling Proofs;;;Yael Tauman Kalai, Ran Raz, Ron D. Rothblum;;;2013/862;;;none;;;2013-12-29;;;proofs,security
+Practical Dual-Receiver Encryption---Soundness, Complete Non-Malleability, and Applications;;;Sherman S. M. Chow, Matthew Franklin, Haibin Zhang;;;2013/858;;;none;;;2013-12-29;;;proofs
+Tightly-Secure Signatures From Lossy Identification Schemes;;;Michel Abdalla, Pierre-Alain Fouque, Vadim Lyubashevsky, Mehdi Tibouchi;;;2013/856;;;none;;;2013-12-20;;;security
+(Efficient) Universally Composable Oblivious Transfer Using a Minimal Number of Stateless Tokens;;;Seung Geol Choi, Jonathan Katz, Dominique Schröder, Arkady Yerukhimovich, Hong Sheng Zhou;;;2013/840;;;none;;;2013-12-16;;;security
+An improved compression technique for signatures based on learning with errors;;;Shi Bai, Steven D. Galbraith;;;2013/838;;;none;;;2013-12-16;;;security
+Identity-Based Key-Encapsulation Mechanism from Multilinear Maps;;;Hao Wang, Lei Wu, Zhihua Zheng, Yilei Wang;;;2013/836;;;none;;;2013-12-16;;;security
+Verifier-Based Password-Authenticated Key Exchange: New Models and Constructions;;;Fabrice Benhamouda, David Pointcheval;;;2013/833;;;none;;;2013-12-16;;;security
+Provable Security Proofs and their Interpretation in the Real World;;;Vikram Singh;;;2013/831;;;none;;;2013-12-16;;;security
+Property Preserving Symmetric Encryption Revisited;;;Sanjit Chatterjee, M. Prem Laxman Das;;;2013/830;;;none;;;2013-12-16;;;security
+Decentralized Traceable Attribute-Based Signatures;;;Ali El Kaafarani, Essam Ghadafi, Dalia Khader;;;2013/828;;;none;;;2013-12-11;;;security
+Another Look at XCB;;;Debrup Chakraborty, Vicente Hernandez-Jimenez, Palash Sarkar;;;2013/823;;;none;;;2013-12-06;;;security
+RDAS: A Symmetric Key Scheme for Authenticated Query Processing in Outsourced Databases;;;Lil Maria Rodriguez-Henriquez, Debrup Chakraborty;;;2013/814;;;none;;;2013-12-06;;;security
+Constant-Round Black-Box Construction of Composable Multi-Party Computation Protocol;;;Susumu Kiyoshima, Yoshifumi Manabe, Tatsuaki Okamoto;;;2013/811;;;none;;;2013-12-06;;;security
+Formal Analysis of CRT-RSA Vigilant's Countermeasure Against the BellCoRe Attack;;;Pablo Rauzy, Sylvain Guilley;;;2013/810;;;none;;;2013-12-06;;;formal
+Secrecy without Perfect Randomness: Cryptography with (Bounded) Weak Sources;;;Michael Backes, Aniket Kate, Sebastian Meiser, Tim Ruffing;;;2013/808;;;none;;;2013-12-06;;;proofs,security
+Distributed Key Generation for Secure Encrypted Deduplication;;;Yitao Duan;;;2013/807;;;none;;;2013-12-06;;;security
+Efficient (Anonymous) Compact HIBE From Standard Assumptions;;;Somindu C. Ramanna, Palash Sarkar;;;2013/806;;;none;;;2013-12-03;;;security
+Group Signature with relaxed-privacy and revocability for VANET;;;Mohammad Saiful Islam Mamun, Atsuko Miyaji;;;2013/804;;;none;;;2013-12-01;;;security
+Fully, (Almost) Tightly Secure IBE from Standard Assumptions;;;Jie Chen, Hoeteck Wee;;;2013/803;;;none;;;2013-12-01;;;security
+Cryptosystems Resilient to Both Continual Key Leakages and Leakages from Hash Functions;;;Guangjun Fan, Yongbin Zhou, Chengyu Hu, Dengguo Feng;;;2013/802;;;none;;;2013-12-01;;;security
+Authenticating Computation on Groups: New Homomorphic Primitives and Applications;;;Dario Catalano, Antonio Marcedone, Orazio Puglisi;;;2013/801;;;none;;;2013-12-01;;;proofs,security
+Proofs of Space;;;Stefan Dziembowski, Sebastian Faust, Vladimir Kolmogorov, Krzysztof Pietrzak;;;2013/796;;;none;;;2013-12-01;;;security
+Improved Authenticity Bound of EAX, and Refinements;;;Kazuhiko Minematsu, Stefan Lucks, Tetsu Iwata;;;2013/792;;;none;;;2013-11-30;;;security
+Indistinguishability Obfuscation from Semantically-Secure Multilinear Encodings;;;Rafael Pass, Karn Seth, Sidharth Telang;;;2013/781;;;none;;;2013-11-25;;;security
+Distributed Group Authentication for RFID Supply Management;;;Mike Burmester, Jorge Munilla;;;2013/779;;;none;;;2013-11-25;;;security
+Beyond Modes: Building a Secure Record Protocol from a Cryptographic Sponge Permutation;;;Markku-Juhani O. Saarinen;;;2013/772;;;none;;;2013-11-25;;;security
+Kurosawa-Desmedt Key Encapsulation Mechanism, Revisited and More;;;Kaoru Kurosawa, Le Trieu Phong;;;2013/765;;;none;;;2013-11-21;;;security
+Predicate- and Attribute-Hiding Inner Product Encryption in a Public Key Setting;;;Yutaka Kawai, Katsuyuki Takashima;;;2013/763;;;none;;;2013-11-21;;;security
+A Revocable Online-Offline Certificateless Signature Scheme without Pairing;;;Karthik Abinav, Saikrishna Badrinarayanan, C. Pandu Rangan, S. Sharmila Deva Selvi, S. Sree Vivek, Vivek Krishna Pradhan;;;2013/758;;;none;;;2013-11-17;;;security
+Practical Signatures from the Partial Fourier Recovery Problem;;;Jeff Hoffstein, Jill Pipher, John Schanck, Joseph H. Silverman, William Whyte;;;2013/757;;;none;;;2013-11-17;;;security
+Obfuscation-based Non-black-box Simulation and Four Message Concurrent Zero Knowledge for NP;;;Omkant Pandey, Manoj Prabhakaran, Amit Sahai;;;2013/754;;;none;;;2013-11-17;;;proofs
+On the Power of Rewinding Simulators in Functional Encryption;;;Angelo De Caro, Vincenzo Iovino;;;2013/752;;;none;;;2013-11-17;;;security
+Authenticated Multiple Key Establishment Protocol for Wireless Sensor Networks;;;Jayaprakash Kar;;;2013/747;;;none;;;2013-11-17;;;security
+Asymptotically Efficient Lattice-Based Digital Signatures;;;Vadim Lyubashevsky, Daniele Micciancio;;;2013/746;;;none;;;2013-11-17;;;security
+Functional Encryption and Property Preserving Encryption: New Definitions and Positive Results;;;Shashank Agrawal, Shweta Agrawal, Saikrishna Badrinarayanan, Abishek Kumarasubramanian, Manoj Prabhakaran, Amit Sahai;;;2013/744;;;none;;;2013-11-17;;;security
+Multi-Input Functional Encryption;;;Shafi Goldwasser, Vipul Goyal, Abhishek Jain, Amit Sahai;;;2013/727;;;none;;;2013-11-13;;;security
+Homomorphic Authenticated Encryption Secure Against Chosen-Ciphertext Attack;;;Chihong Joo, Aaram Yun;;;2013/726;;;none;;;2013-11-07;;;security
+Verifiable Set Operations over Outsourced Databases;;;Ran Canetti, Omer Paneth, Dimitrios Papadopoulos, Nikos Triandopoulos;;;2013/724;;;none;;;2013-11-07;;;proofs
+Deep Attacks of a Certificateless Signature Scheme;;;Bo Yang, Zhao Yang, Zibi Xiao, Shougui Li;;;2013/721;;;none;;;2013-11-07;;;security
+Constructing Confidential Channels from Authenticated Channels---Public-Key Encryption Revisited;;;Sandro Coretti, Ueli Maurer, Björn Tackmann;;;2013/719;;;none;;;2013-11-03;;;security
+PUF-Based RFID Authentication Secure and Private under Memory Leakage;;;Daisuke Moriyama, Shin'ichiro Matsuo, Moti Yung;;;2013/712;;;none;;;2013-11-03;;;security
+An Approach to Reduce Storage for Homomorphic Computations;;;Jung Hee Cheon, Jinsu Kim;;;2013/710;;;none;;;2013-11-03;;;security
+Efficient Statistical Zero-Knowledge Authentication Protocols for Smart Cards Secure Against Active & Concurrent Attacks;;;Mohammad Sadeq Dousti, Rasool Jalili;;;2013/709;;;none;;;2013-11-03;;;proofs
+Limits of Extractability Assumptions with Distributional Auxiliary Input;;;Elette Boyle, Rafael Pass;;;2013/703;;;none;;;2013-11-03;;;proofs
+A More Efficient AES Threshold Implementation;;;Begul Bilgin, Benedikt Gierlichs, Svetla Nikova, Ventzislav Nikov, Vincent Rijmen;;;2013/697;;;none;;;2013-10-28;;;security
+Non-Malleability from Malleability: Simulation-Sound Quasi-Adaptive NIZK Proofs and CCA2-Secure Encryption from Homomorphic Signatures;;;Benoit Libert, Thomas Peters, Marc Joye, Moti Yung;;;2013/691;;;none;;;2013-10-28;;;proofs
+Obfuscation ==> (IND-CPA Security =/=> Circular Security);;;Antonio Marcedone, Claudio Orlandi;;;2013/690;;;none;;;2013-10-24;;;security
+New abstractions in applied pi-calculus and automated verification of protected executions;;;Shiwei Xu, Sergiu Bursuc, Julian P. Murphy;;;2013/686;;;none;;;2013-10-24;;;formal,security
+Separations in Circular Security for Arbitrary Length Key Cycles;;;Venkata Koppula, Kim Ramchen, Brent Waters;;;2013/683;;;none;;;2013-10-24;;;security
+Public-Key Encryption with Weak Randomness: Security against Strong Chosen Distribution Attacks;;;Damien Vergnaud, David Xiao;;;2013/681;;;none;;;2013-10-24;;;security
+Formal verification of a software countermeasure against instruction skip attacks;;;Nicolas Moro, Karine Heydemann, Emmanuelle Encrenaz, Bruno Robisson;;;2013/679;;;none;;;2013-10-24;;;formal
+Universally composable privacy preserving finite automata execution with low online and offline complexity;;;Peeter Laud, Jan Willemson;;;2013/678;;;none;;;2013-10-24;;;security
+Switching Lemma for Bilinear Tests and Constant-size NIZK Proofs for Linear Subspaces;;;Charanjit Jutla, Arnab Roy;;;2013/670;;;none;;;2013-10-24;;;proofs,security
+A TPM Diffie-Hellman Oracle;;;Tolga Acar, Lan Nguyen, Greg Zaverucha;;;2013/667;;;none;;;2013-10-24;;;security
+TUC: Time-sensitive and Modular Analysis of Anonymous Communication;;;Michael Backes, Praveen Manoharan, Esfandiar Mohammadi;;;2013/664;;;none;;;2013-10-24;;;security
+Fine-Tuning Groth-Sahai Proofs;;;Alex Escala, Jens Groth;;;2013/662;;;none;;;2013-10-24;;;proofs
+New Trapdoor Projection Maps for Composite-Order Bilinear Groups;;;Sarah Meiklejohn, Hovav Shacham;;;2013/657;;;none;;;2013-10-15;;;proofs
+Privacy-Preserving Multi-Party Reconciliation Secure in the Malicious Model (Extended version);;;Georg Neugebauer, Lucas Brutschy, Ulrike Meyer, Susanne Wetzel;;;2013/655;;;none;;;2013-10-15;;;proofs
+Leakage-Resilient Chosen-Ciphertext Secure Public-Key Encryption from Hash Proof System and One-Time Lossy Filter;;;Baodong Qin, Shengli Liu;;;2013/654;;;none;;;2013-10-15;;;security
+RKA-KDM secure encryption from public-key encryption;;;Florian Böhl, Gareth T. Davies, Dennis Hofheinz;;;2013/653;;;none;;;2013-10-15;;;security
+A Closer Look at Multiple Forking: Leveraging (In)dependence for a Tighter Bound;;;Sanjit Chatterjee, Chethan Kamath;;;2013/651;;;none;;;2013-10-15;;;security
+Direct Chosen-Ciphertext Secure Attribute-Based Key Encapsulations without Random Oracles;;;Johannes Blömer, Gennadij Liske;;;2013/646;;;none;;;2013-10-10;;;security
+Multiparty Key Exchange, Efficient Traitor Tracing, and More from Indistinguishability Obfuscation;;;Dan Boneh, Mark Zhandry;;;2013/642;;;none;;;2013-10-10;;;security
+Flexible and Publicly Verifiable Aggregation Query for Outsourced Databases in Cloud;;;Jiawei Yuan, Shucheng Yu;;;2013/627;;;none;;;2013-09-30;;;security
+Decentralized Anonymous Credentials;;;Christina Garman, Matthew Green, Ian Miers;;;2013/622;;;none;;;2013-09-28;;;security
+Sub-linear Blind Ring Signatures without Random Oracles;;;Essam Ghadafi;;;2013/612;;;none;;;2013-09-23;;;security
+Revocable quantum timed-release encryption;;;Dominique Unruh;;;2013/606;;;none;;;2013-09-23;;;security
+Modelling Time, or A Step Towards Reduction-based Security Proofs for OTP and Kerberos;;;Jörg Schwenk;;;2013/604;;;none;;;2013-09-23;;;security
+SPHF-Friendly Non-Interactive Commitments;;;Michel Abdalla, Fabrice Benhamouda, Olivier Blazy, Céline Chevalier, David Pointcheval;;;2013/588;;;none;;;2013-09-14;;;security
+Virtual Black-Box Obfuscation for All Circuits via Generic Graded Encoding;;;Zvika Brakerski, Guy N. Rothblum;;;2013/563;;;none;;;2013-09-05;;;security
+A Definitional Framework for Functional Encryption;;;Christian Matt, Ueli Maurer;;;2013/559;;;none;;;2013-09-04;;;security
+Key Exchange with Unilateral Authentication: Composable Security Definition and Modular Protocol Design;;;Ueli Maurer, Björn Tackmann, Sandro Coretti;;;2013/555;;;none;;;2013-09-04;;;security
+Formally Proved Security of Assembly Code Against Power Analysis: A Case Study on Balanced Logic;;;Pablo Rauzy, Sylvain Guilley, Zakaria Najm;;;2013/554;;;none;;;2013-09-04;;;formal
+More Efficient Oblivious Transfer and Extensions for Faster Secure Computation;;;Gilad Asharov, Yehuda Lindell, Thomas Schneider, Michael Zohner;;;2013/552;;;none;;;2013-09-04;;;security
+Private Over-threshold Aggregation Protocols over Distributed Databases;;;Myungsun Kim, Abedelaziz Mohaisen, Jung Hee Cheon, Yongdae Kim;;;2013/545;;;none;;;2013-08-30;;;security
+Warrant-Hiding Delegation-by-Certificate Proxy Signature Schemes;;;Christian Hanser, Daniel Slamanig;;;2013/544;;;none;;;2013-08-30;;;security
+On the Limits of Provable Anonymity;;;Nethanel Gelernter, Amir Herzberg;;;2013/531;;;none;;;2013-08-30;;;security
+How to Withstand Mobile Virus Attacks, Revisited;;;Joshua Baron, Karim El Defrawy, Joshua Lampkins, Rafail Ostrovsky;;;2013/529;;;none;;;2013-08-30;;;security
+Anonymous HIBE from Standard Assumptions over Type-3 Pairings using Dual System Encryption;;;Somindu C. Ramanna, Palash Sarkar;;;2013/528;;;none;;;2013-08-30;;;security
+Catena: A Memory-Consuming Password-Scrambling Framework;;;Christian Forler, Stefan Lucks, Jakob Wenzel;;;2013/525;;;none;;;2013-08-30;;;security
+White-Box Security Notions for Symmetric Encryption Schemes;;;Cécile Delerablée, Tancrède Lepoint, Pascal Paillier, Matthieu Rivain;;;2013/523;;;none;;;2013-08-30;;;security
+Algebraic MACs and Keyed-Verification Anonymous Credentials;;;Melissa Chase, Sarah Meiklejohn, Gregory M. Zaverucha;;;2013/516;;;none;;;2013-08-21;;;proofs,security
+Enforcing Language Semantics Using Proof-Carrying Data;;;Stephen Chong, Eran Tromer, Jeffrey A. Vaughan;;;2013/513;;;none;;;2013-08-21;;;proofs
+Rounding LLL: Finding Faster Small Roots of Univariate Polynomial Congruences;;;Jingguo Bi, Phong Q. Nguyen;;;2013/512;;;none;;;2013-08-17;;;security
+SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge;;;Eli Ben-Sasson, Alessandro Chiesa, Daniel Genkin, Eran Tromer, Madars Virza;;;2013/507;;;none;;;2013-08-17;;;proofs
+Improvement of Camenisch-Neven-Shelat Oblivious Transfer Scheme;;;Zhengjun Cao, Hanyue Cao;;;2013/497;;;none;;;2013-08-15;;;proofs
+How To Construct Extractable One-Way Functions Against Uniform Adversaries;;;Nir Bitansky, Ran Canetti, Omer Paneth;;;2013/468;;;none;;;2013-08-02;;;proofs
+Practical & Provably Secure Distance-Bounding;;;Ioana Boureanu, Aikaterini Mitrokotsa, Serge Vaudenay;;;2013/465;;;none;;;2013-08-02;;;security
+Reset Indifferentiability and its Consequences;;;Paul Baecher, Chris Brzuska, Arno Mittelbach;;;2013/459;;;none;;;2013-07-29;;;security
+Deduction Soundness: Prove One, Get Five for Free;;;Florian Böhl, Véronique Cortier, Bogdan Warinschi;;;2013/457;;;none;;;2013-07-27;;;security
+On the Security of Group-based Proxy Re-encryption Scheme;;;Purushothama B R, B B Amberker;;;2013/456;;;none;;;2013-07-27;;;security
+How to Use Indistinguishability Obfuscation: Deniable Encryption, and More;;;Amit Sahai, Brent Waters;;;2013/454;;;none;;;2013-07-23;;;proofs
+Candidate Indistinguishability Obfuscation and Functional Encryption for all circuits;;;Sanjam Garg, Craig Gentry, Shai Halevi, Mariana Raykova, Amit Sahai, Brent Waters;;;2013/451;;;none;;;2013-07-22;;;proofs
+Sequential message authentication code without random oracles;;;Bin Wang, Xiaojing Hong;;;2013/444;;;none;;;2013-07-22;;;security
+Optimally Anonymous and Transferable Conditional E-cash;;;Jiangxiao Zhang, Hua Guo, Zhoujun Li, Chang Xu;;;2013/443;;;none;;;2013-07-18;;;security
+A Uniform Min-Max Theorem with Applications in Cryptography;;;Salil Vadhan, Colin Jia Zheng;;;2013/437;;;none;;;2013-07-17;;;proofs
+Full Domain Hash from (Leveled) Multilinear Maps and Identity-Based Aggregate Signatures;;;Susan Hohenberger, Amit Sahai, Brent Waters;;;2013/434;;;none;;;2013-07-13;;;security
+Instantiating Random Oracles via UCEs;;;Mihir Bellare, Viet Tung Hoang, Sriram Keelveedhi;;;2013/424;;;none;;;2013-07-02;;;security
+On Tight Security Proofs for Schnorr Signatures;;;Nils Fleischhacker, Tibor Jager, Dominique Schröder;;;2013/418;;;none;;;2013-06-25;;;security
+A novel certificateless deniable authentication protocol;;;Chunhua Jin, Chunxiang Xu, Xiaojun Zhang, Qianna Xie, Fagen Li;;;2013/414;;;none;;;2013-06-25;;;security
+Order-Preserving Encryption Secure Beyond One-Wayness;;;Tal Malkin, Isamu Teranishi, Moti Yung;;;2013/409;;;none;;;2013-06-25;;;security
+Automated Security Proofs for Almost-Universal Hash for MAC verification;;;Martin Gagné, Pascal Lafourcade, Yassine Lakhnech;;;2013/407;;;none;;;2013-06-25;;;security
+Functional Signatures and Pseudorandom Functions;;;Elette Boyle, Shafi Goldwasser, Ioana Ivan;;;2013/401;;;none;;;2013-06-20;;;proofs
+On the Practical Security of a Leakage Resilient Masking Scheme;;;Emmanuel Prouff, Matthieu Rivain, Thomas Roche;;;2013/396;;;none;;;2013-06-18;;;security
+Strongly Secure One-round Group Authenticated Key Exchange in the Standard Model;;;Yong Li, Zheng Yang;;;2013/393;;;none;;;2013-06-18;;;security
+Efficient Simultaneous Privately and Publicly Verifiable Robust Provable Data Possession from Elliptic Curves;;;Christian Hanser, Daniel Slamanig;;;2013/392;;;none;;;2013-06-18;;;security
+Key Recovery Attacks on 3-round Even-Mansour, 8-step LED-128, and Full $\mbox{AES}^{2}$;;;Itai Dinur, Orr Dunkelman, Nathan Keller, Adi Shamir;;;2013/391;;;none;;;2013-06-18;;;security
+An Algebraic Framework for Diffie-Hellman Assumptions;;;Alex Escala, Gottfried Herold, Eike Kiltz, Carla Ràfols, Jorge Villar;;;2013/377;;;none;;;2013-06-12;;;proofs
+Leakage-Resilient Symmetric Cryptography Under Empirically Verifiable Assumptions;;;François-Xavier Standaert, Olivier Pereira, Yu Yu;;;2013/370;;;none;;;2013-06-12;;;security
+On the Security of TLS-DH and TLS-RSA in the Standard Model;;;Florian Kohlar, Sven Schäge, Jörg Schwenk;;;2013/367;;;none;;;2013-06-10;;;security
+Structural Evaluation of AES and Chosen-Key Distinguisher of 9-round AES-128;;;Pierre-Alain Fouque, Jérémy Jean, Thomas Peyrin;;;2013/366;;;none;;;2013-06-10;;;security
+Efficient eCK-secure Authenticated Key Exchange Protocols in the Standard Model;;;Zheng Yang;;;2013/365;;;none;;;2013-06-10;;;security
+On the Achievability of Simulation-Based Security for Functional Encryption;;;Angelo De Caro, Vincenzo Iovino Abhishek Jain, Adam O'Neill, Omer Paneth, Giuseppe Persiano;;;2013/364;;;none;;;2013-06-10;;;proofs,security
+Verifying Computations with State (Extended Version);;;Benjamin Braun, Ariel J. Feldman, Zuocheng Ren, Srinath Setty, Andrew J. Blumberg, Michael Walfish;;;2013/356;;;none;;;2013-06-10;;;proofs
+Programmable Hash Functions in the Multilinear Setting;;;Eduarda S. V. Freire, Dennis Hofheinz, Kenneth G. Paterson, Christoph Striecks;;;2013/354;;;none;;;2013-06-10;;;security
+Time-Optimal Interactive Proofs for Circuit Evaluation;;;Justin Thaler;;;2013/351;;;none;;;2013-06-10;;;proofs
+STES: A Stream Cipher Based Low Cost Scheme for Securing Stored Data;;;Debrup Chakraborty, Cuauhtemoc Mancillas-Lopez, Palash Sarkar;;;2013/347;;;none;;;2013-06-09;;;security
+Limits of provable security for homomorphic encryption;;;Andrej Bogdanov, Chin Ho Lee;;;2013/344;;;none;;;2013-06-09;;;proofs,security
+Quantum one-time programs;;;Anne Broadbent, Gus Gutoski, Douglas Stebila;;;2013/343;;;none;;;2013-06-09;;;security
+Attribute-Based Encryption for a Subclass of Circuits with Bounded Depth from Lattices;;;Xiang Xie, Rui Xue;;;2013/342;;;none;;;2013-06-09;;;security
+Trapdoor Smooth Projective Hash Functions;;;Fabrice Benhamouda, David Pointcheval;;;2013/341;;;none;;;2013-06-09;;;proofs,security
+Security Analysis of Pseudo-Random Number Generators with Input: /dev/random is not Robust;;;Yevgeniy Dodis, David Pointcheval, Sylvain Ruhault, Damien Vergnaud, Daniel Wichs;;;2013/338;;;none;;;2013-06-03;;;security
+Parallel and Dynamic Searchable Symmetric Encryption;;;Seny Kamara, Charalampos Papamanthou;;;2013/335;;;none;;;2013-06-03;;;security
+Trapdoor Privacy in Asymmetric Searchable Encryption Schemes;;;Afonso Arriaga, Qiang Tang, Peter Ryan;;;2013/330;;;none;;;2013-06-02;;;security
+Fully-Anonymous Functional Proxy-Re-Encryption;;;Yutaka Kawai, Katsuyuki Takashima;;;2013/318;;;none;;;2013-06-02;;;security
+Anon-Pass: Practical Anonymous Subscriptions;;;Michael Z. Lee, Alan M. Dunn, Jonathan Katz, Brent Waters, Emmett Witchel;;;2013/317;;;none;;;2013-06-02;;;security
+Certified computer-aided cryptography: efficient provably secure machine code from high-level implementations;;;José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, François Dupressoir;;;2013/316;;;none;;;2013-05-28;;;formal,security
+Lattice-Based Group Signatures with Logarithmic Signature Size;;;Fabien Laguillaumie, Adeline Langlois, Benoit Libert, Damien Stehle;;;2013/308;;;none;;;2013-05-25;;;security
+A Profitable Sub-Prime Loan: Obtaining the Advantages of Composite Order in Prime-Order Bilinear Groups;;;Allison Lewko, Sarah Meiklejohn;;;2013/300;;;none;;;2013-05-25;;;security
+Improvement and Efficient Implementation of a Lattice-based Signature Scheme;;;Rachid El Bansarkhani, Johannes Buchmann;;;2013/297;;;none;;;2013-05-25;;;security
+Universally Composable Symbolic Analysis for Two-Party Protocols based on Homomorphic Encryption;;;Morten Dahl, Ivan Damgård;;;2013/296;;;none;;;2013-05-25;;;formal,proofs,security
+A Leakage Resilient MAC;;;Daniel P. Martin, Elisabeth Oswald, Martijn Stam, Marcin Wojcik;;;2013/292;;;none;;;2013-05-23;;;security
+Security ranking among assumptions within the Uber assumption framework;;;Antoine Joux, Antoine Rojat;;;2013/291;;;none;;;2013-05-23;;;security
+Salvaging Indifferentiability in a Multi-stage Setting;;;Arno Mittelbach;;;2013/286;;;none;;;2013-05-23;;;security
+Adapting Lyubashevsky’s Signature Schemes to the Ring Signature Setting;;;Carlos Aguilar-Melchor, Slim Bettaieb, Xavier Boyen, Laurent Fousse, Philippe Gaborit;;;2013/281;;;none;;;2013-05-16;;;security
+Pinocchio: Nearly Practical Verifiable Computation;;;Bryan Parno, Craig Gentry, Jon Howell, Mariana Raykova;;;2013/279;;;none;;;2013-05-16;;;proofs
+Cryptography Challenges for Computational Privacy in Public Clouds;;;Sashank Dara;;;2013/272;;;none;;;2013-05-14;;;proofs
+Speeding up QUAD;;;Albrecht Petzoldt;;;2013/263;;;none;;;2013-05-13;;;security
+From Weak to Strong Zero-Knowledge and Applications;;;Kai-Min Chung, Edward Lui, Rafael Pass;;;2013/260;;;none;;;2013-05-08;;;proofs
+On the Lossiness of the Rabin Trapdoor Function;;;Yannick Seurin;;;2013/256;;;none;;;2013-05-08;;;security
+CacheAudit: A Tool for the Static Analysis of Cache Side Channels;;;Goran Doychev, Dominik Feld, Boris Köpf, Laurent Mauborgne, Jan Reineke;;;2013/253;;;none;;;2013-05-08;;;security
+Another Look at Security Theorems for 1-Key Nested MACs;;;Neal Koblitz, Alfred Menezes;;;2013/248;;;none;;;2013-05-03;;;security
+Leakage-resilient Attribute-based Encryptions with Fast Decryption: Model, Analysis and Construction;;;Mingwu Zhang, Wei Shi, Chunzhi Wang, Zhenhua Chen, Yi Mu;;;2013/247;;;none;;;2013-05-03;;;security
+The Fiat-Shamir Transformation in a Quantum World;;;Özgür Dagdelen, Marc Fischlin, Tommaso Gagliardoni;;;2013/245;;;none;;;2013-05-03;;;security
+A Simple ORAM;;;Kai-Min Chung, Rafael Pass;;;2013/243;;;none;;;2013-05-03;;;security
+Anonymity-preserving Public-Key Encryption: A Constructive Approach;;;Markulf Kohlweiss, Ueli Maurer, Cristina Onete, Björn Tackmann, Daniele Venturi;;;2013/238;;;none;;;2013-04-29;;;security
+A Ciphertext-Policy Attribute-Based Proxy Re-Encryption with Chosen-Ciphertext Security;;;Kaitai Liang, Liming Fang, Duncan S. Wong, Willy Susilo;;;2013/236;;;none;;;2013-04-29;;;security
+Attacks on JH, Grøstl and SMASH Hash Functions;;;Yiyuan Luo, Xuejia Lai;;;2013/233;;;none;;;2013-04-29;;;security
+Relations among Privacy Notions for Signcryption and Key Invisible "Sign-then-Encrypt'';;;Yang Wang, Mark Manulis, Man Ho Au, Willy Susilo;;;2013/230;;;none;;;2013-04-29;;;security
+How to Run Turing Machines on Encrypted Data;;;Shafi Goldwasser, Yael Kalai, Raluca Ada Popa, Vinod Vaikuntanathan, Nickolai Zeldovich;;;2013/229;;;none;;;2013-04-29;;;proofs,security
+Public-Key Revocation and Tracing Schemes with Subset Difference Methods Revisited;;;Kwangsu Lee, Woo Kwon Koo, Dong Hoon Lee, Jong Hwan Park;;;2013/228;;;none;;;2013-04-29;;;security
+Analysis of authentication and key establishment in inter-generational mobile telephony;;;Chunyu Tang, David A. Naumann, Susanne Wetzel;;;2013/227;;;none;;;2013-04-29;;;formal
+Tight security bounds for key-alternating ciphers;;;Shan Chen, John Steinberger;;;2013/222;;;none;;;2013-04-29;;;security
+Identity-based Aggregate Signatures with Verifiable Single Ones;;;Yang Zhang, Jun-liang Chen;;;2013/221;;;none;;;2013-04-29;;;security
+On the Impacts of Mathematical Realization over Practical Security of Leakage Resilient Cryptographic Schemes;;;Guangjun Fan, Yongbin Zhou, F. -X. Standaert, Dengguo Feng;;;2013/213;;;none;;;2013-04-14;;;security
+Cryptophia's Short Combiner for Collision-Resistant Hash Functions;;;Arno Mittelbach;;;2013/210;;;none;;;2013-04-14;;;security
+Practical and Employable Protocols for UC-Secure Circuit Evaluation over $Z_n$;;;Jan Camenisch, Robert R. Enderlein, Victor Shoup;;;2013/205;;;none;;;2013-04-14;;;proofs,security
+From oblivious AES to efficient and secure database join in the multiparty setting;;;Sven Laur, Riivo Talviste, Jan Willemson;;;2013/203;;;none;;;2013-04-14;;;security
+Non-malleable Codes from Additive Combinatorics;;;Divesh Aggarwal, Yevgeniy Dodis, Shachar Lovett;;;2013/201;;;none;;;2013-04-09;;;proofs,security
+Fast Two-Party Secure Computation with Minimal Assumptions;;;abhi shelat, Chih-hao Shen;;;2013/196;;;none;;;2013-04-09;;;proofs
+On the Impossibility of Cryptography with Tamperable Randomness;;;Per Austrin, Kai-Min Chung, Mohammad Mahmoody, Rafael Pass, Karn Seth;;;2013/194;;;none;;;2013-04-09;;;proofs
+Certificateless Signatures: Structural Extensions of Security Models and New Provably Secure Schemes;;;Yu-Chi Chen, Raylin Tso, Willy Susilo, Xinyi Huang, Gwoboa Horng;;;2013/193;;;none;;;2013-04-09;;;security
+On the (Im)possibility of Projecting Property in Prime-Order Setting;;;Jae Hong Seo;;;2013/186;;;none;;;2013-04-02;;;proofs,security
+Malleable Signatures: Complex Unary Transformations and Delegatable Anonymous Credentials;;;Melissa Chase, Markulf Kohlweiss, Anna Lysyanskaya, Sarah Meiklejohn;;;2013/179;;;none;;;2013-04-01;;;proofs
+Cryptanalysis of Some Double-Block-Length Hash Modes of Block Ciphers with $n$-Bit Block and $n$-Bit Key;;;Deukjo Hong, Daesung Kwon;;;2013/174;;;none;;;2013-03-30;;;security
+Confined Guessing: New Signatures From Standard Assumptions;;;Florian Böhl, Dennis Hofheinz, Tibor Jager, Jessica Koch, Christoph Striecks;;;2013/171;;;none;;;2013-03-30;;;security
+Single Password Authentication;;;Tolga Acar, Mira Belenkiy, Alptekin Küpçü;;;2013/167;;;none;;;2013-03-28;;;security
+Provably Secure LWE Encryption with Smallish Uniform Noise and Secret;;;Daniel Cabarcas, Florian Göpfert, Patrick Weiden;;;2013/164;;;none;;;2013-03-26;;;security
+Completeness Theorems for All Finite Stateless 2-Party Primitives;;;Daniel Kraschewski;;;2013/161;;;none;;;2013-03-26;;;security
+Improving the Message-ciphertext Rate of Lewko's Fully Secure IBE Scheme;;;Dingding Jia, Bao Liand Yamin Liu, Qixiang Mei;;;2013/159;;;none;;;2013-03-26;;;security
+On the security of a certicateless signature scheme in the standard model;;;Lin Cheng, Qiaoyan Wen, Zhengping Jin, Hua Zhang;;;2013/153;;;none;;;2013-03-15;;;security
+Key Wrapping with a Fixed Permutation;;;Dmitry Khovratovich;;;2013/145;;;none;;;2013-03-13;;;security
+Limitations of the Meta-Reduction Technique: The Case of Schnorr Signatures;;;Marc Fischlin, Nils Fleischhacker;;;2013/140;;;none;;;2013-03-12;;;security
+Blank Digital Signatures;;;Christian Hanser, Daniel Slamanig;;;2013/130;;;none;;;2013-03-07;;;proofs
+Attribute-Based Encryption for Circuits from Multilinear Maps;;;Sanjam Garg, Craig Gentry, Shai Halevi, Amit Sahai, Brent Waters;;;2013/128;;;none;;;2013-03-07;;;security
+Direct Proof of Security of Wegman-Carter Authentication with Partially Known Key;;;Aysajan Abidin, Jan-Åke Larsson;;;2013/126;;;none;;;2013-03-05;;;security
+Deterministic Public-Key Encryption for Adaptively Chosen Plaintext Distributions;;;Ananth Raghunathan, Gil Segev, Salil Vadhan;;;2013/125;;;none;;;2013-03-05;;;security
+Analysis and Improvement of Lindell's UC-Secure Commitment Schemes;;;Olivier Blazy, Céline Chevalier, David Pointcheval, Damien Vergnaud;;;2013/123;;;none;;;2013-03-05;;;security
+Succinct Non-Interactive Zero Knowledge Arguments from Span Programs and Linear Error-Correcting Codes;;;Helger Lipmaa;;;2013/121;;;none;;;2013-03-05;;;proofs
+Throughput Optimized Implementations of QUAD;;;Jason R. Hamlet, Robert W. Brocato;;;2013/118;;;none;;;2013-03-05;;;security
+Shorter Quasi-Adaptive NIZK Proofs for Linear Subspaces;;;Charanjit S. Jutla, Arnab Roy;;;2013/109;;;none;;;2013-02-27;;;formal,proofs,security
+Unconditionally Secure and Universally Composable Commitments from Physical Assumptions;;;Ivan Damgard, Alessandra Scafuro;;;2013/108;;;none;;;2013-02-27;;;security
+Constant-round secure two-party computation from a linear number of oblivious transfer;;;Samuel Ranellucci, Alain Tapp;;;2013/099;;;none;;;2013-02-27;;;security
+A Security Framework for Analysis and Design of Software Attestation;;;Frederik Armknecht, Ahmad-Reza Sadeghi, Steffen Schulz, Christian Wachsmann;;;2013/083;;;none;;;2013-02-20;;;security
+Broadcast Steganography;;;Nelly Fazio, Antonio R. Nicolosi, Irippuge Milinda Perera;;;2013/078;;;none;;;2013-02-20;;;security
+UC-Secure Multi-Session OT Using Tamper-Proof Hardware;;;Kaoru Kurosawa, Ro Nojima, Le Trieu Phong;;;2013/077;;;none;;;2013-02-20;;;security
+Improved Security for a Ring-Based Fully Homomorphic Encryption Scheme;;;Joppe W. Bos, Kristin Lauter, Jake Loftus, Michael Naehrig;;;2013/075;;;none;;;2013-02-20;;;security
+Zero-Knowledge Using Garbled Circuits: How To Prove Non-Algebraic Statements Efficiently;;;Marek Jawurek, Florian Kerschbaum, Claudio Orlandi;;;2013/073;;;none;;;2013-02-20;;;proofs
+Why Proving HIBE Systems Secure is Difficult;;;Allison Lewko, Brent Waters;;;2013/068;;;none;;;2013-02-20;;;security
+Lightweight Zero-Knowledge Proofs for Crypto-Computing Protocols;;;Sven Laur, Bingsheng Zhang;;;2013/064;;;none;;;2013-02-12;;;proofs,security
+Symbolic Universal Composability;;;Florian Böhl, Dominique Unruh;;;2013/062;;;none;;;2013-02-12;;;formal,security
+On FHE without bootstrapping;;;Aayush Jain;;;2013/060;;;none;;;2013-02-06;;;security
+A revocable certificateless signature scheme;;;Yinxia Sun, Futai Zhang, Limin Shen, Robert H. Deng;;;2013/053;;;none;;;2013-02-06;;;security
+Garbled Circuits Checking Garbled Circuits: More Efficient and Secure Two-Party Computation;;;Payman Mohassel, Ben Riva;;;2013/051;;;none;;;2013-02-06;;;security
+Cryptanalysis and Improvement of Akleylek et al.'s cryptosystem;;;Roohallah Rastaghi;;;2013/050;;;none;;;2013-02-06;;;security
+Efficient Computation Outsourcing for Inverting a Class of Homomorphic Functions;;;Fangguo Zhang, Xu Ma, Shengli Liu;;;2013/044;;;none;;;2013-01-30;;;security
+An Efficient CCA2-Secure Variant of the McEliece Cryptosystem in the Standard Model;;;Roohallah Rastaghi;;;2013/040;;;none;;;2013-01-29;;;security
+Creating a Challenge for Ideal Lattices;;;Thomas Plantard, Michael Schneider;;;2013/039;;;none;;;2013-01-29;;;security
+Provably Secure Identity-Based Aggregate Signcryption Scheme in Random Oracles;;;Jayaprakash Kar;;;2013/037;;;none;;;2013-01-29;;;security
+New Smooth Projective Hash Functions and One-Round Authenticated Key Exchange;;;Fabrice Benhamouda, Olivier Blazy, Céline Chevalier, David Pointcheval, Damien Vergnaud;;;2013/034;;;none;;;2013-01-29;;;proofs
+The IITM Model: a Simple and Expressive Model for Universal Composability;;;Ralf Kuesters, Max Tuengerthal, Daniel Rausch;;;2013/025;;;none;;;2013-01-24;;;security
+A New Practical Identity-Based Encryption System;;;Jong Hwan Park, Dong Hoon Lee;;;2013/023;;;none;;;2013-01-18;;;security
+Rate-Limited Secure Function Evaluation;;;Özgür Dagdelen, Payman Mohassel, Daniele Venturi;;;2013/021;;;none;;;2013-01-18;;;security
+Aggregate and Verifiably Encrypted Signatures from Multilinear Maps Without Random Oracles;;;Markus Rückert, Dominique Schroeder;;;2013/020;;;none;;;2013-01-18;;;security
+Plain versus Randomized Cascading-Based Key-Length Extension for Block Ciphers;;;Peter Gaźi;;;2013/019;;;none;;;2013-01-18;;;security
+Efficient Delegation of Key Generation and Revocation Functionalities in Identity-Based Encryption;;;Jae Hong Seo, Keita Emura;;;2013/018;;;none;;;2013-01-18;;;security
+Provable Security of S-BGP and other Path Vector Protocols: Model, Analysis and Extensions;;;Alexandra Boldyreva, Robert Lychev;;;2013/017;;;none;;;2013-01-18;;;security
+Efficiently Outsourcing Multiparty Computation under Multiple Keys;;;Andreas Peter, Erik Tews, Stefan Katzenbeisser;;;2013/013;;;none;;;2013-01-12;;;security
+Non-Black-Box Simulation from One-Way Functions And Applications to Resettable Security;;;Kai-Min Chung, Rafael Pass, Karn Seth;;;2013/008;;;none;;;2013-01-12;;;proofs
+Making NTRUEncrypt and NTRUSign as Secure as Standard Worst-Case Problems over Ideal Lattices;;;Damien Stehlé, Ron Steinfeld;;;2013/004;;;none;;;2013-01-11;;;security
+Non-Interactive Key Exchange;;;Eduarda S. V. Freire, Dennis Hofheinz, Eike Kiltz, Kenneth G. Paterson;;;2012/732;;;none;;;2013-01-01;;;security
+On the Impossibility of Approximate Obfuscation and Applications to Resettable Cryptography;;;Nir Bitansky, Omer Paneth;;;2012/729;;;none;;;2013-01-01;;;proofs

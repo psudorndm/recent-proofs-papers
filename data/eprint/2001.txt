@@ -1,0 +1,38 @@
+Efficient Revocation of Anonymous Group Membership;;;Jan Camenisch, Anna Lysyanskaya;;;2001/113;;;none;;;2001-12-28;;;proofs
+RSA hybrid encryption schemes;;;Louis Granboulan;;;2001/110;;;none;;;2001-12-19;;;security
+Design and Analysis of Practical Public-Key Encryption Schemes Secure against Adaptive Chosen Ciphertext Attack;;;Ronald Cramer, Victor Shoup;;;2001/108;;;none;;;2001-12-17;;;security
+Universal Arguments and their Applications;;;Boaz Barak, Oded Goldreich;;;2001/105;;;none;;;2001-12-03;;;proofs
+Concurrent Zero-Knowledge With Timing, Revisited;;;Oded Goldreich;;;2001/104;;;none;;;2001-11-27;;;proofs
+An Efficient MAC for Short Messages;;;Sarvar Patel;;;2001/097;;;none;;;2001-11-14;;;security
+Threshold Cryptosystems Based on Factoring;;;Jonathan Katz, Moti Yung;;;2001/093;;;none;;;2001-11-07;;;security
+Perfect Hiding and Perfect Binding Universally Composable Commitment Schemes with Constant Expansion Factor;;;Ivan Damgård, Jesper B. Nielsen;;;2001/091;;;none;;;2001-11-05;;;proofs,security
+Identity Based Encryption From the Weil Pairing;;;Dan Boneh, Matthew Franklin;;;2001/090;;;none;;;2001-10-30;;;security
+Statistical Zero-Knowledge Proofs from Diophantine Equations;;;Helger Lipmaa;;;2001/086;;;none;;;2001-10-25;;;proofs
+Universal Hash Proofs and a Paradigm for Adaptive Chosen Ciphertext Secure Public-Key Encryption;;;Ronald Cramer, Victor Shoup;;;2001/085;;;none;;;2001-10-12;;;proofs,security
+A Description of Protocols for Private Credentials;;;Ariel Glenn, Ian Goldberg, Frédéric Légaré, Anton Stiglic;;;2001/082;;;none;;;2001-10-05;;;security
+Authenticated Encryption in the Public-Key Setting: Security Notions and Analyses;;;Jee Hea An;;;2001/079;;;none;;;2001-09-12;;;security
+Security Assessment of Hierocrypt and Rijndael against the Differential and Linear Cryptanalysis (Extended Abstract);;;Kenji Ohkuma, Hideo Shimizu, Fumihiko Sano, Shinichi Kawamura;;;2001/070;;;none;;;2001-08-16;;;security
+An Integer Commitment Scheme based on Groups with Hidden Order;;;Ivan Damgard, Eiichiro Fujisaki;;;2001/064;;;none;;;2001-08-13;;;proofs
+Resettably-Sound Zero-Knowledge and its Applications;;;Boaz Barak, Oded Goldreich, Shafi Goldwasser, Yehuda Lindell;;;2001/063;;;none;;;2001-08-13;;;proofs
+Optimal security proofs for PSS and other signature schemes;;;Jean-Sébastien Coron;;;2001/062;;;none;;;2001-08-13;;;security
+The Security of Practical Two-Party RSA Signature Schemes;;;Mihir Bellare, Ravi Sandhu;;;2001/060;;;none;;;2001-07-29;;;security
+Efficient Zero-knowledge Authentication Based on a Linear Algebra Problem MinRank;;;Nicolas T. Courtois;;;2001/058;;;none;;;2001-07-23;;;proofs,security
+On the Security of the SPEKE Password-Authenticated Key Exchange Protocol;;;Philip MacKenzie;;;2001/057;;;none;;;2001-07-19;;;security
+Universally Composable Commitments;;;Ran Canetti, Marc Fischlin;;;2001/055;;;none;;;2001-07-10;;;security
+Security Proofs for the RSA-PSS Signature Scheme and Its Variants;;;Jakob Jonsson;;;2001/053;;;none;;;2001-06-27;;;security
+Black-Box Concurrent Zero-Knowledge Requires $\tilde\Omega(\log n)$ Rounds;;;Ran Canetti, Joe Kilian, Erez Petrank, Alon Rosen;;;2001/051;;;none;;;2001-06-24;;;proofs
+Forward-Secure Signatures with Optimal Signing and Verifying;;;Gene Itkis, Leonid Reyzin;;;2001/048;;;none;;;2001-06-18;;;security
+Analysis of Key-Exchange Protocols and Their Use for Building Secure Channels;;;Ran Canetti, Hugo Krawczyk;;;2001/040;;;none;;;2001-05-17;;;security
+Composition and Efficiency Tradeoffs for Forward-Secure Digital Signatures;;;Tal Malkin, Daniele Micciancio, Sara Miner;;;2001/034;;;none;;;2001-05-06;;;security
+Dual of New Method for Upper Bounding the Maximum Average Linear Hull Probability for SPNs;;;Liam Keliher, Henk Meijer, Stafford Tavares;;;2001/033;;;none;;;2001-05-03;;;security
+Efficient Password-Authenticated Key Exchange Using Human-Memorable Passwords;;;Jonathan Katz, Rafail Ostrovsky, Moti Yung;;;2001/031;;;none;;;2001-04-27;;;security
+On multivariate signature-only public key cryptosystems;;;Nicolas T. Courtois;;;2001/029;;;none;;;2001-04-04;;;security
+Efficient Encryption for Rich Message Spaces Under General Assumptions;;;Alexander Russell, Hong Wang;;;2001/028;;;none;;;2001-04-03;;;security
+OCB Mode;;;Phillip Rogaway, Mihir Bellare, John Black, Ted Krovetz;;;2001/026;;;none;;;2001-04-03;;;security
+Some observations on the theory of cryptographic hash functions;;;D. R. Stinson;;;2001/020;;;none;;;2001-03-02;;;security
+An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation;;;Jan Camenisch, Anna Lysyanskaya;;;2001/019;;;none;;;2001-03-01;;;security
+Analysis of a Subset Sum Randomizer;;;Peter Gemmell, Anna Johnston;;;2001/018;;;none;;;2001-02-27;;;security
+Timed-Release Cryptography;;;Wenbo Mao;;;2001/014;;;none;;;2001-02-23;;;proofs
+New Zero-knowledge Undeniable Signatures - Forgery of Signature Equivalent to Factorisation;;;Wenbo Mao;;;2001/011;;;none;;;2001-02-17;;;proofs
+How to achieve a McEliece-based Digital Signature Scheme;;;Nicolas Courtois, Matthieu Finiasz, Nicolas Sendrier;;;2001/010;;;none;;;2001-02-17;;;security
+The One-More-RSA-Inversion Problems and the Security of Chaum's Blind Signature Scheme;;;M. Bellare, C. Namprempre, D. Pointcheval, M. Semanko;;;2001/002;;;none;;;2001-01-05;;;security

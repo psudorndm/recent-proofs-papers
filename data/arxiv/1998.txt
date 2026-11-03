@@ -1,0 +1,2 @@
+Quantum key distribution with authentication;;;Guihua Zeng, Xinmei Wang;;;quant-ph/9812022;;;none;;;1998-12-10;;;security
+Estimates for practical quantum cryptography;;;Norbert Lütkenhaus;;;quant-ph/9806008;;;none;;;1998-06-02;;;security

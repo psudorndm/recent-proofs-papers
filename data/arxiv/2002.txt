@@ -1,0 +1,8 @@
+Unconditionally Secure Quantum Key Distribution In Higher Dimensions;;;H. F. Chau;;;quant-ph/0212055;;;none;;;2002-12-10;;;security
+On the Work of Madhu Sudan: the 2002 Nevalinna Prize Winner;;;Shafi Goldwasser;;;cs/0212056;;;none;;;2002-12-01;;;proofs
+Mathematical foundations of modern cryptography: computational complexity perspective;;;Shafi Goldwasser;;;cs/0212055;;;none;;;2002-12-01;;;proofs
+Information Security and Quantum Mechanics: Security of Quantum Protocols;;;P. Oscar Boykin;;;quant-ph/0210194;;;none;;;2002-10-28;;;security
+Non-Interactive Quantum Statistical and Perfect Zero-Knowledge;;;Hirotada Kobayashi;;;quant-ph/0207158;;;none;;;2002-07-29;;;proofs
+Bell inequalities and distillability in N-quantum-bit systems;;;Antonio Acin, Valerio Scarani, Michael M. Wolf;;;quant-ph/0206084;;;none;;;2002-06-13;;;security
+Formal Verification of Quantum Protocols;;;Rajagopal Nagarajan, Simon Gay;;;quant-ph/0203086;;;none;;;2002-03-18;;;formal
+Quantum statistical zero-knowledge;;;John Watrous;;;quant-ph/0202111;;;none;;;2002-02-20;;;proofs

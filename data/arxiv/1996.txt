@@ -1,0 +1,3 @@
+Quantum Key Distribution and String Oblivious Transfer in Noisy Channels;;;Dominic Mayers;;;quant-ph/9606003;;;none;;;1996-06-04;;;security
+Why quantum bit commitment and ideal quantum coin tossing are impossible;;;Hoi-Kwong Lo, H. F. Chau;;;quant-ph/9605026;;;none;;;1996-05-16;;;proofs
+Quantum privacy amplification and the security of quantum cryptography over noisy channels;;;D. Deutsch, A. Ekert, R. Jozsa, C. Macchiavello, S. Popescu, A. Sanpera;;;quant-ph/9604039;;;none;;;1996-04-30;;;security

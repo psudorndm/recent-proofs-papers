@@ -1,0 +1,140 @@
+Using Sphinx to Improve Onion Routing Circuit Construction;;;Aniket Kate, Ian Goldberg;;;2009/628;;;none;;;2009-12-26;;;security
+A Strong Blind Signature Scheme over Braid Groups;;;WEI Yun, XIONG Guo-Hua, BAO Wan-Su, ZHANG Xing-Kai;;;2009/622;;;none;;;2009-12-26;;;security
+On the Analysis of Cryptographic Assumptions in the Generic Ring Model;;;Tibor Jager, Jörg Schwenk;;;2009/621;;;none;;;2009-12-17;;;security
+Security of ECQV-Certified ECDSA Against Passive Adversaries;;;Daniel R. L. Brown, Matthew J. Campagna, Scott A. Vanstone;;;2009/620;;;none;;;2009-12-17;;;security
+An efficient ID- based directed signature scheme from bilinear pairings;;;B. Umaprasada Rao, P. Vasudeva Reddy, T. Gowri;;;2009/617;;;none;;;2009-12-17;;;security
+Grouping-Proof Protocol for RFID Tags: Security Definition and Scalable Construction;;;Dang Nguyen Duc, Kwangjo Kim;;;2009/609;;;none;;;2009-12-09;;;security
+Non-Malleable Codes;;;Stefan Dziembowski, Krzysztof Pietrzak, Daniel Wichs;;;2009/608;;;none;;;2009-12-09;;;security
+Composition of Zero-Knowledge Proofs with Efficient Provers;;;Eleanor Birrell, Salil Vadhan;;;2009/604;;;none;;;2009-12-09;;;proofs
+Groth--Sahai proofs revisited;;;E. Ghadafi, N. P. Smart, B. Warinschi;;;2009/599;;;none;;;2009-12-09;;;proofs
+Efficiency Limitations for $\Sigma$-Protocols for Group Homomorphisms;;;Endre Bangerter, Jan Camenisch, Stephan Krenn;;;2009/595;;;none;;;2009-12-04;;;proofs,security
+Efficient Set Operations in the Presence of Malicious Adversaries;;;Carmit Hazay, Kobbi Nissim;;;2009/594;;;none;;;2009-12-04;;;security
+Confidential Signatures and Deterministic Signcryption;;;Alexander W. Dent, Marc Fischlin, Mark Manulis, Martijn Stam, Dominique Schroder;;;2009/588;;;none;;;2009-12-04;;;security
+A Game-Based Definition of Coercion-Resistance and its Applications;;;Ralf Kuesters, Tomasz Truderung, Andreas Vogt;;;2009/582;;;none;;;2009-12-01;;;formal
+Privacy-Preserving Public Auditing for Secure Cloud Storage;;;Cong Wang, Sherman S. -M. Chow, Qian Wang, Kui Ren, Wenjing Lou;;;2009/579;;;none;;;2009-12-01;;;security
+Efficient and Provably Secure Certificateless Signcryption from Bilinear Maps;;;Wenjian Xie, Zhang Zhang;;;2009/578;;;none;;;2009-12-01;;;security
+Public-Key Cryptographic Primitives Provably as Secure as Subset Sum;;;Vadim Lyubashevsky, Adriana Palacio, Gil Segev;;;2009/576;;;none;;;2009-12-01;;;security
+Secure Network Coding Over the Integers;;;Rosario Gennaro, Jonathan Katz, Hugo Krawczyk, Tal Rabin;;;2009/569;;;none;;;2009-11-25;;;security
+Ephemeral key compromise attack on the IB-KA protocol;;;Qingfeng Cheng, Chuangui Ma;;;2009/568;;;none;;;2009-11-23;;;security
+New Cryptosystems From CSP-Based Self-Distributive Systems;;;Licheng Wang, Lihua Wang, Zhenfu Cao, Eiji Okamoto, Jun Shao;;;2009/566;;;none;;;2009-11-23;;;security
+How to Construct Cryptosystems and Hash Functions in Weakened Random Oracle Models;;;Yusuke Naito, Lei Wang, Kazuo Ohta;;;2009/550;;;none;;;2009-11-16;;;security
+Non-Interactive Verifiable Computing: Outsourcing Computation to Untrusted Workers;;;Rosario Gennaro, Craig Gentry, Bryan Parno;;;2009/547;;;none;;;2009-11-10;;;proofs
+Oblivious Transfer with Access Control;;;Jan Camenisch, Maria Dubovitskaya, Gregory Neven;;;2009/529;;;none;;;2009-11-02;;;security
+Universally Composable Incoercibility;;;Dominique Unruh, Jörn Müller-Quade;;;2009/520;;;none;;;2009-10-27;;;security
+Efficient Strong Designated Verifier Signature Schemes without Random Oracles or Delegatability;;;Qiong Huang, Guomin Yang, Duncan S. Wong, Willy Susilo;;;2009/518;;;none;;;2009-10-26;;;security
+New Constructions of Convertible Undeniable Signature Schemes without Random Oracles;;;Qiong Huang, Duncan S. Wong;;;2009/517;;;none;;;2009-10-26;;;security
+Blake-Wilson, Johnson and Menezes Protocol Revisited;;;Hai Huang, Zhenfu Cao;;;2009/515;;;none;;;2009-10-26;;;security
+Generic One Round Group Key Exchange in the Standard Model;;;M. Choudary Gorantla, Colin Boyd, Juan Manuel Gonzalez Nieto, Mark Manulis;;;2009/514;;;none;;;2009-10-26;;;security
+On the round complexity of black-box constructions of commitments secure against selective opening attacks;;;David Xiao;;;2009/513;;;none;;;2009-10-26;;;proofs
+Bounded Key-Dependent Message Security;;;Boaz Barak, Iftach Haitner, Dennis Hofheinz, Yuval Ishai;;;2009/511;;;none;;;2009-10-26;;;security
+Authenticated Key Exchange Protocols with Enhanced Freshness Properties;;;Hai Huang, Zhenfu Cao;;;2009/505;;;none;;;2009-10-20;;;security
+Insecure ``Provable Secure Network Coding'';;;Yongge Wang;;;2009/504;;;none;;;2009-10-20;;;security
+Security Weakness in Two Authenticated Key Exchange Protocols;;;Qingfeng Cheng, Chuangui Ma;;;2009/495;;;none;;;2009-10-14;;;security
+A Framework for Universally Composable Non-Committing Blind Signatures;;;Masayuki Abe, Miyako Ohkubo;;;2009/494;;;none;;;2009-10-14;;;security
+On Cryptographic Protocols Employing Asymmetric Pairings -- The Role of $\Psi$ Revisited;;;Sanjit Chatterjee, Alfred Menezes;;;2009/480;;;none;;;2009-09-29;;;security
+Certificateless KEM and Hybrid Signcryption Schemes Revisited;;;S. Sharmila Deva Selvi, S. Sree Vivek, C. Pandu Rangan;;;2009/462;;;none;;;2009-09-20;;;security
+A Framework for Non-Interactive Instance-Dependent Commitment Schemes (NIC);;;Bruce Kapron, Lior Malka, Venkatesh Srinivasan;;;2009/461;;;none;;;2009-09-20;;;proofs
+Efficient Oblivious Polynomial Evaluation with Simulation-Based Security;;;Carmit Hazay, Yehuda Lindell;;;2009/459;;;none;;;2009-09-20;;;security
+An Efficient Convertible Undeniable Signature Scheme with Delegatable Verification;;;Jacob C. N. Schuldt, Kanta Matsuura;;;2009/454;;;none;;;2009-09-20;;;security
+Efficient Certificateless KEM in the Standard Model;;;Georg Lippold, Colin Boyd, Juan González Nieto;;;2009/451;;;none;;;2009-09-20;;;security
+Precise Bounded-Concurrent Zero-Knowledge in Almost Constant Rounds;;;Ning Ding, Dawu Gu, Bart Preneel;;;2009/448;;;none;;;2009-09-14;;;proofs
+Secure and Efficient HB-CM Entity Authentication Protocol;;;Zhijun Li, Guang Gong, Zhiguang Qin;;;2009/444;;;none;;;2009-09-14;;;security
+A Fast Mental Poker Protocol;;;Tzer-jen Wei, Lih-Chung Wang;;;2009/439;;;none;;;2009-09-13;;;security
+Improved Cryptanalysis of Skein;;;Jean-Philippe Aumasson, Cagdas Calik, Willi Meier, Onur Ozen, Raphael C. -W. Phan, Kerem Varici;;;2009/438;;;none;;;2009-09-13;;;security
+One-time-password-authenticated key exchange;;;Kenneth G. Paterson, Douglas Stebila;;;2009/430;;;none;;;2009-09-04;;;security
+Precise Time and Space Simulatable Zero-Knowledge;;;Ning Ding, Dawu Gu;;;2009/429;;;none;;;2009-09-04;;;proofs
+Efficiently from Semi-honest to Malicious OT via OLFE;;;Jürg Wullschleger;;;2009/428;;;none;;;2009-09-04;;;security
+Efficient Verifiable Escrow and Fair Exchange with Trusted Hardware;;;Stephen R. Tate, Roopa Vishwanathan;;;2009/427;;;none;;;2009-09-04;;;proofs
+Subtleties in the Definition of IND-CCA: When and How Should Challenge-Decryption be Disallowed?;;;Mihir Bellare, Dennis Hofheinz, Eike Kiltz;;;2009/418;;;none;;;2009-09-01;;;security
+On-line Non-transferable Signatures Revisited;;;Jacob C. N. Schuldt, Kanta Matsuura;;;2009/406;;;none;;;2009-08-24;;;security
+Provably Secure Convertible Undeniable Signatures with Unambiguity;;;Le Trieu Phong, Kaoru Kurosawa, Wakaha Ogata;;;2009/394;;;none;;;2009-08-15;;;security
+Computational Soundness for Key Exchange Protocols with Symmetric Encryption;;;Ralf Kuesters, Max Tuengerthal;;;2009/392;;;none;;;2009-08-15;;;formal,security
+Threshold Decryption and Zero-Knowledge Proofs for Lattice-Based Cryptosystems;;;Rikke Bendlin, Ivan Damgård;;;2009/391;;;none;;;2009-08-15;;;proofs
+Short Pairing-based Non-interactive Zero-Knowledge Arguments;;;Jens Groth;;;2009/390;;;none;;;2009-08-15;;;proofs,security
+Untraceable Tags based on Mild Assumptions;;;Carlo Blundo, Angelo De Caro, Giuseppe Persiano;;;2009/380;;;none;;;2009-08-03;;;security
+Chosen-Ciphertext Secure RSA-type Cryptosystems;;;Benoit Chevallier-Mames, Marc Joye;;;2009/377;;;none;;;2009-08-03;;;security
+A Simulation-Based Treatment of Authenticated Message Exchange;;;Klaas Ole Kuertz, Henning Schnoor, Thomas Wilke;;;2009/368;;;none;;;2009-07-30;;;security
+Non-delegatable Identity-based Designated Verifier Signature;;;Qiong Huang, Willy Susilo, Duncan S. Wong;;;2009/367;;;none;;;2009-07-28;;;security
+Adaptive Zero-Knowledge Proofs and Adaptively Secure Oblivious Transfer;;;Yehuda Lindell, Hila Zarosim;;;2009/366;;;none;;;2009-07-27;;;proofs,security
+Cryptanalysis of a Generalized Unbalanced Feistel Network Structure;;;Ruilin Li, Bing Sun, Chao Li, Longjiang Qu;;;2009/360;;;none;;;2009-07-22;;;security
+Bonsai Trees (or, Arboriculture in Lattice-Based Cryptography);;;Chris Peikert;;;2009/359;;;none;;;2009-07-22;;;security
+Impossible Differential Cryptanalysis of FOX;;;Zhongming Wu, Xuejia Lai, Bo Zhu, Yiyuan Luo;;;2009/357;;;none;;;2009-07-21;;;security
+A Domain Extender for the Ideal Cipher;;;Jean-Sebastien Coron, Yevgeniy Dodis, Avradip Mandal, Yannick Seurin;;;2009/356;;;none;;;2009-07-21;;;security
+Asynchronous Distributed Private-Key Generators for Identity-Based Cryptography;;;Aniket Kate, Ian Goldberg;;;2009/355;;;none;;;2009-07-21;;;security
+A provably secure really source hiding designated verifier signature scheme based on random oracle model;;;Huang-Ta Huang, Jue-Sam Chou;;;2009/348;;;none;;;2009-07-18;;;security
+Anonymous ID Based Signcryption Scheme for Multiple Receivers;;;Sunder Lal, Prashant Kushwah;;;2009/345;;;none;;;2009-07-16;;;security
+Leakage Resilient Cryptography in Practice;;;Francois-Xavier Standaert, Olivier Pereira, Yu Yu, Jean-Jacques Quisquater, Moti Yung, Elisabeth Oswald;;;2009/341;;;none;;;2009-07-13;;;security
+Efficient Indifferentiable Hashing into Ordinary Elliptic Curves;;;Eric Brier, Jean-Sebastien Coron, Thomas Icart, David Madore, Hugues Randriam, Mehdi Tibouchi;;;2009/340;;;none;;;2009-07-13;;;security
+Security Notions and Generic Constructions for Client Puzzles;;;L. Chen, P. Morrissey, N. P. Smart, B. Warinschi;;;2009/331;;;none;;;2009-07-07;;;security
+Simple Adaptive Oblivious Transfer Without Random Oracle;;;Kaoru Kurosawa, Ryo Nojima;;;2009/327;;;none;;;2009-07-07;;;security
+Group-Oriented Fair Exchange of Signatures;;;Qiong Huang, Duncan S. Wong, Willy Susilo;;;2009/324;;;none;;;2009-07-06;;;security
+Certifying Assembly with Formal Cryptographic Proofs: the Case of BBS;;;Reynald Affeldt, David Nowak, Kiyoshi Yamada;;;2009/322;;;none;;;2009-07-01;;;formal,security
+Universally Composable Contributory Group Key Exchange;;;M. Choudary Gorantla, Colin Boyd, Juan Manuel Gonzàlez Nieto;;;2009/300;;;none;;;2009-06-24;;;security
+Cryptanalysis of Certificateless Signcryption Schemes and an Efficient Construction Without Pairing;;;S. Sharmila Deva Selvi, S. Sree Vivek, C. Pandu Rangan;;;2009/298;;;none;;;2009-06-24;;;security
+Defending Against Key Abuse Attacks in KP-ABE Enabled Broadcast Systems;;;Shucheng Yu, Kui Ren, Wenjing Lou, Jin Li;;;2009/295;;;none;;;2009-06-24;;;security
+Enhancing Attribute-based Encryption with Attribute Hierarchy;;;Jin Li, Qian Wang, Cong Wang, Kui Ren;;;2009/293;;;none;;;2009-06-24;;;security
+Modeling Key Compromise Impersonation Attacks on Group Key Exchange Protocols;;;M. Choudary Gorantla, Colin Boyd, Juan Manuel González Nieto;;;2009/291;;;none;;;2009-06-17;;;security
+Efficient Key Exchange with Tight Security Reduction;;;Jiang Wu, Berkant Ustaoglu;;;2009/288;;;none;;;2009-06-16;;;security
+Efficient Public Key Encryption Based on Ideal Lattices;;;Damien Stehlé, Ron Steinfeld, Keisuke Tanaka, Keita Xagawa;;;2009/285;;;none;;;2009-06-16;;;security
+Privacy-aware Attribute-based Encryption with User Accountability;;;Jin Li, Kui Ren, Bo Zhu, Zhiguo Wan;;;2009/284;;;none;;;2009-06-16;;;security
+Short and Stateless Signatures from the RSA Assumption;;;Susan Hohenberger, Brent Waters;;;2009/283;;;none;;;2009-06-16;;;security
+Leakage-Resilient Signatures;;;Sebastian Faust, Eike Kiltz, Krzysztof Pietrzak, Guy Rothblum;;;2009/282;;;none;;;2009-06-16;;;security
+Enabling Public Verifiability and Data Dynamics for Storage Security;;;Qian Wang, Cong Wang, Jin Li, Kui Ren, Wenjing Lou;;;2009/281;;;none;;;2009-06-16;;;security
+Universally Composable and Statistically Secure Verifiable Secret Sharing Scheme Based on Pre-Distributed Data;;;Rafael Dowsley, Jörn Müller-Quade, Akira Otsuka, Goichiro Hanaoka, Hideki Imai, Anderson C. A. Nascimento;;;2009/273;;;none;;;2009-06-09;;;proofs,security
+Simulation based security in the applied pi calculus;;;Stéphanie Delaune, Steve Kremer, Olivier Pereira;;;2009/267;;;none;;;2009-06-09;;;security
+Security of Cyclic Double Block Length Hash Functions including Abreast-DM;;;Ewan Fleischmann, Michael Gorski, Stefan Lucks;;;2009/261;;;none;;;2009-06-03;;;security
+Formally and Practically Relating the CK, CK-HMQV, and eCK Security Models for Authenticated Key Exchange;;;Cas J. F. Cremers;;;2009/253;;;none;;;2009-06-01;;;security
+On the Necessary and Sufficient Assumptions for UC Computation;;;Ivan Damgård, Jesper Buus Nielsen, Claudio Orlandi;;;2009/247;;;none;;;2009-05-30;;;proofs,security
+Distinguisher and Related-Key Attack on the Full AES-256 (Extended Version);;;Alex Biryukov, Dmitry Khovratovich, Ivica Nikolić;;;2009/241;;;none;;;2009-05-30;;;security
+Adaptively Secure Broadcast;;;Martin Hirt, Vassilis Zikas;;;2009/230;;;none;;;2009-05-30;;;security
+Hardware Implementations of a Variant of the Zémor-Tillich Hash Function: Can a Provably Secure Hash Function be very efficient ?;;;Giacomo de Meulenaer, Christophe Petit, Jean-Jacques Quisquater;;;2009/229;;;none;;;2009-05-30;;;security
+Computational soundness, co-induction, and encryption cycles;;;Daniele Micciancio;;;2009/227;;;none;;;2009-05-30;;;formal,security
+The Security of Abreast-DM in the Ideal Cipher Model;;;Jooyoung Lee, Daesung Kwon;;;2009/225;;;none;;;2009-05-30;;;security
+Boneh-Boyen signatures and the Strong Diffie-Hellman problem;;;David Jao, Kayo Yoshida;;;2009/221;;;none;;;2009-05-26;;;security
+Signature Schemes with Bounded Leakage Resilience;;;Jonathan Katz;;;2009/220;;;none;;;2009-05-26;;;security
+Strongly Secure Certificateless Key Agreement;;;Georg Lippold, Colin Boyd, Juan González Nieto;;;2009/219;;;none;;;2009-05-26;;;security
+Bringing Zero-Knowledge Proofs of Knowledge to Practice;;;Endre Bangerter, Stefania Barzan, Stephan Krenn, Ahmad-Reza Sadeghi, Thomas Schneider, Joe-Kai Tsay;;;2009/211;;;none;;;2009-05-26;;;proofs
+On Directed Transitive Signature;;;Jia Xu, Ee-Chien Chang, Jianying Zhou;;;2009/209;;;none;;;2009-05-26;;;security
+Related Message Attacks to Public Key Encryption Schemes: Relations among Security Notions;;;Maria Isabel Gonzalez Vasco, Angel L. Perez del Pozo;;;2009/205;;;none;;;2009-05-26;;;security
+GUC-Secure Join Operator in Distributed Relational Database;;;TIAN Yuan;;;2009/204;;;none;;;2009-05-26;;;proofs,security
+Indifferentiability with Distinguishers: Why Shabal\Does Not Require Ideal Ciphers;;;Emmanuel Bresson, Anne Canteaut, Benoit Chevallier-Mames, Christophe Clavier, Thomas Fuhr, Aline Gouget, Thomas Icart, Jean-Francois Misarsky, Maria Naya-Plasencia, Pascal Paillier, Thomas Pornin, Jean-Rene Reinhard, Celine Thuillet, Marion Videau;;;2009/199;;;none;;;2009-05-20;;;security
+Analysis and Enhance of Anonymous Signcryption Scheme;;;Mingwu Zhang, Yusheng Zhong, Pengcheng Li, Bo Yang;;;2009/194;;;none;;;2009-05-06;;;security
+Generalization of Barreto et al ID based Signcryption Scheme;;;Sunder Lal, Prashant Kushwah;;;2009/193;;;none;;;2009-05-06;;;security
+Efficient Unidirectional Proxy Re-Encryption;;;Sherman S. M. Chow, Jian Weng, Yanjiang Yang, Robert H. Deng;;;2009/189;;;none;;;2009-05-04;;;security
+Breaking and Building of Group Inside Signature;;;S. Sree Vivek, S. Sharmila Deva Selvi, S. Gopinath, C. Pandu Rangan;;;2009/188;;;none;;;2009-05-04;;;security
+Salvaging Merkle-Damgard for Practical Applications;;;Yevgeniy Dodis, Thomas Ristenpart, Thomas Shrimpton;;;2009/177;;;none;;;2009-04-23;;;security
+Making the Diffie-Hellman Protocol Identity-Based;;;Dario Fiore, Rosario Gennaro;;;2009/174;;;none;;;2009-04-20;;;security
+On the Theory and Practice of Personal Digital Signatures;;;Ivan Damgård, Gert Læssøe Mikkelsen;;;2009/171;;;none;;;2009-04-20;;;security
+CCA-Secure Proxy Re-Encryption without Pairings;;;Jun Shao, Zhenfu Cao;;;2009/164;;;none;;;2009-04-10;;;security
+Leakage-Resilient Public-Key Cryptography in the Bounded-Retrieval Model;;;Joel Alwen, Yevgeniy Dodis, Daniel Wichs;;;2009/160;;;none;;;2009-04-07;;;security
+Efficient group authentication protocols based on human interaction;;;Long Hoang Nguyen, A. W. Roscoe;;;2009/150;;;none;;;2009-04-01;;;formal
+On the security of Identity Based Ring Signcryption Schemes;;;S. Sharmila Deva Selvi, S. Sree Vivek, C. Pandu Rangan;;;2009/144;;;none;;;2009-03-31;;;security
+Multiple and Unlinkable Public Key Encryption without Certificates;;;Soyoung Park, Sang-Ho Lee, Joohan Lee;;;2009/143;;;none;;;2009-03-31;;;security
+Certificateless Group Oriented Signature Secure Against Key Replacement Attack;;;Chunbo Ma, Jun Ao;;;2009/139;;;none;;;2009-03-27;;;security
+How to Extract and Expand Randomness: A Summary and Explanation of Existing Results;;;Yvonne Cliff, Colin Boyd, Juan Gonzalez Nieto;;;2009/136;;;none;;;2009-03-27;;;security
+Threshold Attribute-Based Signatures and Their Application to Anonymous Credential Systems;;;Siamak F Shahandashti, Reihaneh Safavi-Naini;;;2009/126;;;none;;;2009-03-20;;;security
+Compact E-Cash and Simulatable VRFs Revisited;;;Mira Belenkiy, Melissa Chase, Markulf Kohlweiss, Anna Lysyanskaya;;;2009/107;;;none;;;2009-03-11;;;proofs,security
+A Step Towards QC Blind Signatures;;;Raphael Overbeck;;;2009/102;;;none;;;2009-03-02;;;security
+A Single Initialization Server for Multi-Party Cryptography;;;Hugue Blier, Alain Tapp;;;2009/099;;;none;;;2009-03-02;;;proofs
+Enhanced Privacy ID from Bilinear Pairing;;;Ernie Brickell, Jiangtao Li;;;2009/095;;;none;;;2009-03-02;;;security
+A Brief History of Provably-Secure Public-Key Encryption;;;Alexander W. Dent;;;2009/090;;;none;;;2009-02-24;;;security
+A Provably Secure And Efficient Countermeasure Against Timing Attacks;;;Boris Köpf, Markus Dürmuth;;;2009/089;;;none;;;2009-02-24;;;security
+Lossy Encryption: Constructions from General Assumptions and Efficient Selective Opening Chosen Ciphertext Security;;;Brett Hemenway, Benoit Libert, Rafail Ostrovsky, Damien Vergnaud;;;2009/088;;;none;;;2009-02-24;;;security
+UC-Secure Source Routing Protocol;;;Tao Feng, Xian Guo, Jianfeng Ma, Xinghua Li;;;2009/085;;;none;;;2009-02-24;;;security
+CoSP: A General Framework For Computational Soundness Proofs;;;Michael Backes, Dennis Hofheinz, Dominique Unruh;;;2009/080;;;none;;;2009-02-18;;;formal,security
+From Dolev-Yao to Strong Adaptive Corruption: Analyzing Security in the Presence of Compromising Adversaries;;;David Basin, Cas Cremers;;;2009/079;;;none;;;2009-02-18;;;formal
+On the Security of Iterated Hashing based on Forgery-resistant Compression Functions;;;Charles Bouillaguet, Orr Dunkelman, Pierre-Alain Fouque, Antoine Joux;;;2009/077;;;none;;;2009-02-16;;;security
+Automatic Approach of Provable Security and its Application for OAEP+;;;GU Chun-Xiang, Guang Yan, ZHU Yue-Fei;;;2009/073;;;none;;;2009-02-16;;;security
+Foundations of Non-Malleable Hash and One-Way Functions;;;Alexandra Boldyreva, David Cash, Marc Fischlin, Bogdan Warinschi;;;2009/065;;;none;;;2009-02-10;;;proofs,security
+Comparing Two Pairing-Based Aggregate Signature Schemes;;;Sanjit Chatterjee, Darrel Hankerson, Edward Knapp, Alfred Menezes;;;2009/060;;;none;;;2009-02-06;;;security
+Universally Composable Symmetric Encryption;;;Ralf Kuesters, Max Tuengerthal;;;2009/055;;;none;;;2009-02-06;;;formal,security
+On the Security of Tandem-DM;;;Ewan Fleischmann, Michael Gorski, Stefan Lucks;;;2009/054;;;none;;;2009-02-04;;;security
+Enhanced Target Collision Resistant Hash Functions Revisited;;;Mohammad Reza Reyhanitabar, Willy Susilo, Yi Mu;;;2009/051;;;none;;;2009-02-01;;;security
+On the Portability of Generalized Schnorr Proofs;;;Jan Camenisch, Aggelos Kiayias, Moti Yung;;;2009/050;;;none;;;2009-01-30;;;proofs,security
+Un-Trusted-HB: Security Vulnerabilities of Trusted-HB;;;Dmitry Frumkin, Adi Shamir;;;2009/044;;;none;;;2009-01-29;;;security
+Constructions of Truly Practical Secure Protocols using Standard Smartcards;;;Carmit Hazay, Yehuda Lindell;;;2009/036;;;none;;;2009-01-25;;;security
+NESHA-256, NEw 256-bit Secure Hash Algorithm (Extended Abstract);;;Yaser Esmaeili Salehani, Amir Tabatabaei, Mohammad Reza Sohizadeh Abyaneh, Mehdi Mohammad Hassanzadeh;;;2009/033;;;none;;;2009-01-17;;;security
+Realizing Hash-and-Sign Signatures under Standard Assumptions;;;Susan Hohenberger, Brent Waters;;;2009/028;;;none;;;2009-01-14;;;security
+Polynomial Runtime and Composability;;;Dennis Hofheinz, Dominique Unruh, Jörn Müller-Quade;;;2009/023;;;none;;;2009-01-13;;;proofs,security
+Comparison-Based Key Exchange and the Security of the Numeric Comparison Mode in Bluetooth v2.1;;;Yehuda Lindell;;;2009/013;;;none;;;2009-01-12;;;security
+Hybrid-Secure MPC: Trading Information-Theoretic Robustness for Computational Privacy;;;Christoph Lucas, Dominik Raub, Ueli Maurer;;;2009/009;;;none;;;2009-01-12;;;security

@@ -1,0 +1,18 @@
+On Compression of Cryptographic Keys;;;Aldar C-F. Chan;;;0712.4057;;;none;;;2007-12-25;;;security
+Distinguishing Short Quantum Computations;;;Bill Rosgen;;;0712.2595;;;none;;;2007-12-16;;;proofs
+Generalized Tsirelson Inequalities, Commuting-Operator Provers, and Multi-Prover Interactive Proof Systems;;;Tsuyoshi Ito, Hirotada Kobayashi, Daniel Preda, Xiaoming Sun, Andrew C. -C. Yao;;;0712.2163;;;none;;;2007-12-13;;;proofs
+The role of help in Classical and Quantum Zero-Knowledge;;;André Chailloux, Iordanis Kerenidis;;;0711.4251;;;none;;;2007-11-27;;;proofs
+Increasing the power of the verifier in Quantum Zero Knowledge;;;André Chailloux, Iordanis Kerenidis;;;0711.4032;;;none;;;2007-11-26;;;proofs
+Using Entanglement in Quantum Multi-Prover Interactive Proofs;;;Julia Kempe, Hirotada Kobayashi, Keiji Matsumoto, Thomas Vidick;;;0711.3715;;;none;;;2007-11-23;;;proofs
+Reusable Vernam Cipher with Quantum Media;;;Kai Wen, Fu-Guo Deng, Gui Lu Long;;;0711.1632;;;none;;;2007-11-11;;;security
+Deciding security properties for cryptographic protocols. Application to key cycles;;;Hubert Comon-Lundh, Véronique Cortier, Eugen Zalinescu;;;0708.3564;;;none;;;2007-08-27;;;formal
+Can Alice and Bob be random: a study on human playing zero knowledge protocols;;;Kamil Kulesza;;;0708.3230;;;none;;;2007-08-23;;;proofs
+On the Security of the Ping-Pong Protocol;;;Kim Bostroem, Timo Felbinger;;;0708.2986;;;none;;;2007-08-22;;;security
+Information-Disturbance theorem and Uncertainty Relation;;;Takayuki Miyadera, Hideki Imai;;;0707.4559;;;none;;;2007-07-31;;;security
+Entanglement-Resistant Two-Prover Interactive Proof Systems and Non-Adaptive Private Information Retrieval Systems;;;Richard Cleve, Dmitry Gavinsky, Rahul Jain;;;0707.1729;;;none;;;2007-07-12;;;proofs
+On the power of quantum, one round, two prover interactive proof systems;;;Alex Rapaport, Amnon Ta-Shma;;;0707.1136;;;none;;;2007-07-08;;;proofs
+Quantum protocols for transference of proof of zero-knowledge systems;;;Jose Claudio do Nascimento, Rubens Viana Ramos;;;0705.2580;;;none;;;2007-05-17;;;proofs
+General Properties of Quantum Zero-Knowledge Proofs;;;Hirotada Kobayashi;;;0705.1129;;;none;;;2007-05-08;;;proofs
+Dilemma that cannot be resolved by biased quantum coin flipping;;;Satoshi Ishizaka;;;quant-ph/0703099;;;none;;;2007-03-13;;;security
+Privacy Amplification, Private States, and the Uncertainty Principle;;;Joseph M. Renes, Jean-Christian Boileau;;;quant-ph/0702187;;;none;;;2007-02-19;;;security
+Experimental implementation of non-Gaussian attacks on a continuous-variable quantum key distribution system;;;Jerome Lodewyck, Thierry Debuisschert, Raul Garcia-Patron, Rosa Tualle-Brouri, Nicolas J. Cerf, Philippe Grangier;;;quant-ph/0701238;;;none;;;2007-01-31;;;security

@@ -1,0 +1,42 @@
+Symmetries in Quantum Key Distribution and the Connection between Optimal Attacks and Optimal Cloning;;;Agnes Ferenczi, Norbert Lütkenhaus;;;1112.3396;;;none;;;2011-12-15;;;security
+Faked states attack and quantum cryptography protocols;;;Travis Denny;;;1112.2230;;;none;;;2011-12-09;;;security
+Quantum key distribution with delayed privacy amplification and its application to security proof of a two-way deterministic protocol;;;Chi-Hang Fred Fung, Xiongfeng Ma, H. F. Chau, Qing-yu Cai;;;1111.4411;;;none;;;2011-11-18;;;security
+Universal Secure Multiplex Network Coding with Dependent and Non-Uniform Messages;;;Ryutaroh Matsumoto, Masahito Hayashi;;;1111.4174;;;none;;;2011-11-17;;;security
+Probabilistic Analysis of Onion Routing in a Black-box Model;;;Joan Feigenbaum, Aaron Johnson, Paul Syverson;;;1111.2520;;;none;;;2011-11-10;;;security
+Device-independent entanglement-based Bennett 1992 protocol;;;Marco Lucamarini, Giuseppe Vallone, Ilaria Gianani, Giovanni Di Giuseppe, Paolo Mataloni;;;1111.1997;;;none;;;2011-11-08;;;security
+A new zero-knowledge code based identification scheme with reduced communication;;;Carlos Aguilar, Philippe Gaborit, Julien Schrek;;;1111.1644;;;none;;;2011-11-07;;;proofs,security
+Unconditional security proof of a deterministic quantum key distribution with a two-way quantum channel;;;Hua Lu, Chi-Hang Fred Fung, Xiongfeng Ma, Qing-yu Cai;;;1111.0109;;;none;;;2011-11-01;;;security
+Analysis of Differential Phase Shift Quantum Key Distribution;;;Monica Lavale;;;1110.4820;;;none;;;2011-10-21;;;security
+Gaussian Entanglement for Quantum Key Distribution from a Single-Mode Squeezing Source;;;Tobias Eberle, Vitus Händchen, Jörg Duhme, Torsten Franz, Fabian Furrer, Roman Schnabel, Reinhard F. Werner;;;1110.3977;;;none;;;2011-10-18;;;security
+Security of a biometric identity-based encryption scheme;;;Miaomiao Tian, Wei Yang, Liusheng Huang;;;1110.2653;;;none;;;2011-10-12;;;security
+Using Hash-Based Signatures to Bootstrap Quantum Key Distribution;;;Sébastien Kunz-Jacques, Paul Jouguet;;;1109.2844;;;none;;;2011-09-13;;;security
+Formal Analysis of UMTS Privacy;;;Myrto Arapinis, Loretta Ilaria Mancini, Eike Ritter, Mark Ryan;;;1109.2066;;;none;;;2011-09-09;;;formal
+Improved Data Post-Processing in Quantum Key Distribution and Application to Loss Thresholds in Device Independent QKD;;;Xiongfeng Ma, Norbert Lütkenhaus;;;1109.1203;;;none;;;2011-09-06;;;security
+Problems of Existing Unconditional Security Proofs in Quantum Key Distribution;;;Horace P. Yuen;;;1109.1051;;;none;;;2011-09-06;;;security
+Effect of Transmission Loss on The Fundamental Security of Quantum Key Distribution;;;Horace P. Yuen;;;1109.1049;;;none;;;2011-09-06;;;security
+On quantum interactive proofs with short messages;;;Attila Pereszlényi;;;1109.0964;;;none;;;2011-09-05;;;proofs
+LWE-based Identification Schemes;;;Rosemberg Silva, Antonio Campello, Ricardo Dahab;;;1109.0631;;;none;;;2011-09-03;;;proofs
+A Framework for Devanagari Script-based Captcha;;;Sushma Yalamanchili, M. Kameswara Rao;;;1109.0132;;;none;;;2011-09-01;;;proofs
+Superposition Attacks on Cryptographic Protocols;;;Ivan Damgaard, Jakob Funder, Jesper Buus Nielsen, Louis Salvail;;;1108.6313;;;none;;;2011-08-31;;;proofs,security
+Unconditionally Secure Bit Commitment by Transmitting Measurement Outcomes;;;Adrian Kent;;;1108.2879;;;none;;;2011-08-14;;;security
+Efficient Identity Based Public Verifiable Signcryption Scheme;;;Prashant Kushwah, Sunder Lal;;;1107.1847;;;none;;;2011-07-10;;;security
+Elliptic Curve Based Zero Knowledge Proofs and Their Applicability on Resource Constrained Devices;;;Ioannis Chatzigiannakis, Apostolos Pyrgelis, Paul G. Spirakis, Yannis C. Stamatiou;;;1107.1626;;;none;;;2011-07-08;;;proofs
+Extracting and Verifying Cryptographic Models from C Protocol Code by Symbolic Execution;;;Mihhail Aizatulin, Andrew D. Gordon, Jan Jürjens;;;1107.1017;;;none;;;2011-07-06;;;formal,security
+A Dynamic Algebraic Specification for Social Networks;;;Katerina Ksystra, Konstantinos Barlas, Nikolaos Triantafyllou, Petros Stefaneas;;;1106.6267;;;none;;;2011-06-29;;;formal
+An efficient certificateless authenticated key agreement protocol without bilinear pairings;;;Debiao He, Yitao Chen;;;1106.3898;;;none;;;2011-06-20;;;security
+Security of Post-selection based Continuous Variable Quantum Key Distribution against Arbitrary Attacks;;;Nathan Walk, Thomas Symul, Timothy C. Ralph, Ping Koy Lam;;;1106.0825;;;none;;;2011-06-04;;;security
+An All-But-One Entropic Uncertainty Relation, and Application to Password-based Identification;;;Niek J. Bouman, Serge Fehr, Carlos González-Guillén, Christian Schaffner;;;1105.6212;;;none;;;2011-05-31;;;security
+Heralded qubit amplifiers for practical device-independent quantum key distribution;;;Marcos Curty, Tobias Moroder;;;1105.2573;;;none;;;2011-05-12;;;security
+Practical Verified Computation with Streaming Interactive Proofs;;;Graham Cormode, Michael Mitzenmacher, Justin Thaler;;;1105.2003;;;none;;;2011-05-10;;;proofs
+Tight Finite-Key Analysis for Quantum Cryptography;;;Marco Tomamichel, Charles Ci Wen Lim, Nicolas Gisin, Renato Renner;;;1103.4130;;;none;;;2011-03-21;;;security
+Semi-device-independent security of one-way quantum key distribution;;;Marcin Pawlowski, Nicolas Brunner;;;1103.4105;;;none;;;2011-03-21;;;security
+A Formalization of Polytime Functions;;;Sylvain Heraud, David Nowak;;;1102.5495;;;none;;;2011-02-27;;;security
+Privacy-Enhanced Reputation-Feedback Methods to Reduce Feedback Extortion in Online Auctions;;;Michael T. Goodrich, Florian Kerschbaum;;;1102.4602;;;none;;;2011-02-22;;;proofs
+Fully Simulatable Quantum-Secure Coin-Flipping and Applications;;;Carolin Lunemann, Jesper Buus Nielsen;;;1102.0887;;;none;;;2011-02-04;;;proofs
+Cryptographic Protocols under Quantum Attacks;;;Carolin Lunemann;;;1102.0885;;;none;;;2011-02-04;;;security
+Quantum key distribution based on frequency-time coding: security and feasibility;;;Bing Qi;;;1101.5995;;;none;;;2011-01-31;;;security
+Secure gated detection scheme for quantum cryptography;;;Lars Lydersen, Vadim Makarov, Johannes Skaar;;;1101.5698;;;none;;;2011-01-29;;;security
+Unconditionally Secure Bit Commitment with Flying Qudits;;;Adrian Kent;;;1101.4620;;;none;;;2011-01-24;;;security
+Approaches to Formal Verification of Security Protocols;;;Suvansh Lal, Mohit Jain, Vikrant Chaplot;;;1101.1815;;;none;;;2011-01-10;;;formal
+A Logic Programming Approach for Formal Verification of NetBill Security and Transactions Protocol;;;Suvansh Lal;;;1101.1814;;;none;;;2011-01-10;;;formal
+On Arthur Merlin Games in Communication Complexity;;;Hartmut Klauck;;;1101.0523;;;none;;;2011-01-03;;;proofs

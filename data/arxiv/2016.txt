@@ -1,0 +1,61 @@
+Relativistic (or $2$-prover $1$-round) zero-knowledge protocol for $\mathsf{NP}$ secure against quantum adversaries;;;André Chailloux, Anthony Leverrier;;;1612.07627;;;none;;;2016-12-22;;;proofs
+Efficient Encryption from Random Quasi-Cyclic Codes;;;Carlos Aguilar, Olivier Blazy, Jean-Christophe Deneuville, Philippe Gaborit, Gilles Zémor;;;1612.05572;;;none;;;2016-12-16;;;security
+The Ethereum Scratch Off Puzzle;;;Abrahim Ladha, Sharbani Pandit, Sanya Ralhan;;;1612.04518;;;none;;;2016-12-14;;;security
+Security of a single-state semi-quantum key distribution protocol;;;Wei Zhang, Daowen Qiu, Paulo Mateus;;;1612.03170;;;none;;;2016-12-11;;;security
+High-rate field demonstration of large-alphabet quantum key distribution;;;Catherine Lee, Darius Bunandar, Zheshen Zhang, Gregory R. Steinbrecher, P. Ben Dixon, Franco N. C. Wong, Jeffrey H. Shapiro, Scott A. Hamilton, Dirk Englund;;;1611.01139;;;none;;;2016-11-03;;;security
+The Universal Composable Security of Quantum Message Authentication with Key Recyling;;;Patrick Hayden, Debbie W. Leung, Dominic Mayers;;;1610.09434;;;none;;;2016-10-29;;;security
+Security of quantum key distribution with iterative sifting;;;Kiyoshi Tamaki, Hoi-Kwong Lo, Akihiro Mizutani, Go Kato, Charles Ci Wen Lim, Koji Azuma, Marcos Curty;;;1610.06499;;;none;;;2016-10-20;;;security
+(Universal) Unconditional Verifiability in E-Voting without Trusted Parties;;;Gina Gallegos-Garcia, Vincenzo Iovino, Alfredo Rial, Peter B. Roenne, Peter Y. A. Ryan;;;1610.06343;;;none;;;2016-10-20;;;proofs
+Refinement Reflection (or, how to turn your favorite language into a proof assistant using SMT);;;Niki Vazou, Ranjit Jhala;;;1610.04641;;;none;;;2016-10-14;;;proofs
+On Probabilistic Checking in Perfect Zero Knowledge;;;Eli Ben-Sasson, Alessandro Chiesa, Michael A. Forbes, Ariel Gabizon, Michael Riabzev, Nicholas Spooner;;;1610.03798;;;none;;;2016-10-12;;;proofs
+Robust self-testing of many-qubit states;;;Anand Natarajan, Thomas Vidick;;;1610.03574;;;none;;;2016-10-12;;;proofs
+Quantum authentication with key recycling;;;Christopher Portmann;;;1610.03422;;;none;;;2016-10-11;;;security
+Compression of Quantum Multi-Prover Interactive Proofs;;;Zhengfeng Ji;;;1610.03133;;;none;;;2016-10-10;;;proofs
+Determinism and Computational Power of Real Measurement-based Quantum Computation;;;Simon Perdrix, Luc Sanselme;;;1610.02824;;;none;;;2016-10-10;;;proofs
+Entanglement generation secure against general attacks;;;Alexander Pirker, Vedran Dunjko, Wolfgang Dür, Hans J. Briegel;;;1610.01907;;;none;;;2016-10-06;;;security
+Quantum Proofs;;;Thomas Vidick, John Watrous;;;1610.01664;;;none;;;2016-10-05;;;proofs
+Composably secure time-frequency quantum key distribution;;;Nathan Walk, Jonathan Barrett, Joshua Nunn;;;1609.09436;;;none;;;2016-09-29;;;security
+k-rAC - a Fine-Grained k-Resilient Access Control Scheme for Distributed Hash Tables;;;Olga Kieselmann, Arno Wacker;;;1609.09329;;;none;;;2016-09-29;;;proofs
+The Applied Pi Calculus: Mobile Values, New Names, and Secure Communication;;;Martín Abadi, Bruno Blanchet, Cédric Fournet;;;1609.03003;;;none;;;2016-09-10;;;formal
+On the Power of Statistical Zero Knowledge;;;Adam Bouland, Lijie Chen, Dhiraj Holden, Justin Thaler, Prashant Nalini Vasudevan;;;1609.02888;;;none;;;2016-09-09;;;proofs
+Axiomatizing Category Theory in Free Logic;;;Christoph Benzmüller, Dana S. Scott;;;1609.01493;;;none;;;2016-09-06;;;proofs
+Quantum one-way permutation over the finite field of two elements;;;Alexandre de Castro;;;1609.01541;;;none;;;2016-09-05;;;security
+Qudit-Based Measurement-Device-Independent Quantum Key Distribution Using Linear Optics;;;H. F. Chau, Cardythy Wong, Qinan Wang, Tieqiao Huang;;;1608.08329;;;none;;;2016-08-30;;;security
+Worst case QC-MDPC decoder for McEliece cryptosystem;;;Julia Chaulet, Nicolas Sendrier;;;1608.06080;;;none;;;2016-08-22;;;security
+Know Your Enemy: Stealth Configuration-Information Gathering in SDN;;;Mauro Conti, Fabio De Gaspari, Luigi V. Mancini;;;1608.04766;;;none;;;2016-08-16;;;security
+On the security of the Blockchain Bix Protocol and Certificates;;;Riccardo Longo, Federico Pintore, Giancarlo Rinaldo, Massimiliano Sala;;;1607.08401;;;none;;;2016-07-28;;;security
+On Ring Learning with Errors over the Tensor Product of Number Fields;;;Alberto Pedrouzo-Ulloa, Juan Ramón Troncoso-Pastoriza, Fernando Pérez-González;;;1607.05244;;;none;;;2016-07-18;;;security
+Private Multi-party Matrix Multiplication and Trust Computations;;;Jean-Guillaume Dumas, Pascal Lafourcade, Jean-Baptiste Orfila, Maxime Puys;;;1607.03629;;;none;;;2016-07-13;;;formal
+Coupling proofs are probabilistic product programs;;;Gilles Barthe, Benjamin Grégoire, Justin Hsu, Pierre-Yves Strub;;;1607.03455;;;none;;;2016-07-12;;;formal,security
+Simple and tight device-independent security proofs;;;Rotem Arnon, Renato Renner, Thomas Vidick;;;1607.01797;;;none;;;2016-07-06;;;security
+Device-independence for two-party cryptography and position verification;;;Jeremy Ribeiro, Le Phuc Thinh, Jedrzej Kaniewski, Jonas Helsen, Stephanie Wehner;;;1606.08750;;;none;;;2016-06-28;;;security
+Finite-key analysis for time-energy high-dimensional quantum key distribution;;;Murphy Yuezhen Niu, Feihu Xu, Fabian Furrer, Jeffrey H. Shapiro;;;1606.08394;;;none;;;2016-06-27;;;security
+Advanced Probabilistic Couplings for Differential Privacy;;;Gilles Barthe, Noémie Fong, Marco Gaboardi, Benjamin Grégoire, Justin Hsu, Pierre-Yves Strub;;;1606.07143;;;none;;;2016-06-23;;;formal
+How to verify computation with a rational network;;;Sanjay Jain, Prateek Saxena, Frank Stephan, Jason Teutsch;;;1606.05917;;;none;;;2016-06-19;;;security
+Settling the complexity of computing approximate two-player Nash equilibria;;;Aviad Rubinstein;;;1606.04550;;;none;;;2016-06-14;;;proofs
+Physical Zero-Knowledge Proofs for Akari, Takuzu, Kakuro and KenKen;;;Xavier Bultel, Jannik Dreier, Jean-Guillaume Dumas, Pascal Lafourcade;;;1606.01045;;;none;;;2016-06-03;;;proofs
+Automated Road Traffic Congestion Detection and Alarm Systems: Incorporating V2I communications into ATCSs;;;Vinh Thong Ta;;;1606.01010;;;none;;;2016-06-03;;;formal
+A Solver for a Theory of Strings and Bit-vectors;;;Sanu Subramanian, Murphy Berzish, Yunhui Zheng, Omer Tripp, Vijay Ganesh;;;1605.09446;;;none;;;2016-05-30;;;formal
+Undecidability of a Theory of Strings, Linear Arithmetic over Length, and String-Number Conversion;;;Vijay Ganesh, Murphy Berzish;;;1605.09442;;;none;;;2016-05-30;;;formal
+A Miniature CCA2 Public key Encryption scheme based on non-Abelian factorization problems in Lie Groups;;;Haibo Hong, Licheng Wang, Jun Shao, Haseeb Ahmad, Yixian Yang;;;1605.07168;;;none;;;2016-05-21;;;security
+Public Key Encryption in Non-Abelian Groups;;;Haibo Hong, Jun Shao, Licheng Wang, Haseeb Ahmad, Yixian Yang;;;1605.06608;;;none;;;2016-05-21;;;security
+Privacy, Discovery, and Authentication for the Internet of Things;;;David J. Wu, Ankur Taly, Asim Shankar, Dan Boneh;;;1604.06959;;;none;;;2016-04-23;;;security
+Zero-knowledge proof systems for QMA;;;Anne Broadbent, Zhengfeng Ji, Fang Song, John Watrous;;;1604.02804;;;none;;;2016-04-11;;;proofs
+Blind quantum computing with two almost identical states;;;Vedran Dunjko, Elham Kashefi;;;1604.01586;;;none;;;2016-04-06;;;security
+Quantum Bitcoin: An Anonymous and Distributed Currency Secured by the No-Cloning Theorem of Quantum Mechanics;;;Jonathan Jogenfors;;;1604.01383;;;none;;;2016-04-05;;;security
+Verifying Security Policies using Host Attributes;;;Cornelius Diekmann, Stephan-A. Posselt, Heiko Niedermayer, Holger Kinkelin, Oliver Hanka, Georg Carle;;;1604.00204;;;none;;;2016-04-01;;;formal
+Rollerchain, a Blockchain With Safely Pruneable Full Blocks;;;Alexander Chepurnoy, Mario Larangeira, Alexander Ojiganov;;;1603.07926;;;none;;;2016-03-25;;;proofs
+Using Simon's Algorithm to Attack Symmetric-Key Cryptographic Primitives;;;Thomas Santoli, Christian Schaffner;;;1603.07856;;;none;;;2016-03-25;;;security
+A software approach to defeating side channels in last-level caches;;;Ziqiao Zhou, Michael K. Reiter, Yinqian Zhang;;;1603.05615;;;none;;;2016-03-17;;;formal
+Unconditional security of entanglement-based continuous-variable quantum secret sharing;;;Ioannis Kogias, Yu Xiang, Qiongyi He, Gerardo Adesso;;;1603.03224;;;none;;;2016-03-10;;;security
+Implementations for Device-Independent Quantum Key Distribution;;;Alejandro Máttar, Antonio Acín;;;1603.02921;;;none;;;2016-03-09;;;security
+Experimentally Feasible Quantum-Key-Distribution Scheme Using Qubit-Like Qudits And Its Comparison With Existing Qubit- and Qudit-Based Protocols;;;H. F. Chau, Qinan Wang, Cardythy Wong;;;1603.02370;;;none;;;2016-03-08;;;security
+Security of Quantum Key Distribution;;;Horace Yuen;;;1602.07602;;;none;;;2016-02-24;;;security
+Security of quantum key distribution with non-I.I.D. light sources;;;Yuichi Nagamatsu, Akihiro Mizutani, Rikizo Ikuta, Takashi Yamamoto, Nobuyuki Imoto, Kiyoshi Tamaki;;;1602.02914;;;none;;;2016-02-09;;;security
+BANZKP: a Secure Authentication Scheme Using Zero Knowledge Proof for WBANs;;;Nesrine Khernane, Maria Potop-Butucaru, Claude Chaudet;;;1602.00895;;;none;;;2016-02-02;;;proofs
+Stronger Attacks on Causality-Based Key Agreement;;;Benno Salwey, Stefan Wolf;;;1601.07833;;;none;;;2016-01-28;;;security
+Octonion Algebra and Noise-Free Fully Homomorphic Encryption (FHE) Schemes;;;Yongge Wang;;;1601.06744;;;none;;;2016-01-25;;;security
+Amplifying the randomness of weak sources correlated with devices;;;Hanna Wojewodka, Fernando G. S. L. Brandao, Andrzej Grudka, Michal Horodecki, Karol Horodecki, Pawel Horodecki, Marcin Pawlowski, Ravishankar Ramanathan, Maciej Stankiewicz;;;1601.06455;;;none;;;2016-01-25;;;security
+COGENT: Certified Compilation for a Functional Systems Language;;;Liam O'Connor, Christine Rizkallah, Zilin Chen, Sidney Amani, Japheth Lim, Yutaka Nagashima, Thomas Sewell, Alex Hixon, Gabriele Keller, Toby Murray, Gerwin Klein;;;1601.05520;;;none;;;2016-01-21;;;formal
+Testing random-detector-efficiency countermeasure in a commercial system reveals a breakable unrealistic assumption;;;Anqi Huang, Shihan Sajeed, Poompong Chaiwongkhot, Mathilde Soucarros, Matthieu Legre, Vadim Makarov;;;1601.00993;;;none;;;2016-01-05;;;security
+Interactive Proof-of-stake;;;Alexander Chepurnoy;;;1601.00275;;;none;;;2016-01-03;;;proofs

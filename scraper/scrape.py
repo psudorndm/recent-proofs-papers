@@ -7,25 +7,27 @@ consumed by index.html.
 
 Adapted from MaherMamah7/Recent-post-quantum-papers (used with permission).
 
-Output format (one paper per line):
+Storage: data/<source>/<year>.txt (source = eprint or arxiv), one paper per
+line, newest first, plus data/index.json listing the files:
 
-    title;;;authors;;;id;;;date_class;;;repo;;;date;;;categories
+    title;;;authors;;;id;;;repo;;;date;;;categories
 
   - title       paper title (single line)
   - authors     comma-separated author names
   - id          arXiv id (e.g. 2501.01234) or ePrint id (e.g. 2026/0421)
-  - date_class  one of: last_week, last_month, last_year
   - repo        source-code URL if we could find one, else "none"
   - date        YYYY-MM-DD (announced / submitted date)
   - categories  comma-separated subset of {proofs, security, formal}
 
-Run:  python scrape.py            # writes papers_arxiv.txt / papers_eprint.txt
-      python scrape.py --days 400 # change the lookback window
+Run:  python scrape.py            # merge the last 30 days into data/
+      python scrape.py --full     # re-harvest everything and replace data/
 """
 
 import argparse
 import datetime as dt
 import html
+import json
+import pathlib
 import re
 import sys
 import time
@@ -46,14 +48,9 @@ ARXIV_CATEGORIES = ["cs.CR", "cs.CC", "cs.LO", "cs.PL", "cs.IT", "quant-ph"]
 
 USER_AGENT = "proofs-papers/1.0 (recent proof systems, security proofs & formal verification index)"
 
-# How far back to look, in days. Anything older than ~1 year is dropped
-# because the front-end only has week/month/year buckets.
-DEFAULT_LOOKBACK_DAYS = 400
-
-# Rolling-window thresholds (in days) used to assign a date_class.
-WEEK_DAYS = 7
-MONTH_DAYS = 30
-YEAR_DAYS = 365
+# Daily update window, in days. Updates are merged into the stored history,
+# so this only has to cover the gap since the last successful run.
+DEFAULT_LOOKBACK_DAYS = 30
 
 # --------------------------------------------------------------------------
 # Keyword / topic matching
@@ -221,19 +218,6 @@ def find_repo(text):
     return m.group(0).rstrip(".,);]")
 
 
-def date_class_for(date, now):
-    age = (now - date).days
-    if age < 0:
-        age = 0
-    if age <= WEEK_DAYS:
-        return "last_week"
-    if age <= MONTH_DAYS:
-        return "last_month"
-    if age <= YEAR_DAYS:
-        return "last_year"
-    return None
-
-
 def clean(text):
     """Collapse whitespace and strip; remove the ;;; delimiter if present."""
     if not text:
@@ -267,6 +251,7 @@ def http_get(url, retries=4):
 
 ATOM_NS = {"a": "http://www.w3.org/2005/Atom",
            "arxiv": "http://arxiv.org/schemas/atom"}
+OS_NS = {"os": "http://a9.com/-/spec/opensearch/1.1/"}
 
 
 def arxiv_query_string():
@@ -288,24 +273,53 @@ def arxiv_query_string():
     return f"({cat_q}) AND ({abs_q})"
 
 
-def fetch_arxiv(now, lookback_days):
+ARXIV_FIRST_YEAR = 1991  # arXiv's first year
+
+
+def _arxiv_page(search, start, page):
+    """One page of results (entries, total). arXiv sometimes returns an empty
+    page by mistake, so retry a couple of times before believing it."""
+    params = {
+        "search_query": search,
+        "start": start,
+        "max_results": page,
+        "sortBy": "submittedDate",
+        "sortOrder": "descending",
+    }
+    url = ARXIV_API + "?" + urllib.parse.urlencode(params)
+    for attempt in range(3):
+        root = ET.fromstring(http_get(url))
+        entries = root.findall("a:entry", ATOM_NS)
+        total = int(root.findtext("os:totalResults", default="0", namespaces=OS_NS) or 0)
+        if entries or start >= total:
+            return entries, total
+        time.sleep(5 * (attempt + 1))
+    return entries, total
+
+
+def fetch_arxiv(now, lookback_days=None):
+    """Recent papers (newest first, stop at the cutoff), or, with
+    lookback_days=None, the full history, one submission year at a time so
+    each query stays well inside the API's paging limits."""
+    if lookback_days is None:
+        papers = {}
+        for year in range(ARXIV_FIRST_YEAR, now.year + 1):
+            search = (f"({arxiv_query_string()}) AND "
+                      f"submittedDate:[{year}01010000 TO {year}12312359]")
+            got = _fetch_arxiv_query(search, cutoff=None)
+            print(f"    arXiv {year}: {len(got)} papers", file=sys.stderr)
+            papers.update(got)
+        return list(papers.values())
     cutoff = now - dt.timedelta(days=lookback_days)
-    search = arxiv_query_string()
+    return list(_fetch_arxiv_query(arxiv_query_string(), cutoff).values())
+
+
+def _fetch_arxiv_query(search, cutoff):
     papers = {}
     start = 0
-    page = 100
+    page = 200
     while True:
-        params = {
-            "search_query": search,
-            "start": start,
-            "max_results": page,
-            "sortBy": "submittedDate",
-            "sortOrder": "descending",
-        }
-        url = ARXIV_API + "?" + urllib.parse.urlencode(params)
-        xml = http_get(url)
-        root = ET.fromstring(xml)
-        entries = root.findall("a:entry", ATOM_NS)
+        entries, total = _arxiv_page(search, start, page)
         if not entries:
             break
         oldest_on_page = None
@@ -346,12 +360,12 @@ def fetch_arxiv(now, lookback_days):
             }
 
         start += page
-        if oldest_on_page is not None and oldest_on_page < cutoff:
+        if cutoff is not None and oldest_on_page is not None and oldest_on_page < cutoff:
             break
-        if start > 5000:  # safety valve
+        if start >= total or start >= 25000:  # end of results / safety valve
             break
-        time.sleep(3)  # be polite to the arXiv API
-    return list(papers.values())
+        time.sleep(3)  # arXiv asks for 3 seconds between API calls
+    return papers
 
 
 # --------------------------------------------------------------------------
@@ -363,13 +377,11 @@ OAI_NS = {"oai": "http://www.openarchives.org/OAI/2.0/",
           "oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/"}
 
 
-def fetch_eprint(now, lookback_days):
-    cutoff = now - dt.timedelta(days=lookback_days)
-    base = {
-        "verb": "ListRecords",
-        "metadataPrefix": "oai_dc",
-        "from": cutoff.isoformat(),
-    }
+def fetch_eprint(now, lookback_days=None):
+    """Records changed in the window (lookback_days=None: the whole archive)."""
+    base = {"verb": "ListRecords", "metadataPrefix": "oai_dc"}
+    if lookback_days is not None:
+        base["from"] = (now - dt.timedelta(days=lookback_days)).isoformat()
     url = EPRINT_OAI + "?" + urllib.parse.urlencode(base)
     papers = {}
     while True:
@@ -433,18 +445,14 @@ def fetch_eprint(now, lookback_days):
 
 
 # --------------------------------------------------------------------------
-# Output
+# Storage: data/<source>/<year>.txt plus data/index.json
 # --------------------------------------------------------------------------
 
-def to_line(p, now):
-    dclass = date_class_for(p["date"], now)
-    if dclass is None:
-        return None
+def to_line(p):
     fields = [
         p["title"],
         ", ".join(p["authors"]),
         p["id"],
-        dclass,
         p["repo"],
         p["date"].isoformat(),
         ",".join(sorted(p["cats"])),
@@ -452,47 +460,93 @@ def to_line(p, now):
     return ";;;".join(fields)
 
 
-def write_file(path, papers, now):
-    papers = sorted(papers, key=lambda p: p["date"], reverse=True)
-    lines = []
-    for p in papers:
-        line = to_line(p, now)
-        if line:
-            lines.append(line)
-    with open(path, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
-        if lines:
-            f.write("\n")
-    return len(lines)
+def from_line(line):
+    v = line.rstrip("\n").split(";;;")
+    if len(v) != 6:
+        return None
+    return {
+        "title": v[0],
+        "authors": [a.strip() for a in v[1].split(",") if a.strip()],
+        "id": v[2],
+        "repo": v[3],
+        "date": dt.date.fromisoformat(v[4]),
+        "cats": set(c for c in v[5].split(",") if c),
+    }
+
+
+def load_store(source_dir):
+    """All stored papers of one source, keyed by id."""
+    papers = {}
+    for path in sorted(source_dir.glob("*.txt")):
+        for line in path.read_text(encoding="utf-8").splitlines():
+            p = from_line(line)
+            if p:
+                papers[p["id"]] = p
+    return papers
+
+
+def save_store(source_dir, papers):
+    """Write one file per year (newest first) and return {year: count}."""
+    source_dir.mkdir(parents=True, exist_ok=True)
+    by_year = {}
+    for p in papers.values():
+        by_year.setdefault(p["date"].year, []).append(p)
+    for old in source_dir.glob("*.txt"):
+        if int(old.stem) not in by_year:
+            old.unlink()
+    counts = {}
+    for year, items in by_year.items():
+        items.sort(key=lambda p: (p["date"], p["id"]), reverse=True)
+        (source_dir / f"{year}.txt").write_text(
+            "".join(to_line(p) + "\n" for p in items), encoding="utf-8")
+        counts[year] = len(items)
+    return counts
+
+
+def write_index(data_dir, now):
+    """data/index.json lists the year files of each source and their sizes."""
+    index = {"updated": now.isoformat()}
+    for source in SOURCES:
+        files = sorted((data_dir / source).glob("*.txt"), reverse=True)
+        index[source] = {f.stem: sum(1 for _ in f.open(encoding="utf-8")) for f in files}
+    (data_dir / "index.json").write_text(json.dumps(index, indent=1) + "\n", encoding="utf-8")
+
+
+SOURCES = ("eprint", "arxiv")
 
 
 def main():
-    ap = argparse.ArgumentParser(description=__doc__)
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--days", type=int, default=DEFAULT_LOOKBACK_DAYS,
-                    help="lookback window in days (default: %(default)s)")
-    ap.add_argument("--arxiv-out", default="papers_arxiv.txt")
-    ap.add_argument("--eprint-out", default="papers_eprint.txt")
+                    help="update window in days (default: %(default)s)")
+    ap.add_argument("--full", action="store_true",
+                    help="harvest the whole history and replace the stored data")
+    ap.add_argument("--data-dir", default="data", type=pathlib.Path)
     ap.add_argument("--skip-arxiv", action="store_true")
     ap.add_argument("--skip-eprint", action="store_true")
     args = ap.parse_args()
 
     now = dt.date.today()
+    window = None if args.full else args.days
+    fetchers = {"eprint": ("IACR ePrint (OAI-PMH)", fetch_eprint),
+                "arxiv": ("arXiv (Atom API)", fetch_arxiv)}
 
-    if not args.eprint_out and not args.arxiv_out:
-        print("nothing to do", file=sys.stderr)
-        return
+    for source in SOURCES:
+        if getattr(args, f"skip_{source}"):
+            continue
+        label, fetch = fetchers[source]
+        print(f"Harvesting {label}{' - full history' if args.full else ''}...", file=sys.stderr)
+        fetched = {p["id"]: p for p in fetch(now, window)}
+        source_dir = args.data_dir / source
+        papers = {} if args.full else load_store(source_dir)
+        before = len(papers)
+        papers.update(fetched)
+        counts = save_store(source_dir, papers)
+        print(f"  fetched {len(fetched)}, stored {sum(counts.values())} "
+              f"({sum(counts.values()) - before:+d}) in {len(counts)} year files", file=sys.stderr)
 
-    if not args.skip_eprint:
-        print("Harvesting IACR ePrint (OAI-PMH)...", file=sys.stderr)
-        eprint = fetch_eprint(now, args.days)
-        n = write_file(args.eprint_out, eprint, now)
-        print(f"  wrote {n} ePrint papers -> {args.eprint_out}", file=sys.stderr)
-
-    if not args.skip_arxiv:
-        print("Harvesting arXiv (Atom API)...", file=sys.stderr)
-        arxiv = fetch_arxiv(now, args.days)
-        n = write_file(args.arxiv_out, arxiv, now)
-        print(f"  wrote {n} arXiv papers -> {args.arxiv_out}", file=sys.stderr)
+    write_index(args.data_dir, now)
 
 
 if __name__ == "__main__":

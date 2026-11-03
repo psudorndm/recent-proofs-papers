@@ -1,0 +1,11 @@
+Some Facets of Complexity Theory and Cryptography: A Five-Lectures Tutorial;;;Jörg Rothe;;;cs/0111056;;;none;;;2001-11-21;;;proofs
+A proposal for founding mistrustful quantum cryptography on coin tossing;;;Adrian Kent;;;quant-ph/0111097;;;none;;;2001-11-19;;;security
+How unconditionally secure quantum bit commitment is possible;;;H. P. Yuen;;;quant-ph/0109055;;;none;;;2001-09-13;;;security
+On Classical and Quantum Cryptography;;;I. V. Volovich, Ya. I. Volovich;;;quant-ph/0108133;;;none;;;2001-08-29;;;security
+Unconditional Security of Practical Quantum Key Distribution;;;Hitoshi Inamori, Norbert Lütkenhaus, Dominic Mayers;;;quant-ph/0107017;;;none;;;2001-07-03;;;security
+On Concurrent and Resettable Zero-Knowledge Proofs for NP;;;Joe Kilian, Erez Petrank, Ransom Richardson;;;cs/0107004;;;none;;;2001-07-03;;;proofs
+Lower Bounds for Zero-knowledge on the Internet;;;Joe Kilian, Erez Petrank, Charles Rackoff;;;cs/0107003;;;none;;;2001-07-02;;;proofs
+Quantum Key Distribution using Multilevel Encoding: Security Analysis;;;Mohamed Bourennane, Anders Karlsson, Gunnar Bjork, Nicolas Gisin, Nicolas Cerf;;;quant-ph/0106049;;;none;;;2001-06-08;;;security
+Unconditional security in quantum bit commitment;;;Horace P. Yuen;;;quant-ph/0106001;;;none;;;2001-06-01;;;security
+Generic Automatic Proof Tools;;;Lawrence C. Paulson;;;cs/9711106;;;none;;;2001-03-29;;;proofs
+Quantum Multi-Prover Interactive Proof Systems with Limited Prior Entanglement;;;Hirotada Kobayashi, Keiji Matsumoto;;;cs/0102013;;;none;;;2001-02-19;;;proofs

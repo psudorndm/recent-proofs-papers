@@ -1,0 +1,429 @@
+unitaryQIP = unitaryPSPACE;;;Entong He, Fengning Ou, Mingnan Zhao;;;2611.02819;;;none;;;2026-11-02;;;proofs
+Modern Software Engineering with Verification Agents: A Spec-First Architecture for Autonomous Synthesis, Verification IRs, and Organizational Scale;;;Jason Hickey;;;2611.02285;;;none;;;2026-11-01;;;formal
+VerusWeave: A Benchmark for Proof Repair in Concurrent Verus Programs;;;Pedro Ribeiro, Martim Afonso, André Vasconcelos, João F. Ferreira;;;2611.00287;;;none;;;2026-10-30;;;formal
+Fooling Relying Parties of the EUDI Wallet Architecture: Credential Pooling Attacks and CRESTA, a Standard-Compliant Countermeasure;;;Leonardo Rufini, Ivan Visconti;;;2610.41655;;;none;;;2026-10-30;;;proofs
+PP-Mark: Provable and Publicly Verifiable Watermarking for Generative AI;;;Hankyeong Ko, Taehoon Kim;;;2610.41170;;;https://github.com/hko920920/PP-Mark_NeurIPS2026;;;2026-10-30;;;proofs
+Efficient Scalable Oversight via Rewinding;;;Ziyi Guan, Yael Tauman Kalai, Ron Rothblum, Zoe Xi;;;2610.40535;;;none;;;2026-10-29;;;proofs
+On Proximity Gaps for One-Point Algebraic Geometric Codes;;;Songsong Li, Chaoping Xing, Chen Yuan, Ruiqi Zhu;;;2610.39256;;;none;;;2026-10-29;;;proofs
+Provably Secure Diffusion Watermarking Against Removal Adversaries with Batched Detector Access;;;De Zhang Lee, Ee-Chien Chang;;;2610.39189;;;none;;;2026-10-29;;;security
+Improved LCL Equivalences and Curve Decoding Alphabet Sizes;;;Rohan Goyal, Venkatesan Guruswami, Yihang Sun, Mary Wootters;;;2610.38862;;;none;;;2026-10-28;;;proofs
+A Minimally Informed Black-Box Fake-Report Attack on DRL Traffic-Signal Control;;;Amro Saleh, Loukas Lazos, Mohammad J. Abdel-Rahman;;;2610.38557;;;none;;;2026-10-28;;;proofs
+Continuous variable quantum key distribution through a fading channel with minimal information leakage;;;Josephine Dias, Timothy C. Ralph;;;2610.38048;;;none;;;2026-10-27;;;security
+Classical Verification of Quantum Computation Beyond the Polynomial Hierarchy;;;Atul Mantri;;;2610.37635;;;none;;;2026-10-27;;;proofs
+SecDMP: Provably Secure Data Memory-Dependent Prefetching (Extended Version);;;Jens Sprengers, Marton Bognar, Lesly-Ann Daniel, Frank Piessens;;;2610.37454;;;none;;;2026-10-27;;;security
+HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2610.36808;;;none;;;2026-10-27;;;formal
+Post-Quantum Perfect Zero-Knowledge Arguments for NP From Any One-Way Permutation;;;Frédéric Dupuis, Rémi Ligez, Khaireddine Medhioub, Louis Salvail, Louis-Charles Thibodeau;;;2610.33185;;;none;;;2026-10-23;;;proofs
+From Link Availability to Deadline-Constrained Key Service: A Feasibility Framework for Mobile Free-Space Quantum Key Distribution;;;Hasan Abbas Al-Mohammed;;;2610.32634;;;none;;;2026-10-23;;;security
+FVQKD: A Formal Verification of Quantum Key Distribution Security in Rocq;;;Ruixuan Deng, Zhengfeng Ji, Jiayu Zhang, Li Zhou;;;2610.30645;;;https://github.com/fvqkd/FVQKD;;;2026-10-22;;;formal,security
+PQ-Vault: Provably Quantum-Safe Asset Custody for Unmodified Ethereum;;;Hassan Khodaiemehr, Khadijeh Bagheri, Chen Feng;;;2610.29230;;;none;;;2026-10-21;;;proofs,security
+Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH";;;Xingwang Wang;;;2610.29224;;;none;;;2026-10-21;;;security
+Regular Syndrome Decoding Is Easier Than Previously Estimated;;;Jiseung Kim, Minkyu Kim, Changmin Lee, Hochang Lee;;;2610.29175;;;none;;;2026-10-21;;;proofs
+Zero Knowledge for Free up to Linear Query Bounds: Quasilinear-Size Constant-Query Zero-Knowledge PCPs;;;Inhyuk Park, Chenglin Fan;;;2610.29066;;;none;;;2026-10-21;;;proofs
+SRE: Accelerating Zero-Knowledge Proofs via Scalar Redundancy Elimination in Multi-Scalar Multiplication;;;Jonathan Ku, Guanglei Zhou, Jiawen Wu, Junyao Zhang, Haoxuan Shan, Changchun Zhou, JV Rajendran, Yiran Chen, Hai Li;;;2610.27452;;;none;;;2026-10-20;;;proofs
+Accountable partial understanding: securing the epistemic attack surface of agentic systems;;;Josiah Dykstra;;;2610.26799;;;none;;;2026-10-19;;;formal
+DM-RSA-OAEP: Formal Treatment of a Dual-Modulus Fault-Detection Countermeasure Based on Physical Diversity;;;Ramamonjy Andriamifidisoa, Rufine Marius Lalasoa;;;2610.26642;;;none;;;2026-10-19;;;security
+Randomness Certification from Statistically Hiding Commitments;;;Ilya Merkulov, Rotem Arnon;;;2610.25518;;;none;;;2026-10-18;;;security
+Cryptographically Secure Agent-to-Agent Communication in Multi-Agent Systems;;;Karol Budzyn, Adrian Brodzik, Mateusz Szczepkowski;;;2610.23078;;;none;;;2026-10-16;;;proofs
+Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization;;;Sai Varun Kodathala, Prashanth Pollishetty, Jaylen Cargill;;;2610.21063;;;https://github.com/Sports-Vision-Inc/agent-step-up;;;2026-10-15;;;formal
+Combining Post-Quantum Cryptography and Quantum Key Distribution: Taxonomy, Constructions, Proofs, Standards, Deployments and Open Problems;;;Mona Alotaibi, Noora Fetais, Saif Al-Kuwari;;;2610.19039;;;none;;;2026-10-13;;;formal
+Quantum Cryptography and Autoformalization in Lean;;;Maor Ben Shahar, Jonathan Morag, Dirk Englund, Kfir Sulimany;;;2610.17286;;;none;;;2026-10-12;;;formal,security
+Confidential Error-Correcting Codes;;;Tianrui Wang, Anyu Wang, Tianshuo Cong, Delong Ran, Xiaoyun Wang;;;2610.16087;;;none;;;2026-10-12;;;security
+Scenario Proofs for Verification of Distributed Protocols;;;Zhendong Ang, George Pîrlea, Umang Mathur;;;2610.15408;;;none;;;2026-10-11;;;formal
+StateSync-GKR: Design and Evaluation of a Reusable Sparse GKR Engine;;;Jinwook Kim;;;2610.14849;;;https://github.com/Oraclizer/statesync-gkr;;;2026-10-10;;;proofs
+HPQ-AKE: A Provably Secure Sign-Less Hybrid Authenticated Key Exchange Protocol for Bandwidth-Constrained IoT and Edge Networks;;;Khiem Pham-Tuan, Minh Quang Le, Khuong Nguyen-An;;;2610.12024;;;none;;;2026-10-08;;;security
+Certifying Hidden Paths: Scalable Topology Assurance for QKD Networks;;;Alessandro Colombo, Margherita Cozzolino, Stephan Krenn, Thomas Lorünser;;;2610.11513;;;none;;;2026-10-08;;;proofs
+A Zero-Knowledge Signature Framework for Efficient Post-Quantum Message Authentication in Cooperative Automated Driving;;;Takahito Yoshizawa, Aysajan Abidin, Edoardo Pena-Gonzalez, Bart Preneel;;;2610.11490;;;none;;;2026-10-08;;;proofs
+Defining Purpose-Limited Secrets;;;Bhumika Mittal, Aalok Thakkar;;;2610.10010;;;none;;;2026-10-07;;;security
+Semantic Behavioral Watermarking: Paraphrase-Robust and Forgery-Resistant Provenance for LLM Agents;;;Suxin Ji, Hungtao Wan, Shaoxuan Chen, An Zhang;;;2610.08668;;;none;;;2026-10-06;;;security
+Contextual Chain: Lightweight Continuity Authentication for Intermittently Connected Devices;;;Song-Ju Kim;;;2610.08262;;;none;;;2026-10-06;;;security
+Black Hole Radiation Decoding in the Haar Random Oracle Model;;;Ezekiel Cochran, Atul Mantri;;;2610.07124;;;none;;;2026-10-05;;;security
+PRA-TLS: Attestation of a Client Application for TEE;;;Reina Sasaki, Yutaka Ishikawa, Atsuko Takefusa, Masato Oguchi;;;2610.06061;;;none;;;2026-10-05;;;formal
+Certified Randomness Generation against Quantum Adversaries via Energy Constraints;;;Thomas A. Hahn, Efrat Gerchkovitz, Ester Yehuda, Rotem Arnon;;;2610.05766;;;none;;;2026-10-05;;;security
+Machine-Checked Soundness of the GKR Protocol for Sparse-Merkle Updates;;;Jinwook Kim;;;2610.05335;;;https://github.com/Oraclizer/statesync-gkr;;;2026-10-04;;;formal,proofs
+WLPA: A Network Management Framework for Allocating Scarce Quantum-Safe Link Postures under Weakest-Link Exposure;;;Bhanwar Gupta, Sanjeev Rana;;;2610.04897;;;none;;;2026-10-04;;;security
+Indistinguishability Lifting for Keyed Oracles, Compressed Ideal Cipher, and More Applications;;;Ritam Bhaumik, Yu-Hsuan Huang;;;2610.04674;;;none;;;2026-10-03;;;security
+Attestable Audit: Property-Based Attestation for Proprietary Workloads without Artifact Disclosure;;;Takuma Imamura;;;2610.04480;;;none;;;2026-10-03;;;formal,proofs
+PoCoFL: POlicy-COmpliant Federated Learning;;;Dominik Roy George, Varesh Mishra, Aysajan Abidin;;;2610.03650;;;none;;;2026-10-02;;;proofs
+Generalised Bit-Vector Abstractions for Formal Verification of Quantum Error-Detection and Entanglement Circuits over {H,X,C-NOT}: CSS Constructions, Soundness, and Mutation-Based Validation;;;Arun Govindankutty;;;2610.03794;;;none;;;2026-10-01;;;formal
+Lower Bounds for Preprocessing Attacks on Quantum Cryptography;;;Fangqi Dong, Alex Lombardi;;;2610.02101;;;none;;;2026-10-01;;;security
+Can AI Oversight Be Zero Knowledge?;;;Alessandro Chiesa, Ziyi Guan, Burcu Yildiz;;;2610.01995;;;none;;;2026-10-01;;;proofs,security
+Beyond IP = PSPACE and QIP = PSPACE: Interactive Proofs in Arbitrary Physical Theories;;;Kishor Bharti;;;2610.00847;;;none;;;2026-10-01;;;proofs
+Computational Work Extraction: The Complexity of Catalysts;;;Atul Singh Arora, Shantanav Chakraborty, Alexandru Cojocaru, Sreyas Saminathan, Uttam Singh;;;2609.40323;;;none;;;2026-09-30;;;security
+Computational Bounds for $f$-Routing;;;Oren Renard, Nicholas Spooner;;;2609.40278;;;none;;;2026-09-30;;;proofs
+Path-Finding, Orbit State Preparation, and the Security of Invariant Quantum Money;;;Hans Schmiedel, Jiangshan Yu;;;2609.39774;;;none;;;2026-09-30;;;security
+Rate 1/5 Non-Malleable Codes against Entangled Split-State Tampering;;;Naresh Goud Boddu;;;2609.39589;;;none;;;2026-09-30;;;security
+On quantum interactive proofs with a laconic prover;;;Zihan Hu, Yupan Liu;;;2609.39495;;;none;;;2026-09-30;;;proofs
+Certified Randomness with Optimal Rate;;;Siddhartha Jain, Saachi Mutreja, Bhaskar Roberts;;;2609.38945;;;none;;;2026-09-30;;;security
+Tight Post-Quantum Parallel Repetition for Private-Coin Arguments;;;Zvika Brakerski, Andrew Huang, Yael Tauman Kalai, Nicholas Spooner;;;2609.38941;;;none;;;2026-09-30;;;proofs
+Quantum Time-Lock Puzzles in the Quantum Random Oracle Model;;;Prabhanjan Ananth, Yao-Ting Lin;;;2609.38894;;;none;;;2026-09-30;;;security
+Classical Verifier Position Verification from Non-Local Games;;;Wen Yu Kon, Fatih Kaleoglu, Kaushik Chakraborty;;;2609.38441;;;none;;;2026-09-29;;;security
+On Removing Interaction from Quantum Proofs;;;Nicholas Spooner, Max Tromanhauser;;;2609.38387;;;none;;;2026-09-29;;;proofs,security
+Succinct Arguments for QMA in the Quantum Random Oracle Model;;;Alessandro Chiesa, Zihan Hu;;;2609.37429;;;none;;;2026-09-29;;;proofs,security
+Confidence-Guided Protocol IR for LLM-Aided Security Protocol Modeling;;;Siqi Li, Yufan Cai, Hongshu Wang, Xinyue Zuo, Zhe Hou, Jin Song Dong;;;2609.37396;;;https://github.com/laplace1002/TamarinAgent.git;;;2026-09-29;;;formal
+Succinct Arguments for QMA from Collapsing Hash Functions;;;James Bartusek, Giulio Malavolta;;;2609.35633;;;none;;;2026-09-28;;;proofs,security
+Zero Knowledge Proofs in Quantum Networks;;;Tuhin Paul, Srijani Das, Manasi Patra, Ramij Rahaman;;;2609.35339;;;none;;;2026-09-28;;;proofs
+Physics-Attested Federated Learning: Securing Collaborative Anomaly Detection in Critical Water Infrastructure;;;Jeff Nijsse, Shu Su, Benjamin Oholeguy, Sreenivas Sremath Tirumala;;;2609.34804;;;none;;;2026-09-28;;;proofs
+Beyond NISQ Assumptions: One-time Memory in the Classically Accessible Random-Oracle Model;;;Boyang Chen, Tianren Liu, Luojian Wei;;;2609.32603;;;none;;;2026-09-26;;;security
+Interactive Proofs of Proximity for Model Evaluation;;;Geoffroy Couteau, Nikolas Melissaris, Tamara Paris;;;2609.32007;;;none;;;2026-09-25;;;proofs
+BenX: Resource-Sharing Permutations for Computational Integrity;;;Luca Campa, Thomas De Cnudde, Al Kindi, Arnab Roy, Fabian Schmid, Markus Schofnegger, Stefano Trevisani;;;2609.31087;;;none;;;2026-09-25;;;proofs
+From Received Power to Certified Secret Keys: A General Method for Bridging Classical FSO Link Budgets and Decoy-State QKD;;;Hasan Abbas Al-Mohammed;;;2609.30874;;;none;;;2026-09-25;;;security
+Werracle: Sub-Cent Intra-Block AI Reflex Oracles and Flash-Loan Circuit Breakers for EVM Smart Contracts;;;Volkan Dağlı, Zerrin Dağlı, Dağhan Dağlı;;;2609.30719;;;https://github.com/pCwOrM/werracle;;;2026-09-25;;;formal,proofs
+Too Late to Slash: Coordinating a Risk-Free Equivocation Attack;;;Hao Chung, Chen-Da Liu-Zhang;;;2609.30509;;;none;;;2026-09-24;;;formal
+Steelhead: Interleaving Partially Synchronous and Asynchronous Commit Rules on a Shared DAG;;;Zeno De Angeli, Philipp Jovanovic, Lefteris Kokoris-Kogias, Markus Legner, Alberto Sonnino;;;2609.30163;;;none;;;2026-09-24;;;formal
+zkSAS: Practical Zero-Knowledge Proofs for Verifiable Spectrum Access Management;;;Nishat F. Purbasha, Ifteher Alom, Eric W. Burger, Y. Thomas Hou, Wenjing Lou, Yang Xiao;;;2609.28699;;;none;;;2026-09-23;;;proofs
+Seal, Then Sample: Sampled Layerwise Proofs for Verifiable LLM Inference from GPT-2 to 70B;;;Youki Lim, Sam Yong;;;2609.27367;;;https://github.com/TrueOpen/slp-experiments;;;2026-09-23;;;proofs
+Cryptographic Security Is Not Enough: Privacy Gaps in the Renegade Decentralized Dark Pool;;;Prerna Arote, Adrian Saiz, Oriol Saguillo, Lucianna Kiffer;;;2609.27100;;;none;;;2026-09-22;;;proofs
+Near-optimal high-rate surgery from linear PCPPs;;;Alexander Cowtan, Benjamin Ide;;;2609.26973;;;none;;;2026-09-22;;;proofs
+I Prove, Therefore I Am: Spatiotemporal Multi-Party Computation;;;Ziqing Guo, Fuyuki Kitagawa, Xiao Liang;;;2609.26448;;;none;;;2026-09-22;;;security
+On the Construction of Trapdoor Claw-Free Functions with Certifiable Key;;;Charles Lim, Yao Ma;;;2609.25819;;;none;;;2026-09-22;;;proofs
+$\mathsf{BQP} \subseteq \mathsf{IP}$ Does Not Relativize;;;Adam Bouland, Andrew Huang, Anand Natarajan, Itay Shalit, Avishay Tal;;;2609.25680;;;none;;;2026-09-22;;;proofs
+FASTAR: FRI Accelerator for Scalable Transparent ARguments of Knowledge;;;Tengkai Gong, Xiaolin Xu;;;2609.25535;;;none;;;2026-09-22;;;proofs
+Zero-Knowledge Proofs of Quantumness;;;Duong Hieu Phan, Weiqiang Wen, Xingyu Yan, Jinwei Zheng;;;2609.23455;;;none;;;2026-09-20;;;proofs,security
+Loss-Tolerant Quantum Position Verification for Metropolitan Area Networks;;;Wen Yu Kon, Niccolò Bigagli, Andrew Conrad, Taylor Shields, Fatih Kaleoglu, Ignatius William Primaatmaja, Alexander Craddock, RJ Pisani, Mael Flament, Jude Seeber, Omar Amer, Charles Lim, Xinhua Ling, Rob Otter, Kaushik Chakraborty, Mehdi Namazi;;;2609.23234;;;none;;;2026-09-19;;;security
+ServeGuard: Verifiable, Bounded-Residual Confinement of Operator-Invisible Channels Without Revealing the Certified Read Factor;;;Dominik Dahlem, Rui Vieira;;;2609.21515;;;none;;;2026-09-18;;;proofs
+TrustBOM: A Scalable Architecture for Confidentiality-Preserving SBOMs Across Organizations;;;Van Thang Nguyen, Frederic Rupprecht, Tom Lawrence, Lucca Di Benedetto, Sören Schubert, Amor Rezgui, Sebastian Werner, Maria C. Borges, Stefan Tai;;;2609.21419;;;none;;;2026-09-18;;;proofs
+Towards TEE-Certified DP: Verifiable Differentially Private Training on Legacy GPUs;;;Li Ge, Wenjie Qu, Weitao Feng, Yi Zeng, Jiaheng Zhang, Xiaofeng Wang, Wei Dong;;;2609.20532;;;none;;;2026-09-17;;;proofs
+MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs;;;Albert Wu, Nicholas Roberts, Tzu-Heng Huang, Haoran Lin, Gil Friedman, Sungjun Cho, Gabriel Orlanski, Frederic Sala;;;2609.19391;;;none;;;2026-09-16;;;formal
+Scaling Zero Knowledge UNSAT Verification via Normalized Chaining;;;Ashwin Karthikeyan, Ethan Kharitonov, Kuldeep S. Meel, Anwar Hithnawi;;;2609.19353;;;none;;;2026-09-16;;;formal,proofs
+Locus: A Framework for Exploring and Optimizing Point Addition Hardware for Zero-Knowledge Proofs;;;Gaurav Kuwar, Alhad Daftardar, Jianqiao Mo, Siddharth Garg, Brandon Reagen;;;2609.18846;;;https://github.com/cryptolets/cryptolets/tree/locus;;;2026-09-16;;;proofs
+Closing the Loop: Bidirectional Fully Encrypted Protocols;;;Baigang Chen, Nicholas Hopper;;;2609.17397;;;none;;;2026-09-15;;;security
+Understanding the Usability of Cryptographic Verification Tools;;;Tarikul Islam, Yasin Islam, Khandakar Ashrafi Akbar, Imtiaz Karim;;;2609.16323;;;none;;;2026-09-14;;;formal
+Unconditional Security of Discrete-Modulated CV-QKD from Infinite-Dimensional MEAT;;;Lars Kamin, Ian George, John Burniston, Florian Kanitschar;;;2609.16105;;;none;;;2026-09-14;;;security
+Achieving perfect completeness for one- and two-message quantum proof systems;;;Yupan Liu, Thomas Vidick;;;2609.15926;;;none;;;2026-09-14;;;proofs
+Security framework for practical quantum key distribution with imperfect devices;;;Jerome Wiesemann, John Burniston, Devashish Tupkary, Norbert Lütkenhaus;;;2609.15790;;;none;;;2026-09-14;;;security
+Efficient Branch-and-Bound Testing and Verification of zkVMs;;;Hideaki Takahashi, Suman Jana, Junfeng Yang;;;2609.15020;;;none;;;2026-09-14;;;proofs
+Transparent Identity Verification Approach Using MPC and Efficient Credential Status Handling;;;Istiaque Ahmed, Shoji Kasahara, Kentaroh Toyoda, Tadashi Nakano, Thi Hong Tran;;;2609.14195;;;none;;;2026-09-12;;;proofs
+From Specs to Apps: Verifying and Monitoring Models of Signal and WhatsApp;;;Moustafa Said, Aurora Naska, Kevin Morio, Robert Künnemann;;;2609.11882;;;none;;;2026-09-10;;;formal
+Atlas: Efficient Verifiable Semantic Search;;;Nikolay Avramov, Hidde Lycklama, Alexander Viand, Anwar Hithnawi;;;2609.11841;;;none;;;2026-09-10;;;proofs
+CertiFlash: A Formal Verification Framework for Flash Translation Layers in Computational Solid State Drives;;;Harshita Gupta, Mayank Kabra, Rakesh Nadig, Nika Mansouri Ghiasi, Sahand Divsalar, F. Nisa Bostanci, Ataberk Olgun, Konstantinos Kanellopoulos, Jisung Park, Haiyu Mao, Abdullah Giray Yaglikci, Mohammad Sadrosadati, Onur Mutlu;;;2609.10347;;;https://github.com/CMU-SAFARI/CertiFlash;;;2026-09-09;;;formal,security
+Sound Debloating of Redundant Checks in Zero-Knowledge Machine-Learning Circuits;;;Zhantong Xue, Pingchuan Ma, Zhaoyu Wang, Yuguang Zhou, Huaijin Wang, Shuai Wang;;;2609.10149;;;none;;;2026-09-09;;;proofs
+AutoTrans: AI-Assisted Automatic Translation of Security Assertions for RISC-V Processors;;;Sharjeel Imtiaz, Uljana Reinsalu, Tara Ghasempouri;;;2609.10057;;;none;;;2026-09-09;;;formal
+Proximity Gaps for Gabidulin Codes and Applications;;;Songsong Li, Chaoping Xing, Chen Yuan, Ruiqi Zhu;;;2609.09838;;;none;;;2026-09-09;;;proofs
+ZK-Trace: Certified Collusion Tracing with Zero-Knowledge Credentials for Federated GNSS Interference Monitoring;;;Redwanul Karim, Nisha L. Raichur, Lucas Heublein, Tobias Feigl, Christopher Mutschler, Felix Ott;;;2609.08763;;;none;;;2026-09-08;;;proofs
+Guppy: Efficient Light Clients via Recursive Zero-Knowledge Proofs;;;George Danezis, Deepak Maram, Arnab Roy, Alberto Sonnino, Karl Wüst;;;2609.07963;;;none;;;2026-09-07;;;proofs
+ZK-eSIM: A Privacy-Centric Zero-Knowledge Approach for eSIM Provisioning;;;Liza Ahmad, Quan Shi, Joshua Haworth, Yilu Dong, Prosanta Gope, Behzad Abdolmaleki, Syed Rafiul Hussain;;;2609.07654;;;none;;;2026-09-07;;;proofs
+Scratchy: Visual-Scratchpad Multimodal Reasoning for Cryptographic Proof Generation in EasyCrypt;;;Yupeng Ren, Zhaoxuan Li, Rui Zhang;;;2609.06226;;;none;;;2026-09-05;;;formal
+OreProof: Verifiable Provenance with Limited Disclosure for Critical-Minerals Supply Chains Using Zero-Knowledge Proofs;;;Oleksandr Hrabar, Hossein Arshadi Soufiani, Henry M. Kim, Chien-Chih Chen, Ali Vazirizadeh, Hjalmar Turesson;;;2609.00340;;;none;;;2026-08-31;;;proofs
+Unconditional Certified Randomness without Structure;;;Andrea Coladangelo, Dakshita Khurana, Saachi Mutreja, Bhaskar Roberts, Joseph Slote, Avishay Tal;;;2608.31112;;;none;;;2026-08-31;;;security
+Lie to Me: Finding Bugs in ZK DSL Toolchains with Adversarial Witness Injection;;;Sebastian Watzinger, Christoph Hochrainer, Valentin Wüstholz, Maria Christakis;;;2608.30648;;;none;;;2026-08-31;;;proofs
+A Formal Analysis of Agent Payment Protocols;;;Ke Jiang, Mohan Yu, Yuan Chang, Mohit Kumar Jangid, Jianyu Niu, Cong Wang, Yinqian Zhang;;;2609.00060;;;none;;;2026-08-30;;;formal
+Zero-Knowledge Predicate Proofs Between AI Agents: A Measured, Cross-Protocol Gateway and the Source-Integrity Gap;;;Ashok Subbabhatta Gopalakrishna;;;2608.30083;;;https://github.com/45h0kg/zk-proof-gateway;;;2026-08-30;;;proofs
+A Comprehensive Survey on Linguistic Steganography: Methods, Countermeasures, Evaluation, and Challenges;;;Ruiyi Yan, Chenhui Chu, Zhongliang Yang, Yugo Murawaki;;;2608.29077;;;none;;;2026-08-29;;;security
+Relaxed Sender Anonymity for CBDC Interbank Settlement: A Zero-Knowledge Approach on Permissioned EVM;;;Pietro Tiberi, Gabriele Marcelli, Vitangelo Lasorella;;;2608.28529;;;none;;;2026-08-28;;;proofs
+Not to Break, but to Attest: Adversarial Probes for Privacy-Preserving LLM Verification;;;Cameron Wilding, Mina Shaker, Fatemeh Ganji;;;2608.27954;;;none;;;2026-08-28;;;proofs
+Separating Quantum Indistinguishability Obfuscation from Falsifiable Assumptions;;;Mohammed Barhoush, Tomoyuki Morimae, Ramis Movassagh;;;2608.25195;;;none;;;2026-08-25;;;proofs
+Certified Randomness without Structure Against Shallow-Query Adversaries;;;Dakshita Khurana, Bhaskar Roberts, Avishay Tal;;;2608.24832;;;none;;;2026-08-25;;;security
+Obscura-PQ: Post-Quantum Privacy-Preserving Protocol for the Algorand Blockchain Using Lattice-Based Linkable Ring Signatures;;;Navid Azimi;;;2608.22645;;;none;;;2026-08-23;;;security
+On SSI-based Private Decentralized Bidding;;;Andreea Elena Drăgnoiu, Nicoleta Dumitru, Ruxandra F. Olimid;;;2608.22525;;;none;;;2026-08-23;;;proofs
+MCSI: A Masked Commutative Supersingular Isogeny Key Exchange with Blinded Ephemeral Keys;;;Furkan Cifci, Osman Emre Donder, Reyyan Cifci;;;2608.22360;;;https://github.com/FurkanCifci/mcsi-key-exchange;;;2026-08-23;;;security
+Lessons from the Hardware Hacking Competitions: Verification Techniques, Findings, and Insights;;;Sudipta Paria, Aritra Dasgupta, Raghul Saravanan, Jayanth Thangellamudi, Sai Manoj P D, Swarup Bhunia;;;2608.22202;;;none;;;2026-08-23;;;formal
+A Lightweight and Post-Quantum Secure Framework for IEC 61869-9 Sampled Value Communication;;;S. M. Suhail Hussain, Arman Ahmad, Mohammad Tayyab, Shaik Mullapathi Farooq;;;2608.22123;;;none;;;2026-08-22;;;formal,security
+Towards a Digital Twin for the Ground to QEYSSat Quantum Link;;;Henri P. N. Morin, Alex Maierean, Brendon L. Higgins, Ian DSouza, Vinodh R. R. Muthu, Thomas Jennewein;;;2608.21968;;;none;;;2026-08-22;;;security
+$Z^2$-ACT: End-to-End Verifiable Agentic Intent Control for Open 6G RAN;;;Sunder Ali Khowaja, Kapal Dev, George C. Alexandropoulos;;;2608.21049;;;none;;;2026-08-21;;;proofs
+Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning;;;Xinyun Liu, Zhi Lu, Yu Chen, Ronghua Xu;;;2608.20580;;;none;;;2026-08-20;;;proofs
+TrustRAG: Blockchain-Enhanced RAG via Committee-Based Credibility Scoring;;;Baixiang Liu, Haotian Che, Yuan Li;;;2608.20097;;;none;;;2026-08-20;;;proofs
+ShadowPath: Lookup-Private Credential Status Verification over Authenticated State;;;Patrick Herbke, Wolf Rieder, Christian René Sechting, Huaning Yang, Sid Lamichhane, Philip Raschke, Axel Küpper;;;2608.19937;;;none;;;2026-08-20;;;proofs
+Verification Meets Calibration: Bounds and Secret-Independent State Preparation with an NV-Center as a Case Study;;;Ezra Acalapati, Elham Kashefi, Cica Gustiani;;;2609.20219;;;none;;;2026-08-19;;;proofs
+The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications;;;Luis Adrián Lizama-Pérez;;;2608.19191;;;none;;;2026-08-19;;;proofs,security
+Certified but Private: Scalable Zero-Knowledge Proofs for Neural Network Guarantees;;;Youwei Zhong, Ben Merbaum, Timos Antonopoulos, Ning Luo, Charalampos Papamanthou, Katerina Sotiraki, Ruzica Piskac;;;2608.17070;;;https://github.com/youweizhong/PANDA;;;2026-08-17;;;formal,proofs
+Classical Adversarial Fault-Tolerance and PCPs;;;Anurag Anshu, Nikolas P. Breuckmann, Louis Golowich, Quynh T. Nguyen, Umesh Vazirani;;;2608.16860;;;none;;;2026-08-17;;;proofs
+Balancing Privacy and Compliance in DeFi: A Zero-Knowledge-Based Auditable Cross-Chain Framework;;;Huiheng Li, Kainuo Feng, Jiahao Ding, Ziqi Ma;;;2608.15276;;;none;;;2026-08-15;;;proofs
+Structural Leakage in Graph Encryption: Attacks and Defenses;;;Hua Shen, Renzhi Chen, Ge Wu, Willy Susilo, Jing Chen, Mingwu Zhang;;;2608.13981;;;none;;;2026-08-14;;;security
+Verified Pythagorean Composition for Adaptive Cryptographic Games: Noise Flooding in Homomorphic Encryption;;;Yi Lee, Alexandru Cojocaru, Junyi Liu, Xiaodi Wu;;;2608.13846;;;none;;;2026-08-14;;;formal,security
+CRT-Decomposed $Σ$-Protocols for CSIDH;;;I. Dey, I. Cherkaoui;;;2609.26258;;;none;;;2026-08-13;;;proofs,security
+Vaulted Passkeys: A Device-Bound Proposal for Authenticated Credential Export and Import;;;Pol Henarejos;;;2608.13806;;;none;;;2026-08-13;;;security
+Deterministic Johnson--Lindenstrauss Projections from Pisot $β$-Transformations for Zero-Knowledge Private Routing;;;I. Dey, I. Cherkaoui;;;2608.13078;;;none;;;2026-08-13;;;proofs
+Topological State-Aware Simulation Framework for Inter-Satellite Twin-Field QKD Networks;;;Sergio Vázquez-Pozo, Juan Manuel Murillo;;;2608.12659;;;none;;;2026-08-12;;;security
+Security of quantum key distribution with passive basis choice and detection-efficiency mismatch for a realistic satellite setup;;;Egor Ivchenko, Aleksandr Khmelev, Vladimir Kurochkin, Anton Trushechkin;;;2608.09793;;;none;;;2026-08-10;;;security
+Phase-error estimation for quantum key distribution with leaky receivers;;;Álvaro Navarrete, Margarida Pereira, Guillermo Currás-Lorenzo, Akihiro Mizutani, Marcos Curty, Kiyoshi Tamaki;;;2608.09674;;;none;;;2026-08-10;;;security
+Joint Lyapunov Certificates for K-Agent Generative AI Governance: Stochastic Stability, Emergent Ensemble Risk, and Zero-Knowledge Governance Attestation;;;Sriram Nagaraj;;;2608.09087;;;none;;;2026-08-10;;;proofs
+A Complexity-Theoretic Approach to Proofs of Space;;;Marshall Ball, Jiaxin Guan;;;2608.08993;;;none;;;2026-08-10;;;proofs,security
+Velosiraptor: Code Synthesis for Memory Translation;;;Reto Achermann, Em Chu, Ryan Mehri, Ilias Karimalis, Margo Seltzer;;;2608.07966;;;none;;;2026-08-08;;;formal
+Beyond the Quantum Promise: A Security Analysis of Classical Control in Quantum Key Distribution;;;Ali Hamza Malik, Raja Hasnain Anwar, Muhammad Taqi Raza;;;2608.07626;;;none;;;2026-08-07;;;formal
+Soft Redaction of Image Provenance via Zero-Knowledge Proofs;;;Muhammad Awan, John Collomosse;;;2608.07063;;;none;;;2026-08-07;;;proofs
+Tight Security for BBS Signatures;;;Rutchathon Chairattana-Apirom, Dennis Hofheinz, Stefano Tessaro;;;2608.06724;;;none;;;2026-08-07;;;security
+A Sound Translation from Tamarin to ProVerif: Enabling Comparative Analysis;;;Kevin Morio, Yavor Ivanov, Robert Künnemann;;;2608.06315;;;none;;;2026-08-06;;;formal
+Game Hopping in Lean;;;Stefan Dziembowski, Grzegorz Fabiański, Daniele Micciancio, Rafał Stefański;;;2608.06261;;;https://github.com/ravst/Hopscotch;;;2026-08-06;;;formal,security
+The Trust-Free Aggregation Layer of the Unicity Infrastructure;;;Risto Laanoja, Mike Gault, Dirk Draheim, Ahto Buldas;;;2608.05316;;;none;;;2026-08-05;;;proofs
+On Computational Hardness of Mistake-Bounded Language Generation: A Random-Oracle Query Separation;;;Xiaoyu Li, Andi Han, Dai Shi, Jiaojiao Jiang, Junbin Gao;;;2608.05029;;;none;;;2026-08-05;;;security
+UC, Categorically: Rigorous Diagrammatic Proofs;;;Pooya Farshim, Martti Karvonen, Andre Knispel, Markulf Kohlweiss, Philip Wadler;;;2608.04521;;;none;;;2026-08-05;;;formal,security
+Secure Long-Range Autonomous Valet Parking: A Reservation Scheme With Three-Factor Authentication and Key Agreement;;;Di Wang, Yue Cao, Fei Yan, Yining Liu, Daxin Tian, Yuan Zhuang;;;2608.03590;;;none;;;2026-08-04;;;formal,security
+Attribute-based Undetectable Watermarking for Generative AI Models;;;Miryam Mi-Ying Huang, Chung-Wei Lee, Max Raffel, Er-Cheng Tang;;;2608.03174;;;none;;;2026-08-04;;;security
+Internalising the Identity Primitive: Cryptographic Individuality for an Autonomous Agent on a Public Blockchain;;;Keisuke Suzuki;;;2608.02986;;;https://github.com/ksk-S/internalising-identity-2026;;;2026-08-04;;;proofs
+Privacy-Preserving AI Verification via Minimal Information Disclosure;;;Sleem Abdelghafar, Gabriel Kulp;;;2608.02774;;;none;;;2026-08-03;;;proofs
+Isabelle/STARK: A Formalization of zk-STARK in Isabelle/HOL;;;Diego Marmsoler;;;2608.01965;;;none;;;2026-08-03;;;formal,proofs,security
+Pivot: Proactive and Verifiable Threshold Oblivious Pseudorandom Functions From Isogeny Group Actions;;;Abhinav Sharma, Vikas Srivastava;;;2608.01390;;;none;;;2026-08-02;;;proofs,security
+ZK-SR117: A Chunked Zero-Knowledge Attestation Design for Aggregated Fair-Lending Metrics, with a Control Mapping toward Full SR 11-7 Coverage;;;Mohammad Nasir Uddin, Rahnuma Tabassum Orpita, Eklachur Rahman Bhuiyan, Asaduzzaman Anik;;;2608.02664;;;none;;;2026-08-01;;;proofs
+A Subsampling Theorem for Constraint Satisfaction Problems with Large Arity;;;Martino Bernasconi, Matteo Castiglioni, Andrea Celli, Gabriele Farina, Giulio Malavolta;;;2608.00203;;;none;;;2026-07-31;;;proofs
+Hollow-LLM Attack: Computationally Trivial Weights in Zero-Knowledge Verification of LLM Inference;;;Chen Gong, Beijie Liu, Mengyuan Li;;;2607.28884;;;none;;;2026-07-30;;;proofs
+Deterministic QKD source robust against side-channel attacks;;;Kiyoshi Tamaki, Marcos Curty, Akihiro Mizutani, Álvaro Navarrete;;;2607.28063;;;none;;;2026-07-30;;;security
+Flock: Fast Proving for Batch Boolean Computations;;;Benedikt Bünz, Ron D. Rothblum, William Wang;;;2607.27491;;;none;;;2026-07-29;;;proofs
+Enhancing the security of coherent one-way quantum key distribution using CHSH correlations;;;Mahdi Shaban, Farnaz Farman, Alireza Bahrampour;;;2607.26856;;;none;;;2026-07-29;;;security
+Enforcing IID structure on time-bin encoded QKD protocols via coarse-graining;;;Shlok Nahar, Shihong Pan, Norbert Lütkenhaus;;;2607.26772;;;none;;;2026-07-29;;;security
+QKD-Integrated Quantum Noise Stream Cipher: An Overview;;;Umesh Kumar Chandra, Avinash Kote, Neha Pathania, Ken Tanizawa, Fumio Futami, Prem Kumar, Sandeep Singh;;;2607.26550;;;none;;;2026-07-29;;;security
+RAGuard: A Layered Defense Framework for Retrieval-Augmented Generation Systems Against Data Poisoning;;;Pushkal Kumar, Tucker Nielson, Tanish Kolhe, Shubham Zala, Vincent Li;;;2607.26339;;;none;;;2026-07-28;;;proofs
+Foundational Refinement Proofs for EVM Bytecode, at the Price of Tokens;;;Lefteris Lazaropoulos, Zoe Paraskevopoulou;;;2607.26306;;;none;;;2026-07-28;;;formal
+ZKP Security Tools and Verification: Coverage, Effectiveness, Adoption, and Challenges;;;Arman Kolozyan, Tom Sorger, Alexander Hicks, Stefanos Chaliasos;;;2607.23752;;;none;;;2026-07-26;;;formal,proofs
+Certified in Theory, Broken in Practice: Assumption Gaps in Cryptographic Model Certification;;;Carter Luck, Olive Franzese-McLaughlin, Elisaweta Masserova, Akira Takahashi, Antigoni Polychroniadou, Nicolas Papernot;;;2607.21839;;;none;;;2026-07-23;;;proofs
+Cryptographically verifiable authorization for autonomous AI agents: a falsifiable hypothesis and proof of concept;;;M. Llambí-Morillas, D. Fernández-Fernández;;;2607.21325;;;none;;;2026-07-23;;;proofs
+Delayed Constraints in Narrowing for the Logic-Based Analyses of Real-Time Systems;;;Santiago Escobar, Raúl López-Rueda, Carlos Olarte;;;2607.21205;;;none;;;2026-07-23;;;formal
+Encoding Event-B Proof Rules in Prolog: An Interactive Sequent Prover for ProB;;;Katharina Engels, Jan Gruteser, Michael Leuschel;;;2607.21191;;;none;;;2026-07-23;;;proofs
+Discrete-modulated continuous-variable quantum key distribution with uncertainty principle;;;Jiale Mi, Yiming Bian, Song Yu, Zhengyu Li, Yichen Zhang, Hong Guo;;;2607.20840;;;none;;;2026-07-23;;;security
+Evaluating Large Language Models for Symbolic Security Protocol Analysis;;;Paolo Modesti, Syed Ahmed, Ioannis Sfyrakis, Derek Enodolomwanyi;;;2607.20712;;;none;;;2026-07-22;;;formal
+Dynamic Logic with Parallel Operator for Verifying Communication Protocols;;;Luiz C. F. Fernandez, Mario R. F. Benevides;;;2607.20180;;;none;;;2026-07-22;;;formal
+Foundations of Machine-Checked Control Theory in Lean;;;Moritz Doll, Iman Shames;;;2607.19727;;;none;;;2026-07-22;;;proofs
+Experimental quantum cryptography with single photons and imperfect devices;;;Aodhán Corrigan, Koray Kaymazlar, Zhiyao Wang, Lucas Rickert, Daniel Vajner, Martin von Helversen, Hanqing Liu, Shulun Li, Haiqiao Ni, Zhichuan Niu, Devashish Tupkary, Tobias Heindel;;;2607.19204;;;none;;;2026-07-21;;;security
+CryptanalysisBench: Can LLMs do Cryptanalysis?;;;Lukas Fluri, Avital Shafran, Nicholas Carlini, Matthew Jagielski, Milad Nasr, Orr Dunkelman, Eyal Ronen, Florian Tramèr;;;2607.18538;;;none;;;2026-07-20;;;security
+Physical Time-Lock Puzzles;;;Niloufar Sayadi, Chenglu Jin, Phuong Ha Nguyen, Zheng Yang, Marten van Dijk;;;2607.17328;;;none;;;2026-07-19;;;security
+Publicly-Verifiable Certificates for Statistical Algorithms;;;Michael Ngo, Michael P. Kim;;;2607.15528;;;none;;;2026-07-17;;;proofs
+WaveCommitments: Private and Verifiable Speech-Agent Marketplaces;;;Oguzhan Baser, Kaan Kale, Sriram Vishwanath, Sandeep Chinchali;;;2610.26867;;;none;;;2026-07-16;;;proofs
+Lattice-based extended withdrawability;;;Ramses Fernandez-Valencia;;;2607.14690;;;none;;;2026-07-16;;;security
+A proof complexity perspective on effectively zero-knowledge proofs;;;Jan Krajicek;;;2607.13540;;;none;;;2026-07-15;;;proofs
+Proof in a Bottle: Long-Lived Verifiable Secret Sharing via Pre-Quantum Commitment and Immutable Ledger Binding;;;Markus Jakobsson, Keir Finlow-Bates;;;2607.13235;;;none;;;2026-07-14;;;proofs
+$\mathrm{P}^{3}$CDA: Privacy-Preserving and Provably Secure Cross Domain Authentication Scheme for Internet of Drones;;;Chengqi Hou, Beibei Li, Ziqing Zhu, Yang You, Licheng Wang;;;2607.12288;;;none;;;2026-07-14;;;security
+Prezta: Provable Remote Execution of Zero-Trust Authorization using SNARKs;;;Zhongjing Wei, Osaid Muhammad Ameer, Nikita Borisov, Yupeng Zhang;;;2607.11466;;;none;;;2026-07-13;;;proofs
+Locality of Curve-Decoding and Improved Proximity Gaps;;;Rohan Goyal, Venkatesan Guruswami, Yihang Sun, Mary Wootters;;;2607.08516;;;none;;;2026-07-09;;;proofs
+zkComposer: Decomposing Proof Construction to Scale zkML;;;Pawan Kumar Sanjaya, Christina Giannoula, Valdy Oktavian, Mehdi Saeedi, Gabor Sines, Gururaj Saileshwar, Nandita Vijaykumar;;;2607.08095;;;none;;;2026-07-09;;;proofs
+Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain;;;Qinglin Yang, Yuan Liu, Yaoyao Zhang, Boya Wang, Zongjian You, Chunming Rong, Zhihong Tian;;;2607.07625;;;none;;;2026-07-08;;;proofs
+zk-ScalHard: Scalable and Hardware-Rooted Privacy-Preserving Authentication for Secure OTA Updates in Zonal SDVs;;;Shrikant Tangade, Bansi Pambhar, Valeria Loscri, Mauro Conti;;;2607.07371;;;https://github.com/autoMoTIVe-X/zk-ScalHard;;;2026-07-08;;;proofs
+ECO/CPO-DAG: A Contradiction-Based Accountability Layer for Adversarial Supply Chains;;;Sebastian Cochinescu;;;2607.06804;;;none;;;2026-07-07;;;proofs
+Lower Bounds for PIR with Preprocessing from Blackbox Cryptography;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2607.06451;;;none;;;2026-07-07;;;security
+Withdrawability in Fiat-Shamir with aborts constructions;;;Ramses Fernandez-Valencia;;;2607.05831;;;none;;;2026-07-07;;;security
+Verifiable blind quantum computing: Comparative analysis and design considerations for client architectures;;;Janice van Dam, Jeroen Grimbergen, Stephanie D. C. Wehner;;;2607.05650;;;none;;;2026-07-06;;;security
+One Framework for All: Cross-Modal Membership Inference for Generative Models;;;Dayong Ye, Tainqing Zhu, Kun Gao, Junhao Liu, Yichuan Chen, Shuai Zhou, Hengzhu Liu, Bo Liu, Wanlei Zhou;;;2607.04339;;;none;;;2026-07-05;;;proofs
+Limits of Uniform Certification in the Standard Turing Model -- Semantic Invariants and Admissible Methods;;;Fabio F. G. Buono;;;2607.07723;;;none;;;2026-07-04;;;formal
+Carnap Ten Years Later: Lessons Learned and Next Steps;;;Graham Leach-Krouse;;;2607.07722;;;none;;;2026-07-04;;;proofs
+How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs;;;Liyan Chen, Yael Tauman Kalai, Zoe Xi;;;2607.03561;;;none;;;2026-07-03;;;proofs
+LeanDY: Type-Based and Trace-Based Symbolic Protocol Verification in Lean;;;Simon Jeanteur, Lorenzo Veronese, Magdalena Solitro, Matteo Maffei;;;2607.03406;;;none;;;2026-07-03;;;formal,proofs
+Builder, Defender, Breaker: Measurable Independence and Bounded Autonomy When Generative Models Build, Defend and Test Software;;;Mohamed Chahine Ghanem;;;2607.03215;;;none;;;2026-07-03;;;formal
+ShannonProver: Towards Automating Formal Cryptographic Proofs;;;Yiping Ma, Yu-Lin Tsai, Mayank Rathee, Deevashwer Rathee, François Dupressoir, Pierre-Yves Strub, Raluca Ada Popa;;;2607.02847;;;none;;;2026-07-03;;;formal
+VeriChat: An Agentic Conversational AI Assistant for Hardware Security Verification;;;Dipayan Saha, Khan Thamid Hasan, Shams Tarek, Sujan Kumar Saha, Mark Tehranipoor, Farimah Farahmandi;;;2607.01668;;;none;;;2026-07-02;;;formal
+Continuous-Variable Source-Independent Quantum Random Number Generation with General POVMs;;;Hongyi Zhou, Yu Han, Qiechun Chen, Leilei Huang;;;2606.31027;;;none;;;2026-06-30;;;security
+Quantum Lazy Sampling and Path Recording for Any Group;;;Ben Foxman, Alex Lombardi, Fermi Ma, Barak Nehoran, John Wright;;;2606.30281;;;none;;;2026-06-29;;;security
+Finite-key security analysis of decoy-state QKD with source and detector imperfections;;;Xoel Sixto, Guillermo Currás-Lorenzo, Margarida Pereira, Víctor Zapatero, Álvaro Navarrete, Marcos Curty;;;2606.29943;;;none;;;2026-06-29;;;security
+Optimizing Resource Costs: A Practical Guide to Achieving Target Security in Verifiable Blind Quantum Computing;;;Janice van Dam, Michał van Hooft, Stephanie D. C. Wehner;;;2606.28139;;;none;;;2026-06-26;;;security
+zQR: A Verifiable QR-Driven zkSNARK Proof Verification Framework for Mobile Platforms;;;Goshgar Can Ismayilov;;;2606.27092;;;none;;;2026-06-25;;;proofs
+TESLA-for-5G: Broadcast Authentication for 5G Networks Using TESLA;;;Subin Song, Michael K. Reiter, Taekyoung Kwon;;;2606.26528;;;none;;;2026-06-25;;;formal
+Theory-Scale Auto-Formalization of Logics for Computer Science;;;Yuming Feng, Frederick Pu, One An, Osbert Bastani, Li Zhang, Jiani Huang, Xujie Si, Ziyang Li;;;2606.26525;;;none;;;2026-06-25;;;formal
+CrypFormBench: Benchmarking Formal Analysis Capability of Large Language Models for Cryptographic Schemes;;;Zhaoxuan Li, Qionglu Zhang, Hengyuan Liu, Xiaoyan Gu, Xianhui Lu, Hongbo Liu, Bingzheng Wang, Haihui Fan, Ziming Zhao, Rui Zhang, Li Zhou;;;2606.25561;;;none;;;2026-06-24;;;formal,security
+Sponsored Group Signature and its Application to Privacy-preserving Guest Access in Smart Environments;;;Sepideh Avizheh, Reihaneh Safavi-Naini, Shiwei Sun;;;2606.25248;;;none;;;2026-06-24;;;proofs,security
+Certification of Machine Learning Models via Directional Sharpness;;;Gefei Tan, Adria Gascon, Sarah Meiklejohn, Mariana Raykova;;;2606.25004;;;none;;;2026-06-23;;;proofs
+AutoPRAC: Automating Attack Discovery for PRAC-Based Rowhammer Defenses using Model Checkers;;;Joyce Qu, Gururaj Saileshwar;;;2606.23905;;;none;;;2026-06-22;;;formal
+Cryptographic certificates of validity for trustworthy AI;;;Murdoch J. Gabbay;;;2606.23768;;;none;;;2026-06-22;;;formal,proofs
+A quantum algorithm for one-shot signatures;;;Gopikrishnan Muraleedharan, Minh Thuy Truc Pham, Vir Pathak, Thomas Gardner, Chuanqi Zhang, Samuel Crew, Tom Hartweg, Adrian Aasen, Guido Masella, Vase Moeini, Asier Piñeiro Orioli, Hugo Perrin, Gavin K. Brennen;;;2606.23612;;;none;;;2026-06-22;;;security
+Safety in Self-Evolving LLM Agent Systems: Threats, Amplification, and Case Studies;;;Ruixiao Lin, Xinhao Deng, Qingming Li, Jianan Ma, Yunhao Feng, Yuqi Qing, Zhenyuan Li, Yechao Zhang, Shiwen Cui, Changhua Meng, Tianwei Zhang, Xingjun Ma, Qi Li, Ke Xu, Shouling Ji;;;2606.23075;;;none;;;2026-06-22;;;formal
+Semantic Non-Assembly: Privacy by Architectural Inertness Under Component Exposure;;;Sam Ryan;;;2606.22311;;;none;;;2026-06-21;;;formal
+Towards a Doubly Efficient IP=PSPACE;;;Liyan Chen, Matthew M. Hong, Yael Tauman Kalai, Zoe Xi;;;2606.21799;;;none;;;2026-06-19;;;proofs
+Privacy-Preserving Compliance on Public Ledgers via Selective Disclosure Authorization Schemes;;;Supriya Khadka, Sanchari Das;;;2606.20760;;;none;;;2026-06-18;;;proofs,security
+Effective discrete-modulated continuous variable QKD under general attacks using dimension reduction;;;Mariana Navarro, Mateus Araújo, Antonio Acín, Carlos Pascual-García;;;2606.20346;;;none;;;2026-06-18;;;security
+TrustMix: How to Mix Messages in a Mobile Ad-hoc Network;;;Yu Shen, Aiswarya Walter, Stefanie Roos;;;2606.20251;;;none;;;2026-06-18;;;security
+BARReL: a modern backend for Atelier B in Lean;;;Ghilain Bergeron, Vincent Trélat;;;2606.20121;;;none;;;2026-06-18;;;proofs
+AutoTam: Specifying Secure Protocol Implementations with Tamarin Model Generation;;;Johannes Wilson, Mikael Asplund, Niklas Johansson;;;2606.19937;;;none;;;2026-06-18;;;formal
+Fractional Verkle Trees: A Hypertree Decomposition and Verified Proof Serialization Architecture for High-Performance Blockchain State Accumulators;;;Ekleen Kaur, Everton Fraga;;;2606.17111;;;none;;;2026-06-15;;;proofs
+Censorship-Resistant Sealed-Bid Auctions on Blockchains;;;Orestis Alpos, Lioba Heimbach, Kartik Nayak, Sarisht Wadhwa;;;2606.14939;;;none;;;2026-06-12;;;proofs
+PriME-Deal: Privacy-Preserving Bilateral Data Trading with Efficient Matchmaking and Auditable Fair Exchange on Blockchain;;;Jie Zhang, Xiaohong Li, Shanshan Xu, Hanwei Wu, Ruitao Feng, Guangdong Bai;;;2606.11539;;;none;;;2026-06-10;;;proofs,security
+Proof of Source of Funds: Efficient On-chain Provenance of Cryptoassets;;;Alireza Kavousi, István András Seres, Zhipeng Wang;;;2606.10172;;;none;;;2026-06-08;;;proofs
+Probabilistically Checking Quantum Proofs, with Interaction;;;Baocheng Sun, Thomas Vidick;;;2606.09588;;;none;;;2026-06-08;;;proofs
+LPOR: A Layered Proof of Reserves Framework for Usable and Publicly Auditable Solvency Verification;;;Donggoo Kim, Rajesh Upadhayaya, Milosz Bator, Tao Le;;;2606.08211;;;none;;;2026-06-06;;;proofs
+PriSrv+: Privacy and Usability-Enhanced Wireless Service Discovery with Fast and Expressive Matchmaking Encryption;;;Yang Yang, Guomin Yang, Yingjiu Li, Pengfei Wu, Rui Shi, Minming Huang, Jian Weng, HweeHwa Pang, Robert H. Deng;;;2606.05902;;;none;;;2026-06-04;;;security
+PriSrv: Privacy-Enhanced and Highly Usable Service Discovery in Wireless Communications;;;Yang Yang, Robert H. Deng, Guomin Yang, Yingjiu Li, HweeHwa Pang, Minming Huang, Rui Shi, Jian Weng;;;2606.05821;;;none;;;2026-06-04;;;security
+GCD: Garbled, Corrected, Demonstrandum -- Fixing and Proving Go's Extended GCD Implementation;;;Linard Arquint;;;2606.05796;;;none;;;2026-06-04;;;formal
+A Modular Approach to Succinct Arguments for QMA;;;James Bartusek, Jiahui Liu, Giulio Malavolta;;;2606.10408;;;none;;;2026-06-03;;;proofs
+Formal verification of the S-two AIR;;;Jeremy Avigad, Anat Ganor, Lior Goldberg, David Levit, Ohad Nir, Yoav Seginer, Alon Titelman;;;2606.04311;;;none;;;2026-06-03;;;formal,proofs
+$π$Creds: Privately Inferred Credentials;;;Samuel Breckenridge, Dani Vilardell, Derek Leung, Andrés Fábrega, James Austgen, Farinaz Koushanfar, Ari Juels;;;2606.03771;;;none;;;2026-06-02;;;proofs
+ZK-Flex: A Flexible and Scalable Framework for Accelerating Zero-Knowledge Proofs;;;Adiwena Putra, Cuong Manh Duong, Anh Quang Pham, Joo-Young Kim;;;2606.03046;;;none;;;2026-06-02;;;proofs
+I-(OT)^2: A Client-optimal Oblivious Transfer Protocol for IoT Devices;;;Elia Onofri, Andrea Ciccotelli, Roberto Di Pietro;;;2606.02344;;;none;;;2026-06-01;;;proofs
+Optimized Point Addition Circuits for Elliptic Curve Discrete Logarithms;;;André Schrottenloher;;;2606.02235;;;none;;;2026-06-01;;;proofs
+SS-ZKR: Spatial-Semantic Zero-Knowledge Routing for Privacy-Preserving Multi-Agent Collaboration;;;Hassan Touheed;;;2606.00962;;;none;;;2026-05-31;;;proofs
+bpK#: Delegatable Pseudonyms And Their Applications to National eID Systems;;;Stephan Krenn, Doryan Lesaignoux, Sebastian Ramacher;;;2605.30212;;;none;;;2026-05-28;;;security
+A Rust-to-Lean Verification Pipeline with AI Provers: An Experience Report;;;Natalia Klaus, Juan Conejero, Palina Tolmach;;;2605.30106;;;none;;;2026-05-28;;;formal,proofs
+Chain rules for conditional entropies in quantum cryptography: limitations and improvements;;;Lewis Wooltorton, Peter Brown, Omar Fawzi;;;2605.29787;;;none;;;2026-05-28;;;security
+FIDEM: A Standard-Compliant Framework for Secure Binding of MUD Profiles to IoT Devices;;;Alessandro Lotto, Savio Sciancalepore, Alessandro Brighente, Mauro Conti;;;2605.29654;;;none;;;2026-05-28;;;formal,proofs
+Bridging Theory and Practice: An Executable Taxonomy of Security Properties for ProVerif and Tamarin;;;Leonard Tudorache, Ivan Kurtev, Mark van den Brand;;;2605.29465;;;none;;;2026-05-28;;;formal
+Provably Secure Agent Guardrail;;;Benlong Wu, Weiming Zhang, Kejiang Chen, Han Fang, Nenghai Yu;;;2605.29251;;;none;;;2026-05-28;;;formal,security
+Proof of Useful Attestation: A Consensus Primitive for Attestation-Native Chains;;;Stefan Stefanović;;;2605.25844;;;https://github.com/ligate-io/ligate-research/tree/main/prototypes/poua-sim;;;2026-05-25;;;security
+Q-LEAK: Quantum-Based LEAKage Verification for Side-Channel Countermeasures;;;Walid El Maouaki, Alberto Marchisio, Muhammad Shafique;;;2605.25728;;;none;;;2026-05-25;;;formal
+Optimal Quantum Differential Privacy via Fisher Information Spectral Analysis;;;Justice Owusu Agyemang, Jerry John Kponyo, Elliot Amponsah, Godfred Manu Addo Boakye;;;2605.24166;;;none;;;2026-05-22;;;proofs
+Less Effort, Shorter Proofs: Reinforcement Learning for Security Protocol Analysis in Tamarin;;;Matthias Cosler, Cas Cremers, Bernd Finkbeiner, Mohamed Ghanem, Niklas Medinger;;;2605.23643;;;none;;;2026-05-22;;;formal
+Formal Verification of Probing Security via Conditional Independence;;;Satoshi Kura, Katsuyuki Takashima;;;2605.23316;;;none;;;2026-05-22;;;formal
+Encrypted Neural Networks without Overflows;;;Philipp Kern, Lorenzo Rovida, Samuel Teuber, Edoardo Manino, Carsten Sinz, Alberto Leporati;;;2605.23096;;;none;;;2026-05-21;;;formal
+The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems;;;Dongxin Guo;;;2605.23024;;;none;;;2026-05-21;;;proofs
+Finding Missing Input Validation in TEEs via LLM-Assisted Symbolic Execution;;;Chengyan Ma, Jieke Shi, Ruidong Han, Ye Liu, Yuqing Niu, David Lo;;;2605.22058;;;none;;;2026-05-21;;;formal
+Auditing Apple's DifferentialPrivacy.framework: Implementation Bugs, Misconfigurations, and Practical Risks;;;Rishav Chourasia, Ergute Bao, Uzair Javaid, Xiaokui Xiao;;;2605.21378;;;none;;;2026-05-20;;;proofs
+Verifiable Provenance and Watermarking for Generative AI: An Evidentiary Framework for International Operational Law and Domestic Courts;;;Gustav Olaf Yunus Laitinen-Fredriksson Lundström-Imanov, Nurana Abdullayeva;;;2605.21002;;;none;;;2026-05-20;;;proofs
+Pramana: A Protocol-Layer Treatment of Claim Verification in Autonomous Agent Networks;;;Ravi Kiran Kadaboina;;;2605.20312;;;none;;;2026-05-19;;;formal
+Automating proof search when equality is a logical connective;;;Kaustuv Chaudhuri, Arunava Gantait, Dale Miller;;;2605.20054;;;none;;;2026-05-19;;;proofs
+A Lightweight QR-assisted Zero-knowledge Identification Protocol For Secure Authentication;;;Hüseyin Bodur;;;2605.16912;;;none;;;2026-05-16;;;proofs
+Automating Bitvector and Finite Field Equivalence Proofs in Lean;;;Elizaveta Pertseva, Valentin Robert, Clark Barrett, James Parker;;;2605.15163;;;none;;;2026-05-14;;;proofs
+On the (non-)resilience of encrypted controllers to covert attacks;;;Philipp Binfet, Janis Adamek, Moritz Schulze Darup;;;2605.14230;;;none;;;2026-05-14;;;proofs
+Numerical security analysis for practical quantum key distribution;;;Álvaro Navarrete, Guillermo Currás-Lorenzo, Margarida Pereira, Marcos Curty;;;2605.12984;;;none;;;2026-05-13;;;security
+Security of decoy-state quantum key distribution with correlated bit-and-basis encoders;;;Guillermo Currás-Lorenzo, Margarida Pereira, Alessandro Marcomini, Kiyoshi Tamaki, Marcos Curty;;;2605.11767;;;none;;;2026-05-12;;;security
+Deanonymizable Scoped Linkable Ring Signatures;;;Montassar Naghmouchi, Maryline Laurent;;;2605.11715;;;none;;;2026-05-12;;;security
+Natural Language based Specification and Verification;;;Zhaorui Li, Chengyu Song;;;2605.11315;;;none;;;2026-05-11;;;formal
+On Scalable Pseudorandom Unitaries and the Unitary Synthesis Problem;;;Zvika Brakerski, Henry Yuen;;;2605.09957;;;none;;;2026-05-11;;;security
+Multi-Prover Interactive Proof Systems with Leakage;;;Vahid R. Asadi, Atsuya Hasegawa, François Le Gall;;;2605.09872;;;none;;;2026-05-11;;;proofs
+Toward Web 4.0: Bidirectional Trust between AI Agents and Blockchain;;;Yunfeng Xia, Chao Li, Lei Li, Chenhao Zhang, Li Duan, Runhua Xu, Wei Wang;;;2605.08922;;;none;;;2026-05-09;;;formal,proofs
+CktFormalizer: Autoformalization of Natural Language into Circuit Representations;;;Jing Xiong, Qi Han, Chenchen Ding, He Xiao, Zunhai Su, Chaofan Tao, Xiachong Feng, Ngai Wong;;;2605.07782;;;none;;;2026-05-08;;;proofs
+A Syndrome--Space Approach to Proximity Gaps and Correlated Agreement for Random Linear Codes and Random Reed--Solomon Codes;;;Chen Yuan, Ruiqi Zhu;;;2605.07595;;;none;;;2026-05-08;;;proofs
+MAGIQ: A Post-Quantum Multi-Agentic AI Governance System with Provable Security;;;Sepideh Avizheh, Tushin Mallick, Alina Oprea, Cristina Nita-Rotaru, Reihaneh Safavi-Naini;;;2605.06933;;;none;;;2026-05-07;;;security
+Trust Without Trusting: A Recomputable Trust Protocol for Autonomous Agents;;;Lars Kersten Kroehl;;;2605.06738;;;none;;;2026-05-07;;;proofs
+Finite-size general security for relativistic phase shift keying via variable-length quantum key distribution;;;Carlos Pascual-García;;;2605.06249;;;none;;;2026-05-07;;;security
+Adversarial procurement in blockchains;;;Maryam Bahrani, Michael Neuder, S. Matthew Weinberg;;;2605.05559;;;none;;;2026-05-07;;;proofs
+KVerus: Scalable and Resilient Formal Verification Proof Generation for Rust Code;;;Yuwei Liu, Xinyi Wan, Yanhao Wang, Minghua Wang, Lin Huang, Tao Wei;;;2605.03822;;;none;;;2026-05-05;;;formal
+iSMC: A BDD-based Symbolic Model Checker with Interactive Certification;;;Philipp Czerner, Javier Esparza, Konrad Winslow;;;2605.03705;;;none;;;2026-05-05;;;proofs
+ZK-Value: A Practical Zero-Knowledge System for Verifiable Data Valuation;;;Zhaoyu Wang, Pingchuan Ma, Zhantong Xue, Yuguang Zhou, Qixin Zhang, Xiaoqin Zhang, Shuai Wang;;;2605.03581;;;none;;;2026-05-05;;;proofs
+SILMARILS: Information-Theoretic and Quantum-Secure Designated-Verifier Signatures;;;Hassan Khodaiemehr, Khadijeh Bagheri, Chen Feng, Dariia Porechna;;;2605.03230;;;none;;;2026-05-04;;;security
+Obscura: Privacy-Preserving Protocol for the Algorand Blockchain Using LSAG Ring Signatures;;;Navid Azimi, Seyedamin Pouriyeh;;;2605.02077;;;none;;;2026-05-03;;;proofs
+Automated Channel Fault Analysis with Tofu;;;Jacob Ginesin, Max von Hippel, Cristina Nita-Rotaru;;;2605.01721;;;none;;;2026-05-03;;;formal
+Zero-Knowledge Model Checking;;;Pascal Berrang, Mirco Giacobbe, Jacob Swales, Xiao Yang;;;2605.00487;;;none;;;2026-05-01;;;formal,proofs
+zkSBOM: Privacy-Preserving SBOM Sharing with Zero-Knowledge Sets;;;Tom Sorger, Eric Cornelissen, Aman Sharma, Javier Ron, Musard Balliu, Martin Monperrus;;;2605.00076;;;none;;;2026-04-30;;;proofs
+SecGoal: A Benchmark for Extracting Formalizable Security Goals from Protocol Documents;;;Dawei Huang, Hui Li, Bo Jia, Haonan Feng, Jingjing Guan, Yueshuang Jiao, Xiangdong Li;;;2604.27601;;;none;;;2026-04-30;;;formal
+An Effective Orchestral Approach to Satisfiability Modulo Prime Fields;;;Miguel Isabel, Enric Rodríguez-Carbonell, Clara Rodríguez-Núñez, Albert Rubio;;;2604.26709;;;none;;;2026-04-29;;;formal,proofs
+Symbolic Execution Meets Multi-LLM Orchestration: Detecting Memory Vulnerabilities in Incomplete Rust CVE Snippets;;;Zeyad Abdelrazek, Young Lee;;;2605.00034;;;https://github.com/Zeyad-Ab/Symbolic-Execution-with-Multi-LLM-Architecture-for-Rust-Security;;;2026-04-28;;;formal
+From CRUD to Autonomous Agents: Formal Validation and Zero-Trust Security for Semantic Gateways in AI-Native Enterprise Systems;;;Ignacio Peyrano;;;2604.25555;;;https://github.com/PeyranoDev/semantic-gateway-poc;;;2026-04-28;;;formal
+Making AI-Assisted Grant Evaluation Auditable without Exposing the Model;;;Kemal Bicakci;;;2604.25200;;;none;;;2026-04-28;;;proofs
+Scalable Secure Biometric Authentication without Auxiliary Identifiers;;;Alexander Bienstock, Daniel Escudero, Antigoni Polychroniadou, Zhen Zeng, Pranav Bhat, Ashok Singal, Prashant Sharma, Manuela Veloso;;;2604.25071;;;none;;;2026-04-27;;;security
+Agentic Witnessing: Pragmatic and Scalable TEE-Enabled Privacy-Preserving Auditing;;;Antony Rowstron;;;2604.24203;;;none;;;2026-04-27;;;proofs
+Proof of Execution: Runtime Verification for Governed AI Agent Actions;;;James Rhodes, George Kang;;;2607.05397;;;none;;;2026-04-26;;;proofs
+Structural Enforcement of Goal Integrity in AI Agents via Separation-of-Powers Architecture;;;Rong Xiang;;;2604.23646;;;none;;;2026-04-26;;;formal
+Time-Delayed Publicly Verifiable Quantum Computation for Classical Verifiers;;;Ameer Mohammed, Aydin Abadi, Jaffer Mahdi;;;2604.23516;;;none;;;2026-04-26;;;security
+Causality and Semantic Separation;;;Anna Zhang, Qinglan Luo, London Bielicke, Eunice Jun, Adam Chlipala;;;2604.22041;;;none;;;2026-04-23;;;formal
+Rigorous Security Proofs for Practical Quantum Key Distribution;;;Devashish Tupkary;;;2604.21791;;;none;;;2026-04-23;;;security
+Process-Mining of Hypertraces: Enabling Scalable Formal Security Verification of (Automotive) Network Architectures;;;Julius Figge, David Knuplesch, Andreas Maletti, Dragan Zuvic;;;2604.21606;;;none;;;2026-04-23;;;formal
+Provably Secure Steganography Based on List Decoding;;;Kaiyi Pang, Minhao Bai;;;2604.21394;;;none;;;2026-04-23;;;security
+Mythos and the Unverified Cage: Z3-Based Pre-Deployment Verification for Frontier-Model Sandbox Infrastructure;;;Dominik Blain;;;2604.20496;;;none;;;2026-04-22;;;formal
+Equational and Inductive Reasoning for Maude in Athena;;;Mateo Sanabria, Carlos Varela, Camilo Rocha, Nicolas Cardozo;;;2604.19475;;;none;;;2026-04-21;;;formal
+Blockchain-Driven AI-Enhanced Post-Quantum Multivariate Identity-based Signature and Privacy-Preserving Data Aggregation Scheme for Fog-enabled Flying Ad-Hoc Networks;;;Sufian Al majmaie, Ghazal Ghajari, Niraj Prasad Bhatta, Fathi Amsaad;;;2604.18819;;;none;;;2026-04-20;;;proofs
+From Finite Enumeration to Universal Proof: Ring-Theoretic Foundations for PQC Hardware Masking Verification;;;Ray Iskander, Khaled Kirah;;;2604.18717;;;none;;;2026-04-20;;;formal
+Enabling AI ASICs for Zero Knowledge Proof;;;Jianming Tong, Jingtian Dang, Simon Langowski, Tianhao Huang, Asra Ali, Jeremy Kun, Jevin Jiang, Srinivas Devadas, Tushar Krishna;;;2604.17808;;;https://github.com/EfficientPPML/MORPH;;;2026-04-20;;;proofs
+ParikkhaChain: Blockchain-Based Result Processing and Privacy-Preserving Academic Record Management for the Complete Examination Lifecycle;;;Rabib Jahin Ibn Momin, Ahmed Mahir Sultan Rumi, Rezwana Reaz;;;2604.16827;;;https://github.com/AhmedRumi/CSE6608-ParikkhaChain;;;2026-04-18;;;proofs
+Certified Program Synthesis with a Multi-Modal Verifier;;;Yueyang Feng, Dipesh Kafle, Vladimir Gladshtein, Vitaly Kurin, George Pîrlea, Qiyuan Zhao, Peter Müller, Ilya Sergey;;;2604.16584;;;none;;;2026-04-17;;;proofs
+Emulation-based System-on-Chip Security Verification: Challenges and Opportunities;;;Tanvir Rahman, Shuvagata Saha, Ahmed Y. Alhurubi, Sujan Kumar Saha, Farimah Farahmandi, Mark Tehranipoor;;;2604.15073;;;none;;;2026-04-16;;;formal
+KindHML: formal verification of smart contracts based on Hennessy-Milner logic;;;Massimo Bartoletti, Angelo Ferrando, Enrico Lipparini, Vadim Malvone;;;2604.14038;;;none;;;2026-04-15;;;formal
+Cerisier: A Program Logic for Attestation in a Capability Machine;;;June Rousseau, Denis Carnier, Thomas Van Strydonck, Steven Keuchel, Dominique Devriese, Lars Birkedal;;;2604.13638;;;none;;;2026-04-15;;;formal
+Refracted Light Interaction in Turbulent Bubbling Water (RLITBW): A Macroscopic Fluid-Optic Entropy Source;;;Nirjhar Debnath, Dwaipayan Datta, Kousik Dasgupta;;;2609.13147;;;none;;;2026-04-14;;;security
+A Relativizing MIP for BQP;;;Scott Aaronson, Anand Natarajan, Avishay Tal, Agi Villanyi;;;2604.11952;;;none;;;2026-04-13;;;proofs
+Topological Device-Independent Quantum Key Distribution Using Majorana-Based Qubits;;;Noureldin Mohamed, Saif Al-Kuwari;;;2604.11442;;;none;;;2026-04-13;;;security
+Hardware-Efficient Compound IC Protection with Lightweight Cryptography;;;Levent Aksoy, Muhammad Sohaib Munir, Sedat Akleylek;;;2604.11148;;;none;;;2026-04-13;;;security
+Differentially Private Verification of Distribution Properties;;;Elbert Du, Cynthia Dwork, Pranay Tankala, Linjun Zhang;;;2604.10819;;;none;;;2026-04-12;;;proofs
+AI Identification: An Integrated Framework for Sustainable Governance in Digital Enterprises;;;Di Kevin Gao, Jingdao Chen, Shahram Rahimi;;;2604.10473;;;none;;;2026-04-12;;;proofs
+A Deductive System for Contract Satisfaction Proofs;;;Arthur Correnson, Haoyi Zeng, Jana Hofmann;;;2604.09165;;;none;;;2026-04-10;;;formal,proofs
+Efficient Provably Secure Linguistic Steganography via Range Coding;;;Ruiyi Yan, Yugo Murawaki;;;2604.08052;;;none;;;2026-04-09;;;security
+AITH: A Post-Quantum Continuous Delegation Protocol for Human-AI Trust Establishment;;;Zhaoliang Chen;;;2604.07695;;;none;;;2026-04-09;;;formal
+A Formal Security Framework for MCP-Based AI Agents: Threat Taxonomy, Verification Models, and Defense Mechanisms;;;Nirajan Acharya, Gaurav Kumar Gupta;;;2604.05969;;;none;;;2026-04-07;;;formal
+Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code;;;Dominik Blain, Maxime Noiseux;;;2604.05292;;;none;;;2026-04-07;;;formal
+Cryptanalysis of the Legendre Pseudorandom Function over Extension Fields;;;Daksh Pandey;;;2604.04833;;;none;;;2026-04-06;;;proofs
+Fine-Tuning Integrity for Modern Neural Networks: Structured Drift Proofs via Norm, Rank, and Sparsity Certificates;;;Zhenhang Shang, Yingzhe Yu, Kani Chen;;;2604.04738;;;none;;;2026-04-06;;;proofs
+Search-Bound Proximity Proofs: Binding Encrypted Geographic Search to Zero-Knowledge Verification;;;Yoshiyuki Ootani;;;2604.03902;;;none;;;2026-04-05;;;proofs
+Context-Binding Gaps in Stateful Zero-Knowledge Proximity Proofs: Taxonomy, Separation, and Mitigation;;;Yoshiyuki Ootani;;;2604.03900;;;none;;;2026-04-05;;;proofs
+Graduated Trust Gating for IoT Location Verification: Trading Off Detection and Proof Escalation;;;Yoshiyuki Ootani;;;2604.03896;;;none;;;2026-04-04;;;proofs
+Topology-Hiding Connectivity-Assurance for QKD Inter-Networking;;;Margherita Cozzolino, Stephan Krenn, Thomas Lorünser;;;2604.01876;;;none;;;2026-04-02;;;proofs
+Topology-Hiding Path Validation for Large-Scale Quantum Key Distribution Networks;;;Stephan Krenn, Omid Mir, Thomas Lorünser, Sebastian Ramacher, Florian Wohner;;;2604.01831;;;none;;;2026-04-02;;;security
+AI-Assisted Hardware Security Verification: A Survey and AI Accelerator Case Study;;;Khan Thamid Hasan, Md Ajoad Hasan, Nashmin Alam, Md. Touhidul Islam, Upoma Das, Farimah Farahmandi;;;2604.01572;;;none;;;2026-04-02;;;formal
+Type-Checked Compliance: Deterministic Guardrails for Agentic Financial Systems Using Lean 4 Theorem Proving;;;Devakh Rashie, Veda Rashi;;;2604.01483;;;https://github.com/arkanemystic/lean-agent-protocol;;;2026-04-01;;;formal
+Detecting speculative leaks with compositional semantics;;;Xaver Fabian, Marco Guarnieri, Boris Köpf, Jose F. Morales, Marco Patrignani, Jan Reineke, Andres Sanchez;;;2603.29800;;;none;;;2026-03-31;;;formal
+CivicShield: A Cross-Domain Defense-in-Depth Framework for Securing Government-Facing AI Chatbots Against Multi-Turn Adversarial Attacks;;;KrishnaSaiReddy Patil;;;2603.29062;;;none;;;2026-03-30;;;formal
+Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations;;;Ryan Babbush, Adam Zalcman, Craig Gidney, Michael Broughton, Tanuj Khattar, Hartmut Neven, Thiago Bergamaschi, Justin Drake, Dan Boneh;;;2603.28846;;;none;;;2026-03-30;;;proofs
+VulnScout-C: A Lightweight Transformer for C Code Vulnerability Detection;;;Aymen Lassoued, Nacef Mbarek, Bechir Dardouri, Bassem Ouni, Qing Li, Fakhri Karray;;;2603.28309;;;none;;;2026-03-30;;;formal
+HFIPay: Privacy-Preserving, Cross-Chain Cryptocurrency Payments to Human-Friendly Identifiers;;;Jian Sheng Wang;;;2603.26970;;;none;;;2026-03-27;;;proofs
+Hermes Seal: Zero-Knowledge Assurance for Autonomous Vehicle Communications;;;Munawar Hasan, Apostol Vassilev, Edward Griffor, Thoshitha Gamage;;;2603.26343;;;none;;;2026-03-27;;;proofs
+Send the Key in Cleartext: Halving Key Consumption while Preserving Unconditional Security in QKD Authentication;;;Claudia De Lazzari, Francesco Stocco, Edoardo Signorini, Giacomo Fregona, Fernando Chirici, Damiano Giani, Tommaso Occhipinti, Guglielmo Morgari, Alessandro Zavatta, Davide Bacco;;;2603.25496;;;none;;;2026-03-26;;;security
+zk-X509: Privacy-Preserving On-Chain Identity from Legacy PKI via Zero-Knowledge Proofs;;;Yeongju Bak;;;2603.25190;;;none;;;2026-03-26;;;formal,proofs,security
+Efficient ML-DSA Public Key Management Method with Identity for PKI and Its Application;;;Penghui Liu, Yi Niu, Xiaoxiong Zhong, Jiahui Wu, Weizhe Zhang, Kaiping Xue, Bin Xiao;;;2603.25043;;;none;;;2026-03-26;;;security
+Infrastructure for Valuable, Tradable, and Verifiable Agent Memory;;;Mengyuan Li, Lei Gao, Haoxuan Xu, Jiate Li, Potung Yu, Lingke Cheng, Yue Zhao, Murali Annavaram;;;2603.24564;;;none;;;2026-03-25;;;proofs
+What a Mesh: Formal Security Analysis of WPA3 SAE Wireless Authentication;;;Roberto Metere, Mario Lilli, Luca Arnaboldi, Elvinia Riccobene;;;2603.23352;;;none;;;2026-03-24;;;formal,security
+PRETTINESS -- Privacy pResErving aTTrIbute maNagEment SyStem;;;Jelizaveta Vakarjuk, Alisa Pankova;;;2603.23221;;;none;;;2026-03-24;;;security
+Secure Two-Party Matrix Multiplication from Lattices and Its Application to Encrypted Control;;;Kaoru Teranishi;;;2603.22857;;;none;;;2026-03-24;;;security
+Combinatorial Privacy: Private Multi-Party Bitstream Grand Sum by Hiding in Birkhoff Polytopes;;;Praneeth Vepakomma;;;2603.22808;;;none;;;2026-03-24;;;security
+Performance of BB84 without decoy states under varying announcement structures;;;Zhiyao Wang, Aodhán Corrigan, Norbert Lütkenhaus;;;2603.22448;;;none;;;2026-03-23;;;security
+TAPAS: Efficient Two-Server Asymmetric Private Aggregation Beyond Prio(+);;;Harish Karthikeyan, Antigoni Polychroniadou;;;2603.19949;;;none;;;2026-03-20;;;proofs
+Post-Quantum Cryptography from Quantum Stabilizer Decoding;;;Jonathan Z. Lu, Alexander Poremba, Yihui Quek, Akshar Ramkumar;;;2603.19110;;;none;;;2026-03-19;;;security
+Controller Datapath Aware Verification of Masked Hardware Generated via High Level Synthesis;;;Nilotpola Sarma, Vaishali Ghanshyam Chaudhuri, Chandan Karfa;;;2603.18939;;;none;;;2026-03-19;;;formal
+NanoZK: Privacy-Preserving Verifiable Inference for Large Language Models via Layerwise Zero-Knowledge Proofs;;;Zhaohui Wang;;;2603.18046;;;none;;;2026-03-17;;;proofs
+Grant, Verify, Revoke: A User-Centric Pattern for Blockchain Compliance;;;Supriya Khadka, Sanchari Das;;;2603.15721;;;none;;;2026-03-16;;;proofs
+s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs;;;Balaji Rao, John Harrison, Soonho Kong, Juneyoung Lee, Carlo Lipizzi;;;2603.14628;;;https://github.com/kings-crown/s2n-bignum-bench;;;2026-03-15;;;formal
+Governing Dynamic Capabilities: Cryptographic Binding and Reproducibility Verification for AI Agent Tool Use;;;Ziling Zhou;;;2603.14332;;;none;;;2026-03-15;;;proofs
+Unclonable Encryption in the Haar Random Oracle Model;;;James Bartusek, Eli Goldin;;;2603.11437;;;none;;;2026-03-12;;;security
+PRoADS: Provably Secure and Robust Audio Diffusion Steganography with latent optimization and backward Euler Inversion;;;YongPeng Yan, Yanan Li, Qiyang Xiao, Yanzhen Ren;;;2603.10314;;;none;;;2026-03-11;;;security
+ACE Runtime - A ZKP-Native Blockchain Runtime with Sub-Second Cryptographic Finality;;;Jian Sheng Wang;;;2603.10242;;;none;;;2026-03-10;;;proofs
+Robust Provably Secure Image Steganography via Latent Iterative Optimization;;;Yanan Li, Zixuan Wang, Qiyang Xiao, Yanzhen Ren;;;2603.09348;;;none;;;2026-03-10;;;security
+Tool Receipts, Not Zero-Knowledge Proofs: Practical Hallucination Detection for AI Agents;;;Abhinaba Basu;;;2603.10060;;;none;;;2026-03-09;;;proofs
+Zero-knowledge and Quantum CSS Codes Are Equivalent;;;Noga Ron-Zewi, Mor Weiss;;;2603.08941;;;none;;;2026-03-09;;;proofs
+SplitAgent: A Privacy-Preserving Distributed Architecture for Enterprise-Cloud Agent Collaboration;;;Jianshu She;;;2603.08221;;;none;;;2026-03-09;;;proofs
+ACE-GF-based Attestation Relay for PQC - Lightweight Mempool Propagation Without On-Path Proofs;;;Jian Sheng Wang;;;2603.07982;;;none;;;2026-03-09;;;proofs
+ZK-ACE: Identity-Centric Zero-Knowledge Authorization for Post-Quantum Blockchain Systems;;;Jian Sheng Wang;;;2603.07974;;;none;;;2026-03-09;;;proofs
+Energy-time attack on detectors in quantum key distribution;;;Konstantin Zaitsev, Vladimir Bizin, Dmitriy Kuzmin, Vadim Makarov;;;2603.07538;;;none;;;2026-03-08;;;security
+Privacy-Preserving Patient Identity Management Framework for Secure Healthcare Access;;;Nasif Muslim, Jean-Charles Grégoire;;;2603.07001;;;none;;;2026-03-07;;;formal
+Agent Hunt: Bounty Based Collaborative Autoformalization With LLM Agents;;;Chad E. Brown, Cezary Kaliszyk, Josef Urban;;;2603.06737;;;none;;;2026-03-06;;;proofs
+Alkaid: Resilience to Edit Errors in Provably Secure Steganography via Distance-Constrained Encoding;;;Zhihan Cao, Gaolei Li, Jun Wu, Jianhua Li, Hang Zhang, Mingzhe Chen;;;2603.06169;;;none;;;2026-03-06;;;security
+A Practical Post-Quantum Distributed Ledger Protocol for Financial Institutions;;;Yeoh Wei Zhu, Naresh Goud Boddu, Yao Ma, Shaltiel Eloul, Giulio Golinelli, Yash Satsangi, Rob Otter, Kaushik Chakraborty;;;2603.05005;;;none;;;2026-03-05;;;proofs
+Zero-Knowledge Proof (ZKP) Authentication for Offline CBDC Payment System Using IoT Devices;;;Santanu Mondal, T. Chithralekha;;;2603.03804;;;none;;;2026-03-04;;;proofs
+Zero-Knowledge Federated Learning with Lattice-Based Hybrid Encryption for Quantum-Resilient Medical AI;;;Edouard Lansiaux;;;2603.03398;;;none;;;2026-03-03;;;proofs,security
+Extending the Formalism and Theoretical Foundations of Cryptography to AI;;;Federico Villa, F. Betül Durak, Tadayoshi Kohno, Tapdig Maharramli, Franziska Roesner;;;2603.02590;;;none;;;2026-03-03;;;security
+EdgePoW: Adaptive Ingress-Aware Defense with Non-Interactive PoW Against Volumetric SYN Floods;;;Wenyang Jia, Jingjing Wang, Xianneng Zou, Kai Lei;;;2603.06668;;;none;;;2026-03-02;;;proofs
+NP-Completeness and Physical Zero-Knowledge Proof of Hotaru Beam;;;Taisei Otsuji, Peter Fulla, Takuro Fukunaga;;;2603.01393;;;none;;;2026-03-02;;;proofs
+ATLAS: AI-Assisted Threat-to-Assertion Learning for System-on-Chip Security Verification;;;Ishraq Tashdid, Kimia Tasnia, Alexander Garcia, Jonathan Valamehr, Sazadur Rahman;;;2603.01170;;;none;;;2026-03-01;;;formal
+Privacy-Preserving Proof of Human Authorship via Zero-Knowledge Process Attestation;;;David Condrey;;;2603.00179;;;none;;;2026-02-26;;;formal,proofs
+IMMACULATE: A Practical LLM Auditing Framework via Verifiable Computation;;;Yanpei Guo, Wenjie Qu, Linyu Wu, Shengfang Zhai, Lionel Z. Wang, Ming Xu, Yue Liu, Binhang Yuan, Dawn Song, Jiaheng Zhang;;;2602.22700;;;https://github.com/guo-yanpei/Immaculate;;;2026-02-26;;;proofs
+Post-Quantum Sanitizable Signatures from McEliece-Based Chameleon Hashing;;;Shahzad Ahmad, Stefan Rass, Zahra Seyedi;;;2602.20657;;;none;;;2026-02-24;;;security
+Exponential Lower Bounds for 2-query Relaxed Locally Decodable Codes;;;Alexander R. Block, Jeremiah Blocki, Kuan Cheng, Elena Grigorescu, Xin Li, Yu Zheng, Minshen Zhu;;;2602.20278;;;none;;;2026-02-23;;;proofs
+Misquoted No More: Securely Extracting F* Programs with IO;;;Cezar-Constantin Andrici, Abigail Pribisova, Danel Ahman, Catalin Hritcu, Exequiel Rivas, Théo Winterhalter;;;2602.19973;;;none;;;2026-02-23;;;formal
+DSLean: A Framework for Type-Correct Interoperability Between Lean 4 and External DSLs;;;Tate Rowney, Riyaz Ahuja, Jeremy Avigad, Sean Welleck;;;2602.18657;;;https://github.com/taterowney/DSLean;;;2026-02-20;;;proofs
+Poster: Privacy-Preserving Compliance Checks on Ethereum via Selective Disclosure;;;Supriya Khadka, Dhiman Goswami, Sanchari Das;;;2602.18539;;;none;;;2026-02-20;;;proofs
+Drawing the LINE: Cryptographic Analysis and Security Improvements for the LINE E2EE Protocol;;;Benjamin Dowling, Prosanta Gope, Mehr U Nisa, Bhagya Wimalasiri;;;2602.18370;;;none;;;2026-02-20;;;security
+StableAML: Machine Learning for Behavioral Wallet Detection in Stablecoin Anti-Money Laundering on Ethereum;;;Luciano Juvinski, Haochen Li, Alessio Brini;;;2602.17842;;;none;;;2026-02-19;;;proofs
+Non-Trivial Zero-Knowledge Implies One-Way Functions;;;Suvradip Chakraborty, James Hulett, Dakshita Khurana, Kabir Tomer;;;2602.17651;;;none;;;2026-02-19;;;proofs
+Jolt Atlas: Verifiable Inference via Lookup Arguments in Zero Knowledge;;;Wyatt Benno, Alberto Centelles, Antoine Douchet, Khalil Gibran;;;2602.17452;;;none;;;2026-02-19;;;proofs
+Security of the Fischlin Transform in Quantum Random Oracle Model;;;Christian Majenz, Jaya Sharma;;;2602.17307;;;none;;;2026-02-19;;;proofs,security
+Grothendieck Topologies and Sheaf-Theoretic Foundations of Cryptographic Security: Attacker Models and $Σ$-Protocols as the First Step;;;Takao Inoué;;;2602.17301;;;none;;;2026-02-19;;;proofs,security
+Privacy-Preserving Mechanisms Enable Cheap Verifiable Inference of LLMs;;;Arka Pal, Louai Zahran, William Gvozdjak, Akilesh Potti, Micah Goldblum;;;2602.17223;;;none;;;2026-02-19;;;proofs
+push0: Scalable and Fault-Tolerant Orchestration for Zero-Knowledge Proof Generation;;;Mohsen Ahmadvand, Rok Pajnič, Ching-Lun Chiu;;;2602.16338;;;none;;;2026-02-18;;;proofs
+Quantum Oracle Distribution Switching and Applications to Falcon and Ring Signatures;;;Marvin Beckmann, Christian Majenz;;;2602.16268;;;none;;;2026-02-18;;;security
+Weak Zero-Knowledge and One-Way Functions;;;Rohit Chatterjee, Yunqi Li, Prashant Nalini Vasudevan;;;2602.16156;;;none;;;2026-02-18;;;proofs
+ZK-AMS: Credibly Anonymous Admission for Web 3.0 Platforms via Recursive Proof Aggregation;;;Zibin Lin, Taotao Wang, Shengli Zhang, Long Shi, Boris Düdder, Shui Yu;;;2602.16130;;;none;;;2026-02-18;;;proofs
+A Note on Non-Composability of Layerwise Approximate Verification for Neural Inference;;;Or Zamir;;;2602.15756;;;none;;;2026-02-17;;;proofs
+VeriSBOM: Secure and Verifiable SBOM Sharing Via Zero-Knowledge Proofs;;;Gianpietro Castiglione, Shahriar Ebrahimi, Narges Khakpour;;;2602.13682;;;none;;;2026-02-14;;;proofs
+Cryptographic Choreographies;;;Sebastian Mödersheim, Simon Lund, Alessandro Bruni, Marco Carbone, Rosario Giustolisi;;;2602.12967;;;none;;;2026-02-13;;;formal
+PAC to the Future: Zero-Knowledge Proofs of PAC Private Systems;;;Guilhem Repetto, Nojan Sheybani, Gabrielle De Micheli, Farinaz Koushanfar;;;2602.11954;;;none;;;2026-02-12;;;proofs
+Verifiable Provenance of Software Artifacts with Zero-Knowledge Compilation;;;Javier Ron, Martin Monperrus;;;2602.11887;;;none;;;2026-02-12;;;proofs
+IU-GUARD: Privacy-Preserving Spectrum Coordination for Incumbent Users under Dynamic Spectrum Sharing;;;Shaoyu Li, Hexuan Yu, Shanghao Shi, Md Mohaimin Al Barat, Yang Xiao, Y. Thomas Hou, Wenjing Lou;;;2602.11023;;;none;;;2026-02-11;;;proofs
+upTPM: Unbounded Preprocessing for Schnorr Multi-Signatures on TPM;;;Yunusa Simpa Abdulsalam, Mustapha Hedabou;;;2602.09707;;;none;;;2026-02-10;;;security
+A Behavioral Fingerprint for Large Language Models: Provenance Tracking via Refusal Vectors;;;Zhenyu Xu, Victor S. Sheng;;;2602.09434;;;none;;;2026-02-10;;;proofs
+ZK-Rollup for Hyperledger Fabric: Architecture and Performance Evaluation;;;Sania Siddiqui, Neha, Hari Babu K;;;2602.08870;;;none;;;2026-02-09;;;proofs
+The HyperFrog Cryptosystem: High-Genus Voxel Topology as a Trapdoor for Post-Quantum KEMs;;;Victor Duarte Melo;;;2603.23505;;;none;;;2026-02-06;;;security
+Practical continuous-variable quantum key distribution using dynamic digital signal processing: security proof and experimental demonstration;;;Lu Fan, Zhengyu Li, Sheng Liu, Xuesong Xu, Tianyu Zhang, Jiale Mi, Dong Wang, Dechao Zhang, Han Li, Song Yu, Yichen Zhang;;;2602.05206;;;none;;;2026-02-05;;;security
+Quantum Key Distribution with Imperfections: Recent Advances in Security Proofs;;;Patrick Andriolo, Esteban Vasquez, Elizabeth Agudelo, Max Riegler, Matej Pivoluska, Gláucia Murta;;;2602.05057;;;none;;;2026-02-04;;;security
+The Birthmark Standard: Privacy-Preserving Photo Authentication via Hardware Roots of Trust and Consortium Blockchain;;;Sam Ryan;;;2602.04933;;;none;;;2026-02-04;;;formal
+ZKBoost: Zero-Knowledge Verifiable Training for XGBoost;;;Nikolas Melissaris, Antigoni Polychroniadou, Akira Takahashi, Chenkai Weng, Jiayi Xu;;;2602.04113;;;none;;;2026-02-04;;;proofs
+Eidolon: A Post-Quantum Signature Scheme Based on k-Colorability in the Age of Graph Neural Networks;;;Asmaa Cherkaoui, Ramon Flores, Delaram Kahrobaei, Richard Wilson;;;2602.02689;;;none;;;2026-02-02;;;proofs
+On the Spectral theory of Isogeny Graphs and Quantum Sampling of Secure Supersingular Elliptic curves;;;Maher Mamah, Jake Doliskani, David Jao;;;2602.02263;;;none;;;2026-02-02;;;security
+zkCraft: Prompt-Guided LLM as a Zero-Shot Mutation Pattern Oracle for TCCT-Powered ZK Fuzzing;;;Rong Fu, Jia Yee Tan, Ziyu Kong, Shuning Zhang, Xianda Li, Kun Liu, Simon Fong;;;2602.00667;;;none;;;2026-01-31;;;formal,proofs
+Doc2Spec: Synthesizing Formal Programming Specifications from Natural Language via Grammar Induction;;;Shihao Xia, Mengting He, Haomin Jia, Xinyan Zhao, Linhai Song;;;2602.04892;;;none;;;2026-01-30;;;formal
+ZK-HybridFL: Zero-Knowledge Proof-Enhanced Hybrid Ledger for Federated Learning;;;Amirhossein Taherpour, Xiaodong Wang;;;2601.22302;;;none;;;2026-01-29;;;proofs
+Beyond the Finite Variant Property: Extending Symbolic Diffie-Hellman Group Models (Extended Version);;;Sofia Giampietro, Ralf Sasse, David Basin;;;2601.21910;;;none;;;2026-01-29;;;formal
+SecIC3: Customizing IC3 for Hardware Security Verification;;;Qinhan Tan, Akash Gaonkar, Yu-Wei Fan, Aarti Gupta, Sharad Malik;;;2601.21353;;;none;;;2026-01-29;;;formal,security
+Private Proofs of When and Where;;;Uma Girish, Greg Gluch, Shafi Goldwasser, Tal Malkin, Leo Orshansky, Henry Yuen;;;2601.18961;;;none;;;2026-01-26;;;proofs
+A rigorous and complete security proof of decoy-state BB84 quantum key distribution;;;Devashish Tupkary, Shlok Nahar, Amir Arqand, Ernest Y. -Z. Tan, Norbert Lütkenhaus;;;2601.18035;;;none;;;2026-01-25;;;security
+Information-Theoretic Secure Aggregation in Decentralized Networks;;;Xiang Zhang, Zhou Li, Shuangyang Li, Kai Wan, Derrick Wing Kwan Ng, Giuseppe Caire;;;2601.17970;;;none;;;2026-01-25;;;security
+Authentication in Security Proofs for Quantum Key Distribution;;;Devashish Tupkary, Shlok Nahar, Ernest Y. -Z. Tan;;;2601.17960;;;none;;;2026-01-25;;;security
+The Stateless Pattern: Ephemeral Coordination as the Third Pillar of Digital Sovereignty;;;Sean Carlin, Kevin Curran;;;2601.17875;;;https://github.com/scarlin90/signingroom;;;2026-01-25;;;proofs
+FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges;;;Shaoyu Li, Hexuan Yu, Md Mohaimin Al Barat, Yang Xiao, Y. Thomas Hou, Wenjing Lou;;;2601.16298;;;none;;;2026-01-22;;;proofs
+PAL*M: Property Attestation for Large Generative Models;;;Prach Chantasantitam, Adam Ilyas Caulfield, Vasisht Duddu, Lachlan J. Gunn, N. Asokan;;;2601.16199;;;none;;;2026-01-22;;;formal
+zkFinGPT: Zero-Knowledge Proofs for Financial Generative Pre-trained Transformers;;;Xiao-Yang Liu, Ningjie Li, Keyi Wang, Xiaoli Zhi, Weiqin Tong;;;2601.15716;;;none;;;2026-01-22;;;proofs
+STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model;;;Yuang Qi, Na Zhao, Qiyi Yao, Benlong Wu, Weiming Zhang, Nenghai Yu, Kejiang Chen;;;2601.14778;;;none;;;2026-01-21;;;security
+Uma Prova de Conceito para a Verificação Formal de Contratos Inteligentes;;;Murilo de Souza Neves, Adilson Luiz Bonifacio;;;2601.14427;;;none;;;2026-01-20;;;formal
+Towards Simple and Useful One-Time Programs in the Quantum Random Oracle Model;;;Lev Stambler;;;2601.13258;;;none;;;2026-01-19;;;security
+Quantum Interactive Oracle Proofs;;;Baocheng Sun, Thomas Vidick;;;2601.12874;;;none;;;2026-01-19;;;proofs
+CoSMeTIC: Zero-Knowledge Computational Sparse Merkle Trees with Inclusion-Exclusion Proofs for Clinical Research;;;Mohammad Shahid, Paritosh Ramanan, Mohammad Fili, Guiping Hu, Hillel Haim;;;2601.12136;;;none;;;2026-01-17;;;proofs
+Proving Circuit Functional Equivalence in Zero Knowledge;;;Sirui Shen, Zunchen Huang, Chenglu Jin;;;2601.11173;;;none;;;2026-01-16;;;formal,proofs
+Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing;;;Khushbakht Farooq, Muhammad Ibrahim, Irsa Manzoor, Mukhtaj Khan, Wei Song;;;2601.10105;;;none;;;2026-01-15;;;proofs
+Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Control with FPGA Prototypes;;;Gunhee Cho;;;2601.09556;;;none;;;2026-01-14;;;proofs
+Formally Verifying Noir Zero Knowledge Programs with NAVe;;;Pedro Antonino, Namrata Jain;;;2601.09372;;;none;;;2026-01-14;;;formal,proofs
+Phase-error-estimation security framework for quantum key distribution with correlated sources;;;Guillermo Currás-Lorenzo, Margarida Pereira, Kiyoshi Tamaki, Marcos Curty;;;2601.08417;;;none;;;2026-01-13;;;security
+TeeMAF: A TEE-Based Mutual Attestation Framework for On-Chain and Off-Chain Functions in Blockchain DApps;;;Xiangyu Liu, Brian Lee, Yuansong Qiao;;;2601.07726;;;none;;;2026-01-12;;;security
+Towards Automating Blockchain Consensus Verification with IsabeLLM;;;Elliot Jones, William Knottenbelt;;;2601.07654;;;none;;;2026-01-12;;;formal
+LINEture: novel signature cryptosystem;;;Gennady Khalimov, Yevgen Kotukh;;;2601.07071;;;none;;;2026-01-11;;;proofs
+zkRansomware: Proof-of-Data Recoverability and Multi-round Game Theoretic Modeling of Ransomware Decisions;;;Xinyu Hou, Yang Lu, Rabimba Karanjai, Lei Xu, Weidong Shi;;;2601.06667;;;none;;;2026-01-10;;;proofs
+Cracking IoT Security: Can LLMs Outsmart Static Analysis Tools?;;;Jason Quantrill, Noura Khajehnouri, Zihan Guo, Manar H. Alalfi;;;2601.00559;;;none;;;2026-01-02;;;formal
+Device-Native Autonomous Agents for Privacy-Preserving Negotiations;;;Joyjit Roy, Samaresh Kumar Singh;;;2601.00911;;;none;;;2026-01-01;;;proofs
+Diamond: End-to-End Forward-secure and Compact Authenticated Encryption for Internet of Things;;;Saif E. Nouma, Gokhan Mumcu, Attila A. Yavuz;;;2601.00353;;;none;;;2026-01-01;;;security

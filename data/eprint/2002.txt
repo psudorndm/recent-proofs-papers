@@ -1,0 +1,49 @@
+Security Proofs for an Efficient Password-Based Key Exchange;;;Emmanuel Bresson, Olivier Chevassut, David Pointcheval;;;2002/192;;;none;;;2002-12-19;;;security
+Parallelizable Authentication Trees;;;Eric Hall, Charanjit S. Jutla;;;2002/190;;;none;;;2002-12-17;;;security
+Entity Authentication Schemes Using Braid Word Reduction;;;Hervé SIBERT, Patrick DEHORNOY, Marc GIRAULT;;;2002/187;;;none;;;2002-12-05;;;proofs
+Zero-Knowledge twenty years after its invention;;;Oded Goldreich;;;2002/186;;;none;;;2002-12-05;;;proofs,security
+Identity Based Authenticated Key Agreement Protocols from Pairings;;;Liqun Chen, Caroline Kudla;;;2002/184;;;none;;;2002-12-01;;;security
+OMAC: One-Key CBC MAC;;;Tetsu Iwata, Kaoru Kurosawa;;;2002/180;;;none;;;2002-12-01;;;security
+A Designer's Guide to KEMs;;;Alexander W. Dent;;;2002/174;;;none;;;2002-11-13;;;formal,security
+An Analysis of RMAC;;;Jack Lloyd;;;2002/170;;;none;;;2002-11-12;;;security
+Coercion-Resistant Electronic Elections;;;Ari Juels, Dario Catalano, Markus Jakobsson;;;2002/165;;;none;;;2002-11-05;;;security
+Practical Verifiable Encryption and Decryption of Discrete Logarithms;;;Jan Camenisch, Victor Shoup;;;2002/161;;;none;;;2002-11-01;;;proofs
+Cryptanalysis of the Lee-Hwang Group-Oriented Undeniable Signature Schemes;;;Guilin Wang, Jianying Zhou, Robert H. Deng;;;2002/150;;;none;;;2002-10-01;;;proofs
+Universally Composable Two-Party and Multi-Party Secure Computation;;;Ran Canetti, Yehuda Lindell, Rafail Ostrovsky, Amit Sahai;;;2002/140;;;none;;;2002-09-13;;;security
+Provably Secure Steganography;;;Nicholas J. Hopper, John Langford, Luis von Ahn;;;2002/137;;;none;;;2002-09-12;;;security
+Folklore, Practice and Theory of Robust Combiners;;;Amir Herzberg;;;2002/135;;;none;;;2002-08-29;;;security
+Asynchronous Verifiable Secret Sharing and Proactive Cryptosystems;;;Christian Cachin, Klaus Kursawe, Anna Lysyanskaya, Reto Strobl;;;2002/134;;;none;;;2002-08-29;;;security
+Efficient Construction of (Distributed) Verifiable Random Functions;;;Yevgeniy Dodis;;;2002/133;;;none;;;2002-08-29;;;security
+OAEP++ : A Very Simple Way to Apply OAEP to Deterministic OW-CPA Primitives;;;Kazukuni Kobara, Hideki Imai;;;2002/130;;;none;;;2002-08-27;;;security
+Provably Secure Public-Key Encryption for Length-Preserving Chaumian Mixes;;;Bodo Möller;;;2002/119;;;none;;;2002-08-15;;;security
+Universal Padding Schemes for RSA;;;Jean-Sébastien Coron, Marc Joye, David Naccache, Pascal Paillier;;;2002/115;;;none;;;2002-08-12;;;security
+On the Power of Claw-Free Permutations;;;Yevgeniy Dodis, Leonid Reyzin;;;2002/103;;;none;;;2002-08-02;;;security
+Encryption-Scheme Security in the Presence of Key-Dependent Messages;;;J. Black, P. Rogaway, T. Shrimpton;;;2002/100;;;none;;;2002-07-25;;;security
+Identity-Based Signcryption;;;John Malone-Lee;;;2002/098;;;none;;;2002-07-20;;;security
+A Fuzzy Vault Scheme;;;Ari Juels, Madhu Sudan;;;2002/093;;;none;;;2002-07-15;;;security
+Efficient and Concurrent Zero-Knowledge from any public coin HVZK protocol;;;Daniele Micciancio, Erez Petrank;;;2002/090;;;none;;;2002-07-08;;;proofs,security
+Adapting the weaknesses of the Random Oracle model to the Generic Group model.;;;Alexander W. Dent;;;2002/086;;;none;;;2002-07-01;;;security
+Towards Provably-Secure Timed E-Commerce: The Trusted Delivery Layer;;;Amir Herzberg;;;2002/084;;;none;;;2002-06-28;;;formal
+A semantically secure elliptic curve RSA scheme with small expansion factor;;;David Galindo, Sebastià Mart\'ın, Paz Morillo, Jorge L. Villar;;;2002/083;;;none;;;2002-06-27;;;security
+How to repair ESIGN;;;Louis Granboulan;;;2002/074;;;none;;;2002-06-07;;;security
+A Distributed and Computationally Secure Key Distribution Scheme;;;Vanesa Daza, Javier Herranz, Carles Padró, Germán Sáez;;;2002/069;;;none;;;2002-06-03;;;proofs
+A Forward-Secure Public-Key Encryption Scheme;;;Jonathan Katz;;;2002/060;;;none;;;2002-05-24;;;security
+Universally Composable Notions of Key Exchange and Secure Channels;;;Ran Canetti, Hugo Krawczyk;;;2002/059;;;none;;;2002-05-14;;;security
+Hierarchical ID-Based Cryptography;;;Craig Gentry, Alice Silverberg;;;2002/056;;;none;;;2002-05-13;;;security
+Concurrent Zero Knowledge Proofs with Logarithmic Round-Complexity;;;Manoj Prabhakaran, Amit Sahai;;;2002/055;;;none;;;2002-05-06;;;proofs
+SiBIR: Signer-Base Intrusion-Resilient Signatures;;;Gene Itkis, Leonid Reyzin;;;2002/054;;;none;;;2002-04-30;;;security
+A Variant of the Cramer-Shoup Cryptosystem for Groups with Unknwon Order;;;Stefan Lucks;;;2002/052;;;none;;;2002-04-25;;;security
+Strict Polynomial-time in Simulation and Extraction;;;Boaz Barak, Yehuda Lindell;;;2002/043;;;none;;;2002-04-07;;;proofs
+A Unified Methodology For Constructing Public-Key Encryption Schemes Secure Against Adaptive Chosen-Ciphertext Attack;;;Edith Elkind, Amit Sahai;;;2002/042;;;none;;;2002-04-05;;;proofs,security
+An efficient semantically secure elliptic curve cryptosystem based on KMOV;;;David Galindo, Sebastià Mart\'ın, Paz Morillo, Jorge L. Villar;;;2002/037;;;none;;;2002-03-22;;;security
+Tripartite Authenticated Key Agreement Protocols from Pairings;;;Sattam S. Al-Riyami, Kenneth G. Paterson;;;2002/035;;;none;;;2002-03-20;;;security
+An OAEP Variant With a Tight Security Proof;;;Jakob Jonsson;;;2002/034;;;none;;;2002-03-18;;;security
+Efficient and Non-Malleable Proofs of Plaintext Knowledge and Applications;;;Jonathan Katz;;;2002/027;;;none;;;2002-03-04;;;proofs,security
+Generic Groups, Collision Resistance, and ECDSA;;;Daniel R. L. Brown;;;2002/026;;;none;;;2002-02-26;;;security
+From Identification to Signatures via the Fiat-Shamir Transform: Minimizing Assumptions for Security and Forward-Security;;;Michel Abdalla, Jee Hea An, Mihir Bellare, Chanathip Namprempre;;;2002/022;;;none;;;2002-02-24;;;security
+An Identity-Based Signature from Gap Diffie-Hellman Groups;;;Jae Choon Cha, Jung Hee Cheon;;;2002/018;;;none;;;2002-02-15;;;security
+Content Extraction Signatures;;;Ron Steinfeld, Laurence Bull, Yuliang Zheng;;;2002/016;;;none;;;2002-02-08;;;security
+Security proofs of cryptographic protocols;;;Eva Jencusova;;;2002/015;;;none;;;2002-02-04;;;security
+Exponent Group Signature Schemes and Efficient Identity Based Signature Schemes Based on Pairings;;;F. Hess;;;2002/012;;;none;;;2002-01-28;;;security
+Optimal Chosen-Ciphertext Secure Encryption of Arbitrary-Length Messages;;;Jean-Sebastien Coron, Helena Handschuh, Marc Joye, Pascal Paillier, David Pointcheval, Christophe Tymen;;;2002/011;;;none;;;2002-01-26;;;security
+Evaluating Security of Voting Schemes in the Universal Composability Framework;;;Jens Groth;;;2002/002;;;none;;;2002-01-04;;;security

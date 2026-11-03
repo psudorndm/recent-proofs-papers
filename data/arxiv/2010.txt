@@ -1,0 +1,31 @@
+Interactive proofs with efficient quantum prover for recursive Fourier sampling;;;Matthew McKague;;;1012.5699;;;none;;;2010-12-28;;;proofs
+Parallel Repetition of Entangled Games;;;Julia Kempe, Thomas Vidick;;;1012.4728;;;none;;;2010-12-21;;;proofs
+Quantum interactive proofs with weak error bounds;;;Tsuyoshi Ito, Hirotada Kobayashi, John Watrous;;;1012.4427;;;none;;;2010-12-20;;;proofs
+Device-independent quantum key distribution;;;Esther Hänggi;;;1012.3878;;;none;;;2010-12-17;;;security
+A Focused Sequent Calculus Framework for Proof Search in Pure Type Systems;;;Stéphane Jean Eric Lengrand, Roy Dyckhoff, James McKinna;;;1012.3372;;;none;;;2010-12-15;;;proofs
+Plug-in privacy for Smart Metering billing;;;Marek Jawurek, Martin Johns, Florian Kerschbaum;;;1012.2248;;;none;;;2010-12-10;;;proofs,security
+Initial Semantics for higher-order typed syntax in Coq;;;Benedikt Ahrens, Julianna Zsido;;;1012.1010;;;none;;;2010-12-05;;;formal
+Interactive proofs with competing teams of no-signaling provers;;;Gus Gutoski;;;1012.0821;;;none;;;2010-12-03;;;proofs
+Parallel approximation of min-max problems;;;Gus Gutoski, Xiaodi Wu;;;1011.2787;;;none;;;2010-11-11;;;proofs
+Equivalence of the Random Oracle Model and the Ideal Cipher Model, Revisited;;;Thomas Holenstein, Robin Künzler, Stefano Tessaro;;;1011.1264;;;none;;;2010-11-04;;;security
+Ciphertext Policy Attribute based Encryption with anonymous access policy;;;A. Balu, K. Kuppusamy;;;1011.0527;;;none;;;2010-11-02;;;security
+ARQ Security in Wi-Fi and RFID Networks;;;Mohamed Elsabagh, Yara Abdallah, Moustafa Youssef, Hesham El Gamal;;;1010.3294;;;none;;;2010-10-15;;;security
+Tight exponential analysis of universally composable privacy amplification and its applications;;;Masahito Hayashi;;;1010.1358;;;none;;;2010-10-07;;;security
+Secure device-independent quantum key distribution with causally independent measurement devices;;;Lluis Masanes, Stefano Pironio, Antonio Acin;;;1009.1567;;;none;;;2010-09-08;;;security
+Random Oracles in a Quantum World;;;Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner, Mark Zhandry;;;1008.0931;;;none;;;2010-08-05;;;security
+About functions where function input describes inner working of the function;;;Rade Vuckovac;;;1007.4660;;;none;;;2010-07-27;;;security
+Security of "Counterfactual Quantum Cryptography";;;Zhen-Qiang Yin, Hong-Wei Li, Zheng-Fu Han, Guang-Can Guo;;;1007.3066;;;none;;;2010-07-19;;;security
+Mean-Set Attack: Cryptanalysis of Sibert et al. Authentication Protocol;;;Natalia Mosina, Alexander Ushakov;;;1006.4850;;;none;;;2010-06-24;;;proofs
+Continuous-variable Quantum Key Distribution protocols with eight-state discrete modulation;;;A. Becir, F. A. A. El-Orany, M. R. B. Wahiddin;;;1006.4216;;;none;;;2010-06-22;;;security
+Composability in quantum cryptography;;;Joern Mueller-Quade, Renato Renner;;;1006.2215;;;none;;;2010-06-11;;;security
+Experimental demonstration of phase-remapping attack in a practical quantum key distribution system;;;Feihu Xu, Bing Qi, Hoi-Kwong Lo;;;1005.2376;;;none;;;2010-05-13;;;security
+Semi-Trusted Mixer Based Privacy Preserving Distributed Data Mining for Resource Constrained Devices;;;Md. Golam Kaosar, Xun Yi;;;1005.0940;;;none;;;2010-05-06;;;security
+YAPA: A generic tool for computing intruder knowledge;;;Mathieu Baudet, Véronique Cortier, Stéphanie Delaune;;;1005.0737;;;none;;;2010-05-05;;;formal
+Provable Secure Identity Based Generalized Signcryption Scheme;;;Gang Yu, Xiaoxiao Ma, Yong Shen, Wenbao Han;;;1004.1304;;;none;;;2010-04-08;;;security
+QMIP = MIP*;;;Anne Broadbent, Joseph Fitzsimons, Elham Kashefi;;;1004.1130;;;none;;;2010-04-07;;;proofs
+Quantum interactive proofs with short messages;;;Salman Beigi, Peter W. Shor, John Watrous;;;1004.0411;;;none;;;2010-04-03;;;proofs
+Equilibrium Value Method for the Proof of QIP=PSPACE;;;Xiaodi Wu;;;1004.0264;;;none;;;2010-04-02;;;proofs
+A PCP Characterization of AM;;;Andrew Drucker;;;1002.3664;;;none;;;2010-02-19;;;proofs
+Quantum circuit for security proof of quantum key distribution without encryption of error syndrome and noisy processing;;;Kiyoshi Tamaki, Go Kato;;;1002.3199;;;none;;;2010-02-17;;;security
+Improved code-based identification scheme;;;Pierre-Louis Cayrel, Pascal Veron;;;1001.3017;;;none;;;2010-01-18;;;proofs
+Fusion Discrete Logarithm Problems;;;Martin Schaffer, Stefan Rass;;;1001.1802;;;none;;;2010-01-12;;;security

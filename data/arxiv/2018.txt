@@ -1,0 +1,93 @@
+Refined security proof of the round-robin differential phase shift quantum key distribution and its improved performance in the finite-sized case;;;Takaya Matsuura, Toshihiko Sasaki, Masato Koashi;;;1812.10916;;;none;;;2018-12-28;;;security
+Semi-device-independent quantum money with coherent states;;;Mathieu Bozzio, Eleni Diamanti, Frédéric Grosshans;;;1812.09256;;;none;;;2018-12-21;;;security
+An identification system based on the explicit isomorphism problem;;;Sándor Z. Kiss, Péter Kutas;;;1812.09130;;;none;;;2018-12-21;;;proofs
+ARPA Whitepaper;;;Derek Zhang, Alex Su, Felix Xu, Jiang Chen;;;1812.05820;;;none;;;2018-12-14;;;proofs
+Fission: A Provably Fast, Scalable, and Secure Permissionless Blockchain;;;Ke Liang;;;1812.05032;;;none;;;2018-12-12;;;security
+LIGA: A Cryptosystem Based on the Hardness of Rank-Metric List and Interleaved Decoding;;;Julian Renner, Sven Puchinger, Antonia Wachter-Zeh;;;1812.04892;;;none;;;2018-12-12;;;security
+Continuous-variable source-device-independent quantum key distribution against general attacks;;;Yi-Chen Zhang, Ziyang Chen, Christian Weedbrook, Song Yu, Hong Guo;;;1811.11973;;;none;;;2018-11-29;;;security
+Lightweight Interactive Proving inside an Automatic Program Verifier;;;Sylvain Dailler, Claude Marché, Yannick Moy;;;1811.10814;;;none;;;2018-11-27;;;proofs
+Distributed and Secure ML with Self-tallying Multi-party Aggregation;;;Yunhui Long, Tanmay Gangwani, Haris Mughees, Carl Gunter;;;1811.10296;;;none;;;2018-11-26;;;proofs
+Anonymous Single Sign-on with Proxy Re-Verification;;;Jinguang Han, Liqun Chen, Steve Schneider, Helen Treharne, Stephan Wesemeyer, Nick Wils;;;1811.07642;;;none;;;2018-11-19;;;security
+Equilibria-based Probabilistic Model Checking for Concurrent Stochastic Games;;;Marta Kwiatkowska, Gethin Norman, David Parker, Gabriel Santos;;;1811.07145;;;none;;;2018-11-17;;;formal
+The 5G-AKA Authentication Protocol Privacy;;;Adrien Koutsos;;;1811.06922;;;none;;;2018-11-16;;;security
+Towards Safer Smart Contracts: A Sequence Learning Approach to Detecting Security Threats;;;Wesley Joon-Wie Tann, Xing Jie Han, Sourav Sen Gupta, Yew-Soon Ong;;;1811.06632;;;none;;;2018-11-16;;;formal
+It Does Not Follow. Response to "Yes They Can! ...";;;Mladen Pavicic;;;1811.06138;;;none;;;2018-11-15;;;security
+On the specification and verification of atomic swap smart contracts;;;Ron van der Meyden;;;1811.06099;;;none;;;2018-11-14;;;formal
+Blockchain-based Firmware Update Scheme Tailored for Autonomous Vehicles;;;Mohamed Baza, Mahmoud Nabil, Noureddine Lasla, Kemal Fidan, Mohamed Mahmoud, Mohamed Abdallah;;;1811.05905;;;none;;;2018-11-14;;;proofs
+Mutual Heterogeneous Signcryption Schemes for 5G Network Slicings;;;Jingwei Liu, Lihuan Zhang, Rong Sun, Xiaojiang Du, Mohsen Guizani;;;1811.03741;;;none;;;2018-11-09;;;security
+MDBV: Monitoring Data Batch Verification for Survivability of Internet of Vehicles;;;Jingwei Liu, Qingqing Li, Huijuan Cao, Rong Sun, Xiaojiang Du, Mohsen Guizani;;;1811.03730;;;none;;;2018-11-09;;;security
+EPDA: Enhancing Privacy-Preserving Data Authentication for Mobile Crowd Sensing;;;Jingwei Liu, Fanghui Cai, Longfei Wu, Rong Sun, Liehuang Zhu, Xiaojiang Du;;;1811.03725;;;none;;;2018-11-09;;;security
+YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes;;;Sourav Das, Vinay Joseph Ribeiro, Abhijeet Anand;;;1811.03265;;;none;;;2018-11-08;;;proofs
+vFAC: Fine-Grained Access Control with Versatility for Cloud Storage;;;Jingwei Liu, Huifang Tang, Chaoya Li, Rong Sun, Xiaojiang Du, Mohsen Guizani;;;1811.03243;;;none;;;2018-11-08;;;security
+An Efficient Anonymous Authentication Scheme for Internet of Vehicles;;;Jingwei Liu, Qingqing Li, Rong Sun, Xiaojiang Du, Mohsen Guizani;;;1811.03239;;;none;;;2018-11-08;;;security
+Formally Verified Hardware/Software Co-Design for Remote Attestation;;;Ivan De Oliveira Nunes, Karim Eldefrawy, Norrathep Rattanavipanon, Michael Steiner, Gene Tsudik;;;1811.00175;;;none;;;2018-11-01;;;formal
+Implementation and Security Analysis of Practical Quantum Secure Direct Communication;;;Ruoyang Qi, Zhen Sun, Zaisheng Lin, Penghao Niu, Wentao Hao, Liyuan Song, Qin Huang, Jiancun Gao, Liuguo Yin, Gui-Lu Long;;;1810.11806;;;none;;;2018-10-28;;;security
+PQC: Triple Decomposition Problem Applied To GL(d, Fp) - A Secure Framework For Canonical Non-Commutative Cryptography;;;Pedro Hecht;;;1810.08983;;;none;;;2018-10-21;;;proofs,security
+Understanding the Related-Key Security of Feistel Ciphers from a Provable Perspective;;;Chun Guo;;;1810.07428;;;none;;;2018-10-17;;;security
+Wave: A New Family of Trapdoor One-Way Preimage Sampleable Functions Based on Codes;;;Thomas Debris-Alazard, Nicolas Sendrier, Jean-Pierre Tillich;;;1810.07554;;;none;;;2018-10-16;;;security
+On the security of the hierarchical attribute based encryption scheme proposed by Wang et al;;;Mohammad Ali, Javad Mohajeri, Mohammad-Reza Sadeghi;;;1810.05864;;;none;;;2018-10-13;;;security
+Delegating Quantum Computation in the Quantum Random Oracle Model;;;Jiayu Zhang;;;1810.05234;;;none;;;2018-10-11;;;security
+Towards Quantum One-Time Memories from Stateless Hardware;;;Anne Broadbent, Sevag Gharibian, Hong-Sheng Zhou;;;1810.05226;;;none;;;2018-10-11;;;security
+Privacy in Blockchain Systems;;;Jad Wahab;;;1809.10642;;;none;;;2018-09-27;;;proofs
+Leftover hashing from quantum error correction: Unifying the two approaches to the security proof of quantum key distribution;;;Toyohiro Tsurumaru;;;1809.05479;;;none;;;2018-09-14;;;security
+Verifiable Computations with RAM-like Running Times;;;Tahsin Civan Mert Dönmez;;;1809.04174;;;none;;;2018-09-11;;;proofs
+Multi-Client Order-Revealing Encryption;;;Jieun Eom, Dong Hoon Lee, Kwangsu Lee;;;1809.01320;;;none;;;2018-09-05;;;security
+On the Composability of Statistically Secure Random Oblivious Transfer;;;Rafael Dowsley, Jörn Müller-Quade, Anderson C. A. Nascimento;;;1808.10145;;;none;;;2018-08-30;;;security
+Coded Caching in the Presence of a Wire and a Cache Tapping Adversary of Type II;;;Mohamed Nafea, Aylin Yener;;;1808.02477;;;none;;;2018-08-07;;;security
+Security Evaluation for Block Scrambling-Based Image Encryption Including JPEG Distortion against Jigsaw Puzzle Solver Attacks;;;Tatsuya Chuman, Hitoshi Kiya;;;1808.02275;;;none;;;2018-08-07;;;security
+TREVERSE: Trial-and-Error Lightweight Secure Reverse Authentication with Simulatable PUFs;;;Yansong Gao, Marten van Dijk, Lei Xu, Wei Yang, Surya Nepal, Damith C. Ranasinghe;;;1807.11046;;;none;;;2018-07-29;;;security
+Symbolic Execution for Deep Neural Networks;;;Divya Gopinath, Kaiyuan Wang, Mengshi Zhang, Corina S. Pasareanu, Sarfraz Khurshid;;;1807.10439;;;none;;;2018-07-27;;;formal
+Simple security analysis of phase-matching measurement-device-independent quantum key distribution;;;Jie Lin, Norbert Lütkenhaus;;;1807.10202;;;none;;;2018-07-26;;;security
+Raziel: Private and Verifiable Smart Contracts on Blockchains;;;David Cerezo Sánchez;;;1807.09484;;;none;;;2018-07-25;;;proofs
+Formal Verification of a Programmable Hypersurface;;;Panagiotis Kouvaros, Dimitris Kouzapas, Anna Philippou, Julius Georgiou, Loukas Petrou, Andreas Pitsillides;;;1807.09339;;;none;;;2018-07-17;;;formal
+RiffleScrambler - a memory-hard password storing function;;;Karol Gotfryd, Pawel Lorek, Filip Zagorski;;;1807.06443;;;none;;;2018-07-17;;;security
+Probabilistic verification of all languages;;;Maksims Dimitrijevs, Abuzer Yakaryılmaz;;;1807.04735;;;none;;;2018-07-12;;;proofs
+Twin-field Quantum Key Distribution without Phase Post-Selection;;;Chaohan Cui, Zhen-Qiang Yin, Rong Wang, Feng-Yu Lu, Wei Chen, Shuang Wang, Guang-Can Guo, Zheng-Fu Han;;;1807.02334;;;none;;;2018-07-06;;;security
+Composable security of two-way continuous-variable quantum key distribution without active symmetrization;;;Shouvik Ghorai, Eleni Diamanti, Anthony Leverrier;;;1806.11356;;;none;;;2018-06-29;;;security
+A Formal Analysis of 5G Authentication;;;David Basin, Jannik Dreier, Lucca Hirschi, Saša Radomirović, Ralf Sasse, Vincent Stettler;;;1806.10360;;;none;;;2018-06-27;;;formal,security
+Treo: Textual Syntax for Reo Connectors;;;Kasper Dokter, Farhad Arbab;;;1806.09852;;;none;;;2018-06-26;;;formal
+Computer-aided proofs for multiparty computation with active security;;;Helene Haagh, Aleksandr Karbyshev, Sabine Oechsner, Bas Spitters, Pierre-Yves Strub;;;1806.07197;;;none;;;2018-06-19;;;formal,security
+S-money: virtual tokens for a relativistic economy;;;Adrian Kent;;;1806.05884;;;none;;;2018-06-15;;;proofs
+Application Of McDiarmid Inequality In Finite-Key-Length Decoy-State Quantum Key Distribution;;;H. F. Chau;;;1806.05073;;;none;;;2018-06-13;;;security
+The Twin Conjugacy Search Problem and Applications;;;Xiaoming Chen, Weiqing You, Wenxi Li;;;1806.03078;;;none;;;2018-06-08;;;security
+Provably Secure Integration Cryptosystem on Non-Commutative Group;;;Xiaoming Chen, Weiqing You;;;1806.03075;;;none;;;2018-06-08;;;security
+How to Simulate It in Isabelle: Towards Formal Proof for Secure Multi-Party Computation;;;David Butler, David Aspinall, Adria Gascon;;;1805.12482;;;none;;;2018-05-31;;;formal,security
+Quantum proof systems for iterated exponential time, and beyond;;;Joseph Fitzsimons, Zhengfeng Ji, Thomas Vidick, Henry Yuen;;;1805.12166;;;none;;;2018-05-30;;;proofs
+Measurement-Device-Independent Twin-Field Quantum Key Distribution;;;Hua-Lei Yin, Yao Fu;;;1805.12004;;;none;;;2018-05-30;;;security
+Security-proof framework for two-way Gaussian quantum-key-distribution protocols;;;Quntao Zhuang, Zheshen Zhang, Norbert Lütkenhaus, Jeffrey H. Shapiro;;;1805.10314;;;none;;;2018-05-25;;;security
+Proposal for Dimensionality Testing in Quantum Private Query;;;Arpita Maitra, Bibhas Adhikari, Satyabrata Adhikari;;;1805.08172;;;none;;;2018-05-21;;;security
+Phase-Matching Quantum Key Distribution;;;Xiongfeng Ma, Pei Zeng, Hongyi Zhou;;;1805.05538;;;none;;;2018-05-15;;;security
+Incentivized Delivery Network of IoT Software Updates Based on Trustless Proof-of-Distribution;;;Oded Leiba, Yechiav Yitzchak, Ron Bitton, Asaf Nadler, Asaf Shabtai;;;1805.04282;;;none;;;2018-05-11;;;proofs
+User-defined quantum key distribution;;;Zhengyu Li, Yi-Chen Zhang, Hong Guo;;;1805.04249;;;none;;;2018-05-11;;;security
+Fine-grained Complexity Meets IP = PSPACE;;;Lijie Chen, Shafi Goldwasser, Kaifeng Lyu, Guy N. Rothblum, Aviad Rubinstein;;;1805.02351;;;none;;;2018-05-07;;;proofs
+A Note on "New techniques for noninteractive zero-knowledge";;;Zhengjun Cao, Lihua Liu;;;1805.06351;;;none;;;2018-05-04;;;proofs,security
+IBBE-SGX: Cryptographic Group Access Control using Trusted Execution Environments;;;Stefan Contiu, Rafael Pires, Sébastien Vaucher, Marcelo Pasin, Pascal Felber, Laurent Réveillère;;;1805.01563;;;none;;;2018-05-03;;;proofs
+Remote Credential Management with Mutual Attestation for Trusted Execution Environments;;;Carlton Shepherd, Raja N. Akram, Konstantinos Markantonakis;;;1804.10707;;;none;;;2018-04-27;;;formal
+Anonymous Single-Sign-On for n designated services with traceability;;;Jinguang Han, Liqun Chen, Steve Schneider, Helen Treharne, Stephan Wesemeyer;;;1804.07201;;;none;;;2018-04-19;;;security
+A simple protocol for fault tolerant verification of quantum computation;;;Alexandru Gheorghiu, Matty J. Hoban, Elham Kashefi;;;1804.06105;;;none;;;2018-04-17;;;proofs
+Assured Data Deletion with Fine-grained Access Control for Fog-based Industrial Applications;;;Yong Yu, Liang Xue, Yannan Li, Xiaojiang Du, Mohsen Guizani, Bo Yang;;;1804.02834;;;none;;;2018-04-09;;;security
+Verifier Non-Locality in Interactive Proofs;;;Claude Crépeau, Nan Yang;;;1804.02724;;;none;;;2018-04-08;;;proofs
+Two attacks on rank metric code-based schemes: RankSign and an Identity-Based-Encryption scheme;;;Thomas Debris-Alazard, Jean-Pierre Tillich;;;1804.02556;;;none;;;2018-04-07;;;security
+POKs Based Secure and Energy-Efficient Access Control for Implantable Medical Devices;;;Chenglong Fu, Xiaojiang Du, Longfei Wu, Qiang Zeng, Amr Mohamed, Mohsen Guizani;;;1803.09890;;;none;;;2018-03-27;;;security
+Finite-key security analysis for quantum key distribution with leaky sources;;;Weilong Wang, Kiyoshi Tamaki, Marcos Curty;;;1803.09508;;;none;;;2018-03-26;;;security
+Quantum key distribution with setting-choice-independently correlated light sources;;;Akihiro Mizutani, Go Kato, Koji Azuma, Marcos Curty, Rikizo Ikuta, Takashi Yamamoto, Nobuyuki Imoto, Hoi-Kwong Lo, Kiyoshi Tamaki;;;1803.09484;;;none;;;2018-03-26;;;security
+Decoy-state quantum key distribution with a leaky source;;;Kiyoshi Tamaki, Marcos Curty, Marco Lucamarini;;;1803.06045;;;none;;;2018-03-16;;;security
+An Assertion-Based Program Logic for Probabilistic Programs;;;Gilles Barthe, Thomas Espitau, Marco Gaboardi, Benjamin Grégoire, Justin Hsu, Pierre-Yves Strub;;;1803.05535;;;none;;;2018-03-14;;;formal
+Is the security of quantum cryptography guaranteed by the laws of physics?;;;Daniel J. Bernstein;;;1803.04520;;;none;;;2018-03-12;;;security
+Fair Efficiency Comparisons of Decoy-state Quantum Key Distribution Protocols;;;Hong-xin Li, Ming Gao, Xue-ping Yan, Bao Yan, Yu Han, Ling Shan, Zhi Ma;;;1803.03915;;;none;;;2018-03-11;;;security
+Quantum man-in-the-middle attack on the calibration process of quantum key distribution;;;Yang-Yang Fei, Xiang-Dong Meng, Ming Gao, Hong Wang, Zhi Ma;;;1803.04407;;;none;;;2018-03-10;;;security
+Spatial Isolation Implies Zero Knowledge Even in a Quantum World;;;Alessandro Chiesa, Michael A. Forbes, Tom Gur, Nicholas Spooner;;;1803.01519;;;none;;;2018-03-05;;;proofs
+A general formal memory framework in Coq for verifying the properties of programs based on higher-order logic theorem proving with increased automation, consistency, and reusability;;;Zheng Yang, Hang Lei;;;1803.00403;;;none;;;2018-02-23;;;formal
+BAN-GZKP: Optimal Zero Knowledge Proof based Scheme for Wireless Body Area Networks;;;Gewu Bu, Maria Potop-Butucaru;;;1802.07023;;;none;;;2018-02-20;;;proofs
+Formal Analysis of Galois Field Arithmetics - Parallel Verification and Reverse Engineering;;;Cunxi Yu, Maciej Ciesielski;;;1802.06870;;;none;;;2018-02-16;;;formal
+Zero-Knowledge Password Policy Check from Lattices;;;Khoa Nguyen, Benjamin Hong Meng Tan, Huaxiong Wang;;;1802.05004;;;none;;;2018-02-14;;;proofs
+Analysing and Patching SPEKE in ISO/IEC;;;Feng Hao, Roberto Metere, Siamak F. Shahandashti, Changyu Dong;;;1802.04900;;;none;;;2018-02-14;;;formal
+Cryptographically Secure Multi-Tenant Provisioning of FPGAs;;;Arnab Bag, Sikhar Patranabis, Debapriya Basu Roy, Debdeep Mukhopadhyay;;;1802.04136;;;none;;;2018-02-12;;;security
+Quantum Relational Hoare Logic;;;Dominique Unruh;;;1802.03188;;;none;;;2018-02-09;;;security
+Composable security analysis of continuous-variable measurement-device-independent quantum key distribution with squeezed states for coherent attacks;;;Ziyang Chen, Yi-Chen Zhang, Gan Wang, Zhengyu Li, Hong Guo;;;1802.02725;;;none;;;2018-02-08;;;security
+Oracle Separations for Quantum Statistical Zero-Knowledge;;;Sanketh Menda, John Watrous;;;1801.08967;;;none;;;2018-01-26;;;proofs
+Lattice-Based Group Signatures: Achieving Full Dynamicity (and Deniability) with Ease;;;San Ling, Khoa Nguyen, Huaxiong Wang, Yanhong Xu;;;1801.08737;;;none;;;2018-01-26;;;proofs
+Forward-Secure Group Signatures from Lattices;;;San Ling, Khoa Nguyen, Huaxiong Wang, Yanhong Xu;;;1801.08323;;;none;;;2018-01-25;;;proofs
+Post-Quantum Cryptography: Riemann Primitives and Chrysalis;;;Ian Malloy;;;1801.07702;;;none;;;2018-01-23;;;security
+Non-Locality in Interactive Proofs;;;Claude Crépeau, Nan Yang;;;1801.04598;;;none;;;2018-01-14;;;proofs
+Relational Characterisations of Paths;;;Rudolf Berghammer, Hitoshi Furusawa, Walter Guttmann, Peter Höfner;;;1801.04026;;;none;;;2018-01-12;;;proofs

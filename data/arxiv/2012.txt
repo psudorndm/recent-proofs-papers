@@ -1,0 +1,43 @@
+Interactive verification of Markov chains: Two distributed protocol case studies;;;Johannes Hölzl, Tobias Nipkow;;;1212.3870;;;none;;;2012-12-17;;;formal,proofs
+Machine Learning in Proof General: Interfacing Interfaces;;;Ekaterina Komendantskaya, Jónathan Heras, Gudmund Grov;;;1212.3618;;;none;;;2012-12-14;;;proofs
+An Information Theoretic Algorithm for Finding Periodicities in Stellar Light Curves;;;Pablo Huijse, Pablo A. Estevez, Pavlos Protopapas, Pablo Zegers, Jose C. Principe;;;1212.2398;;;none;;;2012-12-11;;;proofs
+Checking generalized debates with small space and randomness;;;H. Gökalp Demirci, A. C. Cem Say;;;1211.7346;;;none;;;2012-11-30;;;proofs
+Two-message quantum interactive proofs and the quantum separability problem;;;Patrick Hayden, Kevin Milner, Mark M. Wilde;;;1211.6120;;;none;;;2012-11-26;;;proofs
+Preserving privacy for secure and outsourcing for Linear Programming in cloud computing;;;G. Vidhisha, C. Surekha, S. Sanjeeva Rayudu, U. Seshadri;;;1211.1457;;;none;;;2012-11-07;;;security
+Device-independent quantum key distribution secure against adversaries with no long-term quantum memory;;;Stefano Pironio, Lluis Masanes, Anthony Leverrier, Antonio Acin;;;1211.1402;;;none;;;2012-11-06;;;security
+Proof Hints for Event-B;;;Thai Son Hoang;;;1211.1172;;;none;;;2012-11-06;;;proofs
+Quantum one-time programs;;;Anne Broadbent, Gus Gutoski, Douglas Stebila;;;1211.1080;;;none;;;2012-11-06;;;security
+Brandt's Fully Private Auction Protocol Revisited;;;Jannik Dreier, Jean-Guillaume Dumas, Pascal Lafourcade;;;1210.6780;;;none;;;2012-10-25;;;proofs
+Semantically Secure Lattice Codes for the Gaussian Wiretap Channel;;;Cong Ling, Laura Luzzi, Jean-Claude Belfiore, Damien Stehlé;;;1210.6673;;;none;;;2012-10-24;;;security
+On Constant-Round Concurrent Zero-Knowledge from a Knowledge Assumption;;;Divya Gupta, Amit Sahai;;;1210.3719;;;none;;;2012-10-13;;;proofs,security
+On the Foundations of Quantum Key Distribution - Reply to Renner and Beyond;;;Horace P. Yuen;;;1210.2804;;;none;;;2012-10-10;;;security
+Fully device independent quantum key distribution;;;Umesh Vazirani, Thomas Vidick;;;1210.1810;;;none;;;2012-10-05;;;security
+Stronger Methods of Making Quantum Interactive Proofs Perfectly Complete;;;Hirotada Kobayashi, François Le Gall, Harumichi Nishimura;;;1210.1290;;;none;;;2012-10-04;;;proofs
+Effects of preparation and measurement misalignments on the security of the BB84 quantum key distribution protocol;;;Erik Woodhead, Stefano Pironio;;;1209.6479;;;none;;;2012-09-28;;;security
+Probabilistic verifiers for asymmetric debates;;;H. Gökalp Demirci, A. C. Cem Say, Abuzer Yakaryılmaz;;;1209.5192;;;none;;;2012-09-24;;;proofs
+Reply to recent scepticism about the foundations of quantum cryptography;;;Renato Renner;;;1209.2423;;;none;;;2012-09-11;;;security
+Logic of Negation-Complete Interactive Proofs (Formal Theory of Epistemic Deciders);;;Simon Kramer;;;1208.5913;;;none;;;2012-08-29;;;proofs
+Logic of Non-Monotonic Interactive Proofs (Formal Theory of Temporary Knowledge Transfer);;;Simon Kramer;;;1208.1842;;;none;;;2012-08-09;;;proofs
+Security of distributed-phase-reference quantum key distribution;;;Tobias Moroder, Marcos Curty, Charles Ci Wen Lim, Le Phuc Thinh, Hugo Zbinden, Nicolas Gisin;;;1207.5544;;;none;;;2012-07-23;;;security
+Security Analysis of a Password-Based Authentication Protocol Proposed to IEEE 1363;;;Z. Zhao, Z. Dongand Yongge Wang;;;1207.5442;;;none;;;2012-07-23;;;security
+One-counter verifiers for decidable languages;;;Abuzer Yakaryilmaz;;;1207.3880;;;none;;;2012-07-17;;;proofs
+Quantum discord in quantum random access codes and its connection with dimension witness;;;Yao Yao, Hong-Wei Li, Xu-Bo Zou, Jing-Zheng Huang, Chun-Mei Zhang, Zhen-Qiang Yin, Wei Chen, Guang-Can Guo, Zheng-Fu Han;;;1207.1275;;;none;;;2012-07-05;;;security
+A multi-prover interactive proof for NEXP sound against entangled provers;;;Tsuyoshi Ito, Thomas Vidick;;;1207.0550;;;none;;;2012-07-03;;;proofs
+Security proof of the unbalanced phase-encoded BB84 protocol;;;Agnes Ferenczi, Varun Narasimhachar, Norbert Lütkenhaus;;;1206.6668;;;none;;;2012-06-28;;;security
+Wavelength attack scheme on continuous-variable quantum key distribution system using heterodyne detection protocol;;;Jing-Zheng Huang, Zhen-Qiang Yin, Shuang Wang, Hong-Wei Li, Wei Chen, Guan-Can Guo, Zheng-Fu Han;;;1206.6550;;;none;;;2012-06-28;;;security
+Analysis of Imperfections in Practical Continuous-Variable Quantum Key Distribution;;;Paul Jouguet, Sébastien Kunz-Jacques, Eleni Diamanti, Anthony Leverrier;;;1206.6357;;;none;;;2012-06-27;;;security
+Secure bit commitment from relativistic constraints;;;Jędrzej Kaniewski, Marco Tomamichel, Esther Hänggi, Stephanie Wehner;;;1206.1740;;;none;;;2012-06-08;;;security
+Weak randomness completely trounces the security of QKD;;;Jan Bouda, Matej Pivoluska, Martin Plesch, Colin Wilmott;;;1206.1287;;;none;;;2012-06-06;;;security
+Gaussian Post-selection for Continuous Variable Quantum Cryptography;;;Nathan Walk, Thomas Symul, Ping Koy Lam, Timothy C. Ralph;;;1206.0936;;;none;;;2012-06-05;;;security
+A mathematical problem for security analysis of hash functions and pseudorandom generators;;;Koji Nuida, Takuro Abe, Shizuo Kaji, Toshiaki Maeno, Yasuhide Numata;;;1206.0069;;;none;;;2012-06-01;;;security
+Virtual noiseless amplification and Gaussian post-selection in continuous-variable quantum key distribution;;;Jaromir Fiurasek, Nicolas J. Cerf;;;1205.6933;;;none;;;2012-05-31;;;security
+Turing-equivalent automata using a fixed-size quantum memory;;;Abuzer Yakaryilmaz;;;1205.5395;;;none;;;2012-05-24;;;proofs
+Unconditionally verifiable blind computation;;;Joseph F. Fitzsimons, Elham Kashefi;;;1203.5217;;;none;;;2012-03-23;;;proofs
+Parallel Repetition of Prover-Verifier Quantum Interactions;;;Abel Molina;;;1203.4885;;;none;;;2012-03-22;;;proofs
+Quantum Money from Hidden Subspaces;;;Scott Aaronson, Paul Christiano;;;1203.4740;;;none;;;2012-03-21;;;security
+A New Look at Composition of Authenticated Byzantine Generals;;;Anuj Gupta, Prasant Gopal, Piyush Bansal, Kannan Srinathan;;;1203.1463;;;none;;;2012-03-07;;;security
+A New Approach to Practical Active-Secure Two-Party Computation;;;Jesper Buus Nielsen, Peter Sebastian Nordholt, Claudio Orlandi, Sai Sheshank Burra;;;1202.3052;;;none;;;2012-02-14;;;security
+Verifiable Computation with Massively Parallel Interactive Proofs;;;Justin Thaler, Mike Roberts, Michael Mitzenmacher, Hanspeter Pfister;;;1202.1350;;;none;;;2012-02-07;;;proofs
+Cryptographic Path Hardening: Hiding Vulnerabilities in Software through Cryptography;;;Vijay Ganesh, Michael Carbin, Martin Rinard;;;1202.0359;;;none;;;2012-02-02;;;security
+A Logic of Interactive Proofs (Formal Theory of Knowledge Transfer);;;Simon Kramer;;;1201.3667;;;none;;;2012-01-17;;;proofs
+On the security of an enhanced short signature scheme;;;Miaomiao Tian, Liusheng Huang, Wei Yang;;;1201.2504;;;none;;;2012-01-12;;;security

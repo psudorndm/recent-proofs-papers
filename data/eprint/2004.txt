@@ -1,0 +1,105 @@
+Delegateable Signature Using Witness Indistinguishable and Witness Hiding Proofs;;;Chunming Tang, Dingyi Pei, Zhuojun Liu;;;2004/373;;;none;;;2004-12-29;;;proofs
+A new security proof for Damgård's ElGamal;;;Kristian Gjøsteen;;;2004/362;;;none;;;2004-12-20;;;security
+On Session Identifiers in Provably Secure Protocols: The Bellare-Rogaway Three-Party Key Distribution Protocol Revisited;;;Kim-Kwang Raymond Choo, Colin Boyd, Yvonne Hitchcock, Greg Maitland;;;2004/345;;;none;;;2004-12-11;;;security
+Revisit Of McCullagh--Barreto Two-Party ID-Based Authenticated Key Agreement Protocols;;;Kim-Kwang Raymond Choo;;;2004/343;;;none;;;2004-12-07;;;security
+Reducing Complexity Assumptions for Statistically-Hiding Commitment;;;Omer Horvitz, Jonathan Katz, Chiu-Yuen Koo, Ruggero Morselli;;;2004/341;;;none;;;2004-12-07;;;proofs
+Identity-Based Hierarchical Strongly Key-Insulated Encryption and Its Application;;;Yumiko Hanaoka, Goichiro Hanaoka, Junji Shikata, Hideki Imai;;;2004/338;;;none;;;2004-12-02;;;security
+Statistical Zero-Knowledge Arguments for NP Using Approximable-Preimage-Size One-Way Functions;;;Haitner Iftach, Shaltiel Ronen;;;2004/335;;;none;;;2004-12-02;;;proofs
+Universally Composable Symbolic Analysis of Cryptographic Protocols (The case of encryption-based mutual authentication and key exchange);;;Ran Canetti, Jonathan Herzog;;;2004/334;;;none;;;2004-12-02;;;formal,security
+Sequences of games: a tool for taming complexity in security proofs;;;Victor Shoup;;;2004/332;;;none;;;2004-11-30;;;security
+Efficient Identity Based Ring Signature;;;Sherman S. M. Chow, S. M. Yiu, Lucas C. K. Hui;;;2004/327;;;none;;;2004-11-26;;;security
+Badger - A Fast and Provably Secure MAC;;;Martin Boesgaard, Ove Scavenius, Thomas Pedersen, Thomas Christensen, Erik Zenner;;;2004/319;;;none;;;2004-11-24;;;security
+Security Arguments for Partial Delegation with Warrant Proxy Signature Schemes;;;Qin Wang, Zhenfu Cao;;;2004/315;;;none;;;2004-11-17;;;security
+Hierarchical Group Signatures;;;Marten Trolin, Douglas Wikstrom;;;2004/311;;;none;;;2004-11-16;;;security
+A Verifiable Random Function With Short Proofs and Keys;;;Yevgeniy Dodis, Aleksandr Yampolskiy;;;2004/310;;;none;;;2004-11-16;;;security
+The Power of Verification Queries in Message Authentication and Authenticated Encryption;;;Mihir Bellare, Oded Goldreich, Anton Mityagin;;;2004/309;;;none;;;2004-11-16;;;security
+Relating Symbolic and Cryptographic Secrecy;;;Michael Backes, Birgit Pfitzmann;;;2004/300;;;none;;;2004-11-12;;;formal
+Designs of Efficient Secure Large Hash Values;;;Mridul Nandi;;;2004/296;;;none;;;2004-11-12;;;security
+An Access Control Scheme for Partially Ordered Set Hierarchy with Provable Security;;;Jiang Wu, Ruizhong Wei;;;2004/295;;;none;;;2004-11-12;;;security
+Provably Secure Authentication of Digital Media Through Invertible Watermarks;;;Jana Dittmann, Stefan Katzenbeisser, Christian Schallhart, Helmut Veith;;;2004/293;;;none;;;2004-11-12;;;security
+Asynchronous Proactive RSA;;;Ruishan Zhang, Kefei Chen;;;2004/292;;;none;;;2004-11-12;;;security
+The Security of the FDH Variant of Chaum's Undeniable Signature Scheme;;;Wakaha Ogata, Kaoru Kurosawa, Swee-Huay Heng;;;2004/290;;;none;;;2004-11-05;;;proofs
+Generalized compact knapsacks, cyclic lattices, and efficient one-way functions from worst-case complexity assumptions;;;Daniele Micciancio;;;2004/286;;;none;;;2004-11-03;;;security
+Universal Forgeability of a Forward-Secure Blind Signature Scheme Proposed by Duc et al.;;;Lihua Liu, Zhengjun Cao;;;2004/262;;;none;;;2004-10-14;;;security
+Improved Efficiency for CCA-Secure Cryptosystems Built Using Identity-Based Encryption;;;Dan Boneh, Jonathan Katz;;;2004/261;;;none;;;2004-10-14;;;security
+Escrow-Free Encryption Supporting Cryptographic Workflow;;;S. S. Al-Riyami, J. Malone-Lee, N. P. Smart;;;2004/258;;;none;;;2004-10-08;;;security
+Security Proofs for Identity-Based Identification and Signature Schemes;;;Mihir Bellare, Chanathip Namprempre, Gregory Neven;;;2004/252;;;none;;;2004-09-29;;;security
+Identity Based Threshold Proxy Signature;;;Jing Xu, Zhenfeng Zhang, Dengguo Feng;;;2004/250;;;none;;;2004-09-27;;;security
+Password-Based Authenticated Key Exchange in the Three-Party Setting;;;Michel Abdalla, Pierre-Alain Fouque, David Pointcheval;;;2004/233;;;none;;;2004-09-13;;;security
+Timed-Release and Key-Insulated Public Key Encryption;;;Jung Hee Cheon, Nicholas Hopper, Yongdae Kim, Ivan Osipkov;;;2004/231;;;none;;;2004-09-10;;;security
+A Provable Secure Scheme for Partially Blind Signatures;;;Fuw-Yi Yang, Jinn-Ke Jan;;;2004/230;;;none;;;2004-09-09;;;security
+Lower Bounds for Non-Black-Box Zero Knowledge;;;Boaz Barak, Yehuda Lindell, Salil Vadhan;;;2004/226;;;none;;;2004-09-09;;;formal,proofs
+The Polynomial Composition Problem in (Z/nZ)[X];;;Marc Joye, David Naccache, Stephanie Porte;;;2004/224;;;none;;;2004-09-05;;;proofs
+Towards Plaintext-Aware Public-Key Encryption without Random Oracles;;;Mihir Bellare, Adriana Palacio;;;2004/221;;;none;;;2004-09-02;;;security
+Plaintext-Simulatability;;;Eiichiro Fujisaki;;;2004/218;;;none;;;2004-09-01;;;security
+Transitive Signatures: New Schemes and Proofs;;;Mihir Bellare, Gregory Neven;;;2004/215;;;none;;;2004-08-31;;;security
+ID-Based Encryption for Complex Hierarchies with Applications to Forward Security and Broadcast Encryption;;;Danfeng Yao, Nelly Fazio, Yevgeniy Dodis, Anna Lysyanskaya;;;2004/212;;;none;;;2004-08-26;;;security
+Hybrid Cryptography;;;Alexander W. Dent;;;2004/210;;;none;;;2004-08-26;;;security
+ID-Based Proxy Signature Using Bilinear Pairings;;;Jing Xu, Zhenfeng Zhang, Dengguo Feng;;;2004/206;;;none;;;2004-08-21;;;security
+Direct Anonymous Attestation;;;Ernie Brickell, Jan Camenisch, Liqun Chen;;;2004/205;;;none;;;2004-08-21;;;security
+Authenticated tree parity machine key exchange;;;Markus Volkmer, Andre Schaumburg;;;2004/204;;;none;;;2004-08-21;;;proofs
+Non-Interactive and Information-Theoretic Secure Publicly Verifiable Secret Sharing;;;Chunming Tang, Dingyi Pei, Zhuojun Liu, Yong He;;;2004/201;;;none;;;2004-08-17;;;proofs
+Password Based Key Exchange with Mutual Authentication;;;Shaoquan Jiang, Guang Gong;;;2004/196;;;none;;;2004-08-12;;;security
+A Note on An Encryption Scheme of Kurosawa and Desmedt;;;Rosario Gennaro, Victor Shoup;;;2004/194;;;none;;;2004-08-10;;;security
+The Security and Performance of the Galois/Counter Mode of Operation (Full Version);;;David A. McGrew, John Viega;;;2004/193;;;none;;;2004-08-10;;;security
+A New Forward Secure Signature Scheme;;;Bo Gyeong Kang, Je Hong Park, Sang Geun Hahn;;;2004/183;;;none;;;2004-08-07;;;security
+Simpler Session-Key Generation from Short Random Passwords;;;Minh-Huyen Nguyen, Salil Vadhan;;;2004/182;;;none;;;2004-08-07;;;security
+On the Composition of Authenticated Byzantine Agreement;;;Yehuda Lindell, Anna Lysyanskaya, Tal Rabin;;;2004/181;;;none;;;2004-08-07;;;security
+Identity Based Threshold Ring Signature;;;Sherman S. M. Chow, Lucas C. K. Hui, S. M. Yiu;;;2004/179;;;none;;;2004-07-26;;;security
+A Proof of Yao's Protocol for Secure Two-Party Computation;;;Yehuda Lindell, Benny Pinkas;;;2004/175;;;none;;;2004-07-23;;;security
+Short Group Signatures;;;Dan Boneh, Xavier Boyen, Hovav Shacham;;;2004/174;;;none;;;2004-07-21;;;security
+Secure Identity Based Encryption Without Random Oracles;;;Dan Boneh, Xavier Boyen;;;2004/173;;;none;;;2004-07-21;;;security
+Efficient Selective-ID Secure Identity Based Encryption Without Random Oracles;;;Dan Boneh, Xavier Boyen;;;2004/172;;;none;;;2004-07-21;;;security
+Efficient Consistency Proofs for Generalized Queries on a Committed Database;;;Rafail Ostrovsky, Charles Rackoff, Adam Smith;;;2004/170;;;none;;;2004-07-20;;;proofs
+FRMAC, a Fast Randomized Message Authentication Code;;;Eliane Jaulmes, Reynald Lercier;;;2004/166;;;none;;;2004-07-14;;;security
+ID-based Cryptography from Composite Degree Residuosity;;;Man Ho Au, Victor K. Wei;;;2004/164;;;none;;;2004-07-14;;;security
+Provably Secure On-demand Source Routing in Mobile Ad Hoc Networks;;;Gergely Acs, Levente Buttyan, Istvan Vajda;;;2004/159;;;none;;;2004-07-09;;;security
+Another Look at ``Provable Security'';;;Neal Koblitz, Alfred Menezes;;;2004/152;;;none;;;2004-07-07;;;formal,security
+An Authenticated Certificateless Public Key Encryption Scheme;;;Young-Ran Lee, Hyang-Sook Lee;;;2004/150;;;none;;;2004-07-07;;;security
+Provably Secure Delegation-by-Certification Proxy Signature Schemes;;;Zuowen Tan, Zhuojun Liu;;;2004/148;;;none;;;2004-07-07;;;security
+Short Signatures, Provable Security, Generic Attacks and Computational Security of Multivariate Polynomial Schemes such as HFE, Quartz and Sflash;;;Nicolas T. Courtois;;;2004/143;;;none;;;2004-06-18;;;security
+New Notions of Security: Achieving Universal Composability without Trusted Setup;;;Manoj Prabhakaran, Amit Sahai;;;2004/139;;;none;;;2004-06-16;;;security
+How to Disembed a Program?;;;Benoit Chevallier-Mames, David Naccache, Pascal Paillier, David Pointcheval;;;2004/138;;;none;;;2004-06-16;;;security
+A New ID-based Signature with Batch Verification;;;Jung Hee Cheon, Yongdae Kim, Hyo Jin Yoon;;;2004/131;;;none;;;2004-06-03;;;security
+Elastic Block Ciphers;;;Debra L. Cook, Moti Yung, Angelos D. Keromytis;;;2004/128;;;none;;;2004-06-03;;;security
+Universally Composable DKG with Linear Number of Exponentiations;;;Douglas Wikström;;;2004/124;;;none;;;2004-05-26;;;security
+Fast and Proven Secure Blind Identity-Based Signcryption from Pairings;;;Tsz Hon Yuen, Victor K. Wei;;;2004/121;;;none;;;2004-05-26;;;security
+Security of Symmetric Encryption Schemes with One-Way IND-CNA Key Setup;;;Bartosz Zoltak;;;2004/120;;;none;;;2004-05-26;;;security
+Adaptively Secure Feldman VSS and Applications to Universally-Composable Threshold Cryptography;;;Masayuki Abe, Serge Fehr;;;2004/119;;;none;;;2004-05-26;;;proofs
+On the Limitations of Universally Composable Two-Party Computation Without Set-up Assumptions;;;Ran Canetti, Eyal Kushilevitz, Yehuda Lindell;;;2004/116;;;none;;;2004-05-17;;;security
+Provably-Secure and Communication-Efficient Scheme for Dynamic Group Key Exchange;;;Junghyun Nam, Sungduk Kim, Seungjoo Kim, Dongho Won;;;2004/115;;;none;;;2004-05-17;;;security
+Improved Identity-Based Signcryption;;;Liqun Chen, John Malone-Lee;;;2004/114;;;none;;;2004-05-17;;;security
+Two Improved Partially Blind Signature Schemes from Bilinear Pairings;;;Sherman S. M. Chow, Lucas C. K. Hui, S. M. Yiu, K. P. Chow;;;2004/108;;;none;;;2004-05-07;;;security
+Efficient and Provably Secure Trapdoor-free Group Signature Schemes from Bilinear Pairings;;;Lan Nguyen, Rei Safavi-Naini;;;2004/104;;;none;;;2004-05-07;;;security
+The Exact Security of an Identity Based Signature and its Applications;;;Benoît Libert, Jean-Jacques Quisquater;;;2004/102;;;none;;;2004-05-07;;;security
+Provably Secure Masking of AES;;;Johannes Blömer, Jorge Guajardo Merchan, Volker Krummel;;;2004/101;;;none;;;2004-05-07;;;security
+A Provably Secure Nyberg-Rueppel Signature Variant with Applications;;;Giuseppe Ateniese, Breno de Medeiros;;;2004/093;;;none;;;2004-04-17;;;security
+Provably Secure Authenticated Tree Based Group Key Agreement Protocol;;;Ratna Dutta, Rana Barua, Palash Sarkar;;;2004/090;;;none;;;2004-04-13;;;security
+Evaluating elliptic curve based KEMs in the light of pairings;;;David Galindo, Sebastia Martin, Jorge L. Villar;;;2004/084;;;none;;;2004-03-28;;;security
+The Reactive Simulatability (RSIM) Framework for Asynchronous Systems;;;Michael Backes, Birgit Pfitzmann, Michael Waidner;;;2004/082;;;none;;;2004-03-16;;;formal
+Group Signatures: Provable Security, Efficient Constructions and Anonymity from Trapdoor-Holders;;;Aggelos Kiayias, Moti Yung;;;2004/076;;;none;;;2004-03-12;;;security
+Completion of Computation of Improved Upper Bound on the Maximum Average Linear Hull Probabilty for Rijndael;;;Liam Keliher, Henk Meijer, Stafford Tavares;;;2004/074;;;none;;;2004-03-04;;;security
+Pairing-Based Cryptographic Protocols : A Survey;;;Ratna Dutta, Rana Barua, Palash Sarkar;;;2004/064;;;none;;;2004-02-26;;;security
+An Oblivious Transfer Protocol with Log-Squared Communication;;;Helger Lipmaa;;;2004/063;;;none;;;2004-02-26;;;security
+On the Impossibility of Highly-Efficient Blockcipher-Based Hash Functions;;;John Black, Martin Cochran, Thomas Shrimpton;;;2004/062;;;none;;;2004-02-26;;;security
+Positive Results and Techniques for Obfuscation;;;Benjamin Lynn, Manoj Prabhakaran, Amit Sahai;;;2004/060;;;none;;;2004-02-26;;;security
+Symmetric Encryption in a Simulatable Dolev-Yao Style Cryptographic Library;;;Michael Backes, Birgit Pfitzmann;;;2004/059;;;none;;;2004-02-23;;;formal,security
+Efficient and Universally Composable Committed Oblivious Transfer and Applications;;;Juan Garay, Philip MacKenzie, Ke Yang;;;2004/053;;;none;;;2004-02-22;;;security
+The Hierarchy of Key Evolving Signatures and a Characterization of Proxy Signatures;;;Tal Malkin, Satoshi Obana, Moti Yung;;;2004/052;;;none;;;2004-02-21;;;security
+On a zero-knowledge property of arguments of knowledge based on secure public key encryption schemes;;;Yodai Watanabe;;;2004/047;;;none;;;2004-02-21;;;proofs,security
+A Bilinear Spontaneous Anonymous Threshold Signature for Ad Hoc Groups;;;Victor K. Wei;;;2004/039;;;none;;;2004-02-16;;;security
+A Provably Secure Scheme for Restrictive Partially Blind Signatures;;;Fuw-Yi Yang, Jinn-Ke Jan;;;2004/037;;;none;;;2004-02-16;;;security
+Single Database Private Information Retrieval with Logarithmic Communication;;;Yan-Cheng Chang;;;2004/036;;;none;;;2004-02-16;;;security
+Cryptographic Hash-Function Basics: Definitions, Implications and Separations for Preimage Resistance, Second-Preimage Resistance, and Collision Resistance;;;Phillip Rogaway, Thomas Shrimpton;;;2004/035;;;none;;;2004-02-16;;;security
+New Approaches to Password Authenticated Key Exchange based on RSA;;;Muxiang Zhang;;;2004/033;;;none;;;2004-02-05;;;security
+Custodian-Hiding Verifiable Encryption;;;Joseph K. Liu, Victor K. Wei, Duncan S. Wong;;;2004/028;;;none;;;2004-02-02;;;security
+Linkable Spontaneous Anonymous Group Signature for Ad Hoc Groups;;;Joseph K. Liu, Victor K. Wei, Duncan S. Wong;;;2004/027;;;none;;;2004-02-02;;;security
+Optimal Signcryption from Any Trapdoor Permutation;;;Yevgeniy Dodis, Michael J. Freedman, Stanislaw Jarecki, Shabsi Walfish;;;2004/020;;;none;;;2004-02-01;;;security
+New Security Proofs for the 3GPP Confidentiality and Integrity Algorithms;;;Tetsu Iwata, Tadayoshi Kohno;;;2004/019;;;none;;;2004-02-01;;;security
+Cryptanalysis of a Provably Secure Cryptographic Hash Function;;;Jean-Sebastien Coron, Antoine Joux;;;2004/013;;;none;;;2004-01-24;;;security
+The Knowledge-of-Exponent Assumptions and 3-Round Zero-Knowledge Protocols;;;Mihir Bellare, Adriana Palacio;;;2004/008;;;none;;;2004-01-11;;;proofs
+Traceable Signatures;;;Aggelos Kiayias, Yiannis Tsiounis, Moti Yung;;;2004/007;;;none;;;2004-01-09;;;proofs,security
+Protocol Initialization for the Framework of Universal Composability;;;Boaz Barak, Yehuda Lindell, Tal Rabin;;;2004/006;;;none;;;2004-01-09;;;security
+Universal Undeniable Signatures;;;Huafei Zhu;;;2004/005;;;none;;;2004-01-09;;;security
+Efficient Universal Padding Schemes for Multiplicative Trapdoor One-way Permutation;;;Yuichi Komano, Kazuo Ohta;;;2004/002;;;none;;;2004-01-06;;;security
+Concurrent/Resettable Zero-Knowledge With Concurrent Soundness in the Bare Public-Key Model and Its Applications;;;Yunlei ZHAO;;;2003/265;;;none;;;2004-01-02;;;proofs

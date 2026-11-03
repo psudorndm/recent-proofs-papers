@@ -1,0 +1,136 @@
+Resolving the Simultaneous Resettability Conjecture and a New Non-Black-Box Simulation Strategy;;;Vipul Goyal, Amit Sahai;;;2008/545;;;none;;;2008-12-29;;;proofs
+Resettably-Sound Resettable Zero Knowledge Arguments for NP;;;Yi Deng;;;2008/541;;;none;;;2008-12-28;;;proofs
+A Secure Threshold Anonymous Password-Authenticated Key Exchange Protocol;;;SeongHan Shin, Kazukuni Kobara, Hideki Imai;;;2008/537;;;none;;;2008-12-28;;;security
+Collusion-Free Multiparty Computation in the Mediated Model;;;Jonathan Katz, Yehuda Lindell;;;2008/533;;;none;;;2008-12-19;;;proofs
+Encrypting Proofs on Pairings and Its Application to Anonymity for Signatures;;;Georg Fuchsbauer, David Pointcheval;;;2008/528;;;none;;;2008-12-19;;;proofs
+Round-Optimal Zero-Knowledge Proofs of Knowledge for NP;;;Li Hongda, Feng dengguo, Li Bao, Xue Haixia;;;2008/524;;;none;;;2008-12-16;;;proofs
+A non-delegatable identity-based strong designated verifier signature scheme;;;Bin Wang;;;2008/507;;;none;;;2008-12-02;;;security
+Strongly Secure Authenticated Key Exchange Protocol Based on Computational Diffie-Hellman Problem;;;Hai Huang, Zhenfu Cao;;;2008/500;;;none;;;2008-12-02;;;security
+Non-Malleable Obfuscation;;;Ran Canetti, Mayank Varia;;;2008/495;;;none;;;2008-12-02;;;security
+Secure Certificateless Public Key Encryption without Redundancy;;;Yinxia Sun, Futai Zhang;;;2008/487;;;none;;;2008-11-21;;;security
+Sharing DSS by the Chinese Remainder Theorem;;;Kamer Kaya, Ali Aydın Selçuk;;;2008/483;;;none;;;2008-11-19;;;security
+Sphinx: A Compact and Provably Secure Mix Format;;;George Danezis, Ian Goldberg;;;2008/475;;;none;;;2008-11-18;;;security
+Access Controls for Oblivious and Anonymous Systems;;;Scott Coull, Matthew Green, Susan Hohenberger;;;2008/474;;;none;;;2008-11-18;;;security
+Automatic Generation of Sound Zero-Knowledge Protocols;;;Endre Bangerter, Jan Camenisch, Stephan Krenn, Ahmad-Reza Sadeghi, Thomas Schneider;;;2008/471;;;none;;;2008-11-18;;;proofs
+A CCA2 Secure Variant of the McEliece Cryptosystem;;;Nico Döttling, Rafael Dowsley, Jörn Müller-Quade, Anderson C. A. Nascimento;;;2008/468;;;none;;;2008-11-18;;;security
+Secure Arithmetic Computation with No Honest Majority;;;Yuval Ishai, Manoj Prabhakaran, Amit Sahai;;;2008/465;;;none;;;2008-11-10;;;security
+Key-Private Proxy Re-Encryption;;;Giuseppe Ateniese, Karyn Benson, Susan Hohenberger;;;2008/463;;;none;;;2008-11-10;;;security
+Various Security Analysis of a pfCM-MD Hash Domain Extension and Applications based on the Extension;;;Donghoon Chang, Seokhie Hong, Jaechul Sung, Sangjin Lee;;;2008/460;;;none;;;2008-11-02;;;security
+On the Composability of Statistically Secure Bit Commitments;;;Rafael Dowsley, Jeroen van de Graaf, Jörn Müller-Quade, Anderson C. A. Nascimento;;;2008/457;;;none;;;2008-11-02;;;security
+Complexity of Multiparty Computation Problems: The Case of 2-Party Symmetric Secure Function Evaluation;;;Hemanta K. Maji, Manoj Prabhakaran, Mike Rosulek;;;2008/454;;;none;;;2008-10-29;;;security
+Generalized Universal Circuits for Secure Evaluation of Private Functions with Application to Data Classification;;;Ahmad-Reza Sadeghi, Thomas Schneider;;;2008/453;;;none;;;2008-10-27;;;security
+A New Variant of the Cramer-Shoup KEM Secure against Chosen Ciphertext Attack;;;Joonsang Baek, Willy Susilo, Joseph K. Liu, Jianying Zhou;;;2008/449;;;none;;;2008-10-27;;;security
+How Risky is the Random-Oracle Model?;;;Gaetan Leurent, Phong Q. Nguyen;;;2008/441;;;none;;;2008-10-20;;;security
+Usable Optimistic Fair Exchange;;;Alptekin Kupcu, Anna Lysyanskaya;;;2008/431;;;none;;;2008-10-08;;;security
+Delegatable Anonymous Credentials;;;Mira Belenkiy, Jan Camenisch, Melissa Chase, Markulf Kohlweiss, Anna Lysyanskaya, Hovav Shacham;;;2008/428;;;none;;;2008-10-08;;;proofs
+LEGO for Two Party Secure Computation;;;Jesper Buus Nielsen, Claudio Orlandi;;;2008/427;;;none;;;2008-10-08;;;proofs,security
+Searchable encryption with decryption in the standard model;;;Dennis Hofheinz, Enav Weinreb;;;2008/423;;;none;;;2008-10-02;;;security
+A New Approach for Algebraically Homomorphic Encryption;;;Frederik Armknecht, Ahmad-Reza Sadeghi;;;2008/422;;;none;;;2008-10-02;;;security
+Almost-Asynchronous MPC with Faulty Minority;;;Zuzana Beerliova-Trubiniova, Martin Hirt, Jesper Buus Nielsen;;;2008/416;;;none;;;2008-10-02;;;proofs
+Indifferentiable Security Analysis of choppfMD, chopMD, a chopMDP, chopWPH, chopNI, chopEMD, chopCS, and chopESh Hash Domain Extensions;;;Donghoon Chang, Jaechul Sung, Seokhie Hong, Sangjin Lee;;;2008/407;;;none;;;2008-09-24;;;security
+SPICE Simulation of a "Provably Secure" True Random Number Generator;;;Markus Dichtl, Bernd Meyer, Hermann Seuschek;;;2008/403;;;none;;;2008-09-24;;;security
+Attribute-Based Ring Signatures;;;Jin Li, Kwangjo Kim;;;2008/394;;;none;;;2008-09-16;;;security
+GUC-Secure Set-Intersection Computation;;;TIAN Yuan, WANG Ying;;;2008/392;;;none;;;2008-09-16;;;proofs,security
+Shared Key Encryption by the State Machine with Two-Dimensional Random Look-up Table;;;Michael Lifliand;;;2008/386;;;none;;;2008-09-15;;;security
+Hierarchical Identity Based Encryption with Polynomially Many Levels;;;Craig Gentry, Shai Halevi;;;2008/383;;;none;;;2008-09-14;;;security
+Authenticated Wireless Roaming via Tunnels: Making Mobile Guests Feel at Home;;;Mark Manulis, Damien Leroy, Francois Koeune, Olivier Bonaventure, Jean-Jacques Quisquater;;;2008/382;;;none;;;2008-09-14;;;security
+Dynamic Threshold Cryptosystem without Group Manager;;;Andreas Noack, Stefan Spitz;;;2008/380;;;none;;;2008-09-07;;;security
+A Characterization of Chameleon Hash Functions and New, Efficient Designs;;;Mihir Bellare, Todor Ristov;;;2008/379;;;none;;;2008-09-07;;;proofs,security
+Additively Homomorphic Encryption with d-Operand Multiplications;;;Carlos Aguilar Melchor, Philippe Gaborit, Javier Herranz;;;2008/378;;;none;;;2008-09-07;;;security
+Session-state Reveal is stronger than Ephemeral Key Reveal: Attacking the NAXOS Authenticated Key Exchange protocol;;;Cas J. F. Cremers;;;2008/376;;;none;;;2008-09-05;;;security
+A public key encryption scheme secure against key dependent chosen plaintext and adaptive chosen ciphertext attacks;;;Jan Camenisch, Nishanth Chandran, Victor Shoup;;;2008/375;;;none;;;2008-09-05;;;proofs
+Chosen Ciphertext Security with Optimal Ciphertext Overhead;;;Masayuki Abe, Eike Kiltz, Tatsuaki Okamoto;;;2008/374;;;none;;;2008-09-05;;;security
+Threshold Homomorphic Encryption in the Universally Composable Cryptographic Library;;;Peeter Laud, Long Ngo;;;2008/367;;;none;;;2008-08-27;;;formal,proofs,security
+Argument of knowledge of a bounded error;;;Vadym Fedyukovych;;;2008/359;;;none;;;2008-08-18;;;proofs
+A protocol for K-multiple substring matching;;;Vadym Fedyukovych, Vitaliy Sharapov;;;2008/357;;;none;;;2008-08-18;;;proofs
+Remote Integrity Check with Dishonest Storage Server;;;Ee-Chien Chang, Jia Xu;;;2008/346;;;none;;;2008-08-11;;;security
+An Efficient Authenticated Key Exchange Protocol with a Tight Security Reduction;;;Jooyoung Lee, Choon Sik Park;;;2008/345;;;none;;;2008-08-11;;;security
+Authenticated Key Exchange Secure under the Computational Diffie-Hellman Assumption;;;Jooyoung Lee, Je Hong Park;;;2008/344;;;none;;;2008-08-11;;;security
+Cryptanalysis of Li et al.'s Identity-Based Threshold Signcryption Scheme;;;S. Sharmila Deva Selvi, S. Sree Vivek, Neha Jain, Pandu Rangan Chandrasekaran;;;2008/342;;;none;;;2008-08-11;;;security
+An Efficient Identity-Based Signcryption Scheme for Multiple Receivers;;;S. Sharmila Deva Selvi, S. Sree Vivek, Rahul Srinivasan, Pandu Rangan Chandrasekaran;;;2008/341;;;none;;;2008-08-11;;;security
+An improvement of discrete Tardos fingerprinting codes;;;Koji Nuida, Satoshi Fujitsu, Manabu Hagiwara, Takashi Kitagawa, Hajime Watanabe, Kazuto Ogawa, Hideki Imai;;;2008/338;;;none;;;2008-08-11;;;security
+Modified Huang-Wang's Convertible Nominative Signature Scheme;;;Wei Zhao, Dingfeng Ye;;;2008/337;;;none;;;2008-08-11;;;security
+Attribute-Based Signatures: Achieving Attribute-Privacy and Collusion-Resistance;;;Hemanta Maji, Manoj Prabhakaran, Mike Rosulek;;;2008/328;;;none;;;2008-08-03;;;security
+Blind HIBE and its Applications to Identity-Based Blind Signature and Blind Decryption;;;Le Trieu Phong, Wakaha Ogata;;;2008/327;;;none;;;2008-08-03;;;security
+Revisit of Group-based Unidirectional Proxy Re-encryption Scheme;;;Chunbo Ma, Jun Ao;;;2008/325;;;none;;;2008-08-02;;;security
+RSA-TBOS Signcryption with Proxy Re-encryption.;;;Varad Kirtane, C. Pandu Rangan;;;2008/324;;;none;;;2008-08-02;;;security
+A new identity based proxy signature scheme;;;Bin Wang;;;2008/323;;;none;;;2008-08-02;;;security
+Lattice-based Blind Signatures;;;Markus Rückert;;;2008/322;;;none;;;2008-08-02;;;security
+Improved efficiency of Kiltz07-KEM;;;Xianhui Lu, Xuejia Lai, Dake He;;;2008/312;;;none;;;2008-07-27;;;security
+Revocation Systems with Very Small Private Keys;;;Allison Lewko, Amit Sahai, Brent Waters;;;2008/309;;;none;;;2008-07-14;;;security
+Identity-Based Directed Signature Scheme from Bilinear Pairings;;;Xun Sun, Jian-hua Li, Gong-liang Chen, Shu-tang Yang;;;2008/305;;;none;;;2008-07-08;;;security
+A New Randomness Extraction Paradigm for Hybrid Encryption;;;Eike Kiltz, Krzysztof Pietrzak, Martijn Stam, Moti Yung;;;2008/304;;;none;;;2008-07-08;;;security
+Attack on Kang et al.'s Identity-Based Strong Designated Verifier Signature Scheme;;;Hongzhen Du, Qiaoyan Wen;;;2008/297;;;none;;;2008-07-04;;;security
+Foundations of Group Key Management – Framework, Security Model and a Generic Construction;;;Naga Naresh Karuturi, Ragavendran Gopalakrishnan, Rahul Srinivasan, Pandu Rangan Chandrasekaran;;;2008/295;;;none;;;2008-07-03;;;security
+Ciphertext-Policy Attribute-Based Encryption: An Expressive, Efficient, and Provably Secure Realization;;;Brent Waters;;;2008/290;;;none;;;2008-07-03;;;security
+Sharemind: a framework for fast privacy-preserving computations;;;Dan Bogdanov, Sven Laur, Jan Willemson;;;2008/289;;;none;;;2008-07-03;;;security
+Survival in the Wild: Robust Group Key Agreement in Wide-Area Networks;;;Jihye Kim, Gene Tsudik;;;2008/282;;;none;;;2008-06-24;;;security
+Delegating Capabilities in Predicate Encryption Systems;;;Elaine Shi, Brent Waters;;;2008/279;;;none;;;2008-06-24;;;security
+Signcryption with Proxy Re-encryption;;;Chandrasekar S., Ambika K., Pandu Rangan C.;;;2008/276;;;none;;;2008-06-18;;;security
+Certificate-Based Signature Schemes without Pairings or Random Oracles;;;Joseph K. Liu, Joonsang Baek, Willy Susilo, Jianying Zhou;;;2008/275;;;none;;;2008-06-18;;;security
+Adaptive Security in Broadcast Encryption Systems;;;Craig Gentry, Brent Waters;;;2008/268;;;none;;;2008-06-18;;;security
+Secure Computability of Functions in the IT setting with Dishonest Majority and Applications to Long-Term Security;;;Robin Künzler, Jörn Müller-Quade, Dominik Raub;;;2008/264;;;none;;;2008-06-18;;;security
+Multi-Recipient Signcryption for Secure Wireless Group Communication;;;Yiliang Han, Xiaolin Gui, Xu'an Wang;;;2008/253;;;none;;;2008-06-03;;;security
+Provable Security of Digital Signatures in the Tamper-Proof Device Model;;;Nick Varnovsky;;;2008/252;;;none;;;2008-06-03;;;security
+Universally Composable Security Analysis of TLS---Secure Sessions with Handshake and Record Layer Protocols;;;Sebastian Gajek, Mark Manulis, Olivier Pereira, Ahmad-Reza Sadeghi, Jörg Schwenk;;;2008/251;;;none;;;2008-06-03;;;security
+Cryptanalysis of a client-to-client password-authenticated key agreement protocol;;;Fengjiao Wang, Yuqing Zhang;;;2008/248;;;none;;;2008-06-03;;;security
+Cryptanalysis of Bohio et al.'s ID-Based Broadcast Signcryption (IBBSC) Scheme for Wireless Ad-hoc Networks;;;S. Sharmila Deva Selvi, S. Sree Vivek, Naga Naresh Karuturi, Ragavendran Gopalakrishnan, Pandu Rangan Chandrasekaran;;;2008/247;;;none;;;2008-06-03;;;security
+The Random Oracle Model and the Ideal Cipher Model are Equivalent;;;Jean-Sebastien Coron, Jacques Patarin, Yannick Seurin;;;2008/246;;;none;;;2008-06-03;;;security
+Leakage-Resilient Cryptography in the Standard Model;;;Stefan Dziembowski, Krzysztof Pietrzak;;;2008/240;;;none;;;2008-06-02;;;security
+On the Provable Security of Multi-Receiver Signcryption Schemes;;;S. Sharmila Deva Selvi, S. Sree Vivek, Ragavendran Gopalakrishnan, Naga Naresh Karuturi, C. Pandu Rangan;;;2008/238;;;none;;;2008-05-26;;;security
+A Modular Security Analysis of the TLS Handshake Protocol;;;P. Morrissey, N. P. Smart, B. Warinschi;;;2008/236;;;none;;;2008-05-26;;;security
+Identification and Privacy: Zero-Knowledge is not Enough;;;Julien Bringer, Herve Chabanne, Thomas Icart;;;2008/229;;;none;;;2008-05-26;;;proofs
+Provably Secure ID-Based Broadcast Signcryption (IBBSC) Scheme;;;S. Sharmila Deva Selvi, S. Sree Vivek, Ragavendran Gopalakrishnan, Naga Naresh Karuturi, C. Pandu Rangan;;;2008/225;;;none;;;2008-05-25;;;security
+An ID-based Authenticated Key Exchange Protocol Based on Bilinear Diffie-Hellman Problem;;;Hai Huang, Zhenfu Cao;;;2008/224;;;none;;;2008-05-25;;;security
+Essentially Optimal Universally Composable Oblivious Transfer;;;Ivan Damgård, Jesper Buus Nielsen, Claudio Orlandi;;;2008/220;;;none;;;2008-05-25;;;security
+Multi-Factor Password-Authenticated Key Exchange;;;Douglas Stebila, Poornaprajna Udupi, Sheueling Chang;;;2008/214;;;none;;;2008-05-23;;;formal,security
+The Multireceiver Commitment Schemes;;;Shuhong Wang;;;2008/213;;;none;;;2008-05-23;;;security
+Cryptanalysis of the Cai-Cusick Lattice-based Public-key Cryptosystem;;;Yanbin Pan, Yingpu Deng;;;2008/204;;;none;;;2008-05-13;;;security
+On The Security of The ElGamal Encryption Scheme and Damgard’s Variant;;;J. Wu, D. R. Stinson;;;2008/200;;;none;;;2008-05-12;;;security
+How to Build a Hash Function from any Collision-Resistant Function;;;Thomas Ristenpart, Thomas Shrimpton;;;2008/189;;;none;;;2008-04-29;;;security
+An Efficient and Provably Secure ID-Based Threshold Signcryption Scheme;;;Fagen Li, Yong Yu;;;2008/187;;;none;;;2008-04-29;;;security
+A New Approach to Secure Logging;;;Di Ma, Gene Tsudik;;;2008/185;;;none;;;2008-04-24;;;security
+Proofs of Knowledge with Several Challenge Values;;;Grzegorz Stachowiak;;;2008/181;;;none;;;2008-04-21;;;proofs
+Possibility and impossibility results for selective decommitments;;;Dennis Hofheinz;;;2008/168;;;none;;;2008-04-15;;;proofs,security
+Non-black-box Techniques Are Not Necessary for Constant Round Non-malleable Protocols;;;Omkant Pandey;;;2008/167;;;none;;;2008-04-14;;;proofs,security
+On the (Im)Possibility of Key Dependent Encryption;;;Iftach Haitner, Thomas Holenstein;;;2008/164;;;none;;;2008-04-14;;;security
+Universally Composable Adaptive Oblivious Transfer;;;Matthew Green, Susan Hohenberger;;;2008/163;;;none;;;2008-04-14;;;security
+A non-interactive deniable authentication scheme based on designated verifier proofs;;;Bin Wang;;;2008/159;;;none;;;2008-04-14;;;security
+Computational soundness of symbolic zero-knowledge proofs;;;Michael Backes, Dominique Unruh;;;2008/152;;;none;;;2008-04-08;;;formal,proofs,security
+Constant-Size Dynamic $k$-TAA;;;Man Ho Au, Willy Susilo, Yi Mu;;;2008/136;;;none;;;2008-03-31;;;proofs,security
+A Framework for the Sound Specification of Cryptographic Tasks;;;Juan A. Garay, Aggelos Kiayias, Hong-Sheng Zhou;;;2008/132;;;none;;;2008-03-25;;;proofs,security
+New proofs for old modes;;;Mark Wooding;;;2008/121;;;none;;;2008-03-17;;;security
+Chosen-Ciphertext Security via Correlated Products;;;Alon Rosen, Gil Segev;;;2008/116;;;none;;;2008-03-17;;;security
+Scalable and Efficient Provable Data Possession;;;Giuseppe Ateniese, Roberto Di Pietro, Luigi V. Mancini, Gene Tsudik;;;2008/114;;;none;;;2008-03-17;;;security
+Simplified Security Notions of Direct Anonymous Attestation and a Concrete Scheme from Pairings;;;Ernie Brickell, Liqun Chen, Jiangtao Li;;;2008/104;;;none;;;2008-03-12;;;security
+On Security Notions for Verifiable Encrypted Signature;;;Xu-An Wang, Xiaoyuan Yang, Yiliang Han;;;2008/098;;;none;;;2008-03-10;;;security
+Universally Composable Undeniable Signature;;;Kaoru Kurosawa, Jun Furukawa;;;2008/094;;;none;;;2008-03-03;;;proofs,security
+An Efficient SPRP-secure Construction based on Pseudo Random Involution;;;Mridul Nandi;;;2008/092;;;none;;;2008-02-28;;;security
+A Public Key Encryption In Standard Model Using Cramer-Shoup Paradigm;;;Mahabir Prasad Jhanwar, Rana Barua;;;2008/088;;;none;;;2008-02-28;;;security
+Towards a Theory of White-Box Security;;;Amir Herzberg, Haya Shulman, Amitabh Saxena, Bruno Crispo;;;2008/087;;;none;;;2008-02-28;;;security
+Pairing-Based Onion Routing with Improved Forward Secrecy;;;Aniket Kate, Greg Zaverucha, Ian Goldberg;;;2008/080;;;none;;;2008-02-27;;;security
+Homomorphic Encryption with CCA Security;;;Manoj Prabhakaran, Mike Rosulek;;;2008/079;;;none;;;2008-02-27;;;security
+A Short Proof of the PRP/PRF Switching Lemma;;;Donghoon Chang, Mridul Nandi;;;2008/078;;;none;;;2008-02-27;;;security
+Compact Proofs of Retrievability;;;Hovav Shacham, Brent Waters;;;2008/073;;;none;;;2008-02-18;;;security
+The Twin Diffie-Hellman Problem and Applications;;;David Cash, Eike Kiltz, Victor Shoup;;;2008/067;;;none;;;2008-02-11;;;security
+Efficient Sequential Aggregate Signed Data;;;Gregory Neven;;;2008/063;;;none;;;2008-02-11;;;security
+Breaking One-Round Key-Agreement Protocols in the Random Oracle Model;;;Miroslava Sotakova;;;2008/053;;;none;;;2008-01-31;;;security
+Multi-PKG ID based signcryption;;;Sunder Lal, Prashant Kushwah;;;2008/050;;;none;;;2008-01-30;;;security
+An Efficient Protocol for Secure Two-Party Computation in the Presence of Malicious Adversaries;;;Yehuda Lindell, Benny Pinkas;;;2008/049;;;none;;;2008-01-30;;;proofs,security
+Fair Traceable Multi-Group Signatures;;;Vicente Benjumea, Seung Geol Choi, Javier Lopez, Moti Yung;;;2008/047;;;none;;;2008-01-30;;;security
+David and Goliath Commitments: UC Computation for Asymmetric Parties Using Tamper-Proof Hardware;;;Tal Moran, Gil Segev;;;2008/046;;;none;;;2008-01-30;;;security
+New Results on Unconditionally Secure Multireceiver Manual Authentication;;;Shuhong Wang, Reihaneh Safavi-Naini;;;2008/039;;;none;;;2008-01-28;;;security
+Anonymous Consecutive Delegation of Signing Rights: Unifying Group and Proxy Signatures;;;Georg Fuchsbauer, David Pointcheval;;;2008/037;;;none;;;2008-01-28;;;security
+Efficient Fully-Simulatable Oblivious Transfer;;;Yehuda Lindell;;;2008/035;;;none;;;2008-01-28;;;proofs
+Merkle's Key Agreement Protocol is Optimal: An $O(n^2)$ Attack on any Key Agreement from Random Oracles;;;Boaz Barak, Mohammad Mahmoody;;;2008/032;;;none;;;2008-01-28;;;security
+Detection of Algebraic Manipulation with Applications to Robust Secret Sharing and Fuzzy Extractors;;;Ronald Cramer, Yevgeniy Dodis, Serge Fehr, Carles Padró, Daniel Wichs;;;2008/030;;;none;;;2008-01-28;;;security
+HB#: Increasing the Security and Efficiency of HB+;;;Henri Gilbert, Matthew J. B. Robshaw, Yannick Seurin;;;2008/028;;;none;;;2008-01-22;;;security
+General Certificateless Encryption and Timed-Release Encryption;;;Sherman S. M. Chow, Volker Roth, Eleanor G. Rieffel;;;2008/023;;;none;;;2008-01-22;;;security
+Block Ciphers Implementations Provably Secure Against Second Order Side Channel Analysis;;;Matthieu Rivain, Emmanuelle Dottax, Emmanuel Prouff;;;2008/021;;;none;;;2008-01-22;;;security
+CCA2 Secure IBE: Standard Model Efficiency through Authenticated Symmetric Encryption;;;Eike Kiltz, Yevgeniy Vahlis;;;2008/020;;;none;;;2008-01-22;;;security
+Simulatable Adaptive Oblivious Transfer;;;Jan Camenisch, Gregory Neven, abhi shelat;;;2008/014;;;none;;;2008-01-14;;;security
+The Encrypted Elliptic Curve Hash;;;Daniel R. L. Brown;;;2008/012;;;none;;;2008-01-14;;;security
+A Proof of Security in $O(2^n)$ for the Xor of Two Random Permutations\\ -- Proof with the ``$H_{\sigma}$ technique''--;;;Jacques Patarin;;;2008/010;;;none;;;2008-01-07;;;security
+Efficient One-round Key Exchange in the Standard Model;;;Colin Boyd, Yvonne Cliff, Juan M. Gonzalez Nieto, Kenneth G. Paterson;;;2008/007;;;none;;;2008-01-07;;;security
+Joint State Theorems for Public-Key Encryption and Digital Signature Functionalities with Local Computation;;;Ralf Kuesters, Max Tuengerthal;;;2008/006;;;none;;;2008-01-07;;;security
+Security Proof for the Improved Ryu-Yoon-Yoo Identity-Based Key Agreement Protocol;;;Shengbao Wang, Zhenfu Cao, Kim-Kwang Raymond Choo, Lihua Wang;;;2008/001;;;none;;;2008-01-03;;;security

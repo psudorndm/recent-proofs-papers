@@ -4,7 +4,12 @@ on:
   schedule:
     # once a day at 06:17 UTC (IACR ePrint asks harvesters not to refresh more than daily)
     - cron: "17 6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Re-harvest the full history (slow; use after changing the keyword lists)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -12,6 +17,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -20,13 +26,19 @@ jobs:
           python-version: "3.12"
 
       - name: Harvest papers
-        run: python3 scraper/scrape.py --days 400
+        run: |
+          if [ "${{ inputs.full }}" = "true" ]; then
+            python3 scraper/scrape.py --full
+          else
+            # merge the last 30 days into the stored history
+            python3 scraper/scrape.py --days 30
+          fi
 
       - name: Commit refreshed data
         run: |
           git config user.name "paper-bot"
           git config user.email "paper-bot@users.noreply.github.com"
-          git add papers_arxiv.txt papers_eprint.txt
+          git add data
           if git diff --cached --quiet; then
             echo "no changes"
           else

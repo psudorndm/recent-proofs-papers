@@ -1,0 +1,13 @@
+Concurrent Zero-Knowledge;;;Cynthia Dwork, Moni Naor, Amit Sahai;;;1999/023;;;none;;;1999-11-22;;;proofs,security
+Resettable Zero-Knowledge;;;Ran Canetti, Oded Goldreich, Shafi Goldwasser, Silvio Micali;;;1999/022;;;none;;;1999-10-25;;;proofs
+A forward-secure digital signature scheme;;;Mihir Bellare, Sara Miner;;;1999/016;;;none;;;1999-07-13;;;security
+Interleaved Zero-Knowledge in the Public-Key Model;;;Oded Goldreich, Shafi Goldwasser, Silvio Micali;;;1999/015;;;none;;;1999-06-26;;;proofs
+Concurrent Zero-Knowledge is Easy in Practice;;;Ivan Damgard;;;1999/014;;;none;;;1999-06-16;;;proofs
+Secure Hash-and-Sign Signatures without the Random Oracle;;;Rosario Gennaro, Shai Halevi, Tal Rabin;;;1999/013;;;none;;;1999-04-19;;;security
+On Formal Models for Secure Key Exchange;;;Victor Shoup;;;1999/012;;;none;;;1999-04-19;;;security
+Practical Threshold Signatures;;;Victor Shoup;;;1999/011;;;none;;;1999-04-19;;;security
+A Relationship between One-Wayness and Correlation Intractability;;;Satoshi Hada, Toshiaki Tanaka;;;1999/010;;;none;;;1999-03-31;;;proofs,security
+On the Existence of3-Round Zero-Knowledge Protocols;;;Satoshi Hada, Toshiaki Tanaka;;;1999/009;;;none;;;1999-03-31;;;proofs
+DHAES: An Encryption Scheme Based on the Diffie-Hellman Problem;;;Michel Abdalla, Mihir Bellare, Phillip Rogaway;;;1999/007;;;none;;;1999-03-17;;;security
+Lattice Based Cryptography: A Global Improvement;;;Daniele Micciancio;;;1999/005;;;none;;;1999-03-04;;;proofs
+Signature Schemes Based on the Strong RSA Assumption;;;Ronald Cramer, Victor Shoup;;;1999/001;;;none;;;1999-01-11;;;security
