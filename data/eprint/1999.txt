@@ -9,5 +9,5 @@ Practical Threshold Signatures;;;Victor Shoup;;;1999/011;;;none;;;1999-04-19;;;s
 A Relationship between One-Wayness and Correlation Intractability;;;Satoshi Hada, Toshiaki Tanaka;;;1999/010;;;none;;;1999-03-31;;;proofs,security
 On the Existence of3-Round Zero-Knowledge Protocols;;;Satoshi Hada, Toshiaki Tanaka;;;1999/009;;;none;;;1999-03-31;;;proofs
 DHAES: An Encryption Scheme Based on the Diffie-Hellman Problem;;;Michel Abdalla, Mihir Bellare, Phillip Rogaway;;;1999/007;;;none;;;1999-03-17;;;security
-Lattice Based Cryptography: A Global Improvement;;;Daniele Micciancio;;;1999/005;;;none;;;1999-03-04;;;proofs
+Lattice Based Cryptography: A Global Improvement;;;Daniele Micciancio;;;1999/005;;;none;;;1999-03-04;;;post-quantum,proofs
 Signature Schemes Based on the Strong RSA Assumption;;;Ronald Cramer, Victor Shoup;;;1999/001;;;none;;;1999-01-11;;;security

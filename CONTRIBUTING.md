@@ -55,6 +55,10 @@ case_sensitive = ['\bMPC\b']
 arxiv_terms = ["multi-party computation", "secure computation"]
 ```
 
+A top-level topic with `tag_only = true` (like *post-quantum*) never adds papers by
+itself: it only tags papers that another topic already keeps, so it needs no
+`arxiv_terms`.
+
 Only papers already stored are re-tagged automatically. To search the archives for
 papers that match the new topic but nothing else, a maintainer runs the
 **refresh papers** workflow with **full** ticked (Actions tab).

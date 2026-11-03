@@ -1,4 +1,4 @@
-Statistical Zero Knowledge and quantum one-way functions;;;Elham Kashefi, Iordanis Kerenidis;;;quant-ph/0511266;;;none;;;2005-11-30;;;proofs
+Statistical Zero Knowledge and quantum one-way functions;;;Elham Kashefi, Iordanis Kerenidis;;;quant-ph/0511266;;;none;;;2005-11-30;;;post-quantum,proofs
 Zero-knowledge against quantum attacks;;;John Watrous;;;quant-ph/0511020;;;none;;;2005-11-03;;;proofs
 Short Quantum Games;;;Gus Gutoski;;;cs/0511017;;;none;;;2005-11-03;;;proofs
 A new authentication protocol for revocable anonymity in ad-hoc networks;;;Adam Wierzbicki, Aneta Zwierko, Zbigniew Kotulski;;;cs/0510065;;;none;;;2005-10-22;;;proofs

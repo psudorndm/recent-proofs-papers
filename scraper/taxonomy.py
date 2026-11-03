@@ -18,7 +18,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 TAXONOMY_FILE = ROOT / "taxonomy.toml"
 
 ATTRIBUTES = {"label", "keywords", "case_sensitive", "requires_keywords",
-              "requires_case_sensitive", "subgroups", "arxiv_terms"}
+              "requires_case_sensitive", "subgroups", "arxiv_terms", "tag_only"}
 ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 MAX_DEPTH = 8
 
@@ -28,10 +28,11 @@ class TaxonomyError(Exception):
 
 
 class Node:
-    def __init__(self, path, label, patterns, requires, children, arxiv_terms):
+    def __init__(self, path, label, patterns, requires, children, arxiv_terms, tag_only):
         self.path = path            # e.g. "proofs/pcs/lattice"
         self.label = label
         self.arxiv_terms = arxiv_terms
+        self.tag_only = tag_only    # only tags papers that another topic keeps
         self.patterns = patterns
         self.requires = requires
         self.children = children
@@ -81,6 +82,11 @@ def _build(node_id, table, parent_path, shared, depth):
         raise TaxonomyError(f"{where}: arxiv_terms only works on top-level topics")
     if not isinstance(terms, list) or not all(isinstance(t, str) and t.strip() and '"' not in t for t in terms):
         raise TaxonomyError(f"{where}: arxiv_terms must be a list of phrases (without double quotes inside)")
+    tag_only = table.get("tag_only", False)
+    if not isinstance(tag_only, bool):
+        raise TaxonomyError(f"{where}: tag_only must be true or false")
+    if tag_only and depth > 1:
+        raise TaxonomyError(f"{where}: tag_only only works on top-level topics")
 
     children = [(k, v) for k, v in table.items() if isinstance(v, dict)]
     groups = table.get("subgroups", [])
@@ -97,7 +103,7 @@ def _build(node_id, table, parent_path, shared, depth):
             raise TaxonomyError(f"{where}: sub-topic id '{child_id}' is used twice")
         seen.add(child_id)
         nodes.append(_build(child_id, child, path, shared, depth + 1))
-    return Node(path, label.strip(), patterns, requires, nodes, [t.strip() for t in terms])
+    return Node(path, label.strip(), patterns, requires, nodes, [t.strip() for t in terms], tag_only)
 
 
 def load(path=TAXONOMY_FILE):
@@ -118,11 +124,15 @@ def load(path=TAXONOMY_FILE):
     for g, entries in shared.items():
         if not all(isinstance(v, dict) for v in entries.values()):
             raise TaxonomyError(f"[shared.{g}]: put each entry in its own table, e.g. [shared.{g}.<id>]")
-    return [_build(k, v, "", shared, 1) for k, v in topics.items()]
+    roots = [_build(k, v, "", shared, 1) for k, v in topics.items()]
+    if all(r.tag_only for r in roots):
+        raise TaxonomyError("every top-level topic is tag_only, so no paper would be kept")
+    return roots
 
 
 def classify(roots, text):
-    """Deepest matching topic paths for this text (empty set: no topic)."""
+    """Deepest matching topic paths for this text (empty set: no topic).
+    tag_only topics are added only when some other topic matched."""
     found = set()
 
     def walk(node):
@@ -136,7 +146,12 @@ def classify(roots, text):
         return True
 
     for root in roots:
-        walk(root)
+        if not root.tag_only:
+            walk(root)
+    if found:
+        for root in roots:
+            if root.tag_only:
+                walk(root)
     return found
 
 

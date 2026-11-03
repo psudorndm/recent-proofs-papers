@@ -5,38 +5,38 @@ Improved DIQKD protocols with finite-size analysis;;;Ernest Y. -Z. Tan, Pavel Se
 The Design and Implementation of a Verified File System with End-to-End Data Integrity;;;Daniel W. Song, Konstantinos Mamouras, Ang Chen, Nathan Dautenhahn, Dan S. Wallach;;;2012.07917;;;none;;;2020-12-14;;;formal
 GNNUnlock: Graph Neural Networks-based Oracle-less Unlocking Scheme for Provably Secure Logic Locking;;;Lilas Alrahis, Satwik Patnaik, Faiq Khalid, Muhammad Abdullah Hanif, Hani Saleh, Muhammad Shafique, Ozgur Sinanoglu;;;2012.05948;;;none;;;2020-12-10;;;security
 Automated Symbolic Verification of Telegram's MTProto 2.0;;;Marino Miculan, Nicola Vitacolonna;;;2012.03141;;;none;;;2020-12-05;;;formal
-On the Concurrent Composition of Quantum Zero-Knowledge;;;Prabhanjan Ananth, Kai-Min Chung, Rolando L. La Placa;;;2012.03139;;;none;;;2020-12-05;;;proofs
-Oblivious Transfer is in MiniQCrypt;;;Alex B. Grilo, Huijia Lin, Fang Song, Vinod Vaikuntanathan;;;2011.14980;;;none;;;2020-11-30;;;security
+On the Concurrent Composition of Quantum Zero-Knowledge;;;Prabhanjan Ananth, Kai-Min Chung, Rolando L. La Placa;;;2012.03139;;;none;;;2020-12-05;;;post-quantum,proofs
+Oblivious Transfer is in MiniQCrypt;;;Alex B. Grilo, Huijia Lin, Fang Song, Vinod Vaikuntanathan;;;2011.14980;;;none;;;2020-11-30;;;post-quantum,security
 Recent advances on quantum key distribution overcoming the linear secret key capacity bound;;;Yingqiu Mao, Pei Zeng, Teng-Yun Chen;;;2011.13092;;;none;;;2020-11-26;;;security
 Twin-field quantum key distribution with passive-decoy state;;;Jun Teng, Feng-Yu Lu, Zhen-Qiang Yin, Guan-Jie Fan-Yuan, Rong Wang, Shuang Wang, Wei Chen, Wei Huang, Bing-Jie Xu, Guang-Can Guo, Zheng-Fu Han;;;2011.07443;;;none;;;2020-11-15;;;security
 SpreadMeNot: A Provably Secure and Privacy-Preserving Contact Tracing Protocol;;;Pietro Tedeschi, Spiridon Bakiras, Roberto Di Pietro;;;2011.07306;;;none;;;2020-11-14;;;security
 Interactive Oracle Proofs of Proximity to Algebraic Geometry Codes;;;Sarah Bordage, Mathieu Lhotel, Jade Nardi, Hugues Randriam;;;2011.04295;;;none;;;2020-11-09;;;proofs/iop/code,proofs/iop/hash
 Quantum randomized encoding, verification of quantum computing, no-cloning, and blind quantum computing;;;Tomoyuki Morimae;;;2011.03141;;;none;;;2020-11-05;;;proofs
-A Black-Box Approach to Post-Quantum Zero-Knowledge in Constant Rounds;;;Nai-Hui Chia, Kai-Min Chung, Takashi Yamakawa;;;2011.02670;;;none;;;2020-11-05;;;proofs,security
+A Black-Box Approach to Post-Quantum Zero-Knowledge in Constant Rounds;;;Nai-Hui Chia, Kai-Min Chung, Takashi Yamakawa;;;2011.02670;;;none;;;2020-11-05;;;post-quantum,proofs,security
 Towards a Theory of Special-purpose Program Obfuscation;;;Muhammad Rizwan Asghar, Steven Galbraith, Andrea Lanzi, Giovanni Russello, Lukas Zobernig;;;2011.02607;;;none;;;2020-11-05;;;security
 Physical ZKP for Connected Spanning Subgraph: Applications to Bridges Puzzle and Other Problems;;;Suthee Ruangwises, Toshiya Itoh;;;2011.02313;;;none;;;2020-11-03;;;proofs
 Towards making formal methods normal: meeting developers where they are;;;Alastair Reid, Luke Church, Shaked Flur, Sarah de Haas, Maritza Johnson, Ben Laurie;;;2010.16345;;;none;;;2020-10-30;;;formal
 Teaching Interactive Proofs to Mathematicians;;;Mauricio Ayala-Rincón, Thaynara Arielly de Lima;;;2010.16013;;;none;;;2020-10-30;;;proofs
 Towards a certified reference monitor of the Android 10 permission system;;;Guido De Luca, Carlos Luna;;;2011.00720;;;none;;;2020-10-29;;;formal
 SANS: Self-sovereign Authentication for Network Slices;;;Xavier Salleras, Vanesa Daza;;;2010.15867;;;none;;;2020-10-29;;;proofs
-Tight adaptive reprogramming in the QROM;;;Alex B. Grilo, Kathrin Hövelmanns, Andreas Hülsing, Christian Majenz;;;2010.15103;;;none;;;2020-10-28;;;security
+Tight adaptive reprogramming in the QROM;;;Alex B. Grilo, Kathrin Hövelmanns, Andreas Hülsing, Christian Majenz;;;2010.15103;;;none;;;2020-10-28;;;post-quantum,security
 Multi-factor Physical Layer Security Authentication in Short Blocklength Communication;;;Miroslav Mitev, Mahdi Shekiba-Herfeh, Arsenia Chorti, Martin Reed;;;2010.14457;;;none;;;2020-10-27;;;formal
 2FE: Two-Factor Encryption for Cloud Storage;;;Anders Dalskov, Daniele Lain, Enis Ulqinaku, Kari Kostiainen, Srdjan Capkun;;;2010.14417;;;none;;;2020-10-27;;;proofs/applications
 Blockchain-enabled Identity Verification for Safe Ridesharing Leveraging Zero-Knowledge Proof;;;Wanxin Li, Collin Meese, Hao Guo, Mark Nejad;;;2010.14037;;;none;;;2020-10-27;;;proofs/applications
-Lattice-based IBE with Equality Test Supporting Flexible Authorization in the Standard Model;;;Giang L. D. Nguyen, Willy Susilo, Dung Hoang Duong, Huy Quoc Le, Fuchun Guo;;;2010.14077;;;none;;;2020-10-26;;;security
+Lattice-based IBE with Equality Test Supporting Flexible Authorization in the Standard Model;;;Giang L. D. Nguyen, Willy Susilo, Dung Hoang Duong, Huy Quoc Le, Fuchun Guo;;;2010.14077;;;none;;;2020-10-26;;;post-quantum,security
 Protocol Analysis with Time;;;Damián Aparicio-Sánchez, Santiago Escobar, Catherine Meadows, Jose Meseguer, Julia Sapiña;;;2010.13707;;;none;;;2020-10-26;;;formal
 Giving Semantics to Program-Counter Labels via Secure Effects;;;Andrew K. Hirsch, Ethan Cecchetti;;;2010.13191;;;none;;;2020-10-25;;;security
 Towards Decentralized IoT Updates Delivery Leveraging Blockchain and Zero-Knowledge Proofs;;;Edoardo Puggioni, Arash Shaghaghi, Robin Doss, Salil S. Kanhere;;;2010.12134;;;none;;;2020-10-23;;;formal,proofs/applications,proofs/snark,security
-On the Compressed-Oracle Technique, and Post-Quantum Security of Proofs of Sequential Work;;;Kai-Min Chung, Serge Fehr, Yu-Hsuan Huang, Tai-Ning Liao;;;2010.11658;;;none;;;2020-10-22;;;security
+On the Compressed-Oracle Technique, and Post-Quantum Security of Proofs of Sequential Work;;;Kai-Min Chung, Serge Fehr, Yu-Hsuan Huang, Tai-Ning Liao;;;2010.11658;;;none;;;2020-10-22;;;post-quantum,security
 Two-way Unclonable Encryption with a vulnerable sender;;;Daan Leermakers, Boris Skoric;;;2010.10827;;;none;;;2020-10-21;;;security
 Secure Weighted Aggregation for Federated Learning;;;Jiale Guo, Ziyao Liu, Kwok-Yan Lam, Jun Zhao, Yiqiang Chen, Chaoping Xing;;;2010.08730;;;none;;;2020-10-17;;;proofs
 Multi-Shard Private Transactions for Permissioned Blockchains;;;Elli Androulaki, Angelo De Caro, Kaoutar Elkhiyaoui, Christian Gorenflo, Alessandro Sorniotti, Marko Vukolic;;;2010.08274;;;none;;;2020-10-16;;;proofs/applications,proofs/snark
-Secure Two-Party Quantum Computation Over Classical Channels;;;Michele Ciampi, Alexandru Cojocaru, Elham Kashefi, Atul Mantri;;;2010.07925;;;none;;;2020-10-15;;;proofs,security
+Secure Two-Party Quantum Computation Over Classical Channels;;;Michele Ciampi, Alexandru Cojocaru, Elham Kashefi, Atul Mantri;;;2010.07925;;;none;;;2020-10-15;;;post-quantum,proofs,security
 Tagging idea in continuous variable quantum key distribution and its application;;;Chenyang Li, Thomas Van Himbeeck, Li Qian, Hoi-Kwong Lo;;;2010.03442;;;none;;;2020-10-07;;;security
 BVOT: Self-Tallying Boardroom Voting with Oblivious Transfer;;;Farid Javani, Alan T. Sherman;;;2010.02421;;;none;;;2020-10-06;;;proofs/applications
 Specification of the Giskard Consensus Protocol;;;Elaine Li, Karl Palmskog, Mircea Sebe, Grigore Roşu;;;2010.02124;;;none;;;2020-10-05;;;formal
-Quantum copy-protection of compute-and-compare programs in the quantum random oracle model;;;Andrea Coladangelo, Christian Majenz, Alexander Poremba;;;2009.13865;;;none;;;2020-09-29;;;security
-Signing Information in the Quantum Era;;;K. Longmate, E. M. Ball, E. Dable-Heath, R. J. Young;;;2009.12118;;;none;;;2020-09-25;;;security
+Quantum copy-protection of compute-and-compare programs in the quantum random oracle model;;;Andrea Coladangelo, Christian Majenz, Alexander Poremba;;;2009.13865;;;none;;;2020-09-29;;;post-quantum,security
+Signing Information in the Quantum Era;;;K. Longmate, E. M. Ball, E. Dable-Heath, R. J. Young;;;2009.12118;;;none;;;2020-09-25;;;post-quantum,security
 A Formally Verified Protocol for Log Replication with Byzantine Fault Tolerance;;;Joel Wanner, Laurent Chuat, Adrian Perrig;;;2009.10664;;;none;;;2020-09-22;;;formal,security
 Physical Zero-Knowledge Proof for Ripple Effect;;;Suthee Ruangwises, Toshiya Itoh;;;2009.09983;;;none;;;2020-09-21;;;proofs
 SPChain: Blockchain-based Medical Data Sharing and Privacy-preserving eHealth System;;;Renpeng Zou, Xixiang Lv, Jingsong Zhao;;;2009.09957;;;none;;;2020-09-21;;;proofs/applications,proofs/snark
@@ -51,14 +51,14 @@ Resonant Coupling Parameter Estimation with Superconducting Qubits;;;J. H. Béja
 An Energy Efficient Authentication Scheme using Chebyshev Chaotic Map for Smart Grid Environment;;;Liping Zhang, Yue Zhu, Wei Ren, Yinghan Wang, Neal N. Xiong;;;2008.11366;;;none;;;2020-08-26;;;formal
 When Homomorphic Encryption Marries Secret Sharing: Secure Large-Scale Sparse Logistic Regression and Applications in Risk Control;;;Chaochao Chen, Jun Zhou, Li Wang, Xibin Wu, Wenjing Fang, Jin Tan, Lei Wang, Alex X. Liu, Hao Wang, Cheng Hong;;;2008.08753;;;none;;;2020-08-20;;;security
 Parallel repetition with a threshold in quantum interactive proofs;;;Abel Molina;;;2008.07445;;;none;;;2020-08-17;;;proofs
-A New Path to Code-based Signatures via Identification Schemes with Restricted Errors;;;Marco Baldi, Massimo Battaglioni, Franco Chiaraluce, Anna-Lena Horlemann-Trautmann, Edoardo Persichetti, Paolo Santini, Violetta Weger;;;2008.06403;;;none;;;2020-08-14;;;proofs/zk-protocols/code
+A New Path to Code-based Signatures via Identification Schemes with Restricted Errors;;;Marco Baldi, Massimo Battaglioni, Franco Chiaraluce, Anna-Lena Horlemann-Trautmann, Edoardo Persichetti, Paolo Santini, Violetta Weger;;;2008.06403;;;none;;;2020-08-14;;;post-quantum,proofs/zk-protocols/code
 Zecale: Reconciling Privacy and Scalability on Ethereum;;;Antoine Rondelet;;;2008.05958;;;none;;;2020-08-13;;;proofs/applications,proofs/snark
 The BB84 quantum key distribution using conjugate homodyne detection;;;Bing Qi;;;2008.04142;;;none;;;2020-08-10;;;security
 Tight finite-key analysis for generalized high-dimensional quantum key distribution;;;Rong Wang, Zhen-Qiang Yin, Hang Liu, Shuang Wang, Wei Chen, Guang-Can Guo, Zheng-Fu Han;;;2008.03510;;;none;;;2020-08-08;;;security
-Non-Commutative Ring Learning With Errors From Cyclic Algebras;;;Charles Grover, Cong Ling, Roope Vehkalahti;;;2008.01834;;;none;;;2020-08-04;;;security
+Non-Commutative Ring Learning With Errors From Cyclic Algebras;;;Charles Grover, Cong Ling, Roope Vehkalahti;;;2008.01834;;;none;;;2020-08-04;;;post-quantum,security
 Framework for a DLT Based COVID-19 Passport;;;Sarang Chaudhari, Michael Clear, Hitesh Tewari;;;2008.01120;;;none;;;2020-08-03;;;security
 Demystifying the Role of zk-SNARKs in Zcash;;;Aritra Banerjee, Michael Clear, Hitesh Tewari;;;2008.00881;;;none;;;2020-08-03;;;proofs/snark
-Multi-theorem (Malicious) Designated-Verifier NIZK for QMA;;;Omri Shmueli;;;2007.12923;;;none;;;2020-07-25;;;proofs/zk-protocols/lattice
+Multi-theorem (Malicious) Designated-Verifier NIZK for QMA;;;Omri Shmueli;;;2007.12923;;;none;;;2020-07-25;;;post-quantum,proofs/zk-protocols/lattice
 Computing conditional entropies for quantum correlations;;;Peter Brown, Hamza Fawzi, Omar Fawzi;;;2007.12575;;;none;;;2020-07-24;;;security
 Set It and Forget It! Turnkey ECC for Instant Integration;;;Dmitry Belyavsky, Billy Bob Brumley, Jesús-Javier Chi-Domínguez, Luis Rivera-Zamarripa, Igor Ustinov;;;2007.11481;;;none;;;2020-07-22;;;formal
 Formal Analysis of EDHOC Key Establishment for Constrained IoT Devices;;;Karl Norrman, Vaishnavi Sundararajan, Alessandro Bruni;;;2007.11427;;;none;;;2020-07-22;;;formal
@@ -66,17 +66,17 @@ Private, Fair, and Verifiable Aggregate Statistics for Mobile Crowdsensing in Bl
 Improving key rates of the unbalanced phase-encoded BB84 protocol using the flag-state squashing model;;;Nicky Kai Hong Li, Norbert Lütkenhaus;;;2007.08662;;;none;;;2020-07-16;;;security
 Denial-of-Service Vulnerability of Hash-based Transaction Sharding: Attack and Countermeasure;;;Truc Nguyen, My T. Thai;;;2007.08600;;;none;;;2020-07-16;;;security
 Skip to Secure: Securing Cyber-physical Control Loops with Intentionally Skipped Executions;;;Sunandan Adhikary, Ipsita Koley, Sumana Ghosh, Saurav Kumar Ghosh, Soumyajit Dey, Debdeep Mukhopadhyay;;;2007.08121;;;none;;;2020-07-16;;;security
-Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model;;;Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk;;;2007.06881;;;none;;;2020-07-14;;;security
+Trapdoor Delegation and HIBE from Middle-Product LWE in Standard Model;;;Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Josef Pieprzyk;;;2007.06881;;;none;;;2020-07-14;;;post-quantum,security
 THEMIS: Decentralized and Trustless Ad Platform with Reporting Integrity;;;Gonçalo Pestana, Iñigo Querejeta-Azurmendi, Panagiotis Papadopoulos, Benjamin Livshits;;;2007.05556;;;none;;;2020-07-10;;;proofs/applications
-Privacy and Integrity Preserving Computations with CRISP;;;Sylvain Chatel, Apostolos Pyrgelis, Juan R. Troncoso-Pastoriza, Jean-Pierre Hubaux;;;2007.04025;;;none;;;2020-07-08;;;proofs
+Privacy and Integrity Preserving Computations with CRISP;;;Sylvain Chatel, Apostolos Pyrgelis, Juan R. Troncoso-Pastoriza, Jean-Pierre Hubaux;;;2007.04025;;;none;;;2020-07-08;;;post-quantum,proofs
 Practical Quantum Key Distribution Secure Against Side-Channels;;;Álvaro Navarrete, Margarida Pereira, Marcos Curty, Kiyoshi Tamaki;;;2007.03364;;;none;;;2020-07-07;;;security
 Decentralized Blockchain for Privacy-Preserving Large-Scale Contact Tracing;;;Wenzhe Lv, Sheng Wu, Chunxiao Jiang, Yuanhao Cui, Xuesong Qiu, Yan Zhang;;;2007.00894;;;none;;;2020-07-02;;;proofs/applications
 Private Speech Classification with Secure Multiparty Computation;;;Kyle Bittner, Martine De Cock, Rafael Dowsley;;;2007.00253;;;none;;;2020-07-01;;;security
-Traceable Policy-Based Signatures and Instantiation from Lattices;;;Yanhong Xu, Reihaneh Safavi-Naini, Khoa Nguyen, Huaxiong Wang;;;2007.00033;;;none;;;2020-06-30;;;proofs
+Traceable Policy-Based Signatures and Instantiation from Lattices;;;Yanhong Xu, Reihaneh Safavi-Naini, Khoa Nguyen, Huaxiong Wang;;;2007.00033;;;none;;;2020-06-30;;;post-quantum,proofs
 ReLoC Reloaded: A Mechanized Relational Logic for Fine-Grained Concurrency and Logical Atomicity;;;Dan Frumin, Robbert Krebbers, Lars Birkedal;;;2006.13635;;;none;;;2020-06-24;;;proofs
 Verifying Accountability for Unbounded Sets of Participants;;;Kevin Morio, Robert Künnemann;;;2006.12047;;;none;;;2020-06-22;;;formal
 Measure-resend authenticated semi-quantum key distribution with single photons;;;Chun-Hao Chang, Yu-Chin Lu, Tzonelih Hwang;;;2006.11496;;;none;;;2020-06-20;;;security
-On the Security of Proofs of Sequential Work in a Post-Quantum World;;;Jeremiah Blocki, Seunghoon Lee, Samson Zhou;;;2006.10972;;;none;;;2020-06-19;;;security
+On the Security of Proofs of Sequential Work in a Post-Quantum World;;;Jeremiah Blocki, Seunghoon Lee, Samson Zhou;;;2006.10972;;;none;;;2020-06-19;;;post-quantum,security
 ZKPs: Does This Make The Cut? Recent Advances and Success of Zero-Knowledge Security Protocols;;;Stavros Kassaras, Leandros Maglaras;;;2006.09990;;;none;;;2020-06-17;;;proofs/applications
 The EMV Standard: Break, Fix, Verify;;;David Basin, Ralf Sasse, Jorge Toro-Pozo;;;2006.08249;;;none;;;2020-06-15;;;formal
 An Accurate, Scalable and Verifiable Protocol for Federated Differentially Private Averaging;;;César Sabater, Aurélien Bellet, Jan Ramon;;;2006.07218;;;none;;;2020-06-12;;;proofs
@@ -89,8 +89,8 @@ Certifying Findel Derivatives for Blockchain;;;Andrei Arusoaie;;;2005.13602;;;no
 AQUAREUM: Non-Equivocating Censorship-Evident Centralized Ledger with EVM-Based Verifiable Execution using Trusted Computing and Blockchain;;;Ivan Homoliak, Mario Larangeira, Martin Peresini, Pawel Szalachowski;;;2005.13339;;;none;;;2020-05-27;;;security
 SNARKs to the rescue: proof-of-contact in zero knowledge;;;Zachary Ratliff, Joud Khoury;;;2005.12676;;;none;;;2020-05-26;;;proofs/snark
 GSL: A Cryptographic Library for the strong RSA Graph Signature Scheme;;;Ioannis Sfyrakis, Thomas Gross;;;2005.12447;;;none;;;2020-05-26;;;proofs/applications
-Post-Quantum Multi-Party Computation;;;Amit Agarwal, James Bartusek, Vipul Goyal, Dakshita Khurana, Giulio Malavolta;;;2005.12904;;;none;;;2020-05-23;;;proofs
-HQC-RMRS, an instantiation of the HQC encryption framework with a more efficient auxiliary error-correcting code;;;Nicolas Aragon, Philippe Gaborit, Gilles Zémor;;;2005.10741;;;none;;;2020-05-21;;;security
+Post-Quantum Multi-Party Computation;;;Amit Agarwal, James Bartusek, Vipul Goyal, Dakshita Khurana, Giulio Malavolta;;;2005.12904;;;none;;;2020-05-23;;;post-quantum,proofs
+HQC-RMRS, an instantiation of the HQC encryption framework with a more efficient auxiliary error-correcting code;;;Nicolas Aragon, Philippe Gaborit, Gilles Zémor;;;2005.10741;;;none;;;2020-05-21;;;post-quantum,security
 Deterministic spin-photon entanglement from a trapped ion in a fiber Fabry-Perot cavity;;;Pascal Kobel, Moritz Breyer, Michael Köhl;;;2005.09124;;;none;;;2020-05-18;;;security
 CryptoMaze: Privacy-Preserving Splitting of Off-Chain Payments;;;Subhra Mazumdar, Sushmita Ruj;;;2005.07574;;;none;;;2020-05-15;;;security
 Quantum key distribution with any two independent and identically distributed states;;;Akihiro Mizutani;;;2005.06886;;;none;;;2020-05-14;;;security
@@ -100,7 +100,7 @@ Towards Privacy-assured and Lightweight On-chain Auditing of Decentralized Stora
 Provably insecure group authentication: Not all security proofs are what they claim to be;;;Chris J Mitchell;;;2005.05376;;;none;;;2020-05-11;;;security
 Secure Software Leasing;;;Prabhanjan Ananth, Rolando L. La Placa;;;2005.05289;;;none;;;2020-05-11;;;security
 Verification of Quantitative Hyperproperties Using Trace Enumeration Relations;;;Shubham Sahai, Rohit Sinha, Pramod Subramanyan;;;2005.04606;;;none;;;2020-05-10;;;formal,proofs
-Lattice-based public key encryption with equality test supporting flexible authorization in standard model;;;Dung Hoang Duong, Kazuhide Fukushima, Shinsaku Kiyomoto, Partha Sarathi Roy, Arnaud Sipasseuth, Willy Susilo;;;2005.05308;;;none;;;2020-05-09;;;security
+Lattice-based public key encryption with equality test supporting flexible authorization in standard model;;;Dung Hoang Duong, Kazuhide Fukushima, Shinsaku Kiyomoto, Partha Sarathi Roy, Arnaud Sipasseuth, Willy Susilo;;;2005.05308;;;none;;;2020-05-09;;;post-quantum,security
 On the TOCTOU Problem in Remote Attestation;;;Ivan De Oliveira Nunes, Sashidhar Jakkamsetti, Norrathep Rattanavipanon, Gene Tsudik;;;2005.03873;;;none;;;2020-05-08;;;formal,security
 The Binary-Outcome Detection Loophole;;;Thomas Cope;;;2005.03344;;;none;;;2020-05-07;;;security
 Secure System Virtualization: End-to-End Verification of Memory Isolation;;;Hamed Nemati;;;2005.02605;;;none;;;2020-05-06;;;formal,security
@@ -108,7 +108,7 @@ Privately Connecting Mobility to Infectious Diseases via Applied Cryptography;;;
 Classical proofs of quantum knowledge;;;Thomas Vidick, Tina Zhang;;;2005.01691;;;none;;;2020-05-04;;;proofs
 Single trusted qubit is necessary and sufficient for quantum realisation of extremal no-signaling correlations;;;Ravishankar Ramanathan, Michał Banacki, Ricard Ravell Rodríguez, Paweł Horodecki;;;2004.14782;;;none;;;2020-04-30;;;security
 Quantum Key Recycling with Optimal Key Recycling Rate based on Error Rate;;;Yu-Chin Lu, Chia-Wei Tsai, Tzonelih Hwang;;;2004.11596;;;none;;;2020-04-24;;;security
-On the ideal shortest vector problem over random rational primes;;;Yanbin Pan, Jun Xu, Nick Wadleigh, Qi Cheng;;;2004.10278;;;none;;;2020-04-21;;;security
+On the ideal shortest vector problem over random rational primes;;;Yanbin Pan, Jun Xu, Nick Wadleigh, Qi Cheng;;;2004.10278;;;none;;;2020-04-21;;;post-quantum,security
 The Imandra Automated Reasoning System (system description);;;Grant Olney Passmore, Simon Cruanes, Denis Ignatovich, Dave Aitken, Matt Bray, Elijah Kagan, Kostya Kanishev, Ewen Maclean, Nicola Mometto;;;2004.10263;;;none;;;2020-04-21;;;proofs
 Security of quantum key distribution with detection-efficiency mismatch in the multiphoton case;;;Anton Trushechkin;;;2004.07809;;;none;;;2020-04-16;;;security
 Composable Security for Multipartite Entanglement Verification;;;Raja Yehia, Eleni Diamanti, Iordanis Kerenidis;;;2004.07679;;;none;;;2020-04-16;;;security
@@ -120,7 +120,7 @@ Building secure distributed applications the DECENT way;;;Haofan Zheng, Owen Ard
 Single-Shot Secure Quantum Network Coding for General Multiple Unicast Network with Free One-Way Public Communication;;;Go Kato, Masaki Owari, Masahito Hayashi;;;2003.13293;;;none;;;2020-03-30;;;security
 Security Analysis of the Open Banking Account and Transaction API Protocol;;;Paolo Modesti, Leo Freitas, Qudus Shotomiwa, Abdulaziz Almehrej;;;2003.12776;;;none;;;2020-03-28;;;formal
 Quantum Alice and Silent Bob: Qubit-based Quantum Key Recycling with almost no classical communication;;;Daan Leermakers, Boris Skoric;;;2003.11799;;;none;;;2020-03-26;;;security
-From Information Theory Puzzles in Deletion Channels to Deniability in Quantum Cryptography;;;Arash Atashpendar;;;2003.11663;;;none;;;2020-03-25;;;security
+From Information Theory Puzzles in Deletion Channels to Deniability in Quantum Cryptography;;;Arash Atashpendar;;;2003.11663;;;none;;;2020-03-25;;;post-quantum,security
 Information-theoretically-sound non-interactive classical verification of quantum computing with trusted center;;;Tomoyuki Morimae;;;2003.10712;;;none;;;2020-03-24;;;proofs
 Dragoon: Private Decentralized HITs Made Practical;;;Yuan Lu, Qiang Tang, Guiling Wang;;;2003.10074;;;none;;;2020-03-23;;;proofs/applications,proofs/snark
 Automatically Proving Microkernels Free from Privilege Escalation from their Executable;;;Olivier Nicole, Matthieu Lemerre, Sébastien Bardin, Xavier Rival;;;2003.08915;;;none;;;2020-03-19;;;formal,security
@@ -128,16 +128,16 @@ Security Of Finite-Key-Length Measurement-Device-Independent Quantum Key Distrib
 Simplified BB84 quantum key distribution secure against coherent attacks;;;Yu-Shuo Lu, Hua-Lei Yin, Zeng-Bing Chen;;;2003.08268;;;none;;;2020-03-18;;;security
 On Sufficient and Necessary Conditions in Bounded CTL: A Forgetting Approach;;;Renyan Feng, Erman Acar, Stefan Schlobach, Yisong Wang, Wanwei Liu;;;2003.06492;;;none;;;2020-03-13;;;formal
 PayPlace: Secure and Flexible Operator-Mediated Payments in Blockchain Marketplaces at Scale;;;Madhumitha Harishankar, Dimitrios-Georgios Akestoridis, Sriram V. Iyer, Aron Laszka, Carlee Joe-Wong, Patrick Tague;;;2003.06197;;;none;;;2020-03-13;;;proofs/applications
-The Measure-and-Reprogram Technique 2.0: Multi-Round Fiat-Shamir and More;;;Jelle Don, Serge Fehr, Christian Majenz;;;2003.05207;;;none;;;2020-03-11;;;proofs/zk-protocols,security
+The Measure-and-Reprogram Technique 2.0: Multi-Round Fiat-Shamir and More;;;Jelle Don, Serge Fehr, Christian Majenz;;;2003.05207;;;none;;;2020-03-11;;;post-quantum,proofs/zk-protocols,security
 Teaching a Formalized Logical Calculus;;;Asta Halkjær From, Alexander Birch Jensen, Anders Schlichtkrull, Jørgen Villadsen;;;2002.12555;;;none;;;2020-02-28;;;proofs
 Almost Public Quantum Coins;;;Amit Behera, Or Sattath;;;2002.12438;;;none;;;2020-02-27;;;security
 PASCAL: Timing SCA Resistant Design and Verification Flow;;;Xinhui Lai, Maksim Jenihhin, Jaan Raik, Kolin Paul;;;2002.11108;;;none;;;2020-02-25;;;security
 Experimental composable security decoy-state quantum key distribution using time-phase encoding;;;Hua-Lei Yin, Peng Liu, Wei-Wei Dai, Zhao-Hui Ci, Jie Gu, Tian Gao, Qiang-Wei Wang, Zi-Yao Shen;;;2002.10668;;;none;;;2020-02-25;;;security
 On the complexity of zero gap MIP*;;;Hamoon Mousavi, Seyed Sajjad Nezhadi, Henry Yuen;;;2002.10490;;;none;;;2020-02-24;;;proofs
 Practical Verification of MapReduce Computation Integrity via Partial Re-execution;;;Eunjung Yoon, Peng Liu;;;2002.09560;;;none;;;2020-02-21;;;proofs
-Quantum Time-Space Tradeoff for Finding Multiple Collision Pairs;;;Yassine Hamoudi, Frédéric Magniez;;;2002.08944;;;none;;;2020-02-20;;;security
+Quantum Time-Space Tradeoff for Finding Multiple Collision Pairs;;;Yassine Hamoudi, Frédéric Magniez;;;2002.08944;;;none;;;2020-02-20;;;post-quantum,security
 On Function Description;;;Rade Vuckovac;;;2003.05269;;;none;;;2020-02-19;;;security
-Algebraic Extension Ring Framework for Non-Commutative Asymmetric Cryptography;;;Pedro Hecht;;;2002.08343;;;none;;;2020-02-19;;;proofs,security
+Algebraic Extension Ring Framework for Non-Commutative Asymmetric Cryptography;;;Pedro Hecht;;;2002.08343;;;none;;;2020-02-19;;;post-quantum,proofs,security
 Security analysis of the W-OTS$^+$ signature scheme: Updating security bounds;;;M. A. Kudinov, E. O. Kiktenko, A. K. Fedorov;;;2002.07419;;;none;;;2020-02-18;;;security
 Secure BB84-type quantum key distribution with simple phase error formula;;;Hua-Lei Yin, Zeng-Bing Chen;;;2002.06921;;;none;;;2020-02-17;;;security
 Asymptotic security analysis of teleportation based quantum cryptography;;;Diogo Lima, Gustavo Rigolin;;;2002.03984;;;none;;;2020-02-10;;;security

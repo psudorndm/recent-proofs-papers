@@ -7,11 +7,11 @@ Chosen-Ciphertext Security from Subset Sum;;;Sebastian Faust, Daniel Masny, Dani
 Two-Round Man-in-the-Middle Security from LPN;;;David Cash, Eike Kiltz, Stefano Tessaro;;;2015/1220;;;none;;;2015-12-23;;;security
 Non-Transferable Proxy Re-Encryption;;;Hui Guo, Zhenfeng Zhang, Jing Xu;;;2015/1216;;;none;;;2015-12-21;;;security
 Simple Security Definitions for and Constructions of 0-RTT Key Exchange;;;Britta Hale, Tibor Jager, Sebastian Lauer, Jörg Schwenk;;;2015/1214;;;none;;;2015-12-20;;;security
-Quantum Security of the Fujisaki-Okamoto and OAEP Transforms;;;Ehsan Ebrahimi Targhi, Dominique Unruh;;;2015/1210;;;none;;;2015-12-19;;;security
+Quantum Security of the Fujisaki-Okamoto and OAEP Transforms;;;Ehsan Ebrahimi Targhi, Dominique Unruh;;;2015/1210;;;none;;;2015-12-19;;;post-quantum,security
 Collision Attacks against CAESAR Candidates -- Forgery and Key-Recovery against AEZ and Marble;;;Thomas Fuhr, Gaëtan Leurent, Valentin Suder;;;2015/1193;;;none;;;2015-12-16;;;security
 A Formal Analysis of Prefetching in Profiled Cache-Timing Attacks on Block Ciphers;;;Chester Rebeiro, Debdeep Mukhopadhyay;;;2015/1191;;;none;;;2015-12-16;;;formal
 Compact Attribute-Based Encryption and Signcryption for General Circuits from Multilinear Maps;;;Pratish Datta, Ratna Dutta, Sourav Mukhopadhyay;;;2015/1188;;;none;;;2015-12-16;;;security
-Efficient Pseudorandom Functions via On-the-Fly Adaptation;;;Nico Doettling, Dominique Schröder;;;2015/1185;;;none;;;2015-12-13;;;security
+Efficient Pseudorandom Functions via On-the-Fly Adaptation;;;Nico Doettling, Dominique Schröder;;;2015/1185;;;none;;;2015-12-13;;;post-quantum,security
 Authenticated Range \& Closest Point Queries in Zero-Knowledge;;;Esha Ghosh, Olga Ohrimenko, Roberto Tamassia;;;2015/1183;;;none;;;2015-12-13;;;proofs
 Chaskey: a MAC Algorithm for Microcontrollers -- Status Update and Proposal of Chaskey-12 --;;;Nicky Mouha;;;2015/1182;;;none;;;2015-12-13;;;security
 Secure Comparator: a ZKP-Based Authentication System;;;Ignat Korchagin, Eugene Pilyankevich;;;2015/1180;;;none;;;2015-12-10;;;proofs
@@ -21,9 +21,9 @@ From Identification to Signatures, Tightly: A Framework and Generic Transforms;;
 From Stateless to Stateful: Generic Authentication and Authenticated Encryption Constructions with Application to TLS;;;Colin Boyd, Britta Hale, Stig Frode Mjølsnes, Douglas Stebila;;;2015/1150;;;none;;;2015-11-29;;;security
 Mitigating Server Breaches in Password-Based Authentication: Secure and Efficient Solutions;;;Olivier Blazy, Céline Chevalier, Damien Vergnaud;;;2015/1144;;;none;;;2015-11-27;;;security
 On the Security of the Schnorr Signature Scheme and DSA against Related-Key Attacks;;;Hiraku Morita, Jacob C. N. Schuldt, Takahiro Matsuda, Goichiro Hanaoka, Tetsu Iwata;;;2015/1135;;;none;;;2015-11-26;;;security
-Tighter Security for Efficient Lattice Cryptography via the Rényi Divergence of Optimized Orders;;;Katsuyuki Takashima, Atsushi Takayasu;;;2015/1132;;;none;;;2015-11-26;;;security
+Tighter Security for Efficient Lattice Cryptography via the Rényi Divergence of Optimized Orders;;;Katsuyuki Takashima, Atsushi Takayasu;;;2015/1132;;;none;;;2015-11-26;;;post-quantum,security
 Practical Order-Revealing Encryption with Limited Leakage;;;Nathan Chenette, Kevin Lewi, Stephen A. Weis, David J. Wu;;;2015/1125;;;none;;;2015-11-22;;;security
-Even More Practical Key Exchanges for the Internet using Lattice Cryptography;;;Vikram Singh, Arjun Chopra;;;2015/1120;;;none;;;2015-11-19;;;security
+Even More Practical Key Exchanges for the Internet using Lattice Cryptography;;;Vikram Singh, Arjun Chopra;;;2015/1120;;;none;;;2015-11-19;;;post-quantum,security
 Efficient Culpably Sound NIZK Shuffle Argument without Random Oracles;;;Prastudy Fauzi, Helger Lipmaa;;;2015/1112;;;none;;;2015-11-18;;;proofs/applications,proofs/zk-protocols
 Concurrent Secure Computation via Non-Black Box Simulation;;;Vipul Goyal, Divya Gupta, Amit Sahai;;;2015/1107;;;none;;;2015-11-18;;;proofs
 Virtual Smart Cards: How to Sign with a Password and a Server;;;Jan Camenisch, Anja Lehmann, Gregory Neven, Kai Samelin;;;2015/1101;;;none;;;2015-11-14;;;security
@@ -51,7 +51,7 @@ Cut Down the Tree to Achieve Constant Complexity in Divisible E-Cash;;;David Poi
 Zero-Knowledge Interactive Proof Systems for New Lattice Problems;;;Claude Crepéau, Raza Ali Kazmi;;;2015/969;;;none;;;2015-10-09;;;proofs
 Online-Offline Homomorphic Signatures for Polynomial Functions;;;Kaoutar Elkhiyaoui, Melek Önen, Refik Molva;;;2015/954;;;none;;;2015-10-01;;;proofs,security
 A Compiler of Two-Party Protocols for Composable and Game-Theoretic Security, and Its Application to Oblivious Transfer;;;Shota Goto, Junji Shikata;;;2015/950;;;none;;;2015-09-30;;;security
-A Provably Secure Short Signature Scheme from Coding Theory;;;Maryam Rajabzadeh Asaar, Mahmoud Salmasizadeh, Mohammad Reza Aref;;;2015/948;;;none;;;2015-09-28;;;security
+A Provably Secure Short Signature Scheme from Coding Theory;;;Maryam Rajabzadeh Asaar, Mahmoud Salmasizadeh, Mohammad Reza Aref;;;2015/948;;;none;;;2015-09-28;;;post-quantum,security
 Secure Set-based Policy Checking and Its Application to Password Registration;;;Changyu Dong, Franziskus Kiefer;;;2015/945;;;none;;;2015-09-28;;;security
 Ballot secrecy: Security definition, sufficient conditions, and analysis of Helios;;;Ben Smyth;;;2015/942;;;none;;;2015-09-28;;;proofs/applications
 Secure Association for the Internet of Things;;;Almog Benin, Sivan Toledo, Eran Tromer;;;2015/940;;;none;;;2015-09-28;;;security
@@ -66,7 +66,7 @@ RoadRunneR: A Small And Fast Bitslice Block Cipher For Low Cost 8-bit Processors
 Almost-tight Identity Based Encryption against Selective Opening Attack;;;Junqing Gong, Xiaolei Dong, Zhenfu Cao, Jie Chen;;;2015/904;;;none;;;2015-09-17;;;security
 Private Ciphertext-Policy Attribute-based Encryption Schemes With Constant-Size Ciphertext Supporting CNF Access Policy;;;Sébastien Canard, Viet Cuong Trinh;;;2015/891;;;none;;;2015-09-15;;;security
 Composable Security in the Tamper Proof Hardware Model under Minimal Complexity;;;Carmit Hazay, Antigoni Polychroniadou, Muthuramakrishnan Venkitasubramaniam;;;2015/887;;;none;;;2015-09-13;;;security
-Making Existential-Unforgeable Signatures Strongly Unforgeable in the Quantum Random-Oracle Model;;;Edward Eaton, Fang Song;;;2015/878;;;none;;;2015-09-13;;;security
+Making Existential-Unforgeable Signatures Strongly Unforgeable in the Quantum Random-Oracle Model;;;Edward Eaton, Fang Song;;;2015/878;;;none;;;2015-09-13;;;post-quantum,security
 Multilinear and Aggregate Pseudorandom Functions: New Constructions and Improved Security;;;Michel Abdalla, Fabrice Benhamouda, Alain Passelègue;;;2015/867;;;none;;;2015-09-08;;;security
 Idealizing Identity-Based Encryption;;;Dennis Hofheinz, Christian Matt, Ueli Maurer;;;2015/862;;;none;;;2015-09-08;;;security
 A Synthetic Indifferentiability Analysis of Interleaved Double-Key Even-Mansour Ciphers;;;Chun Guo, Dongdai Lin;;;2015/861;;;none;;;2015-09-06;;;security
@@ -77,7 +77,7 @@ Traceable CP-ABE on Prime Order Groups: Fully Secure and Fully Collusion-resista
 Offline Witness Encryption;;;Hamza Abusalah, Georg Fuchsbauer, Krzysztof Pietrzak;;;2015/838;;;none;;;2015-08-31;;;proofs/zk-protocols/group
 Unique Signature with Short Output from CDH Assumption;;;Shiuan-Tzuo Shen, Amir Rezapour, Wen-Guey Tzeng;;;2015/830;;;none;;;2015-08-26;;;security
 Programmable Hash Functions go Private:Constructions and Applications to (Homomorphic) Signatures with Shorter Public Keys;;;Dario Catalano, Dario Fiore, Luca Nizzardo;;;2015/826;;;none;;;2015-08-26;;;security
-Efficiently Obfuscating Re-Encryption Program under DDH Assumption;;;Akshayaram Srinivasan, C. Pandu Rangan;;;2015/822;;;none;;;2015-08-21;;;security
+Efficiently Obfuscating Re-Encryption Program under DDH Assumption;;;Akshayaram Srinivasan, C. Pandu Rangan;;;2015/822;;;none;;;2015-08-21;;;post-quantum,security
 Extended Nested Dual System Groups, Revisited;;;Junqing Gong, Jie Chen, Xiaolei Dong, Zhenfu Cao, Shaohua Tang;;;2015/820;;;none;;;2015-08-21;;;security
 CLKS: Certificateless Keyword Search on Encrypted Data;;;Qingji Zheng, Xiangxue Li, Aytac Azgin;;;2015/814;;;none;;;2015-08-17;;;security
 Improved OR Composition of Sigma-Protocols;;;Michele Ciampi, Giuseppe Persiano, Alessandra Scafuro, Luisa Siniscalchi, Ivan Visconti;;;2015/810;;;none;;;2015-08-14;;;proofs/zk-protocols
@@ -92,7 +92,7 @@ Non-Malleable Encryption: Simpler, Shorter, Stronger;;;Sandro Coretti, Yevgeniy 
 A SAT-based Public Key Cryptography Scheme;;;Sebastian E. Schmittner;;;2015/771;;;none;;;2015-08-03;;;proofs/zk-protocols
 A Transform for NIZK Almost as Efficient and General as the Fiat-Shamir Transform Without Programmable Random Oracles;;;Michele Ciampi, Giuseppe Persiano, Luisa Siniscalchi, Ivan Visconti;;;2015/770;;;none;;;2015-08-03;;;proofs/zk-protocols
 Stream Cipher Operation Modes with Improved Security against Generic Collision Attacks;;;Matthias Hamann, Matthias Krause;;;2015/757;;;none;;;2015-07-30;;;security
-Revisiting TESLA in the quantum random oracle model;;;Erdem Alkim, Nina Bindel, Johannes Buchmann, Özgür Dagdelen, Edward Eaton, Gus Gutoski, Juliane Krämer, Filip Pawlega;;;2015/755;;;none;;;2015-07-30;;;security
+Revisiting TESLA in the quantum random oracle model;;;Erdem Alkim, Nina Bindel, Johannes Buchmann, Özgür Dagdelen, Edward Eaton, Gus Gutoski, Juliane Krämer, Filip Pawlega;;;2015/755;;;none;;;2015-07-30;;;post-quantum,security
 Self-bilinear Map from One Way Encoding System and Indistinguishability Obfuscation;;;Huang Zhang, Fangguo Zhang, Baodian Wei, Yusong Du;;;2015/747;;;none;;;2015-07-30;;;security
 Short Group Signatures via Structure-Preserving Signatures: Standard Model Security from Simple Assumptions;;;Benoit Libert, Thomas Peters, Moti Yung;;;2015/743;;;none;;;2015-07-24;;;security
 Predictable Arguments of Knowledge;;;Antonio Faonio, Jesper Buus Nielsen, Daniele Venturi;;;2015/740;;;none;;;2015-07-24;;;proofs
@@ -100,7 +100,7 @@ Authenticated Encryption with Small Stretch (or, How to Accelerate AERO);;;Kazuh
 Provably-Secure Remote Memory Attestation to Prevent Heap Overflow Attacks;;;Alexandra Boldyreva, Taesoo Kim, Richard Lipton, Bogdan Warinschi;;;2015/729;;;none;;;2015-07-21;;;security
 Provable Virus Detection: Using the Uncertainty Principle to Protect Against Malware;;;Richard J. Lipton, Rafail Ostrovsky, Vassilis Zikas;;;2015/728;;;none;;;2015-07-21;;;security
 KDM-Security via Homomorphic Smooth Projective Hashing;;;Hoeteck Wee;;;2015/721;;;none;;;2015-07-21;;;security
-New Circular Security Counterexamples from Decision Linear and Learning with Errors;;;Allison Bishop, Susan Hohenberger, Brent Waters;;;2015/715;;;none;;;2015-07-18;;;security
+New Circular Security Counterexamples from Decision Linear and Learning with Errors;;;Allison Bishop, Susan Hohenberger, Brent Waters;;;2015/715;;;none;;;2015-07-18;;;post-quantum,security
 Adaptive Proofs have Straightline Extractors (in the Random Oracle Model);;;David Bernhard, Bogdan Warinschi, Ngoc Khanh Nguyen;;;2015/712;;;none;;;2015-07-18;;;proofs/zk-protocols/group,security
 Privacy-Preserving Content-Based Image Retrieval in the Cloud (Extended Version);;;Bernardo Ferreira, João Rodrigues, João Leitão, Henrique Domingos;;;2015/710;;;none;;;2015-07-18;;;security
 Reconciling User Privacy and Implicit Authentication for Mobile Devices;;;Siamak F. Shahandashti, Reihaneh Safavi-Naini, Nashad Ahmed Safa;;;2015/707;;;none;;;2015-07-18;;;security
@@ -117,7 +117,7 @@ The Pythia PRF Service;;;Adam Everspaugh, Rahul Chatterjee, Samuel Scott, Ari Ju
 Short Accountable Ring Signatures Based on DDH;;;Jonathan Bootle, Andrea Cerulli, Pyrros Chaidos, Essam Ghadafi, Jens Groth, Christophe Petit;;;2015/643;;;none;;;2015-06-30;;;proofs,security
 Very-efficient simulatable flipping of many coins into a well;;;Luís T. A. N. Brandão;;;2015/640;;;none;;;2015-06-30;;;security
 On the Impossibility of Virtual Black-Box Obfuscation in Idealized Models;;;Mohammad Mahmoody, Ameer Mohammed, Soheil Nematihaji;;;2015/632;;;none;;;2015-06-30;;;security
-An Unconditionally Hiding and Long-Term Binding Post-Quantum Commitment Scheme;;;Daniel Cabarcas, Denise Demirel, Florian Göpfert, Jean Lancrenon, Thomas Wunderer;;;2015/628;;;none;;;2015-06-30;;;proofs
+An Unconditionally Hiding and Long-Term Binding Post-Quantum Commitment Scheme;;;Daniel Cabarcas, Denise Demirel, Florian Göpfert, Jean Lancrenon, Thomas Wunderer;;;2015/628;;;none;;;2015-06-30;;;post-quantum,proofs
 Practical Round-Optimal Blind Signatures in the Standard Model;;;Georg Fuchsbauer, Christian Hanser, Daniel Slamanig;;;2015/626;;;none;;;2015-06-30;;;security
 Automated Analysis and Synthesis of Authenticated Encryption Schemes;;;Viet Tung Hoang, Jonathan Katz, Alex J. Malozemoff;;;2015/624;;;none;;;2015-06-30;;;security
 Statistical Concurrent Non-malleable Zero-knowledge from One-way Functions;;;Susumu Kiyoshima;;;2015/620;;;none;;;2015-06-30;;;proofs
@@ -130,12 +130,12 @@ Fair and Robust Multi-Party Computation using a Global Transaction Ledger;;;Agge
 On Public Key Encryption from Noisy Codewords;;;Eli Ben-Sasson, Iddo Ben-Tov, Ivan Damgard, Yuval Ishai, Noga ron-Zewi;;;2015/572;;;none;;;2015-06-17;;;security
 A Framework for Identity-Based Encryption with Almost Tight Security;;;Nuttapong Attrapadung, Goichiro Hanaoka, Shota Yamada;;;2015/566;;;none;;;2015-06-17;;;security
 PUDA – Privacy and Unforgeability for Data Aggregation;;;Iraklis Leontiadis, Kaoutar Elkhiyaoui, Melek Önen, Refik Molva;;;2015/562;;;none;;;2015-06-17;;;security
-Generic Construction of UC-Secure Oblivious Transfer;;;Olivier Blazy, Céline Chevalier;;;2015/560;;;none;;;2015-06-17;;;security
+Generic Construction of UC-Secure Oblivious Transfer;;;Olivier Blazy, Céline Chevalier;;;2015/560;;;none;;;2015-06-17;;;post-quantum,security
 Concurrent Secure Computation with Optimal Query Complexity;;;Ran Canetti, Vipul Goyal, Abhishek Jain;;;2015/559;;;none;;;2015-06-17;;;security
 Attribute-Based Signcryption : Signer Privacy, Strong Unforgeability and IND-CCA2 Security in Adaptive-Predicates Attack;;;Tapas Pandit, Sumit Kumar Pandey, Rana Barua;;;2015/555;;;none;;;2015-06-15;;;security
 An Algebraic Framework for Pseudorandom Functions and Applications to Related-Key Security;;;Michel Abdalla, Fabrice Benhamouda, Alain Passelègue;;;2015/554;;;none;;;2015-06-15;;;security
 Round-Optimal Black-Box Two-Party Computation;;;Rafail Ostrovsky, Silas Richelson, Alessandra Scafuro;;;2015/553;;;none;;;2015-06-14;;;security
-ILTRU: An NTRU-Like Public Key Cryptosystem Over Ideal Lattices;;;Amir Hassani Karbasi, Reza Ebrahimi Atani;;;2015/549;;;none;;;2015-06-08;;;security
+ILTRU: An NTRU-Like Public Key Cryptosystem Over Ideal Lattices;;;Amir Hassani Karbasi, Reza Ebrahimi Atani;;;2015/549;;;none;;;2015-06-08;;;post-quantum,security
 Actively Secure OT Extension with Optimal Overhead;;;Marcel Keller, Emmanuela Orsini, Peter Scholl;;;2015/546;;;none;;;2015-06-08;;;security
 Security of Full-State Keyed Sponge and Duplex: Applications to Authenticated Encryption;;;Bart Mennink, Reza Reyhanitabar, Damian Vizár;;;2015/541;;;none;;;2015-06-08;;;security
 Short Randomizable Signatures;;;David Pointcheval, Olivier Sanders;;;2015/525;;;none;;;2015-06-02;;;security
@@ -147,11 +147,11 @@ Fault Tolerant Infective Countermeasure for AES;;;Sikhar Patranabis, Abhishek Ch
 On Black-Box Complexity of Universally Composable Security in the CRS model;;;Carmit Hazay, Muthuramakrishnan Venkitasubramaniam;;;2015/488;;;none;;;2015-05-22;;;security
 DECIM: Detecting Endpoint Compromise In Messaging;;;Jiangshan Yu, Mark Ryan, Cas Cremers;;;2015/486;;;none;;;2015-05-21;;;formal
 Turning Online Ciphers Off;;;Elena Andreeva, Guy Barwell, Ritam Bhaumik, Mridul Nandi, Dan Page, Martijn Stam;;;2015/485;;;none;;;2015-05-21;;;security
-Improved security proofs in lattice-based cryptography: using the Rényi divergence rather than the statistical distance;;;Shi Bai, Adeline Langlois, Tancrëde Lepoint, Amin Sakzad, Damien Stehle, Ron Steinfeld;;;2015/483;;;none;;;2015-05-21;;;security
+Improved security proofs in lattice-based cryptography: using the Rényi divergence rather than the statistical distance;;;Shi Bai, Adeline Langlois, Tancrëde Lepoint, Amin Sakzad, Damien Stehle, Ron Steinfeld;;;2015/483;;;none;;;2015-05-21;;;post-quantum,security
 How to build time-lock encryption;;;Jia Liu, Tibor Jager, Saqib A. Kakvi, Bogdan Warinschi;;;2015/482;;;none;;;2015-05-21;;;proofs/snark
 Trinocchio: Privacy-Friendly Outsourcing by Distributed Verifiable Computation;;;Berry Schoenmakers, Meilof Veeningen, Niels de Vreede;;;2015/480;;;none;;;2015-05-20;;;proofs
-A Provably Secure Group Signature Scheme from Code-Based Assumptions;;;Martianus Frederic Ezerman, Hyung Tae Lee, San Ling, Khoa Nguyen, Huaxiong Wang;;;2015/479;;;none;;;2015-05-20;;;security
-Efficient Fully Homomorphic Encryption with Circularly Secure Key Switching Process;;;Zhou Tanping, Yang Xiaoyuan, Zhang Wei, Wu Liqiang;;;2015/466;;;none;;;2015-05-17;;;security
+A Provably Secure Group Signature Scheme from Code-Based Assumptions;;;Martianus Frederic Ezerman, Hyung Tae Lee, San Ling, Khoa Nguyen, Huaxiong Wang;;;2015/479;;;none;;;2015-05-20;;;post-quantum,security
+Efficient Fully Homomorphic Encryption with Circularly Secure Key Switching Process;;;Zhou Tanping, Yang Xiaoyuan, Zhang Wei, Wu Liqiang;;;2015/466;;;none;;;2015-05-17;;;post-quantum,security
 On the Amortized Complexity of Zero-knowledge Protocols;;;Ronald Cramer, Ivan Damgård, Marcel Keller;;;2015/446;;;none;;;2015-05-09;;;proofs/zk-protocols/group
 Revisiting Security Claims of XLS and COPA;;;Mridul Nandi;;;2015/444;;;none;;;2015-05-09;;;security
 A Note on the Unsoundness of vnTinyRAM's SNARK;;;Bryan Parno;;;2015/437;;;none;;;2015-05-07;;;proofs/snark
@@ -165,14 +165,14 @@ Augmented Secure Channels and the Goal of the TLS 1.3 Record Layer;;;Christian B
 Feasibility and Completeness of Cryptographic Tasks in the Quantum World;;;Serge Fehr, Jonathan Katz, Fang Song, Hong-Sheng Zhou, Vassilis Zikas;;;2015/385;;;none;;;2015-04-28;;;security
 Impossibility of VBB Obfuscation with Ideal Constant-Degree Graded Encodings;;;Rafael Pass, abhi shelat;;;2015/383;;;none;;;2015-04-28;;;security
 Cluster Computing in Zero Knowledge;;;Alessandro Chiesa, Eran Tromer, Madars Virza;;;2015/377;;;none;;;2015-04-27;;;proofs/snark
-Cryptography from Post-Quantum Assumptions;;;Raza Ali Kazmi;;;2015/376;;;none;;;2015-04-24;;;proofs
+Cryptography from Post-Quantum Assumptions;;;Raza Ali Kazmi;;;2015/376;;;none;;;2015-04-24;;;post-quantum,proofs
 On the Impossibility of Tight Cryptographic Reductions;;;Christoph Bader, Tibor Jager, Yong Li, Sven Schäge;;;2015/374;;;none;;;2015-04-24;;;security
 Financial Cryptography: Discriminatory Pricing Mechanism;;;Sumit Chakraborty;;;2015/370;;;none;;;2015-04-23;;;proofs
 On Non-Black-Box Simulation and the Impossibility of Approximate Obfuscation;;;Nir Bitansky, Omer Paneth;;;2015/369;;;none;;;2015-04-23;;;proofs
 Computationally binding quantum commitments;;;Dominique Unruh;;;2015/361;;;none;;;2015-04-23;;;proofs,security
 Efficient Searchable Symmetric Encryption for Storing Multiple Source Data on Cloud;;;Chang Liu, Liehuang Zhu, Jinjun Chen;;;2015/349;;;none;;;2015-04-23;;;security
 End-to-End Verifiable Elections in the Standard Model∗;;;Aggelos Kiayias, Thomas Zacharias, Bingsheng Zhang;;;2015/346;;;none;;;2015-04-22;;;proofs/applications,security
-Two Round Multiparty Computation via Multi-Key FHE;;;Pratyay Mukherjee, Daniel Wichs;;;2015/345;;;none;;;2015-04-22;;;proofs/zk-protocols/lattice
+Two Round Multiparty Computation via Multi-Key FHE;;;Pratyay Mukherjee, Daniel Wichs;;;2015/345;;;none;;;2015-04-22;;;post-quantum,proofs/zk-protocols/lattice
 Certificate Validation in Secure Computation and Its Use in Verifiable Linear Programming;;;Sebastiaan de Hoogh, Berry Schoenmakers, Meilof Veeningen;;;2015/339;;;none;;;2015-04-20;;;proofs,security
 Continuous After-the-fact Leakage-Resilient eCK-secure Key Exchange;;;Janaka Alawatugoda, Douglas Stebila, Colin Boyd;;;2015/335;;;none;;;2015-04-19;;;security
 A New Authenticated Encryption Technique for Handling Long Ciphertexts in Memory Constrained Devices;;;Megha Agrawal, Donghoon Chang, Somitra Sanadhya;;;2015/331;;;none;;;2015-04-19;;;security
@@ -202,7 +202,7 @@ Leakage-Resilient Cryptography with Key Derived from Sensitive Data;;;Konrad Dur
 Secure Physical Computation using Disposable Circuits;;;Ben Fisch, Daniel Freund, Moni Naor;;;2015/226;;;none;;;2015-03-11;;;proofs
 GORAM -- Group ORAM for Privacy and Access Control in Outsourced Personal Records;;;Matteo Maffei, Giulio Malavolta, Manuel Reinert, Dominique Schröder;;;2015/224;;;none;;;2015-03-09;;;proofs
 Towards Understanding the Known-Key Security of Block Ciphers;;;Elena Andreeva, Andrey Bogdanov, Bart Mennink;;;2015/222;;;none;;;2015-03-09;;;security
-Key Homomorphic PRFs and Their Applications;;;Dan Boneh, Kevin Lewi, Hart Montgomery, Ananth Raghunathan;;;2015/220;;;none;;;2015-03-09;;;security
+Key Homomorphic PRFs and Their Applications;;;Dan Boneh, Kevin Lewi, Hart Montgomery, Ananth Raghunathan;;;2015/220;;;none;;;2015-03-09;;;post-quantum,security
 Efficient k-out-of-n oblivious transfer protocol;;;wang qinglong;;;2015/218;;;none;;;2015-03-08;;;security
 Quasi-Adaptive NIZK for Linear Subspaces Revisited;;;Eike Kiltz, Hoeteck Wee;;;2015/216;;;none;;;2015-03-08;;;proofs/zk-protocols/group
 Attribute-Based Versions of Schnorr and ElGamal;;;Javier Herranz;;;2015/213;;;none;;;2015-03-06;;;security
@@ -224,23 +224,23 @@ Constant Size Ring Signature Without Random Oracle;;;Priyanka Bose, Dipanjan Das
 Building Lossy Trapdoor Functions from Lossy Encryption;;;Brett Hemenway, Rafail Ostrovsky;;;2015/156;;;none;;;2015-02-27;;;security
 Multi-Client Verifiable Computation with Stronger Security Guarantees;;;S. Dov Gordon, Jonathan Katz, Feng-Hao Liu, Elaine Shi, Hong-Sheng Zhou;;;2015/142;;;none;;;2015-02-27;;;proofs,security
 The Random Oracle Model: A Twenty-Year Retrospective;;;Neal Koblitz, Alfred Menezes;;;2015/140;;;none;;;2015-02-27;;;security
-A Practical Key Exchange for the Internet using Lattice Cryptography;;;Vikram Singh;;;2015/138;;;none;;;2015-02-27;;;security
+A Practical Key Exchange for the Internet using Lattice Cryptography;;;Vikram Singh;;;2015/138;;;none;;;2015-02-27;;;post-quantum,security
 Multilinear Pseudorandom Functions;;;Aloni Cohen, Justin Holmgren;;;2015/125;;;none;;;2015-02-26;;;security
 Identity-based encryption with (almost) tight security in the multi-instance, multi-ciphertext setting;;;Dennis Hofheinz, Jessica Koch, Christoph Striecks;;;2015/123;;;none;;;2015-02-26;;;security
 Making Masking Security Proofs Concrete or How to Evaluate the Security of any Leaking Device (Extended Version);;;Alexandre Duc, Sebastian Faust, François-Xavier Standaert;;;2015/119;;;none;;;2015-02-26;;;formal,security
 Constructing and Understanding Chosen Ciphertext Security via Puncturable Key Encapsulation Mechanisms;;;Takahiro Matsuda, Goichiro Hanaoka;;;2015/118;;;none;;;2015-02-24;;;security
 Re-encryption Veriﬁability: How to Detect Malicious Activities of a Proxy in Proxy Re-encryption;;;Satsuya Ohata, Yutaka Kawai, Takahiro Matsuda, Goichiro Hanaoka, Kanta Matsuura;;;2015/112;;;none;;;2015-02-24;;;security
 Dynamic Searchable Symmetric Encryption with Minimal Leakage and Efficient Updates on Commodity Hardware;;;Attila A. Yavuz, Jorge Guajardo;;;2015/107;;;none;;;2015-02-24;;;security
-Provably weak instances of Ring-LWE;;;Yara Elias, Kristin E. Lauter, Ekin Ozman, Katherine E. Stange;;;2015/106;;;none;;;2015-02-24;;;security
+Provably weak instances of Ring-LWE;;;Yara Elias, Kristin E. Lauter, Ekin Ozman, Katherine E. Stange;;;2015/106;;;none;;;2015-02-24;;;post-quantum,security
 Inner Product Masking Revisited;;;Josep Balasch, Sebastian Faust, Benedikt Gierlichs;;;2015/105;;;none;;;2015-02-24;;;security
 Weakening the Isolation Assumption of Tamper-proof Hardware Tokens;;;Rafael Dowsley, Jörn Müller-Quade, Tobias Nilges;;;2015/104;;;none;;;2015-02-23;;;security
 GCM-SIV: Full Nonce Misuse-Resistant Authenticated Encryption at Under One Cycle per Byte;;;Shay Gueron, Yehuda Lindell;;;2015/102;;;none;;;2015-02-23;;;security
 Universally Composable Firewall Architectures using Trusted Hardware;;;Dirk Achenbach, Jörn Müller-Quade, Jochen Rill;;;2015/099;;;none;;;2015-02-23;;;security
-Adaptive-ID Secure Revocable Identity-Based Encryption from Lattices via Subset Difference Method;;;Shantian Cheng, Juanyang Zhang;;;2015/098;;;none;;;2015-02-23;;;security
+Adaptive-ID Secure Revocable Identity-Based Encryption from Lattices via Subset Difference Method;;;Shantian Cheng, Juanyang Zhang;;;2015/098;;;none;;;2015-02-23;;;post-quantum,security
 Revisiting Cryptographic Accumulators, Additional Properties and Relations to other Primitives;;;David Derler, Christian Hanser, Daniel Slamanig;;;2015/087;;;none;;;2015-02-14;;;proofs
 Practical Compact E-Cash with Arbitrary Wallet Size;;;Patrick Märtens;;;2015/086;;;none;;;2015-02-14;;;security
 On the Security of the COPA and Marble Authenticated Encryption Algorithms against (Almost) Universal Forgery Attack;;;Jiqiang Lu;;;2015/079;;;none;;;2015-02-10;;;security
-Fully Homomorphic Encryption from Ring-LWE：Identity-Based，Arbitrary Cyclotomic，Tighter Parameters;;;GU Chun-xiang, Xin Dan, ZHENG Yong-hui, KANG Yuan-ji;;;2015/078;;;none;;;2015-02-10;;;security
+Fully Homomorphic Encryption from Ring-LWE：Identity-Based，Arbitrary Cyclotomic，Tighter Parameters;;;GU Chun-xiang, Xin Dan, ZHENG Yong-hui, KANG Yuan-ji;;;2015/078;;;none;;;2015-02-10;;;post-quantum,security
 Fully Structure-Preserving Signatures and Shrinking Commitments;;;Masayuki Abe, Markulf Kohlweiss, Miyako Ohkubo, Mehdi Tibouchi;;;2015/076;;;none;;;2015-02-10;;;proofs
 Mind the Gap: Modular Machine-checked Proofs of One-Round Key Exchange Protocols;;;Gilles Barthe, Juan Manuel Crespo, Yassine Lakhnech, Benedikt Schmidt;;;2015/074;;;none;;;2015-02-10;;;formal,security
 Non-Interactive Zero-Knowledge Proofs of Non-Membership;;;Olivier Blazy, Céline Chevalier, Damien Vergnaud;;;2015/072;;;none;;;2015-02-10;;;proofs/applications,proofs/zk-protocols
@@ -252,11 +252,11 @@ Universally Verifiable Multiparty Computation from Threshold Homomorphic Cryptos
 Interactive Message-Locked Encryption and Secure Deduplication;;;Mihir Bellare, Sriram Keelveedhi;;;2015/052;;;none;;;2015-01-22;;;security
 Stretching Groth-Sahai: NIZK Proofs of Partial Satisfiability;;;Carla Ràfols;;;2015/050;;;none;;;2015-01-22;;;proofs/zk-protocols/group,security
 Group Signature with Deniability: How to Disavow a Signature;;;Ai Ishida, Keita Emura, Goichiro Hanaoka, Yusuke Sakai, Keisuke Tanaka;;;2015/043;;;none;;;2015-01-20;;;security
-Simpler Efficient Group Signatures from Lattices;;;Phong Q. Nguyen, Jiang Zhang, Zhenfeng Zhang;;;2015/020;;;none;;;2015-01-12;;;proofs/zk-protocols/lattice,security
+Simpler Efficient Group Signatures from Lattices;;;Phong Q. Nguyen, Jiang Zhang, Zhenfeng Zhang;;;2015/020;;;none;;;2015-01-12;;;post-quantum,proofs/zk-protocols/lattice,security
 Strongly-Optimal Structure Preserving Signatures from Type II Pairings: Synthesis and Lower Bounds;;;Gilles Barthe, Edvard Fagerholm, Dario Fiore, Andre Scedrov, Benedikt Schmidt, Mehdi Tibouchi;;;2015/019;;;none;;;2015-01-12;;;security
 Efficient Statically-Secure Large-Universe Multi-Authority Attribute-Based Encryption;;;Yannis Rouselakis, Brent Waters;;;2015/016;;;none;;;2015-01-12;;;security
 One-Round Key Exchange with Strong Security: An Efficient and Generic Construction in the Standard Model;;;Florian Bergsma, Tibor Jager, Jörg Schwenk;;;2015/015;;;none;;;2015-01-12;;;security
-Group Signatures from Lattices: Simpler, Tighter, Shorter, Ring-based;;;San Ling, Khoa Nguyen, Huaxiong Wang;;;2015/014;;;none;;;2015-01-12;;;proofs
-Low Noise LPN: KDM Secure Public Key Encryption and Sample Amplification;;;Nico Döttling;;;2015/013;;;none;;;2015-01-12;;;security
+Group Signatures from Lattices: Simpler, Tighter, Shorter, Ring-based;;;San Ling, Khoa Nguyen, Huaxiong Wang;;;2015/014;;;none;;;2015-01-12;;;post-quantum,proofs
+Low Noise LPN: KDM Secure Public Key Encryption and Sample Amplification;;;Nico Döttling;;;2015/013;;;none;;;2015-01-12;;;post-quantum,security
 Two-Server Password-Authenticated Secret Sharing UC-Secure Against Transient Corruptions;;;Jan Camenisch, Robert R. Enderlein, Gregory Neven;;;2015/006;;;none;;;2015-01-05;;;security
 Onion ORAM: A Constant Bandwidth Blowup Oblivious RAM;;;Srinivas Devadas, Marten van Dijk, Christopher W. Fletcher, Ling Ren, Elaine Shi, Daniel Wichs;;;2015/005;;;none;;;2015-01-05;;;proofs/snark

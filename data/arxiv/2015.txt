@@ -18,7 +18,7 @@ Efficient and Anonymous Two-Factor User Authentication in Wireless Sensor Networ
 CV-MDI-QKD: One-mode Gaussian attacks are not enough;;;Carlo Ottaviani, Gaetana Spedalieri, Samuel L. Braunstein, Stefano Pirandola;;;1509.04144;;;none;;;2015-09-14;;;security
 Attack on a classical analogue of the Dunjko, Wallden, Kent and Andersson quantum digital signature protocol;;;Derrick Newton;;;1509.03843;;;none;;;2015-09-13;;;formal
 Relational reasoning via probabilistic coupling;;;Gilles Barthe, Thomas Espitau, Benjamin Grégoire, Justin Hsu, Léo Stefanesco, Pierre-Yves Strub;;;1509.03476;;;none;;;2015-09-11;;;formal
-Making Existential-Unforgeable Signatures Strongly Unforgeable in the Quantum Random-Oracle Model;;;Edward Eaton, Fang Song;;;1509.02944;;;none;;;2015-09-09;;;security
+Making Existential-Unforgeable Signatures Strongly Unforgeable in the Quantum Random-Oracle Model;;;Edward Eaton, Fang Song;;;1509.02944;;;none;;;2015-09-09;;;post-quantum,security
 Quantum teleportation and nonlocality: the puzzling predictions of entanglement are coming of age;;;Nicolas Gisin, Sébastien Tanzilli, Wolfgang Tittel;;;1508.05962;;;none;;;2015-08-24;;;security
 Lower bounds for the parameterized complexity of Minimum Fill-in and other completion problems;;;Ivan Bliznets, Marek Cygan, Pawel Komosa, Lukas Mach, Michal Pilipczuk;;;1508.05282;;;none;;;2015-08-21;;;proofs/iop
 Experimental Measurement-Device-Independent Quantum Key Distribution with Imperfect Sources;;;Zhiyuan Tang, Kejin Wei, Olinka Bedroya, Li Qian, Hoi-Kwong Lo;;;1508.03562;;;none;;;2015-08-14;;;security
@@ -41,7 +41,7 @@ Two-User Erasure Interference Channels with Local Delayed CSIT;;;Alireza Vahid, 
 Finite key size analysis of two-way quantum cryptography;;;Jesni Shamsul Shaari, Stefano Mancini;;;1503.01498;;;none;;;2015-03-04;;;security
 Simulating Auxiliary Inputs, Revisited;;;Maciej Skorski;;;1503.00484;;;none;;;2015-03-02;;;proofs,security
 Multi-partite squash operation and its application to device-independent quantum key distribution;;;Toyohiro Tsurumaru, Tsubasa Ichikawa;;;1502.04802;;;none;;;2015-02-17;;;security
-Provably weak instances of Ring-LWE;;;Yara Elias, Kristin E. Lauter, Ekin Ozman, Katherine E. Stange;;;1502.03708;;;none;;;2015-02-12;;;security
+Provably weak instances of Ring-LWE;;;Yara Elias, Kristin E. Lauter, Ekin Ozman, Katherine E. Stange;;;1502.03708;;;none;;;2015-02-12;;;post-quantum,security
 Universally-composable finite-key analysis for efficient four-intensity decoy-state quantum key distribution;;;Haodong Jiang, Ming Gao, Bao Yan, Weilong Wang, Zhi Ma;;;1502.02249;;;none;;;2015-02-08;;;security
 Extracting verified decision procedures: DPLL and Resolution;;;Ulrich Berger, Andrew Lawrence, Fredrik Nordvall Forsberg, Monika Seisenberger;;;1502.02131;;;none;;;2015-02-07;;;proofs
 Leakage-resilient Cryptography with key derived from sensitive data;;;Konrad Durnoga, Tomasz Kazana, Michał Zając, Maciej Zdanowicz;;;1502.00172;;;none;;;2015-01-31;;;security

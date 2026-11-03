@@ -34,7 +34,7 @@ Virtual noiseless amplification and Gaussian post-selection in continuous-variab
 Turing-equivalent automata using a fixed-size quantum memory;;;Abuzer Yakaryilmaz;;;1205.5395;;;none;;;2012-05-24;;;proofs
 Unconditionally verifiable blind computation;;;Joseph F. Fitzsimons, Elham Kashefi;;;1203.5217;;;none;;;2012-03-23;;;proofs
 Parallel Repetition of Prover-Verifier Quantum Interactions;;;Abel Molina;;;1203.4885;;;none;;;2012-03-22;;;proofs
-Quantum Money from Hidden Subspaces;;;Scott Aaronson, Paul Christiano;;;1203.4740;;;none;;;2012-03-21;;;security
+Quantum Money from Hidden Subspaces;;;Scott Aaronson, Paul Christiano;;;1203.4740;;;none;;;2012-03-21;;;post-quantum,security
 A New Look at Composition of Authenticated Byzantine Generals;;;Anuj Gupta, Prasant Gopal, Piyush Bansal, Kannan Srinathan;;;1203.1463;;;none;;;2012-03-07;;;security
 A New Approach to Practical Active-Secure Two-Party Computation;;;Jesper Buus Nielsen, Peter Sebastian Nordholt, Claudio Orlandi, Sai Sheshank Burra;;;1202.3052;;;none;;;2012-02-14;;;security
 Verifiable Computation with Massively Parallel Interactive Proofs;;;Justin Thaler, Mike Roberts, Michael Mitzenmacher, Hanspeter Pfister;;;1202.1350;;;none;;;2012-02-07;;;proofs

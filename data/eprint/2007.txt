@@ -20,14 +20,14 @@ Proxy Re-Signature Schemes without Random Oracles;;;Jun Shao, Zhenfu Cao, Lichen
 Interactive and Noninteractive Zero Knowledge Coincide in the Help Model;;;Dragos Florin Ciocan, Salil Vadhan;;;2007/389;;;none;;;2007-10-04;;;proofs
 On Ciphertext Undetectability;;;Peter Gazi, Martin Stanek;;;2007/388;;;none;;;2007-10-04;;;security
 Non-Interactive Anonymous Credentials;;;Mira Belenkiy, Melissa Chase, Markulf Kohlweiss, Anna Lysyanskaya;;;2007/384;;;none;;;2007-10-04;;;proofs/applications,security
-Oblivious Transfer via McEliece's PKC and Permuted Kernels;;;K. Kobara, K. Morozov, R. Overbeck;;;2007/382;;;none;;;2007-09-27;;;proofs
+Oblivious Transfer via McEliece's PKC and Permuted Kernels;;;K. Kobara, K. Morozov, R. Overbeck;;;2007/382;;;none;;;2007-09-27;;;post-quantum,proofs
 On the Authentication of One Popular Signcryption Scheme;;;Zhengjun Cao;;;2007/372;;;none;;;2007-09-19;;;proofs
 Universally Composable Multi-Party Computation with an Unreliable Common Reference String;;;Vipul Goyal, Jonathan Katz;;;2007/369;;;none;;;2007-09-19;;;security
 A Proof of Security of a Mesh Security Architecture;;;Doug Kuhlman, Ryan Moriarty, Tony Braskich, Steve Emeott, Mahesh Tripunitara;;;2007/364;;;none;;;2007-09-13;;;security
 Sufficient Conditions for Intractability over Black-Box Groups: Generic Lower Bounds for Generalized DL and DH Problems;;;Andy Rupp, Gregor Leander, Endre Bangerter, Ahmad-Reza Sadeghi, Alexander W. Dent;;;2007/360;;;none;;;2007-09-13;;;security
 Intrusion-Resilient Secret Sharing;;;Stefan Dziembowski, Krzysztof Pietrzak;;;2007/359;;;none;;;2007-09-13;;;security
 Statistically Hiding Sets;;;Manoj Prabhakaran, Rui Xue;;;2007/349;;;none;;;2007-09-06;;;proofs,security
-A Framework for Efficient and Composable Oblivious Transfer;;;Chris Peikert, Vinod Vaikuntanathan, Brent Waters;;;2007/348;;;none;;;2007-09-06;;;security
+A Framework for Efficient and Composable Oblivious Transfer;;;Chris Peikert, Vinod Vaikuntanathan, Brent Waters;;;2007/348;;;none;;;2007-09-06;;;post-quantum,security
 Security Analysis of WAPI Authentication and Key Exchange Protocol;;;Liufei Wu, Yuqing Zhang, FengjiaoWang;;;2007/344;;;none;;;2007-09-05;;;security
 A New Security Model for Cross-Realm C2C-PAKE Protocol;;;Fengjiao Wang, Yuqing Zhang;;;2007/342;;;none;;;2007-09-05;;;security
 Mobile Phones as Secure Gateways for Message-Based Ubiquitous Communication (Revised);;;W. Bamberger, O. Welter, S. Spitz, M. Marhöfer;;;2007/337;;;none;;;2007-08-29;;;security

@@ -2,18 +2,18 @@ Cryptanalysis of an efficient certificateless two-party authenticated key agreem
 On the (In)security of Fischlin's Paradigm;;;Prabhanjan Ananth, Raghav Bhaskar, Vipul Goyal, Vanishree Rao;;;2012/721;;;none;;;2012-12-27;;;proofs/zk-protocols,security
 Succinct Non-Interactive Arguments via Linear Interactive Proofs;;;Nir Bitansky, Alessandro Chiesa, Yuval Ishai, Rafail Ostrovsky, Omer Paneth;;;2012/718;;;none;;;2012-12-27;;;proofs/iop,proofs/snark
 Practical Yet Universally Composable Two-Server Password-Authenticated Secret Sharing;;;Jan Camenisch, Anna Lysyanskaya, Gregory Neven;;;2012/717;;;none;;;2012-12-27;;;security
-Attribute-Based Functional Encryption on Lattices;;;Xavier Boyen;;;2012/716;;;none;;;2012-12-27;;;security
+Attribute-Based Functional Encryption on Lattices;;;Xavier Boyen;;;2012/716;;;none;;;2012-12-27;;;post-quantum,security
 Unprovable Security of 2-Message Zero Knowledge;;;Kai-Min Chung, Edward Lui, Mohammad Mahmoody, Rafael Pass;;;2012/711;;;none;;;2012-12-19;;;proofs,security
 Non Observability in the Random Oracle Model;;;Prabhanjan Ananth, Raghav Bhaskar;;;2012/710;;;none;;;2012-12-19;;;proofs/zk-protocols,security
 On the (In)security of the Fiat-Shamir Paradigm, Revisited;;;Dana Dachman-Soled, Abhishek Jain, Yael Tauman Kalai, Adriana Lopez-Alt;;;2012/706;;;none;;;2012-12-18;;;proofs/iop,proofs/zk-protocols
-Why "Fiat-Shamir for Proofs" Lacks a Proof;;;Nir Bitansky, Sanjam Garg, Daniel Wichs;;;2012/705;;;none;;;2012-12-18;;;formal,security
+Why "Fiat-Shamir for Proofs" Lacks a Proof;;;Nir Bitansky, Sanjam Garg, Daniel Wichs;;;2012/705;;;none;;;2012-12-18;;;formal,post-quantum,security
 On the Non-malleability of the Fiat-Shamir Transform;;;Sebastian Faust, Markulf Kohlweiss, Giorgia Azzurra Marson, Daniele Venturi;;;2012/704;;;none;;;2012-12-18;;;proofs/zk-protocols,security
 Efficient, Adaptively Secure, and Composable Oblivious Transfer with a Single, Global CRS;;;Seung Geol Choi, Jonathan Katz, Hoeteck Wee, Hong-Sheng Zhou;;;2012/700;;;none;;;2012-12-14;;;security
 Verifiable Elections That Scale for Free;;;Melissa Chase, Markulf Kohlweiss, Anna Lysyanskaya, Sarah Meiklejohn;;;2012/697;;;none;;;2012-12-14;;;proofs/applications,proofs/zk-protocols
 Fully Automated Analysis of Padding-Based Encryption in the Computational Model;;;Gilles Barthe, Juan Manuel Crespo, Benjamin Grégoire, César Kunz, Yassine Lakhnech, Benedikt Schmidt, Santiago Zanella-Béguelin;;;2012/695;;;none;;;2012-12-14;;;security
-Encoding Functions with Constant Online Rate or How to Compress Garbled Circuits Keys;;;Benny Applebaum, Yuval Ishai, Eyal Kushilevitz, Brent Waters;;;2012/693;;;none;;;2012-12-14;;;proofs/zk-protocols/group,proofs/zk-protocols/lattice
+Encoding Functions with Constant Online Rate or How to Compress Garbled Circuits Keys;;;Benny Applebaum, Yuval Ishai, Eyal Kushilevitz, Brent Waters;;;2012/693;;;none;;;2012-12-14;;;post-quantum,proofs/zk-protocols/group,proofs/zk-protocols/lattice
 Cryptography Using CAPTCHA Puzzles;;;Abishek Kumarasubramanian, Rafail Ostrovsky, Omkant Pandey, Akshay Wadia;;;2012/689;;;none;;;2012-12-10;;;proofs,security
-A Simple Provably Secure Key Exchange Scheme Based on the Learning with Errors Problem;;;Jintai Ding, Xiang Xie, Xiaodong Lin;;;2012/688;;;none;;;2012-12-10;;;security
+A Simple Provably Secure Key Exchange Scheme Based on the Learning with Errors Problem;;;Jintai Ding, Xiang Xie, Xiaodong Lin;;;2012/688;;;none;;;2012-12-10;;;post-quantum,security
 The k-BDH Assumption Family: Bilinear Map Cryptography from Progressively Weaker Assumptions;;;Karyn Benson, Hovav Shacham, Brent Waters;;;2012/687;;;none;;;2012-12-10;;;security
 Proofs of Retrievability with Public Verifiability and Constant Communication Cost in Cloud;;;Jiawei Yuan, Shucheng Yu;;;2012/682;;;none;;;2012-12-10;;;proofs/pcs
 Fully Secure Unbounded Inner-Product and Attribute-Based Encryption;;;Tatsuaki Okamoto, Katsuyuki Takashima;;;2012/671;;;none;;;2012-11-28;;;security
@@ -38,13 +38,13 @@ A NEW APPROACH TO THE DISCRETE LOGARITHM PROBLEM WITH AUXILIARY INPUTS;;;Taechan
 Leakage-Resilient Cryptography from Minimal Assumptions;;;Carmit Hazay, Adriana Lopez-Alt, Hoeteck Wee, Daniel Wichs;;;2012/604;;;none;;;2012-10-25;;;security
 The LED Block Cipher;;;Jian Guo, Thomas Peyrin, Axel Poschmann, Matt Robshaw;;;2012/600;;;none;;;2012-10-25;;;security
 Attribute-Based Encryption for Circuits from Multilinear Maps;;;Amit Sahai, Brent Waters;;;2012/592;;;none;;;2012-10-25;;;security
-On Provably Secure Code-based Signature and Signcryption Scheme;;;Preetha Mathew K, Sachin Vasant, C. Pandu Rangan;;;2012/585;;;none;;;2012-10-16;;;security
+On Provably Secure Code-based Signature and Signcryption Scheme;;;Preetha Mathew K, Sachin Vasant, C. Pandu Rangan;;;2012/585;;;none;;;2012-10-16;;;post-quantum,security
 New Constructions and Proof Methods for Large Universe Attribute-Based Encryption;;;Yannis Rouselakis, Brent Waters;;;2012/583;;;none;;;2012-10-16;;;security
 A Framework for Unique Ring Signatures;;;Matthew Franklin, Haibin Zhang;;;2012/577;;;none;;;2012-10-16;;;security
 Concurrent Signature without Random Oracles;;;Xiao Tan, Qiong Huang, Duncan S. Wong;;;2012/576;;;none;;;2012-10-16;;;security
 Limits on the Usefulness of Random Oracles;;;Iftach Haitner, Eran Omri, Hila Zarosim;;;2012/573;;;none;;;2012-10-14;;;security
 On Constant-Round Concurrent Zero-Knowledge from a Knowledge Assumption;;;Divya Gupta, Amit Sahai;;;2012/572;;;none;;;2012-10-14;;;proofs,security
-Improved Zero-knowledge Proofs of Knowledge for the ISIS Problem, and Applications;;;San Ling, Khoa Nguyen, Damien Stehle, Huaxiong Wang;;;2012/569;;;none;;;2012-10-07;;;proofs/zk-protocols/lattice,security
+Improved Zero-knowledge Proofs of Knowledge for the ISIS Problem, and Applications;;;San Ling, Khoa Nguyen, Damien Stehle, Huaxiong Wang;;;2012/569;;;none;;;2012-10-07;;;post-quantum,proofs/zk-protocols/lattice,security
 Constant-Round Concurrent Zero Knowledge From Falsifiable Assumptions;;;Kai-Min Chung, Huijia Lin, Rafael Pass;;;2012/563;;;none;;;2012-10-07;;;proofs
 Computational Soundness of Coinductive Symbolic Security under Active Attacks;;;Mohammad Hajiabadi, Bruce M. Kapron;;;2012/560;;;none;;;2012-09-30;;;formal,security
 Plaintext Awareness in Identity-Based Key Encapsulation;;;Mark Manulis, Bertram Poettering, Douglas Stebila;;;2012/559;;;none;;;2012-09-30;;;security
@@ -68,13 +68,13 @@ An Efficient Signcryption Scheme from q-Diffie-Hellman Problems;;;Jayaprakash Ka
 Short Signatures From Diffie-Hellman: Realizing Short Public Key;;;Jae Hong Seo;;;2012/480;;;none;;;2012-08-21;;;security
 Mix-Compress-Mix Revisited: Dispensing with Non-invertible Random Injection Oracles;;;Mohammad Reza Reyhanitabar, Willy Susilo;;;2012/479;;;none;;;2012-08-21;;;security
 Efficient Signatures of Knowledge and DAA in the Standard Model;;;David Bernhard, Georg Fuchsbauer, Essam Ghadafi;;;2012/475;;;none;;;2012-08-18;;;security
-On the Semantic Security of Functional Encryption Schemes;;;Manuel Barbosa, Pooya Farshim;;;2012/474;;;none;;;2012-08-18;;;security
+On the Semantic Security of Functional Encryption Schemes;;;Manuel Barbosa, Pooya Farshim;;;2012/474;;;none;;;2012-08-18;;;post-quantum,security
 Sender Equivocable Encryption Schemes Secure against Chosen-Ciphertext Attacks Revisited;;;Zhengan Huang, Shengli Liu, Baodong Qin;;;2012/473;;;none;;;2012-08-18;;;security
 On the Simplicity of Converting Leakages from Multivariate to Univariate – Case Study of a Glitch-Resistant Masking Scheme –;;;Amir Moradi, Oliver Mischke;;;2012/472;;;none;;;2012-08-18;;;security
 Perfect Keyword Privacy in PEKS Systems;;;Mototsugu Nishioka;;;2012/469;;;none;;;2012-08-18;;;security
 Functional Encryption: New Perspectives and Lower Bounds;;;Shweta Agrawal, Sergey Gorbunov, Vinod Vaikuntanathan, Hoeteck Wee;;;2012/468;;;none;;;2012-08-18;;;proofs,security
 T-MATCH: Privacy-Preserving Item Matching for Storage-Only RFID Tags;;;Kaoutar Elkhiyaoui, Erik-Oliver Blass, Refik Molva;;;2012/465;;;none;;;2012-08-18;;;security
-Deterministic Public Key Encryption and Identity-Based Encryption from Lattices in the Auxiliary-Input Setting;;;Xiang Xie, Rui Xue, Rui Zhang;;;2012/463;;;none;;;2012-08-14;;;security
+Deterministic Public Key Encryption and Identity-Based Encryption from Lattices in the Auxiliary-Input Setting;;;Xiang Xie, Rui Xue, Rui Zhang;;;2012/463;;;none;;;2012-08-14;;;post-quantum,security
 Perfect Ambiguous Optimistic Fair Exchange;;;Yang Wang, Man Ho Au, Willy Susilo;;;2012/462;;;none;;;2012-08-14;;;security
 Succinct Arguments from Multi-Prover Interactive Proofs and their Efficiency Benefits;;;Nir Bitansky, Alessandro Chiesa;;;2012/461;;;none;;;2012-08-14;;;proofs/iop,proofs/snark
 Crowd-Blending Privacy;;;Johannes Gehrke, Michael Hay, Edward Lui, Rafael Pass;;;2012/456;;;none;;;2012-08-13;;;proofs
@@ -108,11 +108,11 @@ Achieving Constant Round Leakage-Resilient Zero-Knowledge;;;Omkant Pandey;;;2012
 Quantum Key Distribution in the Classical Authenticated Key Exchange Framework;;;Michele Mosca, Douglas Stebila, Berkant Ustaoglu;;;2012/361;;;none;;;2012-06-29;;;security
 Another look at non-uniformity;;;Neal Koblitz, Alfred Menezes;;;2012/359;;;none;;;2012-06-29;;;security
 Publicly Verifiable Ciphertexts;;;Juan Manuel Gonzälez Nieto, Mark Manulis, Bertram Poettering, Jothi Rangasamy, Douglas Stebila;;;2012/357;;;none;;;2012-06-22;;;security
-Fully Anonymous Attribute Tokens from Lattices;;;Jan Camenisch, Gregory Neven, Markus Rückert;;;2012/356;;;none;;;2012-06-22;;;security
-High-Throughput Hardware Architecture for the SWIFFT / SWIFFTX Hash Functions;;;Tamas Gyorfi, Octavian Cret, Guillaume Hanrot, Nicolas Brisebarre;;;2012/343;;;none;;;2012-06-22;;;security
+Fully Anonymous Attribute Tokens from Lattices;;;Jan Camenisch, Gregory Neven, Markus Rückert;;;2012/356;;;none;;;2012-06-22;;;post-quantum,security
+High-Throughput Hardware Architecture for the SWIFFT / SWIFFTX Hash Functions;;;Tamas Gyorfi, Octavian Cret, Guillaume Hanrot, Nicolas Brisebarre;;;2012/343;;;none;;;2012-06-22;;;post-quantum,security
 From Selective to Full Security: Semi-Generic Transformations in the Standard Model;;;Michel Abdalla, Dario Fiore, Vadim Lyubashevsky;;;2012/341;;;none;;;2012-06-22;;;security
 A Non-delegatable Identity-based Designated Verifier Signature Scheme without Bilinear Pairings;;;Maryam Rajabzadeh Asaar, Mahmoud Salmasizadeh;;;2012/332;;;none;;;2012-06-22;;;security
-The Multivariate Probabilistic Encryption Scheme MQQ-ENC;;;Danilo Gligoroski, Simona Samardjiska;;;2012/328;;;none;;;2012-06-12;;;security
+The Multivariate Probabilistic Encryption Scheme MQQ-ENC;;;Danilo Gligoroski, Simona Samardjiska;;;2012/328;;;none;;;2012-06-12;;;post-quantum,security
 Computationally Complete Symbolic Attacker in Action;;;Gergei Bana, Pedro Adão, Hideki Sakurada;;;2012/316;;;none;;;2012-06-05;;;formal
 Cryptanalysis of a Provably Secure Gateway-Oriented Password-Based Authenticated Key Exchange Protocol;;;Debiao He;;;2012/312;;;none;;;2012-06-03;;;security
 Tightly Secure Signatures and Public-Key Encryption;;;Dennis Hofheinz, Tibor Jager;;;2012/311;;;none;;;2012-06-03;;;proofs/zk-protocols,security
@@ -127,8 +127,8 @@ Ring Group Signatures;;;Liqun Chen;;;2012/289;;;none;;;2012-05-29;;;security
 Fair Exchange of Short Signatures without Trusted Third Party;;;Philippe Camacho;;;2012/288;;;none;;;2012-05-29;;;proofs/zk-protocols/group
 Efficient UC-Secure Authenticated Key-Exchange for Algebraic Languages;;;Fabrice Ben Hamouda, Olivier Blazy, Céline Chevalier, David Pointcheval, Damien Vergnaud;;;2012/284;;;none;;;2012-05-29;;;security
 Concurrent Zero Knowledge in the Bounded Player Model;;;Vipul Goyal, Abhishek Jain, Rafail Ostrovsky, Silas Richelson, Ivan Visconti;;;2012/279;;;none;;;2012-05-29;;;proofs,security
-Public-Key Cryptography from New Multivariate Quadratic Assumptions;;;Yun-Ju Huang, Feng-Hao Liu, Bo-Yin Yang;;;2012/273;;;none;;;2012-05-29;;;security
-On the CCA2 Security of McEliece in the Standard Model;;;Edoardo Persichetti;;;2012/268;;;none;;;2012-05-21;;;security
+Public-Key Cryptography from New Multivariate Quadratic Assumptions;;;Yun-Ju Huang, Feng-Hao Liu, Bo-Yin Yang;;;2012/273;;;none;;;2012-05-29;;;post-quantum,security
+On the CCA2 Security of McEliece in the Standard Model;;;Edoardo Persichetti;;;2012/268;;;none;;;2012-05-21;;;post-quantum,security
 Dual Form Signatures: An Approach for Proving Security from Static Assumptions;;;Michael Gerbush, Allison Lewko, Adam O'Neill, Brent Waters;;;2012/261;;;none;;;2012-05-09;;;security
 A Novel Strong Designated Verifier Signature Scheme without Random Oracles;;;Maryam Rajabzadeh Asaar, Mahmoud Salmasizadeh;;;2012/259;;;none;;;2012-05-09;;;proofs/zk-protocols/group,security
 Full Proof Cryptography: Verifiable Compilation of Efficient Zero-Knowledge Protocols;;;José Bacelar Almeida, Manuel Barbosa, Endre Bangerter, Gilles Barthe, Stephan Krenn, Santiago Zanella Béguelin;;;2012/258;;;none;;;2012-05-09;;;formal,proofs/applications,proofs/zk-protocols
@@ -136,10 +136,10 @@ Cryptanalysis of pairing-free certificateless authenticated key agreement protoc
 New Identity Based Encryption And Its Proxy Re-encryption;;;Xu An Wang, Xiaoyuan Yang;;;2012/250;;;none;;;2012-05-03;;;security
 Binary and q-ary Tardos codes, revisited;;;Boris Skoric, Jan-Jaap Oosterwijk;;;2012/249;;;none;;;2012-05-03;;;security
 Less is More: Relaxed yet Composable Security Notions for Key Exchange;;;C. Brzuska, M. Fischlin, N. P. Smart, B. Warinschi, S. Williams;;;2012/242;;;none;;;2012-04-30;;;security
-Zero-Knowledge for Multivariate Polynomials;;;Valerie Nachef, Jacques Patarin, Emmanuel Volte;;;2012/239;;;none;;;2012-04-30;;;proofs
+Zero-Knowledge for Multivariate Polynomials;;;Valerie Nachef, Jacques Patarin, Emmanuel Volte;;;2012/239;;;none;;;2012-04-30;;;post-quantum,proofs
 On Necessary and Sufficient Conditions for Private Ballot Submission;;;D. Bernhard, O. Pereira, B. Warinschi;;;2012/236;;;none;;;2012-04-30;;;proofs/applications,proofs/zk-protocols,security
 SPN-Hash: Improving the Provable Resistance Against Differential Collision Attacks;;;Jiali Choy, Huihui Yap, Khoongming Khoo, Jian Guo, Thomas Peyrin, Axel Poschmann, Chik How Tan;;;2012/234;;;none;;;2012-04-30;;;security
-On Ideal Lattices and Learning with Errors Over Rings;;;Vadim Lyubashevsky, Chris Peikert, Oded Regev;;;2012/230;;;none;;;2012-04-30;;;security
+On Ideal Lattices and Learning with Errors Over Rings;;;Vadim Lyubashevsky, Chris Peikert, Oded Regev;;;2012/230;;;none;;;2012-04-30;;;post-quantum,security
 Languages with Efficient Zero-Knowledge PCP's are in SZK;;;Mohammad Mahmoody, David Xiao;;;2012/229;;;none;;;2012-04-30;;;proofs/iop
 Physical Unclonable Functions in Cryptographic Protocols: Security Proofs and Impossibility Results;;;Marten van Dijk, Ulrich Rührmair;;;2012/228;;;none;;;2012-04-30;;;security
 ZKPDL: A Language-Based System for Efficient Zero-Knowledge Proofs and Electronic Cash;;;Sarah Meiklejohn, C. Chris Erway, Alptekin Küpçü, Theodora Hinkle, Anna Lysyanskaya;;;2012/226;;;none;;;2012-04-30;;;proofs/zk-protocols
@@ -153,18 +153,18 @@ Secure Similarity Coefficients Computation with Malicious Adversaries;;;Bo Zhang
 Beyond the Limitation of Prime-Order Bilinear Groups, and Round Optimal Blind Signatures;;;Jae Hong Seo, Jung Hee Cheon;;;2012/198;;;none;;;2012-04-13;;;security
 On The Security of One-Witness Blind Signature Schemes;;;Foteini Baldimtsi, Anna Lysyanskaya;;;2012/197;;;none;;;2012-04-13;;;security
 Multi-Instance Security and its Application to Password-Based Cryptography;;;Mihir Bellare, Thomas Ristenpart, Stefano Tessaro;;;2012/196;;;none;;;2012-04-13;;;security
-A Multivariate based Threshold Ring Signature Scheme;;;Albrecht Petzoldt, Stanislav Bulygin, Johannes Buchmann;;;2012/194;;;none;;;2012-04-13;;;security
+A Multivariate based Threshold Ring Signature Scheme;;;Albrecht Petzoldt, Stanislav Bulygin, Johannes Buchmann;;;2012/194;;;none;;;2012-04-13;;;post-quantum,security
 Security Analysis and Enhancement for Prefix-Preserving Encryption Schemes;;;Liangliang Xiao, I-Ling Yen;;;2012/191;;;none;;;2012-04-13;;;security
 Universally Composable Key-Management;;;Steve Kremer, Robert Künnemann, Graham Steel;;;2012/189;;;none;;;2012-04-11;;;security
 SmartTokens: Delegable Access Control with NFC-enabled Smartphones (Full Version);;;Alexandra Dmitrienko, Ahmad-Reza Sadeghi, Sandeep Tamrakar, Christian Wachsmann;;;2012/187;;;none;;;2012-04-11;;;security
-How to Construct Quantum Random Functions;;;Mark Zhandry;;;2012/182;;;none;;;2012-04-11;;;security
+How to Construct Quantum Random Functions;;;Mark Zhandry;;;2012/182;;;none;;;2012-04-11;;;post-quantum,security
 A Modular Framework for Multi-Factor Authentication and Key Exchange;;;Nils Fleischhacker, Mark Manulis, Amir Azodi;;;2012/181;;;none;;;2012-04-11;;;security
 Billion-Gate Secure Computation with Malicious Adversaries;;;Benjamin Kreuter, abhi shelat, Chih-hao Shen;;;2012/179;;;none;;;2012-04-11;;;security
 Eperio: Mitigating Technical Complexity in Cryptographic Election Verification;;;Aleksander Essex, Jeremy Clark, Urs Hengartner, Carlisle Adams;;;2012/178;;;none;;;2012-04-11;;;security
 Everlasting Multi-Party Computation;;;Dominique Unruh;;;2012/177;;;none;;;2012-04-11;;;security
 Zero Knowledge with Rubik's Cubes and Non-Abelian Groups;;;Emmanuel VOLTE, Jacques PATARIN, Valérie NACHEF;;;2012/174;;;none;;;2012-04-11;;;proofs
 Automatically Verified Mechanized Proof of One-Encryption Key Exchange;;;Bruno Blanchet;;;2012/173;;;none;;;2012-04-11;;;formal
-Quantum Money from Hidden Subspaces;;;Scott Aaronson, Paul Christiano;;;2012/171;;;none;;;2012-04-11;;;security
+Quantum Money from Hidden Subspaces;;;Scott Aaronson, Paul Christiano;;;2012/171;;;none;;;2012-04-11;;;post-quantum,security
 Provably Secure Online/Off-line Identity-Based Signature Scheme forWireless Sensor Network;;;Jayaprakash Kar;;;2012/162;;;none;;;2012-03-28;;;security
 A Framework for the Cryptographic Verification of Java-like Programs;;;Ralf Kuesters, Tomasz Truderung, Juergen Graf;;;2012/153;;;none;;;2012-03-23;;;security
 On security of a Certificateless Aggregate Signature Scheme;;;Limin Shen, Yinxia Sun;;;2012/152;;;none;;;2012-03-23;;;security
@@ -184,7 +184,7 @@ The Collision Security of MDC-4;;;Ewan Fleischmann, Christian Forler, Stefan Luc
 Recursive Composition and Bootstrapping for SNARKs and Proof-Carrying Data;;;Nir Bitansky, Ran Canetti, Alessandro Chiesa, Eran Tromer;;;2012/095;;;none;;;2012-02-24;;;proofs/iop/hash,proofs/snark/hash,security
 Computational Soundness of Symbolic Zero-knowledge Proofs: Weaker Assumptions and Mechanized Verification;;;Michael Backes, Fabian Bendun, Dominique Unruh;;;2012/081;;;none;;;2012-02-23;;;formal,proofs,security
 Strongly Unforgeable Proxy Re-Signatures in the Standard Model;;;S. Sree Vivek, S. Sharmila Deva Selvi, Guhan Balasubramanian, C. Pandu Rangan;;;2012/080;;;none;;;2012-02-23;;;security
-Secure Identity-Based Encryption in the Quantum Random Oracle Model;;;Mark Zhandry;;;2012/076;;;none;;;2012-02-23;;;security
+Secure Identity-Based Encryption in the Quantum Random Oracle Model;;;Mark Zhandry;;;2012/076;;;none;;;2012-02-23;;;post-quantum,security
 Efficient identity-based threshold decryption scheme from bilinear pairings;;;Wei Gao, Guilin Wang, Kefei Chen, Xueli Wang, Guoyan Zhang;;;2012/075;;;none;;;2012-02-23;;;security
 Another look at HMAC;;;Neal Koblitz, Alfred Menezes;;;2012/074;;;none;;;2012-02-23;;;security
 Efficient identity-based threshold signature scheme from bilinear pairings in the standard model;;;Wei Gao, Guilin Wang, Xueli Wang, Kefei Chen;;;2012/073;;;none;;;2012-02-23;;;security

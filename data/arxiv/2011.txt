@@ -9,13 +9,13 @@ Unconditional security proof of a deterministic quantum key distribution with a 
 Analysis of Differential Phase Shift Quantum Key Distribution;;;Monica Lavale;;;1110.4820;;;none;;;2011-10-21;;;security
 Gaussian Entanglement for Quantum Key Distribution from a Single-Mode Squeezing Source;;;Tobias Eberle, Vitus Händchen, Jörg Duhme, Torsten Franz, Fabian Furrer, Roman Schnabel, Reinhard F. Werner;;;1110.3977;;;none;;;2011-10-18;;;security
 Security of a biometric identity-based encryption scheme;;;Miaomiao Tian, Wei Yang, Liusheng Huang;;;1110.2653;;;none;;;2011-10-12;;;security
-Using Hash-Based Signatures to Bootstrap Quantum Key Distribution;;;Sébastien Kunz-Jacques, Paul Jouguet;;;1109.2844;;;none;;;2011-09-13;;;security
+Using Hash-Based Signatures to Bootstrap Quantum Key Distribution;;;Sébastien Kunz-Jacques, Paul Jouguet;;;1109.2844;;;none;;;2011-09-13;;;post-quantum,security
 Formal Analysis of UMTS Privacy;;;Myrto Arapinis, Loretta Ilaria Mancini, Eike Ritter, Mark Ryan;;;1109.2066;;;none;;;2011-09-09;;;formal
 Improved Data Post-Processing in Quantum Key Distribution and Application to Loss Thresholds in Device Independent QKD;;;Xiongfeng Ma, Norbert Lütkenhaus;;;1109.1203;;;none;;;2011-09-06;;;security
 Problems of Existing Unconditional Security Proofs in Quantum Key Distribution;;;Horace P. Yuen;;;1109.1051;;;none;;;2011-09-06;;;security
 Effect of Transmission Loss on The Fundamental Security of Quantum Key Distribution;;;Horace P. Yuen;;;1109.1049;;;none;;;2011-09-06;;;security
 On quantum interactive proofs with short messages;;;Attila Pereszlényi;;;1109.0964;;;none;;;2011-09-05;;;proofs
-LWE-based Identification Schemes;;;Rosemberg Silva, Antonio Campello, Ricardo Dahab;;;1109.0631;;;none;;;2011-09-03;;;proofs
+LWE-based Identification Schemes;;;Rosemberg Silva, Antonio Campello, Ricardo Dahab;;;1109.0631;;;none;;;2011-09-03;;;post-quantum,proofs
 A Framework for Devanagari Script-based Captcha;;;Sushma Yalamanchili, M. Kameswara Rao;;;1109.0132;;;none;;;2011-09-01;;;proofs
 Superposition Attacks on Cryptographic Protocols;;;Ivan Damgaard, Jakob Funder, Jesper Buus Nielsen, Louis Salvail;;;1108.6313;;;none;;;2011-08-31;;;proofs,security
 Unconditionally Secure Bit Commitment by Transmitting Measurement Outcomes;;;Adrian Kent;;;1108.2879;;;none;;;2011-08-14;;;security
@@ -32,7 +32,7 @@ Tight Finite-Key Analysis for Quantum Cryptography;;;Marco Tomamichel, Charles C
 Semi-device-independent security of one-way quantum key distribution;;;Marcin Pawlowski, Nicolas Brunner;;;1103.4105;;;none;;;2011-03-21;;;security
 A Formalization of Polytime Functions;;;Sylvain Heraud, David Nowak;;;1102.5495;;;none;;;2011-02-27;;;security
 Privacy-Enhanced Reputation-Feedback Methods to Reduce Feedback Extortion in Online Auctions;;;Michael T. Goodrich, Florian Kerschbaum;;;1102.4602;;;none;;;2011-02-22;;;proofs
-Fully Simulatable Quantum-Secure Coin-Flipping and Applications;;;Carolin Lunemann, Jesper Buus Nielsen;;;1102.0887;;;none;;;2011-02-04;;;proofs/zk-protocols
+Fully Simulatable Quantum-Secure Coin-Flipping and Applications;;;Carolin Lunemann, Jesper Buus Nielsen;;;1102.0887;;;none;;;2011-02-04;;;post-quantum,proofs/zk-protocols
 Cryptographic Protocols under Quantum Attacks;;;Carolin Lunemann;;;1102.0885;;;none;;;2011-02-04;;;security
 Quantum key distribution based on frequency-time coding: security and feasibility;;;Bing Qi;;;1101.5995;;;none;;;2011-01-31;;;security
 Secure gated detection scheme for quantum cryptography;;;Lars Lydersen, Vadim Makarov, Johannes Skaar;;;1101.5698;;;none;;;2011-01-29;;;security

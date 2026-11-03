@@ -12,7 +12,7 @@ Ciphertext Policy Attribute based Encryption with anonymous access policy;;;A. B
 ARQ Security in Wi-Fi and RFID Networks;;;Mohamed Elsabagh, Yara Abdallah, Moustafa Youssef, Hesham El Gamal;;;1010.3294;;;none;;;2010-10-15;;;security
 Tight exponential analysis of universally composable privacy amplification and its applications;;;Masahito Hayashi;;;1010.1358;;;none;;;2010-10-07;;;security
 Secure device-independent quantum key distribution with causally independent measurement devices;;;Lluis Masanes, Stefano Pironio, Antonio Acin;;;1009.1567;;;none;;;2010-09-08;;;security
-Random Oracles in a Quantum World;;;Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner, Mark Zhandry;;;1008.0931;;;none;;;2010-08-05;;;security
+Random Oracles in a Quantum World;;;Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner, Mark Zhandry;;;1008.0931;;;none;;;2010-08-05;;;post-quantum,security
 About functions where function input describes inner working of the function;;;Rade Vuckovac;;;1007.4660;;;none;;;2010-07-27;;;security
 Security of "Counterfactual Quantum Cryptography";;;Zhen-Qiang Yin, Hong-Wei Li, Zheng-Fu Han, Guang-Can Guo;;;1007.3066;;;none;;;2010-07-19;;;security
 Mean-Set Attack: Cryptanalysis of Sibert et al. Authentication Protocol;;;Natalia Mosina, Alexander Ushakov;;;1006.4850;;;none;;;2010-06-24;;;proofs/zk-protocols
