@@ -16,6 +16,8 @@
 #   subgroups        names of [shared.*] groups to add as sub-topics, e.g. ["assumptions"]
 #   arxiv_terms      top-level topics only: phrases the arXiv harvest searches
 #                    abstracts for (ePrint is harvested in full, so it needs none)
+#   tag_only         top-level topics only: true = only tag papers that another
+#                    topic already keeps (never pulls new papers into the archive)
 #
 # A paper gets a topic when any of its keywords / case_sensitive patterns match
 # the title or abstract. Sub-topics are only checked when the parent matched:
@@ -275,6 +277,36 @@ requires_case_sensitive = [
 arxiv_terms = [
     "formal verification", "mechanized proof", "verified implementation",
     "symbolic analysis", "Tamarin", "ProVerif", "CryptoVerif", "EasyCrypt",
+]
+
+# ---------------------------------------------------------------------------
+# Post-quantum: tags papers already in the archive (tag_only), so post-quantum
+# work without a proof / security-proof / verification angle is not added.
+# ---------------------------------------------------------------------------
+
+[topics.post-quantum]
+label = "post-quantum"
+tag_only = true
+keywords = [
+    'post[- ]quantum',
+    'quantum[- ](resistant|resistance|safe|secure|security)',
+    'quantum random[- ]oracle',
+    'lattice[- ]based',
+    'learning with errors',
+    'short integer solution',
+    'isogen(y|ies)[- ]based|isogenies',
+    'hash[- ]based signatures?',
+    'code[- ]based (cryptography|encryption|signatures?|kems?)',
+    'multivariate (cryptography|signatures?|quadratic)',
+    'quantum adversar',
+]
+case_sensitive = [
+    '\bPQC?\b',
+    '\bQROM\b',
+    '\b(ML-KEM|ML-DSA|SLH-DSA|FN-DSA|HQC)\b',
+    '\b(CRYSTALS-)?(Kyber|Dilithium)\b',
+    '\b(Falcon|SPHINCS\+?|XMSS|LMS|NTRU|FrodoKEM|SQIsign|CSIDH|SIDH|SIKE|McEliece|MAYO|UOV)\b',
+    '\b(M-?|R-?)?(LWE|SIS)\b',
 ]
 
 # ---------------------------------------------------------------------------

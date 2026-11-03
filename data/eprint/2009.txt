@@ -13,7 +13,7 @@ Confidential Signatures and Deterministic Signcryption;;;Alexander W. Dent, Marc
 A Game-Based Definition of Coercion-Resistance and its Applications;;;Ralf Kuesters, Tomasz Truderung, Andreas Vogt;;;2009/582;;;none;;;2009-12-01;;;formal
 Privacy-Preserving Public Auditing for Secure Cloud Storage;;;Cong Wang, Sherman S. -M. Chow, Qian Wang, Kui Ren, Wenjing Lou;;;2009/579;;;none;;;2009-12-01;;;security
 Efficient and Provably Secure Certificateless Signcryption from Bilinear Maps;;;Wenjian Xie, Zhang Zhang;;;2009/578;;;none;;;2009-12-01;;;security
-Public-Key Cryptographic Primitives Provably as Secure as Subset Sum;;;Vadim Lyubashevsky, Adriana Palacio, Gil Segev;;;2009/576;;;none;;;2009-12-01;;;security
+Public-Key Cryptographic Primitives Provably as Secure as Subset Sum;;;Vadim Lyubashevsky, Adriana Palacio, Gil Segev;;;2009/576;;;none;;;2009-12-01;;;post-quantum,security
 Secure Network Coding Over the Integers;;;Rosario Gennaro, Jonathan Katz, Hugo Krawczyk, Tal Rabin;;;2009/569;;;none;;;2009-11-25;;;security
 Ephemeral key compromise attack on the IB-KA protocol;;;Qingfeng Cheng, Chuangui Ma;;;2009/568;;;none;;;2009-11-23;;;security
 New Cryptosystems From CSP-Based Self-Distributive Systems;;;Licheng Wang, Lihua Wang, Zhenfu Cao, Eiji Okamoto, Jun Shao;;;2009/566;;;none;;;2009-11-23;;;security
@@ -26,7 +26,7 @@ New Constructions of Convertible Undeniable Signature Schemes without Random Ora
 Blake-Wilson, Johnson and Menezes Protocol Revisited;;;Hai Huang, Zhenfu Cao;;;2009/515;;;none;;;2009-10-26;;;security
 Generic One Round Group Key Exchange in the Standard Model;;;M. Choudary Gorantla, Colin Boyd, Juan Manuel Gonzalez Nieto, Mark Manulis;;;2009/514;;;none;;;2009-10-26;;;security
 On the round complexity of black-box constructions of commitments secure against selective opening attacks;;;David Xiao;;;2009/513;;;none;;;2009-10-26;;;proofs
-Bounded Key-Dependent Message Security;;;Boaz Barak, Iftach Haitner, Dennis Hofheinz, Yuval Ishai;;;2009/511;;;none;;;2009-10-26;;;security
+Bounded Key-Dependent Message Security;;;Boaz Barak, Iftach Haitner, Dennis Hofheinz, Yuval Ishai;;;2009/511;;;none;;;2009-10-26;;;post-quantum,security
 Authenticated Key Exchange Protocols with Enhanced Freshness Properties;;;Hai Huang, Zhenfu Cao;;;2009/505;;;none;;;2009-10-20;;;security
 Insecure ``Provable Secure Network Coding'';;;Yongge Wang;;;2009/504;;;none;;;2009-10-20;;;security
 Security Weakness in Two Authenticated Key Exchange Protocols;;;Qingfeng Cheng, Chuangui Ma;;;2009/495;;;none;;;2009-10-14;;;security
@@ -49,7 +49,7 @@ Subtleties in the Definition of IND-CCA: When and How Should Challenge-Decryptio
 On-line Non-transferable Signatures Revisited;;;Jacob C. N. Schuldt, Kanta Matsuura;;;2009/406;;;none;;;2009-08-24;;;security
 Provably Secure Convertible Undeniable Signatures with Unambiguity;;;Le Trieu Phong, Kaoru Kurosawa, Wakaha Ogata;;;2009/394;;;none;;;2009-08-15;;;security
 Computational Soundness for Key Exchange Protocols with Symmetric Encryption;;;Ralf Kuesters, Max Tuengerthal;;;2009/392;;;none;;;2009-08-15;;;formal,security
-Threshold Decryption and Zero-Knowledge Proofs for Lattice-Based Cryptosystems;;;Rikke Bendlin, Ivan Damgård;;;2009/391;;;none;;;2009-08-15;;;proofs
+Threshold Decryption and Zero-Knowledge Proofs for Lattice-Based Cryptosystems;;;Rikke Bendlin, Ivan Damgård;;;2009/391;;;none;;;2009-08-15;;;post-quantum,proofs
 Short Pairing-based Non-interactive Zero-Knowledge Arguments;;;Jens Groth;;;2009/390;;;none;;;2009-08-15;;;proofs/zk-protocols/group,security
 Untraceable Tags based on Mild Assumptions;;;Carlo Blundo, Angelo De Caro, Giuseppe Persiano;;;2009/380;;;none;;;2009-08-03;;;security
 Chosen-Ciphertext Secure RSA-type Cryptosystems;;;Benoit Chevallier-Mames, Marc Joye;;;2009/377;;;none;;;2009-08-03;;;security
@@ -57,7 +57,7 @@ A Simulation-Based Treatment of Authenticated Message Exchange;;;Klaas Ole Kuert
 Non-delegatable Identity-based Designated Verifier Signature;;;Qiong Huang, Willy Susilo, Duncan S. Wong;;;2009/367;;;none;;;2009-07-28;;;security
 Adaptive Zero-Knowledge Proofs and Adaptively Secure Oblivious Transfer;;;Yehuda Lindell, Hila Zarosim;;;2009/366;;;none;;;2009-07-27;;;proofs,security
 Cryptanalysis of a Generalized Unbalanced Feistel Network Structure;;;Ruilin Li, Bing Sun, Chao Li, Longjiang Qu;;;2009/360;;;none;;;2009-07-22;;;security
-Bonsai Trees (or, Arboriculture in Lattice-Based Cryptography);;;Chris Peikert;;;2009/359;;;none;;;2009-07-22;;;security
+Bonsai Trees (or, Arboriculture in Lattice-Based Cryptography);;;Chris Peikert;;;2009/359;;;none;;;2009-07-22;;;post-quantum,security
 Impossible Differential Cryptanalysis of FOX;;;Zhongming Wu, Xuejia Lai, Bo Zhu, Yiyuan Luo;;;2009/357;;;none;;;2009-07-21;;;security
 A Domain Extender for the Ideal Cipher;;;Jean-Sebastien Coron, Yevgeniy Dodis, Avradip Mandal, Yannick Seurin;;;2009/356;;;none;;;2009-07-21;;;security
 Asynchronous Distributed Private-Key Generators for Identity-Based Cryptography;;;Aniket Kate, Ian Goldberg;;;2009/355;;;none;;;2009-07-21;;;security
@@ -75,7 +75,7 @@ Defending Against Key Abuse Attacks in KP-ABE Enabled Broadcast Systems;;;Shuche
 Enhancing Attribute-based Encryption with Attribute Hierarchy;;;Jin Li, Qian Wang, Cong Wang, Kui Ren;;;2009/293;;;none;;;2009-06-24;;;security
 Modeling Key Compromise Impersonation Attacks on Group Key Exchange Protocols;;;M. Choudary Gorantla, Colin Boyd, Juan Manuel González Nieto;;;2009/291;;;none;;;2009-06-17;;;security
 Efficient Key Exchange with Tight Security Reduction;;;Jiang Wu, Berkant Ustaoglu;;;2009/288;;;none;;;2009-06-16;;;security
-Efficient Public Key Encryption Based on Ideal Lattices;;;Damien Stehlé, Ron Steinfeld, Keisuke Tanaka, Keita Xagawa;;;2009/285;;;none;;;2009-06-16;;;security
+Efficient Public Key Encryption Based on Ideal Lattices;;;Damien Stehlé, Ron Steinfeld, Keisuke Tanaka, Keita Xagawa;;;2009/285;;;none;;;2009-06-16;;;post-quantum,security
 Privacy-aware Attribute-based Encryption with User Accountability;;;Jin Li, Kui Ren, Bo Zhu, Zhiguo Wan;;;2009/284;;;none;;;2009-06-16;;;security
 Short and Stateless Signatures from the RSA Assumption;;;Susan Hohenberger, Brent Waters;;;2009/283;;;none;;;2009-06-16;;;security
 Leakage-Resilient Signatures;;;Sebastian Faust, Eike Kiltz, Krzysztof Pietrzak, Guy Rothblum;;;2009/282;;;none;;;2009-06-16;;;security

@@ -109,6 +109,10 @@
   {
    "id": "formal",
    "label": "formal verification"
+  },
+  {
+   "id": "post-quantum",
+   "label": "post-quantum"
   }
  ]
 }

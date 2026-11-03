@@ -18,7 +18,7 @@ Chosen-Ciphertext Security from Identity-Based Encryption;;;Ran Canetti, Shai Ha
 On the Security of Multiple Encryption or CCA-security+CCA-security=CCA-security?;;;Rui Zhang, Goichiro Hanaoka, Junji Shikata, Hideki Imai;;;2003/181;;;none;;;2003-09-01;;;security
 Constructing Optimistic Fair Exchange Protocols from Committed Signatures;;;Huafei Zhu;;;2003/178;;;none;;;2003-08-29;;;security
 Relaxing Chosen-Ciphertext Security;;;Ran Canetti, Hugo Krawczyk, Jesper Nielsen;;;2003/174;;;none;;;2003-08-19;;;security
-NAEP: Provable Security in the Presence of Decryption Failures;;;Nick Howgrave-Graham, Joseph H. Silverman, Ari Singer, William Whyte;;;2003/172;;;none;;;2003-08-15;;;security
+NAEP: Provable Security in the Presence of Decryption Failures;;;Nick Howgrave-Graham, Joseph H. Silverman, Ari Singer, William Whyte;;;2003/172;;;none;;;2003-08-15;;;post-quantum,security
 Scalable Protocols for Authenticated Group Key Exchange;;;Jonathan Katz, Moti Yung;;;2003/171;;;none;;;2003-08-15;;;security
 Identity-Based Threshold Decryption;;;Joonsang Baek, Yuliang Zheng;;;2003/164;;;none;;;2003-08-11;;;security
 Multipurpose Identity-Based Signcryption : A Swiss Army Knife for Identity-Based Cryptography;;;Xavier Boyen;;;2003/163;;;none;;;2003-08-11;;;security

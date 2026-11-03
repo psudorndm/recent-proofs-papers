@@ -1,15 +1,15 @@
 Photonic dark matter portal and quantum physics;;;S. A. Alavi, F. S. Kazemian;;;1412.8188;;;none;;;2014-12-28;;;security
-On the Lattice Smoothing Parameter Problem;;;Kai-Min Chung, Daniel Dadush, Feng-Hao Liu, Chris Peikert;;;1412.7979;;;none;;;2014-12-26;;;proofs
+On the Lattice Smoothing Parameter Problem;;;Kai-Min Chung, Daniel Dadush, Feng-Hao Liu, Chris Peikert;;;1412.7979;;;none;;;2014-12-26;;;post-quantum,proofs
 Universal Hashing for Information Theoretic Security;;;Himanshu Tyagi, Alexander Vardy;;;1412.4958;;;none;;;2014-12-16;;;security
 Magic coins are useful for small-space quantum machines;;;A. C. Cem Say, Abuzer Yakaryilmaz;;;1411.7647;;;none;;;2014-11-27;;;proofs
-Universal security for randomness expansion from the spot-checking protocol;;;Carl A. Miller, Yaoyun Shi;;;1411.6608;;;none;;;2014-11-24;;;security
+Universal security for randomness expansion from the spot-checking protocol;;;Carl A. Miller, Yaoyun Shi;;;1411.6608;;;none;;;2014-11-24;;;post-quantum,security
 Privacy-Preserving Content-Based Image Retrieval in the Cloud;;;Bernardo Ferreira, João Rodrigues, João Leitão, Henrique Domingos;;;1411.4862;;;none;;;2014-11-18;;;security
 Security Analysis of the Unrestricted Identity-Based Aggregate Signature Scheme;;;Kwangsu Lee, Dong Hoon Lee;;;1411.4696;;;none;;;2014-11-18;;;security
 Proceedings Eleventh Workshop on User Interfaces for Theorem Provers;;;Christoph Benzmüller, Bruno Woltzenlogel Paleo;;;1410.7850;;;none;;;2014-10-29;;;proofs
 Discrete-phase-randomized coherent state source and its application in quantum key distribution;;;Zhu Cao, Zhen Zhang, Hoi-Kwong Lo, Xiongfeng Ma;;;1410.3217;;;none;;;2014-10-13;;;security
 Joint measurability, steering and entropic uncertainty;;;H. S. Karthik, A. R. Usha Devi, A. K. Rajagopal;;;1410.1148;;;none;;;2014-10-05;;;security
 Adversary Model: Adaptive Chosen Ciphertext Attack with Timing Attack;;;Mohd Anuar Mat Isa, Habibah Hashim;;;1409.6556;;;none;;;2014-09-23;;;security
-A Note on Quantum Security for Post-Quantum Cryptography;;;Fang Song;;;1409.2187;;;none;;;2014-09-08;;;security
+A Note on Quantum Security for Post-Quantum Cryptography;;;Fang Song;;;1409.2187;;;none;;;2014-09-08;;;post-quantum,security
 A multiprover interactive proof system for the local Hamiltonian problem;;;Joseph Fitzsimons, Thomas Vidick;;;1409.0260;;;none;;;2014-08-31;;;proofs/iop/code
 Quantum Error Correcting Codes and the Security Proof of the BB84 Protocol;;;Ramesh Bhandari;;;1409.1452;;;none;;;2014-08-30;;;security
 A Secure TFTP Protocol with Security Proofs;;;Mohd Anuar Mat Isa, Habibah Hashim, Syed Farid Syed Adnan, Jamalul-lail Ab Manan, Ramlan Mahmod;;;1409.0060;;;none;;;2014-08-29;;;security
@@ -27,7 +27,7 @@ A New Primitive for a Diffie-Hellman-like Key Exchange Protocol Based on Multiva
 A new approach for formal behavioral modeling of protection services in antivirus systems;;;Monire Norouzi, Saeed Parsa, Ali Mahjur;;;1406.2791;;;none;;;2014-06-11;;;formal
 Reverse Reconciliation Continuous Variable Quantum Key Distribution Based on the Uncertainty Principle;;;Fabian Furrer;;;1405.5965;;;none;;;2014-05-23;;;security
 Secure Anonymous Broadcast;;;Mahnush Movahedi, Jared Saia, Mahdi Zamani;;;1405.5326;;;none;;;2014-05-21;;;security
-Lattice-Based Ring Signature Scheme under the Random Oracle Model;;;Shangping Wang, Ru zhao;;;1405.3177;;;none;;;2014-05-13;;;security
+Lattice-Based Ring Signature Scheme under the Random Oracle Model;;;Shangping Wang, Ru zhao;;;1405.3177;;;none;;;2014-05-13;;;post-quantum,security
 Mixed quantum states in higher categories;;;Chris Heunen, Jamie Vicary, Linde Wester;;;1405.1463;;;none;;;2014-05-06;;;security
 Inference Control for Privacy-Preserving Genome Matching;;;Florian Kerschbaum, Martin Beck, Dagmar Schönfeld;;;1405.0205;;;none;;;2014-05-01;;;proofs
 No Superluminal Signaling Implies Unconditionally Secure Bit Commitment;;;H. F. Chau, C. -H. Fred Fung, H. -K. Lo;;;1405.0198;;;none;;;2014-05-01;;;security

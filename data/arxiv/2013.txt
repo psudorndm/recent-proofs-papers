@@ -31,7 +31,7 @@ Information-Theoretic Security for the Masses;;;Oleksandr Nikitin;;;1306.6260;;;
 (Un)Decidability Results for Word Equations with Length and Regular Expression Constraints;;;Vijay Ganesh, Mia Minnes, Armando Solar-Lezama, Martin Rinard;;;1306.6054;;;none;;;2013-06-25;;;formal
 Experimental unconditionally secure bit commitment;;;Yang Liu, Yuan Cao, Marcos Curty, Sheng-Kai Liao, Jian Wang, Ke Cui, Yu-Huai Li, Ze-Hong Lin, Qi-Chao Sun, Dong-Dong Li, Hong-Fei Zhang, Yong Zhao, Cheng-Zhi Peng, Qiang Zhang, Adan Cabello, Jian-Wei Pan;;;1306.4413;;;none;;;2013-06-19;;;proofs
 Cellular Automata in Cryptographic Random Generators;;;Jason Spencer;;;1306.3546;;;none;;;2013-06-15;;;security
-The Fiat-Shamir Transformation in a Quantum World;;;Özgür Dagdelen, Marc Fischlin Tommaso Gagliardoni;;;1306.0315;;;none;;;2013-06-03;;;security
+The Fiat-Shamir Transformation in a Quantum World;;;Özgür Dagdelen, Marc Fischlin Tommaso Gagliardoni;;;1306.0315;;;none;;;2013-06-03;;;post-quantum,security
 A Review of Automated Formal Verification of Ad Hoc Routing Protocols for Wireless Sensor Networks;;;Zhe Chen, Daqiang Zhang, Rongbo Zhu, Yinxue Ma, Ping Yin, Feng Xie;;;1305.7410;;;none;;;2013-05-31;;;formal
 The Unique Games Conjecture, Integrality Gap for Cut Problems and Embeddability of Negative Type Metrics into $\ell_1$;;;Subhash A. Khot, Nisheeth K. Vishnoi;;;1305.4581;;;none;;;2013-05-20;;;proofs/iop
 Security of high-dimensional quantum key distribution protocols using Franson interferometers;;;Thomas Brougham, Stephen M. Barnett, Kevin T. McCusker, Paul G. Kwiat, Daniel J. Gauthier;;;1305.4541;;;none;;;2013-05-20;;;security

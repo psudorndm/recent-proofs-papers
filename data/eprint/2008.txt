@@ -12,7 +12,7 @@ Sharing DSS by the Chinese Remainder Theorem;;;Kamer Kaya, Ali Aydın Selçuk;;;
 Sphinx: A Compact and Provably Secure Mix Format;;;George Danezis, Ian Goldberg;;;2008/475;;;none;;;2008-11-18;;;security
 Access Controls for Oblivious and Anonymous Systems;;;Scott Coull, Matthew Green, Susan Hohenberger;;;2008/474;;;none;;;2008-11-18;;;security
 Automatic Generation of Sound Zero-Knowledge Protocols;;;Endre Bangerter, Jan Camenisch, Stephan Krenn, Ahmad-Reza Sadeghi, Thomas Schneider;;;2008/471;;;none;;;2008-11-18;;;proofs/zk-protocols
-A CCA2 Secure Variant of the McEliece Cryptosystem;;;Nico Döttling, Rafael Dowsley, Jörn Müller-Quade, Anderson C. A. Nascimento;;;2008/468;;;none;;;2008-11-18;;;security
+A CCA2 Secure Variant of the McEliece Cryptosystem;;;Nico Döttling, Rafael Dowsley, Jörn Müller-Quade, Anderson C. A. Nascimento;;;2008/468;;;none;;;2008-11-18;;;post-quantum,security
 Secure Arithmetic Computation with No Honest Majority;;;Yuval Ishai, Manoj Prabhakaran, Amit Sahai;;;2008/465;;;none;;;2008-11-10;;;security
 Key-Private Proxy Re-Encryption;;;Giuseppe Ateniese, Karyn Benson, Susan Hohenberger;;;2008/463;;;none;;;2008-11-10;;;security
 Various Security Analysis of a pfCM-MD Hash Domain Extension and Applications based on the Extension;;;Donghoon Chang, Seokhie Hong, Jaechul Sung, Sangjin Lee;;;2008/460;;;none;;;2008-11-02;;;security
@@ -36,7 +36,7 @@ Hierarchical Identity Based Encryption with Polynomially Many Levels;;;Craig Gen
 Authenticated Wireless Roaming via Tunnels: Making Mobile Guests Feel at Home;;;Mark Manulis, Damien Leroy, Francois Koeune, Olivier Bonaventure, Jean-Jacques Quisquater;;;2008/382;;;none;;;2008-09-14;;;security
 Dynamic Threshold Cryptosystem without Group Manager;;;Andreas Noack, Stefan Spitz;;;2008/380;;;none;;;2008-09-07;;;security
 A Characterization of Chameleon Hash Functions and New, Efficient Designs;;;Mihir Bellare, Todor Ristov;;;2008/379;;;none;;;2008-09-07;;;proofs/zk-protocols,security
-Additively Homomorphic Encryption with d-Operand Multiplications;;;Carlos Aguilar Melchor, Philippe Gaborit, Javier Herranz;;;2008/378;;;none;;;2008-09-07;;;security
+Additively Homomorphic Encryption with d-Operand Multiplications;;;Carlos Aguilar Melchor, Philippe Gaborit, Javier Herranz;;;2008/378;;;none;;;2008-09-07;;;post-quantum,security
 Session-state Reveal is stronger than Ephemeral Key Reveal: Attacking the NAXOS Authenticated Key Exchange protocol;;;Cas J. F. Cremers;;;2008/376;;;none;;;2008-09-05;;;security
 A public key encryption scheme secure against key dependent chosen plaintext and adaptive chosen ciphertext attacks;;;Jan Camenisch, Nishanth Chandran, Victor Shoup;;;2008/375;;;none;;;2008-09-05;;;proofs/zk-protocols/group
 Chosen Ciphertext Security with Optimal Ciphertext Overhead;;;Masayuki Abe, Eike Kiltz, Tatsuaki Okamoto;;;2008/374;;;none;;;2008-09-05;;;security
@@ -55,7 +55,7 @@ Blind HIBE and its Applications to Identity-Based Blind Signature and Blind Decr
 Revisit of Group-based Unidirectional Proxy Re-encryption Scheme;;;Chunbo Ma, Jun Ao;;;2008/325;;;none;;;2008-08-02;;;security
 RSA-TBOS Signcryption with Proxy Re-encryption.;;;Varad Kirtane, C. Pandu Rangan;;;2008/324;;;none;;;2008-08-02;;;security
 A new identity based proxy signature scheme;;;Bin Wang;;;2008/323;;;none;;;2008-08-02;;;security
-Lattice-based Blind Signatures;;;Markus Rückert;;;2008/322;;;none;;;2008-08-02;;;security
+Lattice-based Blind Signatures;;;Markus Rückert;;;2008/322;;;none;;;2008-08-02;;;post-quantum,security
 Improved efficiency of Kiltz07-KEM;;;Xianhui Lu, Xuejia Lai, Dake He;;;2008/312;;;none;;;2008-07-27;;;security
 Revocation Systems with Very Small Private Keys;;;Allison Lewko, Amit Sahai, Brent Waters;;;2008/309;;;none;;;2008-07-14;;;security
 Identity-Based Directed Signature Scheme from Bilinear Pairings;;;Xun Sun, Jian-hua Li, Gong-liang Chen, Shu-tang Yang;;;2008/305;;;none;;;2008-07-08;;;security
@@ -69,7 +69,7 @@ Delegating Capabilities in Predicate Encryption Systems;;;Elaine Shi, Brent Wate
 Signcryption with Proxy Re-encryption;;;Chandrasekar S., Ambika K., Pandu Rangan C.;;;2008/276;;;none;;;2008-06-18;;;security
 Certificate-Based Signature Schemes without Pairings or Random Oracles;;;Joseph K. Liu, Joonsang Baek, Willy Susilo, Jianying Zhou;;;2008/275;;;none;;;2008-06-18;;;security
 Adaptive Security in Broadcast Encryption Systems;;;Craig Gentry, Brent Waters;;;2008/268;;;none;;;2008-06-18;;;security
-Secure Computability of Functions in the IT setting with Dishonest Majority and Applications to Long-Term Security;;;Robin Künzler, Jörn Müller-Quade, Dominik Raub;;;2008/264;;;none;;;2008-06-18;;;security
+Secure Computability of Functions in the IT setting with Dishonest Majority and Applications to Long-Term Security;;;Robin Künzler, Jörn Müller-Quade, Dominik Raub;;;2008/264;;;none;;;2008-06-18;;;post-quantum,security
 Multi-Recipient Signcryption for Secure Wireless Group Communication;;;Yiliang Han, Xiaolin Gui, Xu'an Wang;;;2008/253;;;none;;;2008-06-03;;;security
 Provable Security of Digital Signatures in the Tamper-Proof Device Model;;;Nick Varnovsky;;;2008/252;;;none;;;2008-06-03;;;security
 Universally Composable Security Analysis of TLS---Secure Sessions with Handshake and Record Layer Protocols;;;Sebastian Gajek, Mark Manulis, Olivier Pereira, Ahmad-Reza Sadeghi, Jörg Schwenk;;;2008/251;;;none;;;2008-06-03;;;security
@@ -85,7 +85,7 @@ An ID-based Authenticated Key Exchange Protocol Based on Bilinear Diffie-Hellman
 Essentially Optimal Universally Composable Oblivious Transfer;;;Ivan Damgård, Jesper Buus Nielsen, Claudio Orlandi;;;2008/220;;;none;;;2008-05-25;;;security
 Multi-Factor Password-Authenticated Key Exchange;;;Douglas Stebila, Poornaprajna Udupi, Sheueling Chang;;;2008/214;;;none;;;2008-05-23;;;formal,security
 The Multireceiver Commitment Schemes;;;Shuhong Wang;;;2008/213;;;none;;;2008-05-23;;;security
-Cryptanalysis of the Cai-Cusick Lattice-based Public-key Cryptosystem;;;Yanbin Pan, Yingpu Deng;;;2008/204;;;none;;;2008-05-13;;;security
+Cryptanalysis of the Cai-Cusick Lattice-based Public-key Cryptosystem;;;Yanbin Pan, Yingpu Deng;;;2008/204;;;none;;;2008-05-13;;;post-quantum,security
 On The Security of The ElGamal Encryption Scheme and Damgard’s Variant;;;J. Wu, D. R. Stinson;;;2008/200;;;none;;;2008-05-12;;;security
 How to Build a Hash Function from any Collision-Resistant Function;;;Thomas Ristenpart, Thomas Shrimpton;;;2008/189;;;none;;;2008-04-29;;;security
 An Efficient and Provably Secure ID-Based Threshold Signcryption Scheme;;;Fagen Li, Yong Yu;;;2008/187;;;none;;;2008-04-29;;;security

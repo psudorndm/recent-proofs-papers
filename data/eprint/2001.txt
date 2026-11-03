@@ -26,7 +26,7 @@ Analysis of Key-Exchange Protocols and Their Use for Building Secure Channels;;;
 Composition and Efficiency Tradeoffs for Forward-Secure Digital Signatures;;;Tal Malkin, Daniele Micciancio, Sara Miner;;;2001/034;;;none;;;2001-05-06;;;security
 Dual of New Method for Upper Bounding the Maximum Average Linear Hull Probability for SPNs;;;Liam Keliher, Henk Meijer, Stafford Tavares;;;2001/033;;;none;;;2001-05-03;;;security
 Efficient Password-Authenticated Key Exchange Using Human-Memorable Passwords;;;Jonathan Katz, Rafail Ostrovsky, Moti Yung;;;2001/031;;;none;;;2001-04-27;;;security
-On multivariate signature-only public key cryptosystems;;;Nicolas T. Courtois;;;2001/029;;;none;;;2001-04-04;;;security
+On multivariate signature-only public key cryptosystems;;;Nicolas T. Courtois;;;2001/029;;;none;;;2001-04-04;;;post-quantum,security
 Efficient Encryption for Rich Message Spaces Under General Assumptions;;;Alexander Russell, Hong Wang;;;2001/028;;;none;;;2001-04-03;;;security
 OCB Mode;;;Phillip Rogaway, Mihir Bellare, John Black, Ted Krovetz;;;2001/026;;;none;;;2001-04-03;;;security
 Some observations on the theory of cryptographic hash functions;;;D. R. Stinson;;;2001/020;;;none;;;2001-03-02;;;security
@@ -34,5 +34,5 @@ An Efficient System for Non-transferable Anonymous Credentials with Optional Ano
 Analysis of a Subset Sum Randomizer;;;Peter Gemmell, Anna Johnston;;;2001/018;;;none;;;2001-02-27;;;security
 Timed-Release Cryptography;;;Wenbo Mao;;;2001/014;;;none;;;2001-02-23;;;proofs
 New Zero-knowledge Undeniable Signatures - Forgery of Signature Equivalent to Factorisation;;;Wenbo Mao;;;2001/011;;;none;;;2001-02-17;;;proofs
-How to achieve a McEliece-based Digital Signature Scheme;;;Nicolas Courtois, Matthieu Finiasz, Nicolas Sendrier;;;2001/010;;;none;;;2001-02-17;;;security
+How to achieve a McEliece-based Digital Signature Scheme;;;Nicolas Courtois, Matthieu Finiasz, Nicolas Sendrier;;;2001/010;;;none;;;2001-02-17;;;post-quantum,security
 The One-More-RSA-Inversion Problems and the Security of Chaum's Blind Signature Scheme;;;M. Bellare, C. Namprempre, D. Pointcheval, M. Semanko;;;2001/002;;;none;;;2001-01-05;;;security
