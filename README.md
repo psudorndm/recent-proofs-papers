@@ -42,9 +42,11 @@ title;;;authors;;;id;;;repo;;;date;;;categories
 
 The page has a search box (titles, authors, IDs) and two filter rows:
 **topic** (proof systems / security proofs / formal verification / all) and
-**source** (ePrint / arXiv / both). The page loads the last year first, then the
-older years in the background; once they are loaded, search covers the whole history
-and opens every year that has matches.
+**source** (ePrint / arXiv / both), plus a **year** box that takes a year (`2019`)
+or a range (`2018-2021`, `2020-`, `-2005`) and shows just those years, expanded.
+Every section (this week / month / year, and each older year) can be collapsed.
+The page loads the last year first, then the older years in the background; once
+they are loaded, search covers the whole history and opens every year that has matches.
 
 Plain text is kept on purpose: GitHub Pages serves these files gzip-compressed,
 which shrinks them about 3×, and per-year files mean the daily update only

@@ -133,29 +133,29 @@
             margin: 0;
         }
 
-        /* ---- older years: one collapsible section per year ---- */
-        details.year>summary {
+        /* ---- collapsible sections (recent windows and older years) ---- */
+        details.fold>summary {
             list-style: none;
             cursor: pointer;
         }
 
-        details.year>summary::-webkit-details-marker {
+        details.fold>summary::-webkit-details-marker {
             display: none;
         }
 
-        details.year>summary h3 {
+        details.fold>summary h3 {
             margin-top: 1.4em;
         }
 
-        details.year>summary h3::before {
+        details.fold>summary h3::before {
             content: "+ ";
         }
 
-        details.year[open]>summary h3::before {
+        details.fold[open]>summary h3::before {
             content: "- ";
         }
 
-        details.year>summary:hover h3 {
+        details.fold>summary:hover h3 {
             color: #6741d9;
         }
 
@@ -306,6 +306,28 @@
             box-shadow: 0 1px 4px rgba(103, 65, 217, 0.4);
         }
 
+        #year {
+            width: 14em;
+            max-width: 60vw;
+            font-family: inherit;
+            font-size: 0.95em;
+            color: #2a2140;
+            background: transparent;
+            border: 0;
+            border-radius: 999px;
+            padding: 0.3em 0.8em;
+            outline: none;
+        }
+
+        #year:focus {
+            background: rgba(103, 65, 217, 0.08);
+        }
+
+        #year-filter.active {
+            border-color: #6741d9;
+            box-shadow: 0 0 0 2px rgba(103, 65, 217, 0.15);
+        }
+
         /* ---- meta / tags ---- */
         .meta {
             float: right;
@@ -404,15 +426,31 @@
                 <span class="filter active" data-source="both">both</span>
             </div>
         </div>
+        <div class="filters-wrap">
+            <div class="filter-group" id="year-filter">
+                <span class="filter-label">year:</span>
+                <input id="year" type="text" inputmode="numeric" autocomplete="off"
+                       placeholder="e.g. 2019 or 2018-2021" aria-label="Year or range of years" />
+            </div>
+        </div>
 
-        <h3>this week</h3>
-        <ul class="spaced-list" id="last_week"></ul>
-        <h3>this month</h3>
-        <ul class="spaced-list" id="last_month"></ul>
-        <h3>this year</h3>
-        <ul class="spaced-list" id="last_year"></ul>
+        <div id="recent">
+            <details class="bucket fold" open>
+                <summary><h3>this week<span class="count" id="last_week_count"></span></h3></summary>
+                <ul class="spaced-list" id="last_week"></ul>
+            </details>
+            <details class="bucket fold" open>
+                <summary><h3>this month<span class="count" id="last_month_count"></span></h3></summary>
+                <ul class="spaced-list" id="last_month"></ul>
+            </details>
+            <details class="bucket fold" open>
+                <summary><h3>this year<span class="count" id="last_year_count"></span></h3></summary>
+                <ul class="spaced-list" id="last_year"></ul>
+            </details>
+        </div>
 
         <div id="older"></div>
+        <div id="year-view" hidden></div>
         <p class="status" id="status">loading&hellip;</p>
 
         <footer>
@@ -506,6 +544,26 @@
             var olderSections = [];   // one per calendar year older than the last 365 days
             var filterVersion = 0;
             var olderLoaded = false;
+            var yearRange = null;     // [from, to] while the year box holds a year or range
+            var yearText = "";
+
+            // "2019", "2018-2021", "2020-" or "-2005"; null when empty or not (yet) a year
+            function parseYears(text) {
+                var t = text.replace(/\s+/g, "");
+                var m = /^(\d{4})$/.exec(t);
+                if (m) { return [+m[1], +m[1]]; }
+                m = /^(\d{4})?[-–](\d{4})?$/.exec(t);
+                if (!m || (!m[1] && !m[2])) { return null; }
+                var a = m[1] ? +m[1] : 0, b = m[2] ? +m[2] : 9999;
+                return a <= b ? [a, b] : [b, a];
+            }
+
+            function yearLabel(range) {
+                if (range[0] === range[1]) { return String(range[0]); }
+                if (range[0] === 0) { return range[1] + " and earlier"; }
+                if (range[1] === 9999) { return range[0] + " and later"; }
+                return range[0] + "–" + range[1];
+            }
 
             function setStatus(text) {
                 document.getElementById('status').textContent = text;
@@ -575,6 +633,10 @@
             function matches(paper) {
                 var catOk = activeCategory === "all" || paper.cats.indexOf(activeCategory) !== -1;
                 var srcOk = activeSource === "both" || paper.source === activeSource;
+                if (yearRange) {
+                    var y = +paper.date.slice(0, 4);
+                    if (y < yearRange[0] || y > yearRange[1]) { return false; }
+                }
                 return catOk && srcOk && searchTerms.every(function (t) {
                     return paper.haystack.indexOf(t) !== -1;
                 });
@@ -591,7 +653,59 @@
                 sec.renderedVersion = filterVersion;
             }
 
+            // Year box filled in: show only those years, newest first, all expanded.
+            function renderYearView() {
+                var view = document.getElementById('year-view');
+                var byYear = {}, shown = 0;
+                var papers = allItems.map(function (e) { return e.paper; });
+                olderSections.forEach(function (sec) { papers = papers.concat(sec.papers); });
+                papers.forEach(function (paper) {
+                    if (!matches(paper)) { return; }
+                    var year = paper.date.slice(0, 4);
+                    (byYear[year] = byYear[year] || []).push(paper);
+                    shown++;
+                });
+                var frag = document.createDocumentFragment();
+                Object.keys(byYear).sort().reverse().forEach(function (year) {
+                    var h = document.createElement('h3');
+                    h.textContent = year;
+                    var count = document.createElement('span');
+                    count.className = "count";
+                    var n = byYear[year].length;
+                    count.textContent = n + (n === 1 ? " paper" : " papers");
+                    h.appendChild(count);
+                    var list = document.createElement('ul');
+                    list.className = "spaced-list";
+                    byYear[year].sort(byDateDesc).forEach(function (paper) {
+                        list.appendChild(makePaperItem(paper));
+                    });
+                    frag.appendChild(h);
+                    frag.appendChild(list);
+                });
+                if (!shown) {
+                    var empty = document.createElement('p');
+                    empty.className = "status";
+                    empty.textContent = "no papers in " + yearLabel(yearRange);
+                    frag.appendChild(empty);
+                }
+                view.textContent = "";
+                view.appendChild(frag);
+                return shown;
+            }
+
             function applyFilters() {
+                var inYearView = yearRange !== null;
+                document.getElementById('recent').hidden = inYearView;
+                document.getElementById('older').hidden = inYearView;
+                document.getElementById('year-view').hidden = !inYearView;
+                document.getElementById('year-filter').classList.toggle('active', inYearView);
+                if (inYearView) {
+                    var n = renderYearView();
+                    setStatus(n.toLocaleString() + (n === 1 ? " paper" : " papers") + " in " + yearLabel(yearRange) +
+                        (olderLoaded ? "" : " so far (loading older papers…)"));
+                    return;
+                }
+                document.getElementById('year-view').textContent = "";
                 filterVersion++;
                 var searching = searchTerms.length > 0;
                 var counts = { last_week: 0, last_month: 0, last_year: 0 };
@@ -606,6 +720,8 @@
                     if (placeholder) {
                         placeholder.style.display = counts[bucket] === 0 ? "" : "none";
                     }
+                    var c = counts[bucket];
+                    document.getElementById(bucket + "_count").textContent = c + (c === 1 ? " paper" : " papers");
                 });
                 olderSections.forEach(function (sec) {
                     var n = 0;
@@ -633,6 +749,9 @@
                     var first = olderSections.length ? olderSections[olderSections.length - 1].year : now.getUTCFullYear();
                     setStatus(total.toLocaleString() + " papers since " + first);
                 }
+                if (yearText.replace(/\s+/g, "").length >= 4) {
+                    setStatus("type a year like 2019, or a range like 2018-2021");
+                }
             }
 
             function buildOlder(papers) {
@@ -644,7 +763,7 @@
                 var container = document.getElementById('older');
                 Object.keys(byYear).sort().reverse().forEach(function (year) {
                     var details = document.createElement('details');
-                    details.className = "year";
+                    details.className = "year fold";
                     var summary = document.createElement('summary');
                     var h = document.createElement('h3');
                     h.textContent = year;
@@ -710,6 +829,17 @@
                     });
                 })
                 .catch(function () { setStatus("could not load the paper list"); });
+
+            var yearTimer = null;
+            document.getElementById('year').addEventListener('input', function (e) {
+                var value = e.target.value;
+                clearTimeout(yearTimer);
+                yearTimer = setTimeout(function () {
+                    yearText = value.trim();
+                    yearRange = parseYears(yearText);
+                    applyFilters();
+                }, 250);
+            });
 
             var searchTimer = null;
             document.getElementById('search').addEventListener('input', function (e) {
