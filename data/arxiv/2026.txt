@@ -1,3 +1,8 @@
+TFNP in the Random Oracle Model;;;Noah Fleming, Mika Göös, Ziyi Guan, Oliver Korten, Daniel Mitropolsky, Toniann Pitassi, Artur Riazanov, Dmitry Sokolov, Tianqi Yang, Weiqiang Yuan;;;2611.05308;;;none;;;2026-11-03;;;post-quantum,security
+Proving the Wrong Program: Miscompilations as a Threat to zkVM Guarantees;;;Hui Xuan Tan, Stefanos Chaliasos, Alastair F. Donaldson;;;2611.04701;;;none;;;2026-11-03;;;formal,proofs/zkvm
+Decoy-state quantum key distribution with a leaky Mach-Zehnder receiver;;;Ryohei Mizusawa, Álvaro Navarrete, Akihiro Mizutani, Kiyoshi Tamaki;;;2611.04539;;;none;;;2026-11-03;;;security
+VerfGraph: Efficient Zero-Knowledge Verifiable Graph Query Evaluation System;;;Tianyi Ma, Yuncong Zhang, Yuanzhuo Yu, Boshi Yuan, Shi-Feng Sun;;;2611.04240;;;none;;;2026-11-03;;;proofs
+On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2611.04052;;;none;;;2026-11-02;;;post-quantum,security
 unitaryQIP = unitaryPSPACE;;;Entong He, Fengning Ou, Mingnan Zhao;;;2611.02819;;;none;;;2026-11-02;;;proofs
 Modern Software Engineering with Verification Agents: A Spec-First Architecture for Autonomous Synthesis, Verification IRs, and Organizational Scale;;;Jason Hickey;;;2611.02285;;;none;;;2026-11-01;;;formal
 VerusWeave: A Benchmark for Proof Repair in Concurrent Verus Programs;;;Pedro Ribeiro, Martim Afonso, André Vasconcelos, João F. Ferreira;;;2611.00287;;;none;;;2026-10-30;;;formal
@@ -50,7 +55,7 @@ Can AI Oversight Be Zero Knowledge?;;;Alessandro Chiesa, Ziyi Guan, Burcu Yildiz
 Beyond IP = PSPACE and QIP = PSPACE: Interactive Proofs in Arbitrary Physical Theories;;;Kishor Bharti;;;2610.00847;;;none;;;2026-10-01;;;proofs
 Computational Work Extraction: The Complexity of Catalysts;;;Atul Singh Arora, Shantanav Chakraborty, Alexandru Cojocaru, Sreyas Saminathan, Uttam Singh;;;2609.40323;;;none;;;2026-09-30;;;post-quantum,security
 Computational Bounds for $f$-Routing;;;Oren Renard, Nicholas Spooner;;;2609.40278;;;none;;;2026-09-30;;;proofs
-Path-Finding, Orbit State Preparation, and the Security of Invariant Quantum Money;;;Hans Schmiedel, Jiangshan Yu;;;2609.39774;;;none;;;2026-09-30;;;security
+Anchoring the Security of Invariant Quantum Money;;;Hans Schmiedel, Jiangshan Yu;;;2609.39774;;;none;;;2026-09-30;;;security
 Rate 1/5 Non-Malleable Codes against Entangled Split-State Tampering;;;Naresh Goud Boddu;;;2609.39589;;;none;;;2026-09-30;;;security
 On quantum interactive proofs with a laconic prover;;;Zihan Hu, Yupan Liu;;;2609.39495;;;none;;;2026-09-30;;;proofs
 Certified Randomness with Optimal Rate;;;Siddhartha Jain, Saachi Mutreja, Bhaskar Roberts;;;2609.38945;;;none;;;2026-09-30;;;post-quantum,security
@@ -111,6 +116,7 @@ Zero-Knowledge Predicate Proofs Between AI Agents: A Measured, Cross-Protocol Ga
 A Comprehensive Survey on Linguistic Steganography: Methods, Countermeasures, Evaluation, and Challenges;;;Ruiyi Yan, Chenhui Chu, Zhongliang Yang, Yugo Murawaki;;;2608.29077;;;none;;;2026-08-29;;;security
 Relaxed Sender Anonymity for CBDC Interbank Settlement: A Zero-Knowledge Approach on Permissioned EVM;;;Pietro Tiberi, Gabriele Marcelli, Vitangelo Lasorella;;;2608.28529;;;none;;;2026-08-28;;;proofs/applications,proofs/snark/group,proofs/snark/hash
 Not to Break, but to Attest: Adversarial Probes for Privacy-Preserving LLM Verification;;;Cameron Wilding, Mina Shaker, Fatemeh Ganji;;;2608.27954;;;none;;;2026-08-28;;;proofs/snark/group
+Pseudorandom Functions in $\mathsf{NC}^1$ from LWE/LPN/CDH (Or: How to Build Low-Depth PRFs, Generically);;;Youlong Ding, Aayush Jain, Ilan Komargodski;;;2608.25213;;;none;;;2026-08-25;;;post-quantum,security
 Separating Quantum Indistinguishability Obfuscation from Falsifiable Assumptions;;;Mohammed Barhoush, Tomoyuki Morimae, Ramis Movassagh;;;2608.25195;;;none;;;2026-08-25;;;proofs/zk-protocols
 Certified Randomness without Structure Against Shallow-Query Adversaries;;;Dakshita Khurana, Bhaskar Roberts, Avishay Tal;;;2608.24832;;;none;;;2026-08-25;;;post-quantum,security
 Obscura-PQ: Post-Quantum Privacy-Preserving Protocol for the Algorand Blockchain Using Lattice-Based Linkable Ring Signatures;;;Navid Azimi;;;2608.22645;;;none;;;2026-08-23;;;post-quantum,security

@@ -153,6 +153,7 @@ On Limits on the Provable Consequences of Quantum Pseudorandomness;;;Samuel Boua
 CuKEM: A Concise and Unified Hybrid Key Encapsulation Mechanism;;;Yiting Liu, Biming Zhou, Haodong Jiang;;;2025/1862;;;none;;;2025-10-07;;;post-quantum,security
 FrodoKEM: A CCA-Secure Learning With Errors Key Encapsulation Mechanism;;;Lewis Glabush, Patrick Longa, Michael Naehrig, Chris Peikert, Douglas Stebila, Fernando Virdia;;;2025/1861;;;none;;;2025-10-07;;;post-quantum,security
 Credential Revocation Assisted by a Covertly Corrupted Server;;;Alisa Pankova, Jelizaveta Vakarjuk;;;2025/1854;;;none;;;2025-10-07;;;security
+Locally Recoverable Data Availability Sampling with Derived Group Commitments;;;Seunghyun Cho, Eun-Young Seo, Saehoon Jeong, Young-Sik Kim;;;2025/1851;;;none;;;2025-10-07;;;security
 Almost Linear-Time Permutation Check;;;Benedikt Bünz, Jessica Chen, Zachary DeStefano, Binyi Chen;;;2025/1850;;;none;;;2025-10-06;;;proofs/iop,proofs/pcs,proofs/snark
 CoBBl: Dynamic constraint generation for SNARKs;;;Kunming Jiang, Fraser Brown, Riad S. Wahby;;;2025/1849;;;none;;;2025-10-06;;;proofs/snark,proofs/zkvm
 Revisiting Lattice-based Non-interactive Blind Signature;;;Anindya Ganguly, Angshuman Karmakar, Suparna Kundu, Debranjan Pal, Sumanta Sarkar;;;2025/1848;;;none;;;2025-10-06;;;post-quantum,security

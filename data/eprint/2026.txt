@@ -1,3 +1,11 @@
+Beyond Standard Indifferentiability: Simulator Properties for Fiat-Shamir Security;;;Ashrujit Ghoshal, Sikhar Patranabis;;;2026/2708;;;none;;;2026-10-31;;;proofs/zk-protocols/group,security
+Anamorphic Proofs of Knowledge from Prover Randomness;;;Zhi Lu, Songfeng Lu, Jiaheng Zhang;;;2026/2706;;;none;;;2026-10-31;;;proofs,security
+Card-Based Protocols with Mixed Encoding: Computable Functions and the Minimum Number of Cards;;;Saeki Koizumi, Xiao-Nan Lu, Hidetomo Nabeshima;;;2026/2704;;;none;;;2026-10-31;;;formal
+Efficient Scalable Oversight via Rewinding;;;Ziyi Guan, Yael Tauman Kalai, Ron Rothblum, Zoe Xi;;;2026/2703;;;none;;;2026-10-30;;;proofs
+SPIDER: A Faster and Smaller Identity-Based Signature From Isogenies;;;Tako Boris Fouotsa, Gustave Tchoffo Saah;;;2026/2701;;;none;;;2026-10-30;;;post-quantum,proofs/zk-protocols/group
+Quantum Time-Space Tradeoffs for Short Merkle-Damgård Collisions;;;Shashwat Agrawal, Ashrujit Ghoshal, Venkata Koppula;;;2026/2694;;;none;;;2026-10-30;;;post-quantum,security
+Weir: Bounded-Memory Indexing and Proving with Sequential Storage;;;Kyeongtae Lee, Jihye Kim, Hyunok Oh;;;2026/2689;;;none;;;2026-10-30;;;proofs/iop/code
+Penalty Deposits For Discrete Logarithms;;;Francisco Vial-Prado, Louis Goubin;;;2026/2687;;;none;;;2026-10-29;;;proofs
 Stop Calling Them Provers: The Case for Calling ProVerif and Tamarin Symbolic Protocol Analyzers;;;Nadim Kobeissi;;;2026/2683;;;none;;;2026-10-29;;;formal,security
 Improving Code Rate and Query Complexity for the Ligero-IOP System;;;Ignacio Cascudo, Carmit Hazay, Muthu Venkitasubramaniam;;;2026/2681;;;none;;;2026-10-29;;;proofs/iop/hash
 Cryptanalysis and Enhancement of VTBSAE: Provably Secure Verifier-Based PAKE Protocols for the Industrial Internet of Things;;;Jiahui Gao, Zhiqiang Zhao, Xuexian Hu;;;2026/2679;;;none;;;2026-10-29;;;security
