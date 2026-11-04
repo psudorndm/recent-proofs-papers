@@ -1,4 +1,4 @@
-# recent proofs papers — proof systems, security proofs & formal verification
+# recent proofs papers: archive for recent works on proof systems, security proofs & formal verification
 
 A tiny static site that lists recent papers on **cryptographic proof systems**,
 **security proofs**, and **formal verification** of cryptography. It pulls
@@ -88,14 +88,3 @@ files, which browsers block over `file://`.)
 Everything is in [`taxonomy.toml`](taxonomy.toml): each topic's keywords, its
 sub-topics, shared sub-topic lists such as the assumptions, and the phrases the arXiv
 harvest searches for. [CONTRIBUTING.md](CONTRIBUTING.md) explains the format.
-
-## Automatic updates
-
-`.github/workflows/update.yml` re-runs the scraper once a day and commits the
-updated `data/` files as `paper-bot`. Each run merges the last 30 days into the
-stored history. Enable GitHub Pages (serving from the repo
-root) to publish the site. You can also trigger a refresh on demand from the repo's
-**Actions** tab (the workflow has `workflow_dispatch` enabled); tick **full** there to
-re-harvest everything, e.g. after adding a new top-level topic. A push that changes
-`taxonomy.toml` re-tags the stored papers straight away (no harvesting), and pull
-requests that change it are checked automatically (`check-taxonomy.yml`).
