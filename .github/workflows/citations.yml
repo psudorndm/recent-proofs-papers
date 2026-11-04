@@ -1,0 +1,52 @@
+name: refresh citations
+
+# Weekly citation counts from OpenAlex (data/citations.json). Needs a free
+# OpenAlex API key saved as the repository secret OPENALEX_API_KEY
+# (Settings -> Secrets and variables -> Actions). One run uses about $0.03 of
+# the key's free $1/day budget.
+
+on:
+  schedule:
+    - cron: "23 5 * * 1"   # Mondays 05:23 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-papers    # never overlap with the daily paper refresh
+  cancel-in-progress: false
+
+jobs:
+  citations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch citation counts
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: |
+          if [ -z "$OPENALEX_API_KEY" ]; then
+            echo "::error::Add the OPENALEX_API_KEY repository secret (Settings -> Secrets and variables -> Actions)."
+            exit 1
+          fi
+          python3 scraper/citations.py
+
+      - name: Commit citation counts
+        run: |
+          git config user.name "paper-bot"
+          git config user.email "paper-bot@users.noreply.github.com"
+          git add data/citations.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: refresh citation counts ($(date -u '+%Y-%m-%d'))"
+            git pull --rebase
+            git push
+          fi

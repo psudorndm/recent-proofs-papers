@@ -378,6 +378,11 @@
             color: #8f84a6;
         }
 
+        .cites {
+            color: #8f84a6;
+            margin-right: 0.9em;
+        }
+
         .tag {
             font-size: 0.74em;
             padding: 0.1em 0.6em;
@@ -666,16 +671,18 @@
                 var groups = {}, order = [];
                 paper.cats.forEach(function (path) {
                     var cut = path.lastIndexOf("/");
-                    var parent = cut === -1 ? "" : path.slice(0, cut);
+                    // top-level topics each get their own tag (and colour); deeper siblings share one
+                    var parent = cut === -1 ? "=" + path : path.slice(0, cut);
                     if (!groups[parent]) { groups[parent] = []; order.push(parent); }
                     groups[parent].push(path);
                 });
                 order.sort();
                 order.forEach(function (parent) {
                     var tag = document.createElement('span');
-                    var root = (parent || groups[parent][0]).split("/")[0];
+                    var topLevel = parent.charAt(0) === "=";
+                    var root = groups[parent][0].split("/")[0];
                     tag.className = "tag tag-" + (KNOWN_ROOTS[root] ? root : "other");
-                    var parts = parent ? parent.split("/") : [];
+                    var parts = topLevel ? [] : parent.split("/");
                     parts.forEach(function (part, i) {
                         tag.appendChild(topicSegment(parts.slice(0, i + 1).join("/")));
                         tag.appendChild(separator(" \u203a "));
@@ -750,6 +757,15 @@
                     meta.appendChild(git);
                     meta.appendChild(document.createTextNode('  '));
                 }
+                var cited = (CITES[paper.source] || {})[paper.id];
+                if (cited) {
+                    var cites = document.createElement('span');
+                    cites.className = "cites";
+                    cites.textContent = "cited by " + cited.toLocaleString();
+                    cites.title = cited.toLocaleString() + (cited === 1 ? " citation" : " citations") +
+                        " according to OpenAlex" + (CITES.updated ? " (updated " + CITES.updated + ")" : "");
+                    meta.appendChild(cites);
+                }
                 var source = document.createElement('span');
                 source.className = "source";
                 source.textContent = "[" + paper.source + "] ";
@@ -795,6 +811,8 @@
             var olderSections = [];   // one per calendar year older than the last 365 days
             var filterVersion = 0;
             var olderLoaded = false;
+            var CITES = {};           // data/citations.json: {eprint: {id: n}, arxiv: {id: n}, updated}
+            var yearViewOpen = {};    // year -> open/closed, as chosen by hand in the year view
             var yearRange = null;     // [from, to] while the year box holds a year or range
             var yearText = "";
 
@@ -907,6 +925,9 @@
             }
 
             // Year box filled in: show only those years, newest first, all expanded.
+            // Year box filled in: one collapsible section per year, newest first. A single
+            // year starts open; in a range the years start closed (open while searching).
+            // A section builds its list only when opened.
             function renderYearView() {
                 var view = document.getElementById('year-view');
                 var byYear = {}, shown = 0;
@@ -918,8 +939,12 @@
                     (byYear[year] = byYear[year] || []).push(paper);
                     shown++;
                 });
+                var openByDefault = yearRange[0] === yearRange[1] || searchTerms.length > 0;
                 var frag = document.createDocumentFragment();
                 Object.keys(byYear).sort().reverse().forEach(function (year) {
+                    var details = document.createElement('details');
+                    details.className = "fold";
+                    var summary = document.createElement('summary');
                     var h = document.createElement('h3');
                     h.textContent = year;
                     var count = document.createElement('span');
@@ -927,13 +952,28 @@
                     var n = byYear[year].length;
                     count.textContent = n + (n === 1 ? " paper" : " papers");
                     h.appendChild(count);
+                    summary.appendChild(h);
                     var list = document.createElement('ul');
                     list.className = "spaced-list";
-                    byYear[year].sort(byDateDesc).forEach(function (paper) {
-                        list.appendChild(makePaperItem(paper));
+                    details.appendChild(summary);
+                    details.appendChild(list);
+                    var fill = function () {
+                        if (list.childElementCount) { return; }
+                        var items = document.createDocumentFragment();
+                        byYear[year].sort(byDateDesc).forEach(function (paper) {
+                            items.appendChild(makePaperItem(paper));
+                        });
+                        list.appendChild(items);
+                    };
+                    var open = yearViewOpen.hasOwnProperty(year) ? yearViewOpen[year] : openByDefault;
+                    var settingUp = open;   // ignore the toggle event our own opening fires
+                    if (open) { details.open = true; fill(); }
+                    details.addEventListener('toggle', function () {
+                        if (settingUp) { settingUp = false; return; }
+                        yearViewOpen[year] = details.open;
+                        if (details.open) { fill(); } else { list.textContent = ""; }
                     });
-                    frag.appendChild(h);
-                    frag.appendChild(list);
+                    frag.appendChild(details);
                 });
                 if (!shown) {
                     var empty = document.createElement('p');
@@ -1060,10 +1100,15 @@
             // Load the last year first so the page shows up quickly, then
             // everything older in the background (search covers it once loaded).
             renderTopicRows();
-            fetch('data/taxonomy.json')
-                .then(function (r) { return r.ok ? r.json() : null; })
-                .catch(function () { return null; })
-                .then(function (tax) {
+            function fetchOptionalJSON(url) {
+                return fetch(url)
+                    .then(function (r) { return r.ok ? r.json() : null; })
+                    .catch(function () { return null; });
+            }
+            Promise.all([fetchOptionalJSON('data/taxonomy.json'), fetchOptionalJSON('data/citations.json')])
+                .then(function (loaded) {
+                    var tax = loaded[0];
+                    CITES = loaded[1] || {};
                     if (tax && tax.topics && tax.topics.length) {
                         TOPICS = tax.topics;
                         indexTopics(TOPICS, "");
@@ -1101,6 +1146,7 @@
                 yearTimer = setTimeout(function () {
                     yearText = value.trim();
                     yearRange = parseYears(yearText);
+                    yearViewOpen = {};
                     applyFilters();
                 }, 250);
             });

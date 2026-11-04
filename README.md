@@ -26,6 +26,7 @@ scraper/scrape.py  ──>  data/eprint/<year>.txt
                    ──>  data/abstracts/<source>/<id>.txt   (one abstract per paper)
                    ──>  data/index.json      (which year files exist, and their sizes)
                    ──>  data/taxonomy.json   (the topic tree, for the page)
+scraper/citations.py  ──>  data/citations.json   (citation counts from OpenAlex, weekly)
 index.html  ──(fetch + render in the browser)──>  the page
 ```
 
@@ -50,9 +51,12 @@ title;;;authors;;;id;;;repo;;;date;;;categories
 The page has a search box (titles, authors, IDs); **topic** rows that drill down
 the hierarchy (pick *proof systems*, then *PCS*, then *lattice-based*; clicking a tag on
 any paper does the same); **source** (ePrint / arXiv / both); and a **year** box that takes a year (`2019`)
-or a range (`2018-2021`, `2020-`, `-2005`) and shows just those years, expanded.
+or a range (`2018-2021`, `2020-`, `-2005`) and shows just those years (a single year
+opens; in a range each year starts collapsed).
 Every section (this week / month / year, and each older year) can be collapsed.
 Clicking a paper's title shows its abstract (loaded only then, so the page stays light).
+Papers that [OpenAlex](https://openalex.org/) has citations for show *cited by N* next
+to their ID.
 The page loads the last year first, then the older years in the background; once
 they are loaded, search covers the whole history and opens every year that has matches.
 
@@ -88,3 +92,14 @@ files, which browsers block over `file://`.)
 Everything is in [`taxonomy.toml`](taxonomy.toml): each topic's keywords, its
 sub-topics, shared sub-topic lists such as the assumptions, and the phrases the arXiv
 harvest searches for. [CONTRIBUTING.md](CONTRIBUTING.md) explains the format.
+
+## Citation counts
+
+`.github/workflows/citations.yml` refreshes `data/citations.json` every Monday from
+OpenAlex. It needs a free OpenAlex API key in the repository secret `OPENALEX_API_KEY`
+(Settings → Secrets and variables → Actions); a run uses about $0.03 of the key's free
+$1/day budget. To run it locally:
+
+```bash
+OPENALEX_API_KEY=... python3 scraper/citations.py
+```
