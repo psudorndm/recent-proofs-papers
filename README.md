@@ -93,13 +93,4 @@ Everything is in [`taxonomy.toml`](taxonomy.toml): each topic's keywords, its
 sub-topics, shared sub-topic lists such as the assumptions, and the phrases the arXiv
 harvest searches for. [CONTRIBUTING.md](CONTRIBUTING.md) explains the format.
 
-## Citation counts
-
-`.github/workflows/citations.yml` refreshes `data/citations.json` every Monday from
-OpenAlex. It needs a free OpenAlex API key in the repository secret `OPENALEX_API_KEY`
-(Settings → Secrets and variables → Actions); a run uses about $0.03 of the key's free
-$1/day budget. To run it locally:
-
-```bash
-OPENALEX_API_KEY=... python3 scraper/citations.py
-```
+> Citation data fed through OpenAlex API
