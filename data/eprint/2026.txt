@@ -1,3 +1,17 @@
+A note on zero-knowledge ring switching;;;Andrei Kochergin;;;2026/2754;;;none;;;2026-11-04;;;proofs
+Practical Optimal Bucket Sets with Power-of-Two Radices for LFG-Based MSM Algorithms;;;Guiwen Luo;;;2026/2750;;;none;;;2026-11-03;;;proofs/snark/group
+Shielded Bitcoin: Private Transfers on the Bitcoin L1;;;Clara Shikhelman, Mikhail Komarov, Aleksei Moskvin;;;2026/2749;;;none;;;2026-11-03;;;proofs
+TFNP in the Random Oracle Model;;;Noah Fleming, Mika Göös, Ziyi Guan, Oliver Korten, Daniel Mitropolsky, Toniann Pitassi, Artur Riazanov, Dmitry Sokolov, Tianqi Yang, Weiqiang Yuan;;;2026/2748;;;none;;;2026-11-03;;;post-quantum,security
+MODDIV-WC: Unit-Anchored Toeplitz/Hankel Rounding with Exact Binary-LWE Masking and an IND-CCA Security Route;;;Samir Bouftass;;;2026/2747;;;none;;;2026-11-03;;;post-quantum,security
+Leakage-Resilient Computation via Matrix Refreshing;;;Stefan Dziembowski, Sebastian Faust;;;2026/2741;;;none;;;2026-11-03;;;formal
+Archive Certificates for ML-DSA-87 Authorizations from an Exact Bounded Relation;;;Yacine Alloul;;;2026/2739;;;none;;;2026-11-03;;;post-quantum,proofs/applications,proofs/iop/hash,proofs/iop/lattice,security
+MuCPay: Breaking the Quadratic Bottleneck in Scriptless Multi-Party Oracle-Based Conditional Payments;;;Yaning Wang, Na Wang, Chuan Li, Yongda Zhang, Junsong Fu;;;2026/2732;;;none;;;2026-11-03;;;security
+On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2026/2727;;;none;;;2026-11-02;;;post-quantum,security
+Authenticated Outsourced Incrementally Verifiable MPC;;;Hamidreza Khoshakhlagh, Anders Kallesøe, Anders Dalskov;;;2026/2721;;;none;;;2026-11-02;;;proofs/iop,proofs/pcs,proofs/snark
+Unique Signature Schemes with Tight Security in the Random Oracle Model via Hash-and-Subset-Sign;;;Thomas Attema, Lisa Kohl, Joost van der Laan;;;2026/2720;;;none;;;2026-11-02;;;security
+Verifiable Data on Bitcoin: FlatMerkle Commitments, Refutable Proofs, and FlatChecks;;;Sergio Demian Lerner;;;2026/2717;;;none;;;2026-11-01;;;proofs/snark/hash
+A Constant-Rate Compiler for Continual Memory Leakage;;;Shweta Agrawal, Anuja Modi, Rajeev Raghunath;;;2026/2715;;;none;;;2026-11-01;;;post-quantum,security
+Polynomial Batch Accumulators for Onboarding-Dominant Zero-Knowledge Membership Proofs;;;Samanta Karmaker, Sampad Sikder, Md Ariful Islam, Md Sadek Ferdous;;;2026/2714;;;none;;;2026-11-01;;;proofs
 Beyond Standard Indifferentiability: Simulator Properties for Fiat-Shamir Security;;;Ashrujit Ghoshal, Sikhar Patranabis;;;2026/2708;;;none;;;2026-10-31;;;proofs/zk-protocols/group,security
 Anamorphic Proofs of Knowledge from Prover Randomness;;;Zhi Lu, Songfeng Lu, Jiaheng Zhang;;;2026/2706;;;none;;;2026-10-31;;;proofs,security
 Card-Based Protocols with Mixed Encoding: Computable Functions and the Minimum Number of Cards;;;Saeki Koizumi, Xiao-Nan Lu, Hidetomo Nabeshima;;;2026/2704;;;none;;;2026-10-31;;;formal

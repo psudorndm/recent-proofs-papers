@@ -1,0 +1,1 @@
+We make the ring-switching technique of Diamond and Posen zero knowledge, resolving a problem left open in the literature. Over $\mathbb{F}_{2^n}$, our technique uses $n-1$ auxiliary masks and $n-1$ quadratic constraints, checked in zero knowledge by the underlying commitment scheme.

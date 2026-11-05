@@ -1,3 +1,6 @@
+Flux Crosstalk Calibration from Zero Knowledge to High Precision in Fully Tunable Superconducting Circuits;;;Y. Gao, A. Galicia, J. R. Guimarães, Y. Haddad, Y. Liu, J. Cereijo, D. A. Volkov, H. Bhardwaj, M. Neis, M. Jerger, P. A. Bushev, R. Barends;;;2611.06656;;;none;;;2026-11-04;;;proofs
+Clear Human Web: Where a Person Vouches for Every Client;;;Lorenzo Porcelli;;;2611.06286;;;none;;;2026-11-04;;;proofs
+A Post-Quantum Interactive Hashing Theorem;;;Céline Chevalier, Laurent Holin, Quoc-Huy Vu;;;2611.06124;;;none;;;2026-11-04;;;post-quantum,proofs,security
 TFNP in the Random Oracle Model;;;Noah Fleming, Mika Göös, Ziyi Guan, Oliver Korten, Daniel Mitropolsky, Toniann Pitassi, Artur Riazanov, Dmitry Sokolov, Tianqi Yang, Weiqiang Yuan;;;2611.05308;;;none;;;2026-11-03;;;post-quantum,security
 Proving the Wrong Program: Miscompilations as a Threat to zkVM Guarantees;;;Hui Xuan Tan, Stefanos Chaliasos, Alastair F. Donaldson;;;2611.04701;;;none;;;2026-11-03;;;formal,proofs/zkvm
 Decoy-state quantum key distribution with a leaky Mach-Zehnder receiver;;;Ryohei Mizusawa, Álvaro Navarrete, Akihiro Mizutani, Kiyoshi Tamaki;;;2611.04539;;;none;;;2026-11-03;;;security
