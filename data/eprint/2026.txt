@@ -1,3 +1,8 @@
+Separating Pseudorandom Codes from Quantum Random Oracles;;;Nico Döttling, Anne Müller, Mahesh Sreekumar Rajasree;;;2026/2774;;;none;;;2026-11-04;;;post-quantum,security
+Sumcheck bit packing;;;Matteo Frigo, abhi shelat;;;2026/2770;;;none;;;2026-11-04;;;proofs/iop
+HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2026/2767;;;none;;;2026-11-04;;;formal,post-quantum
+Trapdoors Beyond Inversion: Recoverable Information in Public-Key Cryptography;;;Kanad Chakravarti, Shreyas Gupta, Bhavana Kanukurthi, Girisha Shankar;;;2026/2764;;;none;;;2026-11-04;;;security
+AirBB: Lightweight Threshold Anonymous Credentials without Random Oracles from BB Signatures;;;Sebastian Faust, Jonas Hofmann, Philipp-Florens Lehwalder, Hussien Othmann;;;2026/2762;;;none;;;2026-11-04;;;security
 A note on zero-knowledge ring switching;;;Andrei Kochergin;;;2026/2754;;;none;;;2026-11-04;;;proofs
 Practical Optimal Bucket Sets with Power-of-Two Radices for LFG-Based MSM Algorithms;;;Guiwen Luo;;;2026/2750;;;none;;;2026-11-03;;;proofs/snark/group
 Shielded Bitcoin: Private Transfers on the Bitcoin L1;;;Clara Shikhelman, Mikhail Komarov, Aleksei Moskvin;;;2026/2749;;;none;;;2026-11-03;;;proofs
@@ -577,6 +582,7 @@ VCVio: Verified Cryptography in Lean via Oracle Effects and Handlers;;;Devon Tum
 Interleaving Stability for Mutual Correlated Agreement and Curve Decodability;;;Sunghyeon Jo;;;2026/891;;;none;;;2026-05-06;;;proofs/iop,proofs/snark
 From NIZK Arguments to ZAPs, Generically;;;Anish Banerjee, Brent Waters, David J. Wu;;;2026/886;;;none;;;2026-05-06;;;post-quantum,proofs/zk-protocols/group,proofs/zk-protocols/lattice
 Formalizing and Strengthening the Security Proof of NTOR;;;François Dupressoir, Kristian Gjøsteen, Cameron Low, Charlotte Mylog;;;2026/884;;;none;;;2026-05-05;;;formal,security
+Complete Fairness in Secure Two-party Computation from Quantum One-Wayness;;;Arpita Maitra, Goutam Paul, Asim K. Pal, Asmita Samanta, Hridam Basu;;;2026/883;;;none;;;2026-05-05;;;post-quantum,proofs
 Unique SNARGs with Adaptive Security: Constructions and Black-Box Separations;;;Cody Freitag, Daniel Wichs;;;2026/881;;;none;;;2026-05-05;;;proofs/snark
 Accountable Fair Exchange Protocols on Blockchain;;;Riku Mochizuki, Ryosuke Abe, Shigeya Suzuki;;;2026/879;;;none;;;2026-05-05;;;proofs/applications,security
 Verifiable Anomaly and Similarity Detection Using Matrix Profile in Private Time-series;;;Xavier Bultel, Charlène Jojon, Benjamin Nguyen, Haoying Zhang;;;2026/878;;;none;;;2026-05-05;;;proofs

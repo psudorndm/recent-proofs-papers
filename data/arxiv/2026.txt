@@ -61,6 +61,7 @@ Computational Bounds for $f$-Routing;;;Oren Renard, Nicholas Spooner;;;2609.4027
 Anchoring the Security of Invariant Quantum Money;;;Hans Schmiedel, Jiangshan Yu;;;2609.39774;;;none;;;2026-09-30;;;security
 Rate 1/5 Non-Malleable Codes against Entangled Split-State Tampering;;;Naresh Goud Boddu;;;2609.39589;;;none;;;2026-09-30;;;security
 On quantum interactive proofs with a laconic prover;;;Zihan Hu, Yupan Liu;;;2609.39495;;;none;;;2026-09-30;;;proofs
+A Dichotomy for MIP* in the Presence of Unital Noise;;;Yangjing Dong, Zhenyu Jiang, Minglong Qin, Penghui Yao, Haigang Zhou;;;2609.39318;;;none;;;2026-09-30;;;proofs
 Certified Randomness with Optimal Rate;;;Siddhartha Jain, Saachi Mutreja, Bhaskar Roberts;;;2609.38945;;;none;;;2026-09-30;;;post-quantum,security
 Tight Post-Quantum Parallel Repetition for Private-Coin Arguments;;;Zvika Brakerski, Andrew Huang, Yael Tauman Kalai, Nicholas Spooner;;;2609.38941;;;none;;;2026-09-30;;;post-quantum,proofs/snark
 Quantum Time-Lock Puzzles in the Quantum Random Oracle Model;;;Prabhanjan Ananth, Yao-Ting Lin;;;2609.38894;;;none;;;2026-09-30;;;post-quantum,security
