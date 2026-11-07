@@ -421,7 +421,7 @@ FiltrumVote: Scalable, Verifiable, and Coercion-Resistant Internet Voting;;;Leon
 BeeKEM: Decentralized, Secure and Efficient Group Key Agreement;;;Derek Yen, Andrés Fábrega, Liangrun Da, Martin Kleppmann, John Mumm, Sunoo Park, Brooklyn Zelenka;;;2026/1434;;;none;;;2026-07-13;;;security
 TRAPGC-DV: Trapdoor Garbled Circuit Designated Verification of Groth16 on Bitcoin;;;Ariel Futoransky, Fadi Barbàra, Ramses Fernandez, Gabriel Larotonda, Sergio Demian Lerner;;;2026/1430;;;none;;;2026-07-13;;;proofs/applications,proofs/snark/group
 Highly Efficient Consistent Broadcast Encryption;;;Konstantin Gegier, Eike Kiltz, Roman Langrehr, Guilherme Rito;;;2026/1428;;;none;;;2026-07-13;;;proofs/zk-protocols,security
-Repeated Masks, Predictable Splices: Breaking AESpolyW and Its AE Applications;;;Shuping Mao, Peng Wang, Jiadong Han, Tingting Guo, Yan Jia, Ying Chen;;;2026/1424;;;none;;;2026-07-12;;;security
+Repeated Masks, Predictable Splices: Breaking AESpolyW and Its AEAD Applications;;;Shuping Mao, Peng Wang, Jiadong Han, Tingting Guo, Yan Jia, Ying Chen;;;2026/1424;;;none;;;2026-07-12;;;security
 A Cryptographic Perspective on California's Delete Request and Opt-out Platform;;;Aarushi Goel, Gabriel Kaptchuk, Peihan Miao, Phuoc Van Long Pham, Satvinder Singh, Rachel E. Thomas;;;2026/1421;;;none;;;2026-07-11;;;security
 Accelerating the AIMer Post-Quantum Signature with AVX-512: A Field–Keccak Speedup Analysis;;;Seung-Won Lee, Si-Woo Eum, Hwa-Jeong Seo;;;2026/1417;;;none;;;2026-07-11;;;post-quantum,proofs/zk-protocols
 Accelerating FAEST Signing on GPU via Fused AES Constraint Generation and Batched Leaf Hashing;;;Ha-Gyeong Kim, Si-Woo Eum, Seung-Won Lee, Ui-Jae Kim, Min-Ho Song, Hwa-Jeong Seo;;;2026/1409;;;none;;;2026-07-11;;;post-quantum,proofs
