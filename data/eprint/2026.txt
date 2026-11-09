@@ -1,15 +1,21 @@
+SNARKs from LWE via Non-black-box Reductions;;;Zhengzhong Jin, Mingqi Lu, Bo Peng;;;2026/2805;;;none;;;2026-11-06;;;post-quantum,proofs/snark/lattice,security
+Actively Secure PIR from Verifiable Linear Relations over Rings;;;Louis Tremblay Thibault;;;2026/2804;;;none;;;2026-11-06;;;post-quantum,proofs/iop/hash,proofs/iop/lattice
+New Results in Adaptively-Secure Broadcast Encryption and Succinct Computational Secret Sharing from Standard Lattices;;;Rishab Goyal, Saikumar Yadugiri;;;2026/2791;;;none;;;2026-11-05;;;post-quantum,security
+Vector Commit-and-Reduce Schemes;;;Anubhav Baweja, Pratyush Mishra, Tushar Mopuri, Bharath Namboothiry;;;2026/2790;;;none;;;2026-11-05;;;post-quantum,proofs/snark/code,proofs/snark/group,proofs/snark/hash
+Symbolic forward secrecy analysis of ML-KEM;;;Varsha Jarali, Shashi Kant Pandey;;;2026/2787;;;none;;;2026-11-05;;;formal,post-quantum,security
+Tamper-Resilient Quantum Key Encapsulation with Coherent Ciphertexts from qOWFs in the QROM;;;Shiyu He;;;2026/2777;;;none;;;2026-11-05;;;post-quantum,proofs,security
 Separating Pseudorandom Codes from Quantum Random Oracles;;;Nico Döttling, Anne Müller, Mahesh Sreekumar Rajasree;;;2026/2774;;;none;;;2026-11-04;;;post-quantum,security
 Sumcheck bit packing;;;Matteo Frigo, abhi shelat;;;2026/2770;;;none;;;2026-11-04;;;proofs/iop
 HqcLethe: Streaming HQC Encapsulation for Tiny Stateless Servers;;;Wind Wong, Klaus v. Gleissenthall;;;2026/2767;;;none;;;2026-11-04;;;formal,post-quantum
 Trapdoors Beyond Inversion: Recoverable Information in Public-Key Cryptography;;;Kanad Chakravarti, Shreyas Gupta, Bhavana Kanukurthi, Girisha Shankar;;;2026/2764;;;none;;;2026-11-04;;;security
-AirBB: Lightweight Threshold Anonymous Credentials without Random Oracles from BB Signatures;;;Sebastian Faust, Jonas Hofmann, Philipp-Florens Lehwalder, Hussien Othmann;;;2026/2762;;;none;;;2026-11-04;;;security
+AirBB: Lightweight Threshold Anonymous Credentials without Random Oracles from BB Signatures;;;Sebastian Faust, Jonas Hofmann, Philipp-Florens Lehwalder, Hussien Othman;;;2026/2762;;;none;;;2026-11-04;;;security
 A note on zero-knowledge ring switching;;;Andrei Kochergin;;;2026/2754;;;none;;;2026-11-04;;;proofs
 Practical Optimal Bucket Sets with Power-of-Two Radices for LFG-Based MSM Algorithms;;;Guiwen Luo;;;2026/2750;;;none;;;2026-11-03;;;proofs/snark/group
 Shielded Bitcoin: Private Transfers on the Bitcoin L1;;;Clara Shikhelman, Mikhail Komarov, Aleksei Moskvin;;;2026/2749;;;none;;;2026-11-03;;;proofs
 TFNP in the Random Oracle Model;;;Noah Fleming, Mika Göös, Ziyi Guan, Oliver Korten, Daniel Mitropolsky, Toniann Pitassi, Artur Riazanov, Dmitry Sokolov, Tianqi Yang, Weiqiang Yuan;;;2026/2748;;;none;;;2026-11-03;;;post-quantum,security
 MODDIV-WC: Unit-Anchored Toeplitz/Hankel Rounding with Exact Binary-LWE Masking and an IND-CCA Security Route;;;Samir Bouftass;;;2026/2747;;;none;;;2026-11-03;;;post-quantum,security
 Leakage-Resilient Computation via Matrix Refreshing;;;Stefan Dziembowski, Sebastian Faust;;;2026/2741;;;none;;;2026-11-03;;;formal
-Archive Certificates for ML-DSA-87 Authorizations from an Exact Bounded Relation;;;Yacine Alloul;;;2026/2739;;;none;;;2026-11-03;;;post-quantum,proofs/applications,proofs/iop/hash,proofs/iop/lattice,security
+Archive Certificates for ML-DSA-87 Authorizations from an Exact Bounded Relation;;;Yacine Alloul;;;2026/2739;;;none;;;2026-11-03;;;formal,post-quantum,proofs/applications,proofs/iop/hash,proofs/iop/lattice,security
 MuCPay: Breaking the Quadratic Bottleneck in Scriptless Multi-Party Oracle-Based Conditional Payments;;;Yaning Wang, Na Wang, Chuan Li, Yongda Zhang, Junsong Fu;;;2026/2732;;;none;;;2026-11-03;;;security
 On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2026/2727;;;none;;;2026-11-02;;;post-quantum,security
 Authenticated Outsourced Incrementally Verifiable MPC;;;Hamidreza Khoshakhlagh, Anders Kallesøe, Anders Dalskov;;;2026/2721;;;none;;;2026-11-02;;;proofs/iop,proofs/pcs,proofs/snark
@@ -236,7 +242,7 @@ Optimal Amplification via Bias-Resilient Combiners;;;Benny Applebaum, Nathan Gei
 Refining Leakage Diagram Analyses for Random Probing Security;;;Sonia Belaïd, Ghozlane Boukacem, Gaëtan Cassiers, Victor Normand, Mélissa Rossi;;;2026/2016;;;none;;;2026-09-14;;;security
 A Unified Analysis of Refresh Gadgets in the Random Probing Model;;;Sonia Belaïd, Victor Normand, Matthieu Rivain;;;2026/2015;;;none;;;2026-09-14;;;security
 Universally Composable Reverse Firewalls for Oblivious Linear Evaluation and Applications;;;Suvradip Chakraborty, Kiran Deep Ghosh, Satrajit Ghosh, Subha Kar, Divyam Katiyar, Sougata Mandal, Soumit Pal, Amlan Sinha;;;2026/2012;;;none;;;2026-09-14;;;security
-CauchyFold: Residue-Optimal High-Arity Lattice Folding via Scaled Cauchy Challenges;;;Xiang Wang;;;2026/2011;;;none;;;2026-09-14;;;proofs/snark/lattice
+Sonata: Certifying Canonical Openings in High-Arity Lattice Folding;;;Xiang Wang;;;2026/2011;;;none;;;2026-09-14;;;post-quantum,proofs/iop/lattice,proofs/snark/lattice
 Beasley: Efficient Zero-Knowledge Proofs for Lattice-based Round-Optimal Oblivious Pseudorandom Functions;;;Baiyu Li, Ting-Yuan Wang, Jiapeng Zhang;;;2026/2010;;;none;;;2026-09-13;;;post-quantum,proofs/iop/lattice,proofs/snark/lattice,proofs/zk-protocols/lattice
 On Succinct Obfuscation via Propositional Proofs;;;Abhishek Jain, Zhengzhong Jin, Surya Mathialagan, Omer Paneth;;;2026/2009;;;none;;;2026-09-13;;;post-quantum,proofs/snark/lattice
 Beyond DCR: HSS and PCFs from Subgroup Indistinguishability;;;Sebastian Hasler;;;2026/2006;;;none;;;2026-09-13;;;security

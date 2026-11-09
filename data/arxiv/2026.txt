@@ -1,3 +1,6 @@
+Performance Bottlenecks in Computing ZK Proofs on a GPU;;;Victor Carolino, Caleb Geren, Michael Kaufman, Maximilian Nussbaum, William Scott, Henry F. Korth;;;2611.09569;;;none;;;2026-11-06;;;proofs/snark
+Sharp error tolerance of the monogamy-of-entanglement game;;;Llorenç Escolà-Farràs, Florian Speelman;;;2611.09504;;;none;;;2026-11-06;;;security
+Quantum Interactive Proofs of Proximity;;;Kenan Wood;;;2611.08858;;;none;;;2026-11-06;;;post-quantum,proofs
 Flux Crosstalk Calibration from Zero Knowledge to High Precision in Fully Tunable Superconducting Circuits;;;Y. Gao, A. Galicia, J. R. Guimarães, Y. Haddad, Y. Liu, J. Cereijo, D. A. Volkov, H. Bhardwaj, M. Neis, M. Jerger, P. A. Bushev, R. Barends;;;2611.06656;;;none;;;2026-11-04;;;proofs
 Clear Human Web: Where a Person Vouches for Every Client;;;Lorenzo Porcelli;;;2611.06286;;;none;;;2026-11-04;;;proofs
 A Post-Quantum Interactive Hashing Theorem;;;Céline Chevalier, Laurent Holin, Quoc-Huy Vu;;;2611.06124;;;none;;;2026-11-04;;;post-quantum,proofs,security
