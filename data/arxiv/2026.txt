@@ -1,6 +1,13 @@
+BioBind: Binding Biometric Deduplication to Zero-Knowledge Authentication;;;Taotao Wang, Xiaoxiao Wu, Shengli Zhang;;;2611.12636;;;https://github.com/plan-lab-szu/biobind;;;2026-11-09;;;proofs/applications
+Using the Planted Clique Conjecture for Cryptography: Public-Key Encryption from Planted Clique and Noisy $k$-$\mathsf{LIN}$ Over Expanders;;;Riddhi Ghosal, Isaac M Hair, Aayush Jain, Amit Sahai;;;2611.11701;;;none;;;2026-11-08;;;security
+Delegating Computation with Approximate Arithmetic: Interactive Proofs for Wizards;;;Aritra Das, Debayan Gupta, Arup Mondal, Mihir More;;;2611.11618;;;none;;;2026-11-08;;;proofs/iop
+Robust and Private Swarm Learning via Zero-Knowledge Validator Admission and Consensus Aggregation;;;Marco Arazzi, Mert Cihangiroglu, Antonino Nocera;;;2611.11477;;;none;;;2026-11-08;;;proofs
+QUASI: Post-Quantum Quorum Attestation of Pre-Validated Statements;;;Maksym Ioffe, Dahlia Malkhi;;;2611.10403;;;none;;;2026-11-07;;;post-quantum,proofs/snark/hash
 Performance Bottlenecks in Computing ZK Proofs on a GPU;;;Victor Carolino, Caleb Geren, Michael Kaufman, Maximilian Nussbaum, William Scott, Henry F. Korth;;;2611.09569;;;none;;;2026-11-06;;;proofs/snark
 Sharp error tolerance of the monogamy-of-entanglement game;;;Llorenç Escolà-Farràs, Florian Speelman;;;2611.09504;;;none;;;2026-11-06;;;security
 Quantum Interactive Proofs of Proximity;;;Kenan Wood;;;2611.08858;;;none;;;2026-11-06;;;post-quantum,proofs
+zkARc: Succinctly Verifiable Proofs for Neurosymbolic Natural Language Formalization and Verification;;;Wyatt Benno, Alberto Centelles, Aman Goel, Benjamin Kiesl-Reiter;;;2611.10031;;;none;;;2026-11-05;;;proofs
+zk-DEAP: A Zero-Knowledge Decentralized Encrypted Aggregation Protocol;;;Jude Ramanan, Georgiana Haldeman, Noah Apthorpe;;;2611.10020;;;none;;;2026-11-04;;;proofs/applications,proofs/snark/group,proofs/snark/hash
 Flux Crosstalk Calibration from Zero Knowledge to High Precision in Fully Tunable Superconducting Circuits;;;Y. Gao, A. Galicia, J. R. Guimarães, Y. Haddad, Y. Liu, J. Cereijo, D. A. Volkov, H. Bhardwaj, M. Neis, M. Jerger, P. A. Bushev, R. Barends;;;2611.06656;;;none;;;2026-11-04;;;proofs
 Clear Human Web: Where a Person Vouches for Every Client;;;Lorenzo Porcelli;;;2611.06286;;;none;;;2026-11-04;;;proofs
 A Post-Quantum Interactive Hashing Theorem;;;Céline Chevalier, Laurent Holin, Quoc-Huy Vu;;;2611.06124;;;none;;;2026-11-04;;;post-quantum,proofs,security
