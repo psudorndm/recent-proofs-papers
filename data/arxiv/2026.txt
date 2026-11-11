@@ -1,3 +1,5 @@
+Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models;;;Tomer Solberg;;;2611.14083;;;https://github.com/moonmath-ai/Sable;;;2026-11-10;;;proofs/iop/code,proofs/iop/hash,proofs/pcs/code,proofs/pcs/hash,security
+Curriculum proof repair with learned counterexamples;;;Yuechun Sun, Jun Yang, Kexin Pei;;;2611.13627;;;none;;;2026-11-10;;;formal
 BioBind: Binding Biometric Deduplication to Zero-Knowledge Authentication;;;Taotao Wang, Xiaoxiao Wu, Shengli Zhang;;;2611.12636;;;https://github.com/plan-lab-szu/biobind;;;2026-11-09;;;proofs/applications
 Using the Planted Clique Conjecture for Cryptography: Public-Key Encryption from Planted Clique and Noisy $k$-$\mathsf{LIN}$ Over Expanders;;;Riddhi Ghosal, Isaac M Hair, Aayush Jain, Amit Sahai;;;2611.11701;;;none;;;2026-11-08;;;security
 Delegating Computation with Approximate Arithmetic: Interactive Proofs for Wizards;;;Aritra Das, Debayan Gupta, Arup Mondal, Mihir More;;;2611.11618;;;none;;;2026-11-08;;;proofs/iop

@@ -1,3 +1,10 @@
+Incrementally Verifiable Oracle Aided Computation;;;Shafi Goldwasser, Yael Tauman Kalai;;;2026/2824;;;none;;;2026-11-08;;;post-quantum,proofs/snark/lattice
+Revisiting the Security of OleF, t-OleF, and OlÆF;;;Tingting Guo, Peng Wang, Shuping Mao, Yan Jia, Jiadong Han;;;2026/2823;;;none;;;2026-11-08;;;security
+How to Revoke Users in Encryption Schemes?;;;Sanjam Garg, Dimitris Kolonelos, Benjamin Ostrovsky, Guru-Vamsi Policharla;;;2026/2819;;;none;;;2026-11-07;;;proofs,security
+Jazzline: Composable CryptoLine Functional Correctness Proofs for Jasmin Programs;;;José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, Lionel Blatter, Gustavo Delerue, João Diogo Duarte, Benjamin Gregoire, Tiago Oliveira, Miguel Quaresma, Pierre-Yves Strub, Ming-Hsien Tsai, Bow-Yaw Wang, Bo-Yin Yang;;;2026/2815;;;none;;;2026-11-07;;;formal
+Overcoming Padding in Cryptography via Hardness of Certifying Random Strings;;;Yao-Ching Hsieh, Abhishek Jain, Jiatu Li, Surya Mathialagan;;;2026/2813;;;none;;;2026-11-07;;;proofs/snark,security
+QUASI: Post-Quantum Quorum Attestation of Pre-Validated Statements;;;Maksym Ioffe, Dahlia Malkhi;;;2026/2810;;;none;;;2026-11-07;;;post-quantum,proofs/snark/hash
+Pastel: Single Secret Leader Election with Private Weights;;;Jung Hee Cheon, Kevin Choi, Intak Hwang, Jaehee Kang, Alireza Kavousi, Junho Lee, Yongdong Yeo;;;2026/2809;;;none;;;2026-11-07;;;post-quantum,proofs/applications
 SNARKs from LWE via Non-black-box Reductions;;;Zhengzhong Jin, Mingqi Lu, Bo Peng;;;2026/2805;;;none;;;2026-11-06;;;post-quantum,proofs/snark/lattice,security
 Actively Secure PIR from Verifiable Linear Relations over Rings;;;Louis Tremblay Thibault;;;2026/2804;;;none;;;2026-11-06;;;post-quantum,proofs/iop/hash,proofs/iop/lattice
 New Results in Adaptively-Secure Broadcast Encryption and Succinct Computational Secret Sharing from Standard Lattices;;;Rishab Goyal, Saikumar Yadugiri;;;2026/2791;;;none;;;2026-11-05;;;post-quantum,security
@@ -18,7 +25,7 @@ Leakage-Resilient Computation via Matrix Refreshing;;;Stefan Dziembowski, Sebast
 Archive Certificates for ML-DSA-87 Authorizations from an Exact Bounded Relation;;;Yacine Alloul;;;2026/2739;;;none;;;2026-11-03;;;formal,post-quantum,proofs/applications,proofs/iop/hash,proofs/iop/lattice,security
 MuCPay: Breaking the Quadratic Bottleneck in Scriptless Multi-Party Oracle-Based Conditional Payments;;;Yaning Wang, Na Wang, Chuan Li, Yongda Zhang, Junsong Fu;;;2026/2732;;;none;;;2026-11-03;;;security
 On the (Quantum) Communication Complexity of Secure MPC from a Random Oracle;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2026/2727;;;none;;;2026-11-02;;;post-quantum,security
-Authenticated Outsourced Incrementally Verifiable MPC;;;Hamidreza Khoshakhlagh, Anders Kallesøe, Anders Dalskov;;;2026/2721;;;none;;;2026-11-02;;;proofs/iop,proofs/pcs,proofs/snark
+Authenticated Outsourced Incrementally Verifiable MPC;;;Anders Dalskov, Anders Kallesøe, Hamidreza Khoshakhlagh;;;2026/2721;;;none;;;2026-11-02;;;proofs/iop,proofs/pcs,proofs/snark
 Unique Signature Schemes with Tight Security in the Random Oracle Model via Hash-and-Subset-Sign;;;Thomas Attema, Lisa Kohl, Joost van der Laan;;;2026/2720;;;none;;;2026-11-02;;;security
 Verifiable Data on Bitcoin: FlatMerkle Commitments, Refutable Proofs, and FlatChecks;;;Sergio Demian Lerner;;;2026/2717;;;none;;;2026-11-01;;;proofs/snark/hash
 A Constant-Rate Compiler for Continual Memory Leakage;;;Shweta Agrawal, Anuja Modi, Rajeev Raghunath;;;2026/2715;;;none;;;2026-11-01;;;post-quantum,security
