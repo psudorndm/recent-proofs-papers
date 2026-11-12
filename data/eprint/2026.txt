@@ -1,3 +1,4 @@
+Adaptively Secure (Threshold) Batched IBE from Static Assumptions;;;Sourav Das, Pratish Datta, Aditi Partap, Swagata Sasmal;;;2026/2843;;;none;;;2026-11-09;;;security
 Incrementally Verifiable Oracle Aided Computation;;;Shafi Goldwasser, Yael Tauman Kalai;;;2026/2824;;;none;;;2026-11-08;;;post-quantum,proofs/snark/lattice
 Revisiting the Security of OleF, t-OleF, and OlÆF;;;Tingting Guo, Peng Wang, Shuping Mao, Yan Jia, Jiadong Han;;;2026/2823;;;none;;;2026-11-08;;;security
 How to Revoke Users in Encryption Schemes?;;;Sanjam Garg, Dimitris Kolonelos, Benjamin Ostrovsky, Guru-Vamsi Policharla;;;2026/2819;;;none;;;2026-11-07;;;proofs,security
