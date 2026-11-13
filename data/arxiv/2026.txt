@@ -1,3 +1,10 @@
+Optimal Single-History Tokenization Disambiguation for Provably Secure Linguistic Steganography;;;Feng Jiang;;;2611.17091;;;none;;;2026-11-12;;;security
+Infrastructure for Verifiable AI: Where Proof Costs Go and How Hardware Can Help;;;Yihan Xia, Wenxin Xu, Taotao Wang;;;2611.17042;;;none;;;2026-11-12;;;proofs
+STEALTH: Steganographic Text Encoding Agnostic to Low-Level Tensor Hardware;;;William Fleshman;;;2611.16928;;;none;;;2026-11-12;;;security
+Batch, Pack, and Prove: More Efficient Verifiable Computation for CKKS;;;Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães, Eduardo Soria-Vazquez;;;2611.16922;;;none;;;2026-11-12;;;proofs/pcs,proofs/snark
+Tokenized Reward Systems for Federated Learning: The Privacy vs. Fairness Tradeoff;;;Andreas Sendros, Nikolaos Pavlidis, Vasilios Perifanis, Pavlos S. Efraimidis;;;2611.16065;;;none;;;2026-11-11;;;proofs/applications
+VRMaaS: Verifiable Reward-Model-as-a-Service for Trustworthy LLM Alignment;;;Guofu Liao, Hailang Xi, Taotao Wang, Shengli Zhang, Rongcheng Tu, Hao Liao;;;2611.14984;;;none;;;2026-11-11;;;proofs
+Incrementally Verifiable Oracle Aided Computation;;;Shafi Goldwasser, Yael Kalai;;;2611.14698;;;none;;;2026-11-10;;;post-quantum,proofs/snark/lattice
 Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models;;;Tomer Solberg;;;2611.14083;;;https://github.com/moonmath-ai/Sable;;;2026-11-10;;;proofs/iop/code,proofs/iop/hash,proofs/pcs/code,proofs/pcs/hash,security
 Curriculum proof repair with learned counterexamples;;;Yuechun Sun, Jun Yang, Kexin Pei;;;2611.13627;;;none;;;2026-11-10;;;formal
 BioBind: Binding Biometric Deduplication to Zero-Knowledge Authentication;;;Taotao Wang, Xiaoxiao Wu, Shengli Zhang;;;2611.12636;;;https://github.com/plan-lab-szu/biobind;;;2026-11-09;;;proofs/applications

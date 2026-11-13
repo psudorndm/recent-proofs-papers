@@ -1,3 +1,10 @@
+Bulletproofs are Optimal: Lower Bounds for Vector Commitments from Fiat-Shamir in Pairing-Free Groups;;;Marian Dietz, Emanuele Giunta;;;2026/2868;;;none;;;2026-11-11;;;proofs/pcs/group,proofs/pcs/hash,proofs/zk-protocols/group,proofs/zk-protocols/hash,security
+Anamorphic NIZK: Definition, Construction and More;;;Wenhui Kong, Gongxian Zeng, Zhengan Huang;;;2026/2866;;;none;;;2026-11-11;;;proofs/zk-protocols,security
+Tightly Secure and Modular Post-Quantum TLS Handshakes;;;Biming Zhou, Jinrong Chen, Haodong Jiang, Rongmao Chen, Yunlei Zhao;;;2026/2864;;;none;;;2026-11-11;;;post-quantum,security
+A Single-Trace Side-Channel Attack on the KpqC Digital Signature Scheme AIMer v3;;;Jinnuo Li, Yiteng Sun, Chi Cheng, Weijia Wang, Hao Cheng;;;2026/2859;;;none;;;2026-11-10;;;post-quantum,proofs/zk-protocols
+Revisiting Fiat-Shamir NIZKPs and Signatures from Seed-Friendly Sigma Protocols;;;Andrea Flamini, Federico Pintore, Edoardo Signorini;;;2026/2858;;;none;;;2026-11-10;;;proofs/zk-protocols,security
+A New Class of PRFs and Efficient VRFs from Isogeny-based Group Actions;;;Junbo Yang, Willy Susilo, Dung Hoang Duong, Partha Sarathi Roy, Yannan Li, Kazuhide Fukushima, Shinsaku Kiyomoto;;;2026/2856;;;none;;;2026-11-10;;;post-quantum,security
+ASCENT: Algebraic Structured Compilation of Exact Norms for Succinct Lattice Proofs;;;Lizhen Zhang, Shang Gao, Bin Xiao;;;2026/2853;;;none;;;2026-11-10;;;proofs/iop/lattice,proofs/snark/lattice
 Adaptively Secure (Threshold) Batched IBE from Static Assumptions;;;Sourav Das, Pratish Datta, Aditi Partap, Swagata Sasmal;;;2026/2843;;;none;;;2026-11-09;;;security
 Incrementally Verifiable Oracle Aided Computation;;;Shafi Goldwasser, Yael Tauman Kalai;;;2026/2824;;;none;;;2026-11-08;;;post-quantum,proofs/snark/lattice
 Revisiting the Security of OleF, t-OleF, and OlÆF;;;Tingting Guo, Peng Wang, Shuping Mao, Yan Jia, Jiadong Han;;;2026/2823;;;none;;;2026-11-08;;;security
