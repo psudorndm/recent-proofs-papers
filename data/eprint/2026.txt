@@ -1,3 +1,4 @@
+Toward Eﬃcient Post-Quantum Bitcoin Bridges;;;Stephen Duan, Vanhger Pham, Blake Hou, Ethan Zhu, Jingping Yin;;;2026/2877;;;none;;;2026-11-12;;;post-quantum,proofs/iop/group,proofs/iop/hash,proofs/snark/group,proofs/snark/hash
 Bulletproofs are Optimal: Lower Bounds for Vector Commitments from Fiat-Shamir in Pairing-Free Groups;;;Marian Dietz, Emanuele Giunta;;;2026/2868;;;none;;;2026-11-11;;;proofs/pcs/group,proofs/pcs/hash,proofs/zk-protocols/group,proofs/zk-protocols/hash,security
 Anamorphic NIZK: Definition, Construction and More;;;Wenhui Kong, Gongxian Zeng, Zhengan Huang;;;2026/2866;;;none;;;2026-11-11;;;proofs/zk-protocols,security
 Tightly Secure and Modular Post-Quantum TLS Handshakes;;;Biming Zhou, Jinrong Chen, Haodong Jiang, Rongmao Chen, Yunlei Zhao;;;2026/2864;;;none;;;2026-11-11;;;post-quantum,security
