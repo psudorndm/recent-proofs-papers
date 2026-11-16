@@ -411,7 +411,7 @@ Reusable Designated Verifier NIZK from Lossy Trapdoor Functions;;;Riddhi Ghosal,
 Cryptographic Treatment of Key Control Security -- In Light of NIST SP 800-108;;;Ritam Bhaumik, Avijit Dutta, Akiko Inoue, Tetsu Iwata, Ashwin Jha, Kazuhiko Minematsu, Mridul Nandi, Yu Sasaki, Meltem Sönmez Turan, Stefano Tessaro;;;2025/1123;;;none;;;2025-06-14;;;security
 Mechanizing Nested Hybrid Arguments;;;Markus Krabbe Larsen, Carsten Schürmann;;;2025/1122;;;none;;;2025-06-14;;;formal,security
 Speeding Up Sum-Check Proving;;;Suyash Bagad, Quang Dao, Yuval Domb, Justin Thaler;;;2025/1117;;;none;;;2025-06-13;;;proofs/iop,proofs/snark,proofs/zkvm
-The Pipes Model for Latency and Throughput Analysis;;;Andrew Lewis-Pye, Kartik Nayak, Nibesh Shrestha;;;2025/1116;;;none;;;2025-06-13;;;formal
+The Pipes Model for Latency and Throughput Analysis;;;Andrew Lewis-Pye, Kartik Nayak, Nibesh Shrestha;;;2025/1116;;;none;;;2025-06-13;;;security
 Computational Attestations of Polynomial Integrity Towards Verifiable Back-Propagation;;;Dustin Ray, Caroline El Jazmi;;;2025/1113;;;none;;;2025-06-13;;;post-quantum,proofs
 A Framework for Compiling Custom Languages as Efficiently Verifiable Virtual Machines;;;Assimakis A. Kattis, Brian Klatt, Philip Quirk, Logan Allen;;;2025/1110;;;none;;;2025-06-12;;;proofs/iop,proofs/zkvm
 Universally Composable Succinct Vector Commitments and Applications;;;Ran Canetti, Megan Chen;;;2025/1103;;;none;;;2025-06-12;;;proofs/snark,security

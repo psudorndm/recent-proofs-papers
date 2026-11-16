@@ -882,7 +882,7 @@ Homomorphic Signatures : A Systematization of Knowledge;;;Olive Chakraborty;;;20
 The Impossibility of Post-Quantum Public Indifferentiability for Merkle-Damgard;;;Akinori Hosoyamada;;;2026/128;;;none;;;2026-01-27;;;post-quantum,security
 Toward Verifiable Privacy in Decentralized Identity: A Formal Framework for Minimal Disclosure and Unlinkability;;;Yu Zhang, Zongbin Wang;;;2026/127;;;none;;;2026-01-27;;;security
 StarFortress: Hybrid KEMs with Diffie-Hellman Inlining;;;Deirdre Connolly, Paul Grubbs;;;2026/125;;;none;;;2026-01-26;;;post-quantum,security
-Re2creds: Reusable Anonymous Credentials from Malleable NIZK and Legacy Signatures;;;Bin Xie, Tianyu Zheng, Rui Song, Shang Gao, Bin Xiao;;;2026/119;;;none;;;2026-01-25;;;proofs/applications,proofs/zk-protocols
+Reusable Anonymous Credentials with Flow-Mode Unlinkability;;;Bin Xie, Tianyu Zheng, Rui Song, Shang Gao, Bin Xiao;;;2026/119;;;none;;;2026-01-25;;;proofs/applications,proofs/pcs/group,proofs/snark/group
 Practical Subvector Commitments with Optimal Opening Complexity;;;Matteo Campanelli;;;2026/118;;;none;;;2026-01-24;;;proofs/pcs/group,proofs/snark/group
 Faultless Key Recovery: Iteration-Skip and Loop-Abort Fault Attacks on LESS;;;Xiao Huang, Zhuo Huang, Yituo He, Quan Yuan, Chao Sun, Mehdi Tibouchi, Yu Yu;;;2026/117;;;none;;;2026-01-24;;;post-quantum,proofs/zk-protocols/code
 How to Steal Oblivious Transfer from Minicrypt;;;Cruz Barnum, David Heath;;;2026/113;;;none;;;2026-01-23;;;security
