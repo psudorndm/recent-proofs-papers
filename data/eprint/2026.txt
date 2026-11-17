@@ -1,3 +1,5 @@
+Sum-Checking SmallWood: Smaller Hash-Based Zero-Knowledge Arguments;;;Thibauld Feneuil, Killian Provin, Matthieu Rivain;;;2026/2880;;;none;;;2026-11-12;;;post-quantum,proofs/iop/hash,proofs/iop/lattice,proofs/pcs/hash,proofs/pcs/lattice,proofs/snark/hash,proofs/snark/lattice,proofs/zk-protocols/hash,proofs/zk-protocols/lattice
+Batch, Pack, and Prove: More Efficient Verifiable Computation for CKKS;;;Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães, Eduardo Soria-Vazquez;;;2026/2878;;;none;;;2026-11-12;;;proofs/pcs,proofs/snark
 Toward Eﬃcient Post-Quantum Bitcoin Bridges;;;Stephen Duan, Vanhger Pham, Blake Hou, Ethan Zhu, Jingping Yin;;;2026/2877;;;none;;;2026-11-12;;;post-quantum,proofs/iop/group,proofs/iop/hash,proofs/snark/group,proofs/snark/hash
 Bulletproofs are Optimal: Lower Bounds for Vector Commitments from Fiat-Shamir in Pairing-Free Groups;;;Marian Dietz, Emanuele Giunta;;;2026/2868;;;none;;;2026-11-11;;;proofs/pcs/group,proofs/pcs/hash,proofs/zk-protocols/group,proofs/zk-protocols/hash,security
 Anamorphic NIZK: Definition, Construction and More;;;Wenhui Kong, Gongxian Zeng, Zhengan Huang;;;2026/2866;;;none;;;2026-11-11;;;proofs/zk-protocols,security
@@ -255,6 +257,7 @@ Seven Bindings: A Machine-Checked Map of the Assumptions Behind Lightning's BOLT
 Silent Payments, Formally: Security, Scanning Costs, and Blind Collaborative Payments;;;Rong Qian, Yu Cheng, Mengrun Chen, Yuchang Zhang, Zengli Guo;;;2026/2037;;;none;;;2026-09-15;;;security
 Mind Small Integers in MDS Matrix: Collision Attacks on Round-Reduced Reinforced Concrete;;;Jiamin Cui, Fukang Liu, Jianqiang Ni, Willi Meier;;;2026/2031;;;none;;;2026-09-14;;;proofs
 Optimal Amplification via Bias-Resilient Combiners;;;Benny Applebaum, Nathan Geier;;;2026/2025;;;none;;;2026-09-14;;;proofs/zk-protocols
+The Geometry of Zero Knowledge: Tight Masking and Efficient Multilinear Arguments;;;Xiang Wang, Ji Xiang;;;2026/2019;;;none;;;2026-09-14;;;proofs/iop/group,proofs/pcs/group,security
 Refining Leakage Diagram Analyses for Random Probing Security;;;Sonia Belaïd, Ghozlane Boukacem, Gaëtan Cassiers, Victor Normand, Mélissa Rossi;;;2026/2016;;;none;;;2026-09-14;;;security
 A Unified Analysis of Refresh Gadgets in the Random Probing Model;;;Sonia Belaïd, Victor Normand, Matthieu Rivain;;;2026/2015;;;none;;;2026-09-14;;;security
 Universally Composable Reverse Firewalls for Oblivious Linear Evaluation and Applications;;;Suvradip Chakraborty, Kiran Deep Ghosh, Satrajit Ghosh, Subha Kar, Divyam Katiyar, Sougata Mandal, Soumit Pal, Amlan Sinha;;;2026/2012;;;none;;;2026-09-14;;;security

@@ -1,3 +1,6 @@
+Rethinking Entropic Uncertainty: How measuring without a trace leads to longer keys;;;Philipp Kleinpaß;;;2611.21417;;;none;;;2026-11-16;;;security
+A counterexample to the soundness of the Flowering IOPP for codes on graphs;;;Hugo Delavenne;;;2611.21396;;;none;;;2026-11-16;;;proofs/iop/code,proofs/iop/hash
+MASTA: A Feedback-Scheduled Multi-Agent System for End-to-End Tamarin Modeling and Analysis;;;Yongkang Xiao, Qiyi Deng, Jing Chen, Min Shi, Ju Ma, Ruiying Du;;;2611.20671;;;none;;;2026-11-16;;;formal
 Optimal Single-History Tokenization Disambiguation for Provably Secure Linguistic Steganography;;;Feng Jiang;;;2611.17091;;;none;;;2026-11-12;;;security
 Infrastructure for Verifiable AI: Where Proof Costs Go and How Hardware Can Help;;;Yihan Xia, Wenxin Xu, Taotao Wang;;;2611.17042;;;none;;;2026-11-12;;;proofs
 STEALTH: Steganographic Text Encoding Agnostic to Low-Level Tensor Hardware;;;William Fleshman;;;2611.16928;;;none;;;2026-11-12;;;security
