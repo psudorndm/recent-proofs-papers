@@ -1,3 +1,5 @@
+Finite-key security of BB84 with passive receivers via reduction to active measurements;;;Go Kato, Akihiro Mizutani, Toyohiro Tsurumaru;;;2611.22768;;;none;;;2026-11-17;;;security
+Black holes as black boxes: a query lower bound on python's lunch decoding;;;Chris Waddell, Michelle Xu;;;2611.21723;;;none;;;2026-11-16;;;security
 Rethinking Entropic Uncertainty: How measuring without a trace leads to longer keys;;;Philipp Kleinpaß;;;2611.21417;;;none;;;2026-11-16;;;security
 A counterexample to the soundness of the Flowering IOPP for codes on graphs;;;Hugo Delavenne;;;2611.21396;;;none;;;2026-11-16;;;proofs/iop/code,proofs/iop/hash
 MASTA: A Feedback-Scheduled Multi-Agent System for End-to-End Tamarin Modeling and Analysis;;;Yongkang Xiao, Qiyi Deng, Jing Chen, Min Shi, Ju Ma, Ruiying Du;;;2611.20671;;;none;;;2026-11-16;;;formal
