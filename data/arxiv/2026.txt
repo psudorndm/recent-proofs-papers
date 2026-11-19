@@ -1,3 +1,6 @@
+Robust, Lightweight Locally Differentially Private Histogram Estimation and the Role of Dropout Attacks;;;Haochen Sun, Jacob Imola, Xi He;;;2611.24623;;;none;;;2026-11-18;;;proofs
+From BBM92 Measurements to Secure Keys: Challenges in a Practical Implementation;;;Karolina P. Schatz, Elia Falcioni, Panagiotis Papanastasiou, Marco Lucamarini;;;2611.24478;;;none;;;2026-11-18;;;security
+Stephen: Verifying Sequencer-Aided Coordination Systems with Cross-View Prophecy;;;Jinkun Geng, Muhammad Haseeb, Daniel Qian, Joseph Tassarotti, Shuai Mu, Anirudh Sivaraman;;;2611.23811;;;none;;;2026-11-18;;;formal
 Finite-key security of BB84 with passive receivers via reduction to active measurements;;;Go Kato, Akihiro Mizutani, Toyohiro Tsurumaru;;;2611.22768;;;none;;;2026-11-17;;;security
 Black holes as black boxes: a query lower bound on python's lunch decoding;;;Chris Waddell, Michelle Xu;;;2611.21723;;;none;;;2026-11-16;;;security
 Rethinking Entropic Uncertainty: How measuring without a trace leads to longer keys;;;Philipp Kleinpaß;;;2611.21417;;;none;;;2026-11-16;;;security

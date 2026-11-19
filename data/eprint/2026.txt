@@ -1,3 +1,6 @@
+Bounds of Falcon's Fast Fourier Sampler with Fixed-Point Arithmetic;;;Vincent Hwang;;;2026/2902;;;none;;;2026-11-15;;;formal,post-quantum
+LEASH: When LaBRADOR’s Guarantees Go Astray;;;Xiang Wang, Ji Xiang;;;2026/2898;;;none;;;2026-11-15;;;post-quantum,proofs/snark/lattice
+BMuSig-L: Blind Multi-Signature from Lattice;;;Anirban Chakraborty, Mriganka Dey, Nikita Dey, Avijit Dutta, Subhabrata Samajder;;;2026/2894;;;none;;;2026-11-14;;;post-quantum,proofs/zk-protocols/group,proofs/zk-protocols/lattice,security
 Sum-Checking SmallWood: Smaller Hash-Based Zero-Knowledge Arguments;;;Thibauld Feneuil, Killian Provin, Matthieu Rivain;;;2026/2880;;;none;;;2026-11-12;;;post-quantum,proofs/iop/hash,proofs/iop/lattice,proofs/pcs/hash,proofs/pcs/lattice,proofs/snark/hash,proofs/snark/lattice,proofs/zk-protocols/hash,proofs/zk-protocols/lattice
 Batch, Pack, and Prove: More Efficient Verifiable Computation for CKKS;;;Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães, Eduardo Soria-Vazquez;;;2026/2878;;;none;;;2026-11-12;;;proofs/pcs,proofs/snark
 Toward Eﬃcient Post-Quantum Bitcoin Bridges;;;Stephen Duan, Vanhger Pham, Blake Hou, Ethan Zhu, Jingping Yin;;;2026/2877;;;none;;;2026-11-12;;;post-quantum,proofs/iop/group,proofs/iop/hash,proofs/snark/group,proofs/snark/hash
