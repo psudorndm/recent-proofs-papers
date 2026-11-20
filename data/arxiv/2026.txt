@@ -1,3 +1,5 @@
+Correctable Enrollment and One-Transaction Seed Proofs for Ethereum's Post-Quantum Transition;;;Xin Jin, Maximillian Liao, Handong Chen, Yi Nancy Li, Junyu Liu;;;2611.25663;;;https://github.com/DaseinDa/ethereum-pq-transition;;;2026-11-19;;;post-quantum,proofs/applications,proofs/snark/hash
+Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents;;;Meghana Aparna Sistla, Alaia Solko-Breslin, Somesh Jha, Aditya Kanade, Krishnamurthy Dj Dvijotham;;;2611.25599;;;none;;;2026-11-19;;;formal
 Robust, Lightweight Locally Differentially Private Histogram Estimation and the Role of Dropout Attacks;;;Haochen Sun, Jacob Imola, Xi He;;;2611.24623;;;none;;;2026-11-18;;;proofs
 From BBM92 Measurements to Secure Keys: Challenges in a Practical Implementation;;;Karolina P. Schatz, Elia Falcioni, Panagiotis Papanastasiou, Marco Lucamarini;;;2611.24478;;;none;;;2026-11-18;;;security
 Stephen: Verifying Sequencer-Aided Coordination Systems with Cross-View Prophecy;;;Jinkun Geng, Muhammad Haseeb, Daniel Qian, Joseph Tassarotti, Shuai Mu, Anirudh Sivaraman;;;2611.23811;;;none;;;2026-11-18;;;formal
@@ -62,6 +64,7 @@ Cryptographically Secure Agent-to-Agent Communication in Multi-Agent Systems;;;K
 Approve What, Exactly? Effect Binding and Trusted Rendering for Agent Step-Up Authorization;;;Sai Varun Kodathala, Prashanth Pollishetty, Jaylen Cargill;;;2610.21063;;;https://github.com/Sports-Vision-Inc/agent-step-up;;;2026-10-15;;;formal
 Combining Post-Quantum Cryptography and Quantum Key Distribution: Taxonomy, Constructions, Proofs, Standards, Deployments and Open Problems;;;Mona Alotaibi, Noora Fetais, Saif Al-Kuwari;;;2610.19039;;;none;;;2026-10-13;;;formal,post-quantum
 Quantum Cryptography and Autoformalization in Lean;;;Maor Ben Shahar, Jonathan Morag, Dirk Englund, Kfir Sulimany;;;2610.17286;;;none;;;2026-10-12;;;formal,security
+HDKEM: Authentication Allocation for Deniable Hybrid Key Exchange;;;Kazi Hassan Shakib, Muhammad Asfand Hafeez, Arslan Munir;;;2610.16100;;;none;;;2026-10-12;;;post-quantum,security
 Confidential Error-Correcting Codes;;;Tianrui Wang, Anyu Wang, Tianshuo Cong, Delong Ran, Xiaoyun Wang;;;2610.16087;;;none;;;2026-10-12;;;security
 Scenario Proofs for Verification of Distributed Protocols;;;Zhendong Ang, George Pîrlea, Umang Mathur;;;2610.15408;;;none;;;2026-10-11;;;formal
 StateSync-GKR: Design and Evaluation of a Reusable Sparse GKR Engine;;;Jinwook Kim;;;2610.14849;;;https://github.com/Oraclizer/statesync-gkr;;;2026-10-10;;;proofs/iop
