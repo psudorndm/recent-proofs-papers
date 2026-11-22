@@ -1,3 +1,15 @@
+LaTSEC: Lattice-Based Threshold Signatures with Native Non-Interactive Identifiable Abort and Compact Per-Party Storage;;;Muhammad Arzaki, Muhammed F. Esgin, Markku-Juhani O. Saarinen, Amin Sakzad, Ron Steinfeld;;;2026/2948;;;none;;;2026-11-19;;;post-quantum,proofs
+SPECTRA: Sensor Provenance and Execution Through Recursive Arguments;;;Marco Calipari, Paul Timke Contreras, Mohammad Hamad, Sebastian Steinhorst;;;2026/2947;;;none;;;2026-11-19;;;proofs/snark
+BOCCHI: Compact Blind SNARK via Malformation-Tolerant Ciphertext Aggregation;;;Ye Yu, Kexi Huang;;;2026/2946;;;none;;;2026-11-19;;;proofs/iop/hash,proofs/snark/hash
+A Transparent Post-Quantum Zero-Knowledge Argument for R1CS;;;Vu Hung Tung;;;2026/2943;;;none;;;2026-11-19;;;post-quantum,proofs/iop/lattice,proofs/snark/lattice,security
+Post-Quantum Adaptive Multiparty NIKE;;;Shafik Nassar, Brent Waters;;;2026/2938;;;none;;;2026-11-18;;;post-quantum,security
+Aggregating ML-DSA Signatures Without Recursion: A Cross-Field Argument for the Commitment Hash;;;Jipeng Zhang, Jiaheng Zhang;;;2026/2936;;;none;;;2026-11-18;;;post-quantum,proofs/iop/lattice,proofs/pcs/lattice,proofs/zk-protocols/lattice,security
+A Key Recovery Attack on TRIKE Based on Decoding Failures;;;Alessandro Annechini, Alessandro Barenghi, Gerardo Pelosi;;;2026/2935;;;none;;;2026-11-18;;;post-quantum,security
+Registered Hierarchy-Based Signatures from Bilinear Groups;;;Jiamian Yan, Hong Yang, Ziyan Yuan, Borui Chen, Liang Zhang, Haibin Kan;;;2026/2934;;;none;;;2026-11-18;;;security
+The Swell Protocol: Invite-Bound Hybrid Key Agreement, a Double Ratchet with an ML-KEM Epoch Ratchet, and a Signed Server Statement;;;Ilyas Akbar Almadani;;;2026/2924;;;none;;;2026-11-17;;;formal,post-quantum
+Adaptively Secure Batched IBE from LWE;;;Jiaqi Cheng, Pratish Datta;;;2026/2919;;;none;;;2026-11-16;;;post-quantum,security
+Six Passes Are Enough: Security Proofs for NIST AES Key Wrap;;;Yuwen Zhou;;;2026/2917;;;none;;;2026-11-16;;;security
+Sparse-zkVC: Sparsity-Aware R1CS Synthesis for Zero-Knowledge Proofs of Sparse LLM Inference;;;yanzhe cheng, Luxing Yang, Wei Ren;;;2026/2907;;;none;;;2026-11-16;;;proofs/snark
 Bounds of Falcon's Fast Fourier Sampler with Fixed-Point Arithmetic;;;Vincent Hwang;;;2026/2902;;;none;;;2026-11-15;;;formal,post-quantum
 LEASH: When LaBRADOR’s Guarantees Go Astray;;;Xiang Wang, Ji Xiang;;;2026/2898;;;none;;;2026-11-15;;;post-quantum,proofs/snark/lattice
 BMuSig-L: Blind Multi-Signature from Lattice;;;Anirban Chakraborty, Mriganka Dey, Nikita Dey, Avijit Dutta, Subhabrata Samajder;;;2026/2894;;;none;;;2026-11-14;;;post-quantum,proofs/zk-protocols/group,proofs/zk-protocols/lattice,security
