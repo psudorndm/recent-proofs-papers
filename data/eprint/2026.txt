@@ -1,3 +1,16 @@
+Real Brakedown Performance: A Portable Scalar Baseline for Spielman-Code Polynomial Commitments;;;Jipeng Zhang;;;2026/2996;;;none;;;2026-11-23;;;proofs/pcs/code,proofs/pcs/hash
+PCC: Proof-Carrying Credentials for Enhanced Anonymity and Post-Quantum Delegation;;;Zixuan Wang, ZHENG Tianyu, Yuan Lu, Bin Xiao;;;2026/2992;;;none;;;2026-11-23;;;post-quantum,proofs/applications,proofs/iop/group,proofs/iop/hash,proofs/snark/group,proofs/snark/hash,security
+A Two-Party Threshold Signature Scheme for Aigis-sig;;;Li Wang, Tihong Qin;;;2026/2987;;;none;;;2026-11-22;;;post-quantum,security
+Threshold Hardened Derivation for BIP32-Style Wallets from the Hydra PRF;;;Cemre Özdoğan, Oğuz Yayla;;;2026/2986;;;none;;;2026-11-22;;;security
+Pethoa: Dynamic Proofs of Assets for Hidden Address Sets on Account-Based Blockchains;;;Yangrui Zhou, Dongliang Cai, Yuxuan Chen, Liang Zhang, Haibin Kan;;;2026/2982;;;none;;;2026-11-22;;;proofs/applications
+SPAN: Privacy-Preserving Proofs of Sustained Aggregate Holdings in UTXO Privacy Pools;;;Zonglun Li, Xue Liu;;;2026/2978;;;none;;;2026-11-21;;;proofs/snark
+Praxis: Practical Witness Encryption for NP;;;David Tse, Nikhil Vanjani, Psi Vesely;;;2026/2971;;;none;;;2026-11-21;;;formal,post-quantum,proofs/snark/group,proofs/snark/lattice,security
+Pretzel: Compact Lattice Signatures from Module-LWE and Module-SIS;;;Alberto Centelles Hidalgo, Justin Thaler, Markos Georghiades;;;2026/2970;;;none;;;2026-11-21;;;post-quantum,security
+How to Hash and Commit Real Values with Dynamic Precision;;;Binyi Chen, Yilei Chen, Zhenghao Guan, Wenjie Li;;;2026/2962;;;none;;;2026-11-20;;;post-quantum,proofs/zk-protocols/hash,proofs/zk-protocols/lattice
+Post-Quantum Anonymous Credentials and Blind Signatures from ML-DSA;;;Thibauld Feneuil, Killian Provin, Matthieu Rivain;;;2026/2961;;;none;;;2026-11-20;;;post-quantum,proofs/applications,proofs/iop/hash,proofs/zk-protocols/hash
+Does Witness Indistinguishability Require Cryptography?;;;Gal Arnon, Noam Mazor, Rafael Pass, Jad Silbak;;;2026/2957;;;none;;;2026-11-19;;;proofs/snark
+Complexity-Theoretic Consequences of Zero-Knowledge with Inefficient Simulation;;;Gal Arnon, Noam Mazor, Rafael Pass, Jad Silbak;;;2026/2956;;;none;;;2026-11-19;;;proofs
+A Note on the Unforgeability Hierarchy of Non-Interactive Threshold Signatures, with a Mechanisation in EasyCrypt;;;João Diogo Duarte;;;2026/2955;;;none;;;2026-11-19;;;formal
 LaTSEC: Lattice-Based Threshold Signatures with Native Non-Interactive Identifiable Abort and Compact Per-Party Storage;;;Muhammad Arzaki, Muhammed F. Esgin, Markku-Juhani O. Saarinen, Amin Sakzad, Ron Steinfeld;;;2026/2948;;;none;;;2026-11-19;;;post-quantum,proofs
 SPECTRA: Sensor Provenance and Execution Through Recursive Arguments;;;Marco Calipari, Paul Timke Contreras, Mohammad Hamad, Sebastian Steinhorst;;;2026/2947;;;none;;;2026-11-19;;;proofs/snark
 BOCCHI: Compact Blind SNARK via Malformation-Tolerant Ciphertext Aggregation;;;Ye Yu, Kexi Huang;;;2026/2946;;;none;;;2026-11-19;;;proofs/iop/hash,proofs/snark/hash

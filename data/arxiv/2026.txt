@@ -1,3 +1,5 @@
+PCC: Proof-Carrying Credentials for Enhanced Anonymity and Post-Quantum Delegation;;;Zixuan Wang, Zheng Tianyu, Yuan Lu, Bin Xiao;;;2611.27250;;;none;;;2026-11-20;;;post-quantum,proofs/applications,proofs/iop/group,proofs/iop/hash,proofs/snark/group,proofs/snark/hash,security
+Verification of Statistical Properties: Redefining the Possible;;;Clément Canonne, Sam Polgar, Aditya Vikram Singh, Aravind Thyagarajan, Qiping Yang;;;2611.26951;;;none;;;2026-11-20;;;proofs
 Correctable Enrollment and One-Transaction Seed Proofs for Ethereum's Post-Quantum Transition;;;Xin Jin, Maximillian Liao, Handong Chen, Yi Nancy Li, Junyu Liu;;;2611.25663;;;https://github.com/DaseinDa/ethereum-pq-transition;;;2026-11-19;;;post-quantum,proofs/applications,proofs/snark/hash
 Tether: Verified Stateful Policy Engine for System-Level Monitoring of Agents;;;Meghana Aparna Sistla, Alaia Solko-Breslin, Somesh Jha, Aditya Kanade, Krishnamurthy Dj Dvijotham;;;2611.25599;;;none;;;2026-11-19;;;formal
 Robust, Lightweight Locally Differentially Private Histogram Estimation and the Role of Dropout Attacks;;;Haochen Sun, Jacob Imola, Xi He;;;2611.24623;;;none;;;2026-11-18;;;proofs
