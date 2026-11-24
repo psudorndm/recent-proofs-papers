@@ -514,6 +514,7 @@ Formal Analysis of Non-Malleability for Commitments in EasyCrypt;;;Denis Firsov,
 BAT: Small and Fast KEM over NTRU Lattices;;;Pierre-Alain Fouque, Paul Kirchner, Thomas Pornin, Yang Yu;;;2022/031;;;none;;;2022-01-14;;;post-quantum,security
 Locality-Preserving Hashing for Shifts with Connections to Cryptography;;;Elette Boyle, Itai Dinur, Niv Gilboa, Yuval Ishai, Nathan Keller, Ohad Klein;;;2022/028;;;none;;;2022-01-10;;;post-quantum,security
 Dynamic Group Signature Scheme on Lattice with Verifier-local Revocation;;;Xiuju Huang, Jiashuo Song, Zichen Li;;;2022/022;;;none;;;2022-01-08;;;proofs
+Pairing-based Accountable Subgroup Multi-signatures with Verifiable Group Setup;;;Ahmet Ramazan Ağırtaş, Oğuz Yayla;;;2022/018;;;none;;;2022-01-08;;;proofs,security
 Keyed-Fully Homomorphic Encryption without Indistinguishability Obfuscation;;;Shingo Sato, Keita Emura, Atsushi Takayasu;;;2022/017;;;none;;;2022-01-08;;;proofs/zk-protocols
 Lattice-based Signatures with Tight Adaptive Corruptions and More;;;Jiaxin Pan, Benedikt Wagner;;;2022/015;;;none;;;2022-01-07;;;post-quantum,security
 Formalizing Delayed Adaptive Corruptions and the Security of Flooding Networks;;;Christian Matt, Jesper Buus Nielsen, Søren Eller Thomsen;;;2022/010;;;none;;;2022-01-07;;;security

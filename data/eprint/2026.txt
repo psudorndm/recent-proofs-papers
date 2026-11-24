@@ -725,7 +725,7 @@ A tight security analysis of the FIPS-205 standard (SLH-DSA);;;Dai Chi Do, Quoc 
 Towards Formal Security Proofs of MQOM;;;Haruhisa Kosuge, Keita Xagawa;;;2026/629;;;none;;;2026-03-31;;;post-quantum,proofs/zk-protocols,security
 Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations;;;Ryan Babbush, Adam Zalcman, Craig Gidney, Michael Broughton, Tanuj Khattar, Hartmut Neven, Thiago Bergamaschi, Justin Drake, Dan Boneh;;;2026/625;;;none;;;2026-03-30;;;post-quantum,proofs/applications
 AHAB: Asynchronous, High-throughput, Adaptively-secure, Batched Threshold Schnorr Signatures;;;Victor Shoup;;;2026/620;;;none;;;2026-03-30;;;security
-Breaking the One-Way Property of a SHA-3 Implementation via Fault Injection: Key Recovery Attacks on Post-Quantum Digital Signatures;;;Mona Sobhani, Sönke Jendral, Elena Dubrova, Mats Näslund;;;2026/619;;;none;;;2026-03-30;;;post-quantum,proofs/zk-protocols/code
+Breaking the One-Way Property of a SHA-3 Implementation via Fault Injection: Key Recovery Attacks on Post-Quantum Digital Signatures;;;Mona Sobhani, Sönke Jendral, Mats Näslund, Elena Dubrova;;;2026/619;;;none;;;2026-03-30;;;post-quantum,proofs/zk-protocols/code
 On the Security of MPC-in-the-Head Signatures with Correlated GGM Trees;;;Thibauld Feneuil, Matthieu Rivain;;;2026/615;;;none;;;2026-03-28;;;post-quantum,proofs/zk-protocols,security
 Haechi: Simple Commitment-based Keyless In-person Verifiable Elections;;;Jiwon Kim, Michael Naehrig, Bharath Namboothiry, Olivier Pereira, Josh Benaloh;;;2026/613;;;none;;;2026-03-27;;;post-quantum,proofs/applications
 Concrete Estimation of Correctness and IND-CPA-D Security for FHE via Rare Event Simulation;;;Mathieu Ballandras, Jean-Baptiste Orfila, Samuel Tap;;;2026/610;;;none;;;2026-03-27;;;post-quantum,security
@@ -856,7 +856,7 @@ PhantomCrypt: Composing Existence and Content Deniability with Post-Quantum Enve
 On the Complexity of Interactive Arguments;;;Idan Baril, Iftach Haitner;;;2026/272;;;none;;;2026-02-16;;;post-quantum,proofs/snark/group,proofs/snark/hash,proofs/snark/lattice
 Defining Quantum-Secure Message Authentication;;;Ashwin Jha, Mustafa Khairallah, Jannis Leuther, Stefan Lucks;;;2026/271;;;none;;;2026-02-16;;;post-quantum,security
 Beyond the Linear Barrier: Secret Sharing for Evolving (Weighted) Threshold Access Structures with Poly-logarithmic Share Size;;;Danilo Francati, Sara Giammusso, Daniele Venturi;;;2026/267;;;none;;;2026-02-16;;;security
-UltraFold: Efficient Distributed BaseFold from Packed Interleaved Merkle Trees;;;Wenhao Wang, Fan Zhang;;;2026/266;;;none;;;2026-02-16;;;post-quantum,proofs/pcs/code,proofs/pcs/hash
+UltraFold: Distributed Code-Based PCS from Packed Interleaved Merkle Trees;;;Wenhao Wang, Fan Zhang;;;2026/266;;;none;;;2026-02-16;;;post-quantum,proofs/pcs/code,proofs/pcs/hash
 WillowFold: Secure Aggregation with a Lightweight Committee;;;Hossein Hafezi, Kasra Abbaszadeh, Adrià Gascón, Phillipp Schoppmann, Mariana Raykova, Benedikt Bünz;;;2026/264;;;none;;;2026-02-15;;;proofs/snark,security
 Compact and Statistical NIZK Proofs of Knowledge for Disjunctions from $\Sigma$-Protocols;;;Gennaro Avitabile, Luisa Siniscalchi, Ivan Visconti;;;2026/263;;;none;;;2026-02-15;;;proofs/zk-protocols
 Blockchain Stacking Fraud and Deterrence;;;Tong Cao, Man Ho Au, Xiapu Luo;;;2026/259;;;none;;;2026-02-14;;;proofs/applications,proofs/snark
