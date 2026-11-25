@@ -1,3 +1,4 @@
+Where on Earth? Zero-Knowledge Proof of Location from a Phone Photograph of the Moon and Stars;;;Pavel Shuvalov;;;2026/3002;;;none;;;2026-11-23;;;proofs/zkvm
 Real Brakedown Performance: A Portable Scalar Baseline for Spielman-Code Polynomial Commitments;;;Jipeng Zhang;;;2026/2996;;;none;;;2026-11-23;;;proofs/pcs/code,proofs/pcs/hash
 PCC: Proof-Carrying Credentials for Enhanced Anonymity and Post-Quantum Delegation;;;Zixuan Wang, ZHENG Tianyu, Yuan Lu, Bin Xiao;;;2026/2992;;;none;;;2026-11-23;;;post-quantum,proofs/applications,proofs/iop/group,proofs/iop/hash,proofs/snark/group,proofs/snark/hash,security
 A Two-Party Threshold Signature Scheme for Aigis-sig;;;Li Wang, Tihong Qin;;;2026/2987;;;none;;;2026-11-22;;;post-quantum,security
@@ -484,7 +485,7 @@ Adaptor Signatures Meet BLS: Enabling Efficient Blockchain Applications with Uni
 On the Differential Uniformity of Polynomials over Galois Rings;;;Sondre Rønjom, Arne Sandrib;;;2026/1393;;;none;;;2026-07-08;;;proofs
 A Separation Principle for Lookup-Based zkML: Activation-Function Structure Cannot Reduce Per-Lookup Proving Cost;;;Min Jun Jo;;;2026/1390;;;none;;;2026-07-08;;;proofs/applications,proofs/snark,proofs/zkvm
 Chimera: A Hybrid GPU Backend for Sumcheck Acceleration in Zero-Knowledge Provers;;;Kashfia Farheen, Nektarios Georgios Tsoutsos;;;2026/1388;;;none;;;2026-07-07;;;proofs/iop,proofs/snark
-ZK-Audit: Proving Power Side-Channel Resilience in Synthesized Hardware;;;Sakib Anwar Rieyan, Nektarios Georgios Tsoutsos;;;2026/1387;;;none;;;2026-07-07;;;proofs/snark,proofs/zkvm
+ZK-Audit: Proving Power Side-Channel Resilience in Synthesized Hardware;;;Sakib Anwar Rieyan, Nektarios Georgios Tsoutsos;;;2026/1387;;;none;;;2026-07-07;;;proofs
 Key-Recovery Attacks on TALUS: A Cryptanalytic Note;;;Guilhem Niot;;;2026/1386;;;none;;;2026-07-07;;;post-quantum,security
 Lower Bounds for PIR with Preprocessing from Blackbox Cryptography;;;Alexander Hoover, Giuseppe Persiano, Kevin Yeo;;;2026/1384;;;none;;;2026-07-07;;;security
 TIM: A Sensitive-Parameter-Privacy Blind Watermarking Based on Zero-Knowledge Proof;;;Haoran Si, Xi Lin, Huiyan Chen;;;2026/1380;;;none;;;2026-07-06;;;proofs/applications,proofs/snark

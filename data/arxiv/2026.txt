@@ -1,3 +1,6 @@
+Improving Quantum Oblivious Transfer using Zero-Knowledge Proofs;;;Alex Bredariol Grilo, Lucas Hanouz, Anne Marin;;;2611.32239;;;none;;;2026-11-24;;;proofs
+APQKE-DR: Entropy-Failure Analysis of a Post-Quantum-Initialized Ratcheted Channel;;;Muhammad Asfand Hafeez, Zain Ul Abideen, Amna Zafar, Kazi Hassan Shakib, Arslan Munir;;;2611.32024;;;none;;;2026-11-24;;;formal,post-quantum
+Internal inconsistencies and unresolved experimental evidence in a quantum neurosecurity framework;;;S. Grigorovich, M. Bairachnaya, E. Daroczi, J. Marshall, B. Giros;;;2611.31622;;;none;;;2026-11-23;;;post-quantum,security
 Two messages suffice for quantum interactive proof systems;;;Yupan Liu;;;2611.31236;;;none;;;2026-11-23;;;proofs/iop
 PLATRS: A Lattice-Based Linkable Accountable Ring Signature for Permissioned Blockchains;;;Jie Zhang, Xiaohong Li, Honglin Mao, Ruitao Feng, Lingyun Yuan, Guangdong Bai;;;2611.30453;;;none;;;2026-11-23;;;post-quantum,security
 Quantum-Resilient, PUF-Based, and Anonymity-Preserving Authentication and Key Agreement Scheme for UAV Networks;;;Bhavik Yadav, Bhavya Dixit, Gaurav S. Kasbekar;;;2611.30107;;;none;;;2026-11-23;;;formal,post-quantum,security
