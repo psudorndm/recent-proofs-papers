@@ -1,3 +1,5 @@
+Merkle Trees Minimize Verifier Complexity in the ROM;;;Miranda Christ, Oliver Korten, Tal Malkin, Noam Mazor, Shyamal Patel;;;2026/3015;;;none;;;2026-11-24;;;proofs/snark/hash,security
+CHARTS: Compute-efficient Homomorphic Anonymous Routing with Tag Sums;;;Anthony Flath, Ke Wu;;;2026/3012;;;none;;;2026-11-23;;;post-quantum,security
 Where on Earth? Zero-Knowledge Proof of Location from a Phone Photograph of the Moon and Stars;;;Pavel Shuvalov;;;2026/3002;;;none;;;2026-11-23;;;proofs/zkvm
 Real Brakedown Performance: A Portable Scalar Baseline for Spielman-Code Polynomial Commitments;;;Jipeng Zhang;;;2026/2996;;;none;;;2026-11-23;;;proofs/pcs/code,proofs/pcs/hash
 PCC: Proof-Carrying Credentials for Enhanced Anonymity and Post-Quantum Delegation;;;Zixuan Wang, ZHENG Tianyu, Yuan Lu, Bin Xiao;;;2026/2992;;;none;;;2026-11-23;;;post-quantum,proofs/applications,proofs/iop/group,proofs/iop/hash,proofs/snark/group,proofs/snark/hash,security
@@ -675,8 +677,8 @@ EQuADiSE: Efficient Quantum-safe Adaptive Distributed Symmetric-key Encryption;;
 Equivocal Broadcast Encryption: Adaptively-Secure Optimal Distributed Broadcast Encryption from Lattices;;;Rishab Goyal, Saikumar Yadugiri;;;2026/792;;;none;;;2026-04-22;;;post-quantum,security
 Secret-Carrying Puzzles and Garbled Circuits Optimized for Zero-knowledge Proofs;;;Debasish Ray Chawdhuri, Manoj Prabhakaran;;;2026/788;;;none;;;2026-04-21;;;proofs/snark
 Neural Leakage–based Cryptanalysis of LowMC with Linear Complexity;;;Kwangjo Kim;;;2026/785;;;none;;;2026-04-21;;;post-quantum,proofs/applications,proofs/zk-protocols
-Panther: Robust Hybrid KEM Combiners via Structural Splicing;;;Basker Palaniswamy, Paolo Palmieri, Ashok Kumar Das;;;2026/781;;;none;;;2026-04-20;;;post-quantum,security
-Cobra: All-in-one for full-fledged defense — a hybrid nested KEM;;;Basker Palaniswamy, Paolo Palmieri, Ashok Kumar Das;;;2026/778;;;none;;;2026-04-20;;;post-quantum,security
+Panther: Robust Hybrid KEM Combiners via Structural Splicing;;;Basker Palaniswamy, Paolo Palmieri;;;2026/781;;;none;;;2026-04-20;;;post-quantum,security
+Cobra: All-in-one for full-fledged defense — a hybrid nested KEM;;;Basker Palaniswamy, Paolo Palmieri;;;2026/778;;;none;;;2026-04-20;;;post-quantum,security
 Provably Secure Hybrid Inner Product and Boolean Masking via Composable Conversion;;;Jaeseung Han, Dong-Guk Han;;;2026/774;;;none;;;2026-04-20;;;security
 Lattice-based Ring Verifiable Random Functions;;;Jie Xu, Muhammed F. Esgin, Ron Steinfeld;;;2026/772;;;none;;;2026-04-20;;;post-quantum,security
 MBU: Scalable and Constant-Round Evaluation of Non-linear Functions in Standard MPC Setting;;;Min Yang, Dongcan Guo, Zihang Zhou, Jinxuan Du, Qingshu Meng;;;2026/765;;;none;;;2026-04-18;;;security

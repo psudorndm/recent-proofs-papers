@@ -1,3 +1,8 @@
+Northstar: Efficient Verifiable Negacyclic Polynomial Arithmetic with Applications to Encrypted Lattice-based Multi-Asset ERC-20 and Verifiable FHE;;;Yeoh Wei Zhu, Shaltiel Eloul, Yash Satsangi, Rob Otter;;;2611.34417;;;none;;;2026-11-25;;;post-quantum,proofs/applications,proofs/snark/hash,proofs/snark/lattice
+FlashProve-Next: Verifiable Inference for Production LLM APIs;;;Liang Song;;;2611.33741;;;https://github.com/s-JoL/FlashProve-Next;;;2026-11-25;;;formal,proofs/applications
+Bounding the security of the FALCON signature scheme in the quantum random oracle model;;;Kelsey A. Jackson, Carl A. Miller;;;2611.33666;;;none;;;2026-11-25;;;post-quantum,security
+Small Leaks Sink Great Ships: Automated Analysis of Protocols That Tolerate Low-Entropy Keys;;;Yongkang Xiao, Jing Chen, Min Shi, Kun He, Mei Wang, Ruiying Du;;;2611.33595;;;none;;;2026-11-25;;;formal
+Merkle Trees Minimize Verifier Complexity in the ROM;;;Miranda Christ, Oliver Korten, Tal Malkin, Noam Mazor, Shyamal Patel;;;2611.33508;;;none;;;2026-11-24;;;proofs/snark/hash,security
 Improving Quantum Oblivious Transfer using Zero-Knowledge Proofs;;;Alex Bredariol Grilo, Lucas Hanouz, Anne Marin;;;2611.32239;;;none;;;2026-11-24;;;proofs
 APQKE-DR: Entropy-Failure Analysis of a Post-Quantum-Initialized Ratcheted Channel;;;Muhammad Asfand Hafeez, Zain Ul Abideen, Amna Zafar, Kazi Hassan Shakib, Arslan Munir;;;2611.32024;;;none;;;2026-11-24;;;formal,post-quantum
 Internal inconsistencies and unresolved experimental evidence in a quantum neurosecurity framework;;;S. Grigorovich, M. Bairachnaya, E. Daroczi, J. Marshall, B. Giros;;;2611.31622;;;none;;;2026-11-23;;;post-quantum,security
