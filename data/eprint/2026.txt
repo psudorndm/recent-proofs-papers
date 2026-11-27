@@ -1,3 +1,22 @@
+HCENC: How to Design an Efficient Committing Beyond-Birthday-Bound Accordion from a Block Cipher with n-Bit Blocks and Keys;;;Roberto Avanzi;;;2026/3078;;;none;;;2026-11-27;;;formal,security
+Near-n-Bit Preimage and Second-Preimage Security of the JH Mode;;;Changlun Li, Hongli Li, Yijun Yuan, Fengmei Liu, Shanwen Wang, Honggang Hu;;;2026/3071;;;none;;;2026-11-27;;;formal
+Faulting the Proof: Key Recovery Attacks on MQOM, SDitH and FAEST;;;Mohamed Abdelmonem, Håvard Raddum;;;2026/3064;;;none;;;2026-11-26;;;post-quantum,proofs/zk-protocols
+DEEP Revisited: Proximity Gaps up to List-Decoding Radius via Out-of-Domain Samples;;;Alexander Frolov, Justin Thaler, Eylon Yogev, Kai Zhe Zheng;;;2026/3053;;;none;;;2026-11-26;;;proofs/iop/code,proofs/iop/hash,proofs/snark/code,proofs/snark/hash
+MechCrypto: Agent-Assisted Cryptanalysis of the First-Round NGCC Candidates;;;Zhengyang Wang, Yichuan Cao, Kunyu Wu, Hongbo Li, Xiao-Shan Gao;;;2026/3050;;;https://github.com/MechMath/NGCC-results;;;2026-11-25;;;security
+Stateful LLM Guardrails without Surveillance via Anonymous Risk Token;;;Anirban Chakrabarti, Stefan Dziembowski, Arup Mondal;;;2026/3046;;;none;;;2026-11-25;;;proofs,security
+Anamorphic Broadcast Encryption, Revisited;;;Dennis Faut, Chuanwei Lin, Tapas Pal, Andy Rupp;;;2026/3045;;;none;;;2026-11-25;;;post-quantum,security
+TB-IOPP: Repair-Group-Local IOPs of Proximity for Tamo–Barg Codes;;;Seunghyun Cho, Saehoon Jung, Young-Sik Kim;;;2026/3043;;;none;;;2026-11-25;;;proofs/iop/code,proofs/snark/code
+End-to-End Framework for Maliciously Secure Threshold Homomorphic Encryption;;;Intak Hwang, Jinyeong Seo;;;2026/3042;;;none;;;2026-11-25;;;proofs,security
+Anamorphism Beyond One-To-One Messaging: PKE with Public-Key Anamorphic Broadcast Encryption;;;Xuan Thanh Do, Gaspard Meunier, Giuseppe Persiano, Duong Hieu Phan, Moti Yung;;;2026/3040;;;none;;;2026-11-25;;;post-quantum,security
+Dovetail: Group-Action Adaptor Signatures via a Heterogeneous Two-Block Construction;;;Kexiang Xiong, Gang Tang, Jie Chen, Debiao He;;;2026/3036;;;none;;;2026-11-25;;;proofs,security
+ClearWater: A Zero-Knowledge Local-Context Hardware IP Watermarking Framework;;;Sakib Anwar Rieyan, Nektarios Georgios Tsoutsos;;;2026/3035;;;none;;;2026-11-25;;;proofs/snark/group
+Bounding the security of the FALCON signature scheme in the quantum random oracle model;;;Kelsey A. Jackson, Carl A. Miller;;;2026/3034;;;none;;;2026-11-25;;;post-quantum,security
+Constant-Size Identity-Based Linkable Ring Signatures from Standard Assumptions;;;Zhi Zhang, Jie Chen, Debiao He;;;2026/3032;;;none;;;2026-11-25;;;security
+(Almost) Tight Bounds for Pairing-Based SNARGs;;;Gal Arnon, Eylon Yogev;;;2026/3031;;;none;;;2026-11-24;;;proofs/pcs/group,proofs/snark/group,security
+De-Folklorizing Paillier-Based VOLE: UC Security and Reusable Keys;;;Yehuda Lindell, Gil Segev;;;2026/3029;;;none;;;2026-11-24;;;security
+Improving Lindell's Two-Party ECDSA: Faster Key Generation and UC Security Without Global Abort;;;Yehuda Lindell, Gil Segev;;;2026/3028;;;none;;;2026-11-24;;;proofs/applications,proofs/pcs/group,proofs/zk-protocols/group,security
+Automated Verification of Glitch- and Transition-Robust Composable Masked Circuits via Logic Simulations;;;Nicolai Müller, Amir Moradi;;;2026/3022;;;none;;;2026-11-24;;;security
+Remote Fault Attacks on PIOP-based Post-Quantum Digital Signatures using Statistical Ineffective Fault Analysis;;;Sönke Jendral, Mona Sobhani, Elena Dubrova;;;2026/3019;;;none;;;2026-11-24;;;post-quantum,proofs/iop
 Merkle Trees Minimize Verifier Complexity in the ROM;;;Miranda Christ, Oliver Korten, Tal Malkin, Noam Mazor, Shyamal Patel;;;2026/3015;;;none;;;2026-11-24;;;proofs/snark/hash,security
 CHARTS: Compute-efficient Homomorphic Anonymous Routing with Tag Sums;;;Anthony Flath, Ke Wu;;;2026/3012;;;none;;;2026-11-23;;;post-quantum,security
 Where on Earth? Zero-Knowledge Proof of Location from a Phone Photograph of the Moon and Stars;;;Pavel Shuvalov;;;2026/3002;;;none;;;2026-11-23;;;proofs/zkvm
